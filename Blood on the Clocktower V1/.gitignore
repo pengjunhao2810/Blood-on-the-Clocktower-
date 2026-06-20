@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 *.pyo
+Thumbs.db
+desktop.ini
 *.egg-info/
 dist/
 build/
