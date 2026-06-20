@@ -4,7 +4,12 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 _werewolf_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '本地训练的ai', 'werewolf_ai'))
 if os.path.isdir(_werewolf_path):
     sys.path.insert(0, _werewolf_path)
-from flask import Flask, jsonify, request, render_template_string, make_response
+from flask import Flask, jsonify, request, render_template_string, make_response, send_file
+from docx import Document
+from docx.shared import Pt, Cm, RGBColor
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+import io
+from datetime import datetime
 from games.blood_on_clocktower.rules import BloodOnClocktowerGame
 from games.blood_on_clocktower.roles import BOTC_ROLES, BOTC_TEAMS
 from core.agent import SocialDeductionAgent
@@ -260,6 +265,7 @@ body { font-family:'Microsoft YaHei',sans-serif; background:#0a0a1a; color:#e0e0
 .btn-step:disabled { opacity:0.4; cursor:not-allowed; transform:none !important; }
 .btn-auto { background:linear-gradient(135deg,#2196F3,#1a88e8); color:#fff; }
 .btn-reset { background:linear-gradient(135deg,#f44336,#d32f2f); color:#fff; }
+.btn-export { background:linear-gradient(135deg,#2196f3,#1565c0); color:#fff; }
 .info-row { display:flex; gap:20px; margin-bottom:16px; flex-wrap:wrap; }
 .info-item { background:#111125; border-radius:8px; padding:10px 18px; color:#aaa; font-size:13px; }
 .info-item span { color:#ffd700; font-weight:bold; }
@@ -416,6 +422,7 @@ body { font-family:'Microsoft YaHei',sans-serif; background:#0a0a1a; color:#e0e0
         <button id="btnStep" class="btn-step" onclick="stepGame()">▶ 下一步</button>
         <button id="btnAuto" class="btn-auto" onclick="toggleAuto()">▶ 自动播放</button>
         <button class="btn-reset" onclick="resetGame()">↻ 新游戏</button>
+        <button class="btn-export" onclick="exportDoc()">📄 导出Word</button>
     </div>
 
     <!-- 主体布局: 日志 | 私聊 | 玩家圆环 -->
@@ -658,6 +665,8 @@ function filterLog(type, btn) {
     if(window._fullLogData) renderLog(window._fullLogData);
 }
 
+function exportDoc() { window.open('/export'); }
+
 function toggleAutoScroll() {
     _autoScroll = document.getElementById('autoScrollToggle').checked;
 }
@@ -773,6 +782,194 @@ def role_data():
         'night_order_first': [{'step': s, 'desc': d} for s, d in NIGHT_ORDER_FIRST],
         'night_order_other': [{'step': s, 'desc': d} for s, d in NIGHT_ORDER_OTHER],
     })
+
+@app.route('/export')
+def export_doc():
+    g = ctrl.game
+    doc = Document()
+    style = doc.styles['Normal']
+    style.font.name = 'Microsoft YaHei'
+    style.font.size = Pt(11)
+    style.paragraph_format.space_after = Pt(4)
+
+    # ── 标题 ──
+    title = doc.add_heading('血染钟楼 游戏记录', level=0)
+    title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    doc.add_paragraph(f'导出时间: {datetime.now().strftime("%Y-%m-%d %H:%M")}').alignment = WD_ALIGN_PARAGRAPH.CENTER
+    doc.add_paragraph('')
+
+    result = g.game_record.get('result', '进行中')
+    winner_map = {'townsfolk_win': '善良阵营 (镇民) 胜利', 'evil_win': '邪恶阵营 (恶魔/爪牙) 胜利',
+                  'good_win': '善良阵营 胜利', 'demon_win': '恶魔 胜利', 'minion_win': '爪牙 胜利'}
+    result_cn = winner_map.get(result, result)
+    doc.add_paragraph(f'游戏结果: {result_cn}').bold = True
+    doc.add_paragraph(f'玩家数量: {ctrl.num_players}  回合数: {g.game_record.get("total_rounds", "?")}')
+    doc.add_paragraph('')
+
+    # ── 玩家名单 ──
+    doc.add_heading('👥 玩家角色一览', level=1)
+    team_cn = {'townsfolk': '镇民', 'outsider': '外来者', 'minion': '爪牙', 'demon': '恶魔'}
+    table = doc.add_table(rows=1, cols=5)
+    table.style = 'Light Grid Accent 1'
+    hdr = table.rows[0].cells
+    for i, txt in enumerate(['玩家', '角色', '阵营', '状态', '首夜信息']):
+        hdr[i].text = txt
+    all_agents = g.registry.all_agents()
+    for a in all_agents:
+        row = table.add_row().cells
+        row[0].text = a.name
+        info = BOTC_ROLES.get(a.role, {})
+        row[1].text = f"{info.get('icon', '?')} {a.role}"
+        row[2].text = team_cn.get(info.get('team', ''), '')
+        row[3].text = '存活' if a.alive else '死亡'
+        known = a.game_state.get('known_info', {})
+        info_parts = []
+        info_map = {
+            'seer': lambda v: f"查验 {v[0]}，{'发现恶魔' if v[1] else '无恶魔'}",
+            'washerwoman': lambda v: f"{v[0]}/{v[1]} 中有一人是 {v[2]}",
+            'librarian': lambda v: f"{v[0]}/{v[1]} 中有一人是 {v[2]}" if v[0] != '无' else "无外来者",
+            'investigator': lambda v: f"{v[0]}/{v[1]} 中有一人是 {v[2]}",
+            'empathy': lambda v: f"邻座有 {v} 个邪恶",
+            'chef': lambda v: f"邪恶相邻数: {v}",
+            'undertaker': lambda v: f"死者身份: {v}",
+            'ravenkeeper': lambda v: f"查看 {v[0]} = {v[1]}",
+            'demon': lambda v: f"恶魔: {v}",
+            'minions': lambda v: f"爪牙: {', '.join(v)}",
+            'master': lambda v: f"主人: {v}",
+        }
+        for k, v in known.items():
+            if k in info_map:
+                info_parts.append(info_map[k](v))
+            elif k == 'fake_roles':
+                info_parts.append(f"可伪装: {', '.join(v)}")
+        drunk = a.game_state.get('fake_role', '')
+        if drunk:
+            info_parts.append(f"(酒鬼)误认为自己是 {drunk}")
+        row[4].text = '；'.join(info_parts) if info_parts else '-'
+    doc.add_paragraph('')
+
+    # ── 整理故事记录 ──
+    raw_log = g.storyteller_log or []
+    day_sections = {}  # day_num -> { 'log': [...], 'nominations': [...], 'votes': [...], 'private_chat': [...] }
+    current_day = 0
+    for line in raw_log:
+        m = __import__('re').match(r'第(\d+)天|========== 第(\d+)晚|第(\d+)日', line)
+        if m:
+            d = next(v for v in m.groups() if v is not None)
+            current_day = int(d)
+        if current_day not in day_sections:
+            day_sections[current_day] = {'log': [], 'night_log': [], 'day_log': []}
+        is_night = '天黑' in line or '夜晚' in line or '==========' in line
+        is_day = '天亮了' in line or '白天' in line or '第' in line and '天' in line
+        day_sections[current_day][('night_log' if is_night else 'day_log') if not ('天亮了' in line or '==========' in line) else 'day_log'].append(line)
+        day_sections[current_day]['log'].append(line)
+
+    # ── 私聊数据按天分类 ──
+    pch = g.game_record.get('private_chat_history', {})
+    chat_by_day = {}
+    for tkey, msgs in pch.items():
+        parts = tkey.split('_', 1)
+        day_label = parts[0]
+        day_num = int(day_label.replace('D', '')) if day_label.startswith('D') else 0
+        chat_by_day.setdefault(day_num, []).append({'key': tkey, 'pair': parts[1] if len(parts) > 1 else tkey, 'messages': msgs})
+
+    # ── 提名&投票数据按天分类 ──
+    nom_hist = g.game_record.get('nomination_history', {})
+    vote_hist = g.game_record.get('vote_history', {})
+
+    # ── 按天输出 ──
+    day_nums = sorted(set(list(day_sections.keys()) + list(chat_by_day.keys())))
+    if not day_nums:
+        day_nums = [0]
+    for day_num in day_nums:
+        if day_num == 0:
+            continue
+        doc.add_heading(f'📅 第 {day_num} 天', level=1)
+
+        # 夜晚部分
+        night_lines = [l for l in raw_log if f'第{day_num}晚' in l or (f'第{day_num}天' not in l and f'第{day_num}' not in l)]
+        if day_num in day_sections:
+            nl = day_sections[day_num].get('night_log', [])
+            if nl:
+                doc.add_heading('🌙 夜晚', level=2)
+                for line in nl:
+                    if '==========' in line:
+                        continue
+                    doc.add_paragraph(line, style='List Bullet')
+
+        # 白天日志
+        if day_num in day_sections:
+            dl = day_sections[day_num].get('day_log', [])
+            if dl:
+                public_lines = [l for l in dl if not l.startswith('  [') and '==========' not in l]
+                if public_lines:
+                    doc.add_heading('💬 公聊', level=2)
+                    for line in public_lines:
+                        if line.strip():
+                            doc.add_paragraph(line, style='List Bullet')
+
+        # 私聊
+        if day_num in chat_by_day:
+            doc.add_heading('🤫 私聊记录', level=2)
+            for thread in chat_by_day[day_num]:
+                p = doc.add_paragraph()
+                run = p.add_run(f'💬 {thread["pair"]}')
+                run.bold = True
+                for msg in thread['messages']:
+                    doc.add_paragraph(f'  {msg.get("speaker", "?")} → {msg.get("listener", "?")}: {msg.get("text", "")}')
+
+        # 提名与投票
+        day_key = f'day_{day_num}'
+        has_nom = day_key in nom_hist and nom_hist[day_key]
+        has_vote = day_key in vote_hist and vote_hist[day_key]
+        if has_nom or has_vote:
+            doc.add_heading('🗳️ 提名与投票', level=2)
+            if has_nom:
+                ntable = doc.add_table(rows=1, cols=4)
+                ntable.style = 'Light Grid Accent 1'
+                for i, txt in enumerate(['提名者', '被提名者', '结果', '演说辞']):
+                    ntable.rows[0].cells[i].text = txt
+                for n in nom_hist[day_key]:
+                    row = ntable.add_row().cells
+                    row[0].text = n.get('nominator', '')
+                    row[1].text = n.get('target', '')
+                    r = n.get('result', '')
+                    row[2].text = '🔴 被处决' if r == 'executed' else '🟢 未被处决'
+                    speeches = []
+                    if n.get('nominator_speech'):
+                        speeches.append(f"提名: {n['nominator_speech']}")
+                    if n.get('defense_speech'):
+                        speeches.append(f"辩护: {n['defense_speech']}")
+                    row[3].text = '\n'.join(speeches) if speeches else '-'
+            if has_vote:
+                doc.add_paragraph('')
+                vt = doc.add_table(rows=1, cols=4)
+                vt.style = 'Light Grid Accent 1'
+                for i, txt in enumerate(['投票者', '投票对象', '关联提名', '备注']):
+                    vt.rows[0].cells[i].text = txt
+                for v in vote_hist[day_key]:
+                    row = vt.add_row().cells
+                    row[0].text = v.get('voter', '')
+                    row[1].text = v.get('target', '')
+                    # 查找关联的提名结果
+                    related = [n for n in nom_hist.get(day_key, []) if n.get('target') == v.get('target')]
+                    row[2].text = related[0].get('nominator', '?') if related else '?'
+                    row[3].text = '处决' if related and related[0].get('result') == 'executed' else '-'
+
+    # ── 游戏结果页 ──
+    doc.add_page_break()
+    doc.add_heading('🏆 游戏结果', level=1)
+    doc.add_paragraph(f'结果: {result_cn}')
+    doc.add_paragraph(f'总回合: {g.game_record.get("total_rounds", "?")}')
+    survivors = [a.name for a in all_agents if a.alive]
+    doc.add_paragraph(f'幸存者: {", ".join(survivors) if survivors else "无 (全灭)"}')
+
+    buf = io.BytesIO()
+    doc.save(buf)
+    buf.seek(0)
+    ts = datetime.now().strftime('%Y%m%d_%H%M%S')
+    return send_file(buf, as_attachment=True, download_name=f'血染钟楼_游戏记录_{ts}.docx',
+                     mimetype='application/vnd.openxmlformats-officedocument.wordprocessingml.document')
 
 @app.route('/private_chat')
 def private_chat():
