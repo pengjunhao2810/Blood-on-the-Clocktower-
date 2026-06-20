@@ -1,9 +1,5 @@
 __pycache__/
 *.pyc
 *.pyo
-*.egg-info/
-dist/
-build/
-.vscode/
-.idea/
-*.log
+Thumbs.db
+desktop.ini
