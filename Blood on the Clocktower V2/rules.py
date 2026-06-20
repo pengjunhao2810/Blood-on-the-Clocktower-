@@ -211,6 +211,7 @@ class BloodOnClocktowerGame(GameManager):
         else:
             self.peaceful_night = True
 
+        self._record_night_info()
         self._check_game_end()
 
     def _first_night_information(self):
@@ -2660,7 +2661,8 @@ class BloodOnClocktowerGame(GameManager):
                         self.dead_players.append(nominator)
                         self.executed_today = True
                         self.log(f"  [贞洁者] {target}是贞洁者! 提名者{nominator}被当作镇民, 被立即处决!")
-                        self._check_game_end()
+        self._record_night_info()
+        self._check_game_end()
                         if self.game_record.get('result'):
                             return
                         continue
@@ -2857,6 +2859,38 @@ class BloodOnClocktowerGame(GameManager):
         sw.game_state["known_info"]["minions"] = remaining_minions
         self.log(f"\n  [红唇女郎] 恶魔死亡! {sw.name}变成新恶魔!(存活{alive_count}人>=5)")
         return True
+
+    def _record_night_info(self):
+        """每夜结束后记录所有玩家获得的夜间信息到night_info_history"""
+        if "night_info_history" not in self.game_record:
+            self.game_record["night_info_history"] = {}
+        day_key = f"day_{self.day_count}"
+        if day_key not in self.game_record["night_info_history"]:
+            self.game_record["night_info_history"][day_key] = {}
+        info_map = {
+            'seer': lambda v: f"查验 {v[0]}，{'发现恶魔' if v[1] else '无恶魔'}",
+            'washerwoman': lambda v: f"{v[0]} 和 {v[1]} 中有一人是 {v[2]}",
+            'librarian': lambda v: f"{v[0]} 和 {v[1]} 中有一人是 {v[2]}" if v[0] != '无' else "无外来者",
+            'investigator': lambda v: f"{v[0]} 和 {v[1]} 中有一人是 {v[2]}",
+            'empathy': lambda v: f"左右邻居中有 {v} 个邪恶玩家",
+            'chef': lambda v: f"有 {v} 对相邻的邪恶玩家",
+            'undertaker': lambda v: f"被处决者身份是 {v}",
+            'ravenkeeper': lambda v: f"查看了 {v[0]}，身份是 {v[1]}",
+        }
+        for a in self.registry.all_agents():
+            known = a.game_state.get('known_info', {})
+            all_keys = list(info_map.keys())
+            for k in all_keys:
+                if k in known:
+                    text = info_map.get(k, lambda v: str(v))(known[k])
+                    if a.name not in self.game_record["night_info_history"][day_key]:
+                        self.game_record["night_info_history"][day_key][a.name] = []
+                    # 避免重复记录（同一个key同一天）
+                    existing = [e for e in self.game_record["night_info_history"][day_key][a.name] if e['key'] == k]
+                    if not existing:
+                        self.game_record["night_info_history"][day_key][a.name].append({
+                            'key': k, 'text': text, 'day': self.day_count
+                        })
 
     def _check_game_end(self, check_mayor=False):
         """官方胜利条件判定

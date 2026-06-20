@@ -197,26 +197,39 @@ class GameController:
             12: {"townsfolk": 7, "outsider": 2, "minion": 2, "demon": 1},
         }
 
-        # 过滤说书人日志中玩家不该看到的敏感信息
+        # 构建公开日志（过滤敏感夜间信息，仅保留公共可见内容）
         raw_log = g.storyteller_log[-200:] if g.storyteller_log else []
         filtered_log = []
         import re as _re
-        _sensitive_patterns = [
-            _re.compile(r'是酒鬼'),           # 酒鬼身份暴露
-            _re.compile(r'\[.+] 玩家\d+得知'),  # 信息角色得知内容
-            _re.compile(r'\(爪牙\)得知'),       # 爪牙指认
-            _re.compile(r'\(恶魔\)得知'),       # 恶魔指认
-            _re.compile(r'首夜信息分发'),       # 首夜信息头部
-            _re.compile(r'唤醒爪牙'),          # 爪牙唤醒
-            _re.compile(r'唤醒恶魔'),          # 恶魔唤醒
-            _re.compile(r'干扰项'),            # 占卜师干扰项
+        _public_keep = [
+            _re.compile(r'^={10,}'),           # 分隔线
+            _re.compile(r'昨晚死亡|平安夜'),     # 死亡公告
+            _re.compile(r'公聊环节|私聊环节'),    # 阶段标记
+            _re.compile(r'^  [^\[(]+:'),        # 公聊发言（玩家名: 内容，排除角色分配行）
+            _re.compile(r'\[投票\]|\[计票\]'),         # 投票信息（不含投票详情，含阵营信息）
+            _re.compile(r'被处决|未被处决'),     # 处决结果
+            _re.compile(r'发起提名|提名.*辩护'),  # 提名
+            _re.compile(r'\[猎手\]'),            # 猎手开枪（公开事件）
+            _re.compile(r'\[小丑\]|\[圣徒\]'),    # 特殊角色公开触发
+            _re.compile(r'\[设置\]|\[ML训练\]'), # 设置信息
+            _re.compile(r'游戏结束|胜利|落败'),   # 游戏结果
+            _re.compile(r'^---'),               # 阶段分隔符
+        ]
+        _sensitive_lines = [
+            _re.compile(r'\(恶魔\)$'),   # 角色分配行: "  玩家名: 角色 (恶魔)"
+            _re.compile(r'\(爪牙\)$'),
+            _re.compile(r'\(镇民\)$'),
+            _re.compile(r'\(外来者\)$'),
+            _re.compile(r'\(间谍\)查看到全角色'),
+            _re.compile(r'\(恶魔\)已知爪牙'),
+            _re.compile(r'可伪装角色'),
+            _re.compile(r'投票详情:'),                 # 投票详情含玩家阵营
         ]
         for line in raw_log:
-            is_sensitive = any(p.search(line) for p in _sensitive_patterns)
-            # 保留阶段标记和公共信息（死亡、投票、处决等）
-            if is_sensitive:
+            if any(p.search(line) for p in _sensitive_lines):
                 continue
-            filtered_log.append(line)
+            if any(p.search(line) for p in _public_keep):
+                filtered_log.append(line)
 
         return {
             'phase_name': pn, 'phase_desc': pd, 'raw_phase': raw,
@@ -747,6 +760,23 @@ def storyteller_info():
                 info_items.append({'key': 'master', 'text': f'我的主人是 {v}'})
             elif k == 'fake_roles':
                 info_items.append({'key': 'fake_roles', 'text': f'可伪装角色: {", ".join(v)}'})
+        # 合并夜间信息历史（按天显示）
+        nih = g.game_record.get("night_info_history", {})
+        history_items = []
+        for day_key in sorted(nih.keys(), key=lambda x: int(x.replace('day_', ''))):
+            if a.name in nih[day_key]:
+                for entry in nih[day_key][a.name]:
+                    history_items.append({
+                        'key': entry['key'],
+                        'text': f"(第{entry['day']}天) {entry['text']}",
+                    })
+        # 合并免重
+        seen_texts = set()
+        merged = []
+        for item in info_items + history_items:
+            if item['text'] not in seen_texts:
+                seen_texts.add(item['text'])
+                merged.append(item)
         players_info.append({
             'name': a.name,
             'role': a.role,
@@ -755,7 +785,7 @@ def storyteller_info():
             'team_cn': team_cn.get(info.get('team', ''), ''),
             'alive': a.alive,
             'fake_role': a.game_state.get('fake_role', ''),
-            'info': info_items,
+            'info': merged,
         })
     return jsonify({'players': players_info})
 
