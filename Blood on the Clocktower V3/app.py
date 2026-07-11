@@ -1,5 +1,9 @@
 import sys, os, json
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+# 添加 werewolf_ai 路径以便导入 games.blood_on_clocktower 包
+_werewolf_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '本地训练的ai', 'werewolf_ai'))
+if os.path.isdir(_werewolf_path):
+    sys.path.insert(0, _werewolf_path)
 from flask import Flask, jsonify, request, render_template_string, make_response, send_file
 from docx import Document
 from docx.shared import Pt, Cm, RGBColor
@@ -255,52 +259,54 @@ HTML = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>血染钟楼 - 私聊对话框</title>
+<title>血染钟楼 · 魔典</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
 <style>
 * { margin:0; padding:0; box-sizing:border-box; }
-body { font-family:'Microsoft YaHei',sans-serif; background:#0a0a1a; color:#e0e0e0; min-height:100vh; overflow-x:hidden; }
-.header { background:linear-gradient(135deg,#1a1a3e,#0d0d2a); padding:18px 30px; display:flex; justify-content:space-between; align-items:center; border-bottom:2px solid #ffd70033; }
-.header h1 { color:#ffd700; font-size:22px; letter-spacing:2px; }
-.header .info { color:#888; font-size:13px; }
-.header .info span { color:#ffd700; }
-.container { max-width:1200px; margin:0 auto; padding:20px; }
-.phase-bar { background:linear-gradient(135deg,#1a1a3e,#2a1a3e); border:1px solid #ffd70044; border-radius:12px; padding:14px 20px; margin-bottom:16px; display:flex; justify-content:space-between; align-items:center; }
-.phase-bar .phase-name { color:#ffd700; font-size:20px; font-weight:bold; }
-.phase-bar .phase-desc { color:#aaa; font-size:13px; margin-top:4px; }
-.phase-bar .round { color:#888; font-size:14px; }
-.phase-bar .round span { color:#4CAF50; font-weight:bold; }
-.controls { display:flex; gap:10px; margin-bottom:16px; flex-wrap:wrap; }
-.controls button { padding:12px 28px; border:none; border-radius:8px; font-size:15px; font-weight:bold; cursor:pointer; transition:all .2s; }
-.controls button:hover { transform:translateY(-2px); box-shadow:0 4px 15px rgba(0,0,0,.4); }
-.btn-step { background:linear-gradient(135deg,#4CAF50,#45a049); color:#fff; }
+body { font-family:'Roboto Condensed','Microsoft YaHei',sans-serif; background:#0a0a0f; color:#d0d0d0; min-height:100vh; overflow-x:hidden; }
+.header { background:linear-gradient(180deg,#1a0000,#0a0a0f); padding:14px 30px; display:flex; justify-content:space-between; align-items:center; border-bottom:2px solid #cc000044; }
+.header h1 { color:#cc0000; font-size:22px; letter-spacing:3px; text-transform:uppercase; font-weight:300; }
+.header h1 span { color:#fff; font-weight:700; }
+.header .info { color:#888; font-size:12px; }
+.header .info span { color:#cc0000; }
+.container { max-width:1200px; margin:0 auto; padding:16px; }
+.phase-bar { background:linear-gradient(135deg,#1a0000,#0a0000); border:1px solid #cc000044; border-radius:8px; padding:10px 20px; margin-bottom:12px; display:flex; justify-content:space-between; align-items:center; }
+.phase-bar .phase-name { color:#cc0000; font-size:18px; font-weight:bold; text-transform:uppercase; letter-spacing:2px; }
+.phase-bar .phase-desc { color:#888; font-size:12px; margin-top:2px; }
+.phase-bar .round { color:#666; font-size:13px; }
+.phase-bar .round span { color:#cc0000; font-weight:bold; }
+.controls { display:flex; gap:8px; margin-bottom:12px; flex-wrap:wrap; }
+.controls button { padding:10px 24px; border:none; border-radius:4px; font-size:14px; font-weight:bold; cursor:pointer; transition:all .2s; font-family:'Roboto Condensed',sans-serif; text-transform:uppercase; letter-spacing:1px; }
+.controls button:hover { transform:translateY(-1px); box-shadow:0 2px 10px rgba(0,0,0,.5); }
+.btn-step { background:#cc0000; color:#fff; }
 .btn-step:disabled { opacity:0.4; cursor:not-allowed; transform:none !important; }
-.btn-auto { background:linear-gradient(135deg,#2196F3,#1a88e8); color:#fff; }
-.btn-reset { background:linear-gradient(135deg,#f44336,#d32f2f); color:#fff; }
-.btn-export { background:linear-gradient(135deg,#2196f3,#1565c0); color:#fff; }
-.info-row { display:flex; gap:20px; margin-bottom:16px; flex-wrap:wrap; }
-.info-item { background:#111125; border-radius:8px; padding:10px 18px; color:#aaa; font-size:13px; }
-.info-item span { color:#ffd700; font-weight:bold; }
-/* ============ 玩家圆形排列(最右侧) ============ */
-.circle-container { position:relative; width:100%; max-width:650px; margin:0 auto; aspect-ratio:1/1; }
-.player-card { position:absolute; width:100px; height:100px; transform:translate(-50%,-50%); cursor:pointer; transition:all .3s; z-index:1; }
-.player-card:hover { z-index:10; }
+.btn-auto { background:#333; color:#ccc; }
+.btn-reset { background:#cc0000; color:#fff; }
+.btn-export { background:#333; color:#ccc; }
+.info-row { display:flex; gap:16px; margin-bottom:12px; flex-wrap:wrap; }
+.info-item { background:#111; border:1px solid #cc000022; border-radius:4px; padding:8px 16px; color:#888; font-size:12px; }
+.info-item span { color:#cc0000; font-weight:bold; }
+/* ============ 玩家圆形排列(魔典风格) ============ */
+.circle-container { position:relative; width:100%; max-width:700px; margin:0 auto; aspect-ratio:1/1; }
+.player-card { position:absolute; width:90px; height:90px; transform:translate(-50%,-50%); cursor:pointer; transition:all .3s; z-index:1; }
+.player-card:hover { z-index:10; transform:translate(-50%,-50%) scale(1.3); }
 .player-card.zoomed { transform:translate(-50%,-50%) scale(2.2); z-index:100; }
-.player-card.zoomed ~.player-card { opacity:0.15; }
-.player-card .circle-bg { width:100%; height:100%; border-radius:50%; background:linear-gradient(135deg,#1a1a3e,#15152e); border:3px solid #444; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; overflow:hidden; padding:4px; transition:all .3s; }
-.player-card.alive .circle-bg { border-color:#4CAF50; box-shadow:0 0 10px rgba(76,175,80,.3); }
-.player-card.dead .circle-bg { border-color:#666; opacity:.4; }
-.player-card .icon { font-size:24px; line-height:1; }
-.player-card .name { font-size:11px; font-weight:bold; margin:2px 0 0; line-height:1.1; }
-.player-card .role { font-size:9px; padding:1px 6px; border-radius:8px; display:inline-block; margin-top:1px; white-space:nowrap; }
-.player-card .role.townsfolk { background:#4a90d944; color:#7ab8ff; }
-.player-card .role.outsider { background:#7b68ee44; color:#a89bff; }
-.player-card .role.minion { background:#d94a4a44; color:#ff7a7a; }
-.player-card .role.demon { background:#ff444444; color:#ff8888; }
-.player-card .status { font-size:8px; padding:0 5px; border-radius:6px; margin-top:1px; }
-.player-card .status.alive { background:#4CAF5022; color:#8BC34A; }
-.player-card .status.dead { background:#66666622; color:#999; }
-.player-card .poisoned { position:absolute; top:-4px; right:-4px; background:#9C27B0; color:#fff; font-size:9px; width:20px; height:20px; border-radius:50%; display:flex; align-items:center; justify-content:center; z-index:2; }
-.player-card .icon-belief { font-size:10px; opacity:0.6; }
+.player-card.zoomed ~.player-card { opacity:0.1; }
+.player-card .circle-bg { width:100%; height:100%; border-radius:50%; background:linear-gradient(135deg,#111,#0a0a0a); border:3px solid #333; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; overflow:hidden; padding:4px; transition:all .3s; }
+.player-card.alive .circle-bg { border-color:#444; box-shadow:0 0 6px rgba(204,0,0,.15); }
+.player-card.dead .circle-bg { border-color:#333; opacity:.35; }
+.player-card.dead .circle-bg::after { content:'✕'; position:absolute; font-size:40px; color:#cc0000; opacity:.8; }
+.player-card .icon { font-size:22px; line-height:1; }
+.player-card .name { font-size:10px; font-weight:bold; margin:1px 0 0; line-height:1.1; }
+.player-card .role { font-size:8px; padding:1px 5px; border-radius:4px; display:inline-block; margin-top:1px; white-space:nowrap; }
+.player-card .role.townsfolk { background:#1a3a5c; color:#5c9ce0; }
+.player-card .role.outsider { background:#3a1a5c; color:#9c5ce0; }
+.player-card .role.minion { background:#5c1a1a; color:#e05c5c; }
+.player-card .role.demon { background:#5c0000; color:#ff4444; }
+.player-card .status { font-size:8px; padding:0 4px; border-radius:3px; margin-top:1px; }
+.player-card .status.alive { color:#444; }
+.player-card .status.dead { color:#cc0000; }
+.player-card .poisoned { position:absolute; top:-3px; right:-3px; background:#cc0000; color:#fff; font-size:8px; width:18px; height:18px; border-radius:50%; display:flex; align-items:center; justify-content:center; z-index:2; }
 
 /* ============ 双栏布局: 日志 | 玩家圆环 ============ */
 .main-layout { display:grid; grid-template-columns:1.1fr 1fr; gap:14px; align-items:start; min-height:calc(100vh - 200px); }
@@ -315,38 +321,38 @@ body { font-family:'Microsoft YaHei',sans-serif; background:#0a0a1a; color:#e0e0
 .setup-info .si-role { color:#7ab8ff; }
 .setup-info .si-truth { color:#ff7a7a; }
 
-/* ============ 日志(左) ============ */
-.log-box { background:#0d0d1a; border:1px solid #222; border-radius:10px; display:flex; flex-direction:column; max-height:calc(100vh - 140px); padding:8px 10px; }
-.log-box .log-title { color:#888; font-size:12px; margin-bottom:4px; padding-bottom:4px; border-bottom:1px solid #1a1a2e; display:flex; align-items:center; justify-content:space-between; flex-shrink:0; }
-.log-box .log-title .log-controls label { font-size:11px; color:#555; cursor:pointer; display:flex; align-items:center; gap:2px; user-select:none; }
-.log-box .log-title .log-controls input[type=checkbox] { accent-color:#ffd700; cursor:pointer; }
-.log-filter { display:flex; gap:3px; margin-bottom:4px; flex-wrap:wrap; flex-shrink:0; }
-.log-filter button { background:#1a1a2e; border:1px solid #333; color:#888; font-size:10px; padding:2px 8px; border-radius:10px; cursor:pointer; }
-.log-filter button:hover { background:#2a2a4e; color:#ccc; }
-.log-filter button.active { background:#ffd70022; border-color:#ffd70066; color:#ffd700; font-weight:bold; }
+/* ============ 日志(左) - 魔典暗色 ============ */
+.log-box { background:#050508; border:1px solid #1a1a1a; border-radius:4px; display:flex; flex-direction:column; max-height:calc(100vh - 140px); padding:6px 8px; }
+.log-box .log-title { color:#666; font-size:11px; margin-bottom:3px; padding-bottom:3px; border-bottom:1px solid #1a1a1a; display:flex; align-items:center; justify-content:space-between; flex-shrink:0; }
+.log-box .log-title .log-controls label { font-size:10px; color:#555; cursor:pointer; display:flex; align-items:center; gap:2px; user-select:none; }
+.log-box .log-title .log-controls input[type=checkbox] { accent-color:#cc0000; cursor:pointer; }
+.log-filter { display:flex; gap:2px; margin-bottom:3px; flex-wrap:wrap; flex-shrink:0; }
+.log-filter button { background:#111; border:1px solid #222; color:#666; font-size:9px; padding:1px 6px; border-radius:3px; cursor:pointer; }
+.log-filter button:hover { background:#1a1a1a; color:#aaa; }
+.log-filter button.active { background:#cc000022; border-color:#cc000044; color:#cc0000; }
 .log-box .log-entries { overflow-y:auto; flex:1; }
-.log-box .log-entry { padding:2px 6px; font-size:12px; line-height:1.4; border-radius:2px; }
+.log-box .log-entry { padding:1px 5px; font-size:11px; line-height:1.4; border-radius:1px; }
 .log-box .log-entry.hidden { display:none; }
-.log-box .log-entry.entry-phase { color:#ffd700; font-weight:bold; background:rgba(255,215,0,.06); border-left:2px solid #ffd700; }
-.log-box .log-entry.entry-night { color:#b388ff; background:rgba(179,136,255,.08); border-left:2px solid #b388ff; }
-.log-box .log-entry.entry-day { color:#ffeb3b; background:rgba(255,235,59,.06); border-left:2px solid #ffeb3b; }
-.log-box .log-entry.entry-death { color:#ff5252; background:rgba(255,82,82,.08); border-left:2px solid #ff5252; }
-.log-box .log-entry.entry-chat { color:#80d8ff; background:rgba(128,216,255,.06); border-left:2px solid #80d8ff; }
-.log-box .log-entry.entry-vote { color:#ffab40; background:rgba(255,171,64,.06); border-left:2px solid #ffab40; }
-.log-box .log-entry.entry-action { color:#69f0ae; background:rgba(105,240,174,.05); border-left:2px solid #69f0ae; }
-.log-box .log-entry.entry-result { color:#ffd700; background:rgba(255,215,0,.1); border-left:2px solid #ffd700; font-weight:bold; }
-.log-box .log-entry.entry-system { color:#999; }
+.log-box .log-entry.entry-phase { color:#cc0000; font-weight:bold; background:rgba(204,0,0,.06); border-left:2px solid #cc0000; }
+.log-box .log-entry.entry-night { color:#888; background:rgba(255,255,255,.04); border-left:2px solid #555; }
+.log-box .log-entry.entry-day { color:#ccc; background:rgba(255,255,255,.03); border-left:2px solid #666; }
+.log-box .log-entry.entry-death { color:#ff4444; background:rgba(255,0,0,.06); border-left:2px solid #cc0000; }
+.log-box .log-entry.entry-chat { color:#aaa; background:rgba(255,255,255,.02); border-left:2px solid #444; }
+.log-box .log-entry.entry-vote { color:#cc8833; background:rgba(204,136,51,.06); border-left:2px solid #cc8833; }
+.log-box .log-entry.entry-action { color:#888; background:rgba(255,255,255,.03); border-left:2px solid #555; }
+.log-box .log-entry.entry-result { color:#cc0000; background:rgba(204,0,0,.1); border-left:2px solid #cc0000; font-weight:bold; }
+.log-box .log-entry.entry-system { color:#555; }
 
 .right-panel { min-width:0; }
 
-.overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,.85); z-index:1000; justify-content:center; align-items:center; }
+.overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,.9); z-index:1000; justify-content:center; align-items:center; }
 .overlay.show { display:flex; }
-.overlay .result-box { background:linear-gradient(135deg,#1a1a3e,#2a1a3e); border:2px solid #ffd700; border-radius:20px; padding:40px; text-align:center; max-width:450px; }
-.overlay .result-box h2 { font-size:32px; margin-bottom:12px; }
-.overlay .result-box .good { color:#4CAF50; }
-.overlay .result-box .evil { color:#f44336; }
-.overlay .result-box p { color:#aaa; font-size:15px; margin-bottom:20px; }
-.overlay .result-box button { padding:12px 40px; border:none; border-radius:8px; background:#ffd700; color:#000; font-weight:bold; font-size:15px; cursor:pointer; }
+.overlay .result-box { background:#0a0a0a; border:2px solid #cc0000; border-radius:4px; padding:40px; text-align:center; max-width:450px; }
+.overlay .result-box h2 { font-size:28px; margin-bottom:12px; text-transform:uppercase; letter-spacing:2px; }
+.overlay .result-box .good { color:#ccc; }
+.overlay .result-box .evil { color:#cc0000; }
+.overlay .result-box p { color:#888; font-size:14px; margin-bottom:20px; }
+.overlay .result-box button { padding:12px 40px; border:none; border-radius:4px; background:#cc0000; color:#fff; font-weight:bold; font-size:14px; cursor:pointer; text-transform:uppercase; letter-spacing:1px; }
 
 @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.5} }
 .playing .phase-name { animation:pulse 1.5s infinite; }
