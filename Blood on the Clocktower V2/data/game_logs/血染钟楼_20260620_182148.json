@@ -1,0 +1,1988 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T18:21:48.643882",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "我新手不太懂，good name你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "观察大美的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "我不太确定，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "我跟你们说啊，我盘了一下大美的时间线：他先说自己是镇长，但在被质疑后又改口说'可能看错了'。一个真正的镇长不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "对比了几个人的发言，大美是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大吴吴",
+          "action": "大家怎么看，你好大吴吴，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊瑜瑜",
+          "action": "观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大吴吴",
+          "action": "我想问问，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊瑜瑜",
+          "action": "我直接说了，综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大吴吴",
+          "action": "我新手不太懂，我的笔记里记了几件事：我最怀疑good name；瑜瑜自称镇长。结合你的信息来看，你觉得我是不是多疑了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊瑜瑜",
+          "action": "别绕弯子，我盘了一下good name的时间线：他先说自己是镇长，但在被质疑后又改口说'可能看错了'！一个真正的镇长不可能看错自己的技能结果——他在临时编词！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大美",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊瑜瑜",
+          "action": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我good name有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大美",
+          "action": "我们来盘一下目前的局势。瑜瑜自称镇长里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊瑜瑜",
+          "action": "我不太信good name。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大美",
+          "action": "你刚才提到我不太信good name。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正，这一点我也注意到了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊瑜瑜",
+          "action": "我盘了一下good name的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大美",
+          "action": "我敢肯定，你好大美，我是贞洁者。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看good name这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊when？",
+          "action": "我注意到good name的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人哦呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大美",
+          "action": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊when？",
+          "action": "综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大美",
+          "action": "我敢肯定，我的贞洁者技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊when？",
+          "action": "观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊good name",
+          "action": "别绕弯子，嘿good name，我是贞洁者！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊when？",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我大美有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊good name",
+          "action": "明摆着的事，我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊when？",
+          "action": "这个事情是这样的，综合观察下来，大美的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊good name",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得good name的问题很大！你看了吗？他的投票明显不对劲！你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊when？",
+          "action": "我注意到大美的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大吴吴",
+          "action": "明摆着的事，嗨大吴吴，我是贞洁者！我觉得我们需要多交流，信息共享才能赢！你先说说你的想法！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊when？",
+          "action": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大吴吴",
+          "action": "明摆着的事，你有没有注意到good name和good name的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊when？",
+          "action": "别绕弯子，我注意到good name的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大吴吴",
+          "action": "我直接说了，明摆着的事，我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊when？",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我good name有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我觉得吧，刚才你说的你的发言，我也想聊聊这个话题。我的看法是大美确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "明摆着的事，我不太信good name！他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我不太信大美。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "综合观察下来，大美的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "我直接说了，观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题！这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊欧拉函数",
+          "action": "大家怎么看，你好欧拉函数，我是管家。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大美",
+          "action": "我不太信good name。他的管家声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了哦吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊欧拉函数",
+          "action": "我想问问，对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大美",
+          "action": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我good name有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊欧拉函数",
+          "action": "我盘了一下good name的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大美",
+          "action": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊欧拉函数",
+          "action": "我直接说了，嘿欧拉函数，我是共情者。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊云面包",
+          "action": "我的天，综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊欧拉函数",
+          "action": "我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊云面包",
+          "action": "观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊欧拉函数",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得good name的问题很大！你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊云面包",
+          "action": "这个事情是这样的，我盘了一下good name的时间线：他先说自己是共情者，但在被质疑后又改口说'可能看错了'。一个真正的共情者不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['good name', '大美', '瑜瑜', '大吴吴', 'when？', '云面包', '欧拉函数']",
+          "action": "good name: 我来盘一下目前的局面。暂时没有关键信息。瑜瑜自称镇长，when？自称贞洁者，。。综合这些，我倾向大美有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['good name', '大美', '瑜瑜', '大吴吴', 'when？', '云面包', '欧拉函数']",
+          "action": "大美: 我想问问，现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前when？自称贞洁者，而投票记录显示。。这些线索综合来看，我的我会重点观察good name。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['good name', '大美', '瑜瑜', '大吴吴', 'when？', '云面包', '欧拉函数']",
+          "action": "瑜瑜: 我新手不太懂，大家好，我是镇长。我来整合一下当前的信息：。。我的建议是今天集中处决good name，理由有三：第一，中的声明矛盾指向他；第二，显示他的投票异常；第三，某人。请各位统一票型，分散投票只会帮邪恶。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['good name', '大美', '瑜瑜', '大吴吴', 'when？', '云面包', '欧拉函数']",
+          "action": "大吴吴: 大家好，我是僧侣。我来分析一下目前的局势：暂时没有关键信息。。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察good name。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['good name', '大美', '瑜瑜', '大吴吴', 'when？', '云面包', '欧拉函数']",
+          "action": "when？: 我说句不好听的：现在保good name的人，要么是瞎，要么就是他的同伙！投票记录是死的，不会撒谎！今天出good name，谁反对谁就有问题！本局应该有2个外来者，但只有0个人认领！欧拉函数一直不报身份，很可能就是隐藏的外来者或者更糟——邪恶在冒充镇民！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['good name', '大美', '瑜瑜', '大吴吴', 'when？', '云面包', '欧拉函数']",
+          "action": "云面包: 我倒不是要直接锤死good name，但我建议大家对比一下good name和大吴吴的发言——两个人的口径过于一致了！正常的好人不会这么'默契'！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['good name', '大美', '瑜瑜', '大吴吴', 'when？', '云面包', '欧拉函数']",
+          "action": "欧拉函数: 真的假的？！，根据我的记录：我最怀疑good name；云面包自称共情者；瑜瑜自称镇长；大吴吴自称僧侣。。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "提名good name",
+          "action": "我提名good name。理由如下：第一，他的声明某人有问题；第二，显示他的投票异常；第三，when？自称贞洁者，大美自称管家，瑜瑜自称镇长，大吴吴自称僧侣里面有矛盾指向他。请大家投票处决嘛。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被大美提名",
+          "action": "请大家冷静。大美的指控有几个漏洞：第一，他说的证据根本不存在；第二，他自己的某人声明本身就疑点重重；第三，里他自己的投票也很奇怪。与其处决我，不如先查查大美自己。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "提名大美",
+          "action": "我提名大美。理由如下：第一，他的声明某人有问题；第二，大吴吴投了good name，when？投了good name，云面包投了good name显示他的投票异常；第三，瑜瑜自称镇长，大吴吴自称僧侣里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "被瑜瑜提名",
+          "action": "我是管家，虽然能力有限但我始终站在好人这边。瑜瑜的信息和推理明显有漏洞——大家仔细想想，他说的那些真的站得住脚吗呢。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "大美被处决",
+          "action": "处决大美",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "云面包",
+          "context": "恶魔自杀",
+          "action": "自杀传位给when？",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "私聊瑜瑜",
+          "action": "我直接说了，嘿瑜瑜，我是贞洁者！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊when？",
+          "action": "我想问问，观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊瑜瑜",
+          "action": "我直接说了，你有没有注意到大吴吴和大吴吴的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊when？",
+          "action": "可能是我理解错了，可能是我理解错了，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊瑜瑜",
+          "action": "我敢肯定，我跟你透露一个事：大吴吴跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊when？",
+          "action": "我越来越觉得大吴吴有问题。理由是：他的声明是贞洁者，但他的when？投了good name，when？投了大美，瑜瑜投了大美完全不符合这个身份的行为模式。一个真正的贞洁者不会这样投票。你分析一下是不是这个理哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊good name",
+          "action": "别绕弯子，我想听听你对大吴吴的看法。你觉得他可信吗？从我的视角看，他的身份不明声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊when？",
+          "action": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的when？投了good name，when？投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊good name",
+          "action": "我直接说了，你觉得今天应该出谁？我还没完全决定，但我倾向于大吴吴——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊when？",
+          "action": "瑜瑜，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊good name",
+          "action": "别绕弯子，你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰！我个人目前最怀疑大吴吴！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊when？",
+          "action": "我觉得吧，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破哦吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊欧拉函数",
+          "action": "明摆着的事，欧拉函数，想跟你对一下信息。我贞洁者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊when？",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：when？投了good name，when？投了大美里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊欧拉函数",
+          "action": "我复盘了一下大吴吴的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊when？",
+          "action": "我的天，这个事情是这样的，我们来盘一下目前的局势。大美自称管家，云面包自称共情者，瑜瑜自称镇长，大吴吴自称僧侣里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊欧拉函数",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大吴吴的问题很大。when？投了good name，when？投了大美你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊when？",
+          "action": "我觉得吧，观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "good name，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我瑜瑜有问题。理由：大吴吴投了good name，大吴吴投了大美里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "我在想good name的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "我盘了一下瑜瑜的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "这个事情是这样的，你刚才提到我盘了一下瑜瑜的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "我注意到瑜瑜的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊瑜瑜",
+          "action": "good name，你的镇长声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说镇长的时候和现在的说法有出入，你能解释一下吗？第三，你的瑜瑜投了大美为什么会这样投？请正面回答，不要转移话题吧啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊欧拉函数",
+          "action": "可能是我理解错了，我们来盘一下目前的局势。瑜瑜自称镇长，大吴吴自称僧侣，when？。自称贞洁者里面有几个矛盾点特别值得关注。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊瑜瑜",
+          "action": "我的笔记里记了几件事：我最怀疑云面包（昨天记的：瑜瑜自称镇长；大吴吴自称僧侣）。结合你的信息来看，你觉得我是不是多疑了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊欧拉函数",
+          "action": "我想问问，我的笔记里记了几件事：when？自称贞洁者；我最怀疑大吴吴（昨天记的：我最怀疑good name；瑜瑜自称镇长）。结合你的信息来看，你觉得我是不是多疑了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊瑜瑜",
+          "action": "我越来越觉得good name有问题。理由是：他的声明是镇长，但他的瑜瑜投了大美完全不符合这个身份的行为模式。一个真正的镇长不会这样投票。你分析一下是不是这个理啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊欧拉函数",
+          "action": "我新手不太懂，可能是我理解错了，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大吴吴",
+          "action": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊瑜瑜",
+          "action": "明摆着的事，我直接说了，瑜瑜，我现在公开质疑你！如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大吴吴",
+          "action": "我新手不太懂，我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，瑜瑜投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊瑜瑜",
+          "action": "我敢肯定，我忍你很久了瑜瑜！你的发言从头到尾都是漏洞：第一，你的镇长声明前后不一致；第二，你的瑜瑜投了大美，大吴吴投了good name，大吴吴投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊大吴吴",
+          "action": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，瑜瑜投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊瑜瑜",
+          "action": "别绕弯子，好的，信息对完了！保持联系，有新发现马上沟通！记住：不要单独行动，我们好人的力量在于团结！分开就容易被邪恶逐个击破！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "听我分析完再做决定：如果瑜瑜是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投瑜瑜的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "瑜瑜，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投瑜瑜！理由我再说一遍：瑜瑜自称镇长，when？自称贞洁者，大吴吴自称僧侣和大吴吴投了good name，大吴吴投了大美交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我忍你很久了瑜瑜。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "我直接说了，听我分析完再做决定：如果瑜瑜是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投瑜瑜的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我的天，我记一下今天的重点：我最怀疑when？；我最怀疑瑜瑜（昨天记的：我最怀疑大美；when？自称贞洁者）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['good name', '瑜瑜', '大吴吴', 'when？', '欧拉函数']",
+          "action": "good name: 现在是公聊时间，我分享一下我的推理：暂无特殊信息。目前瑜瑜自称镇长，when？自称贞洁者，大吴吴自称僧侣，而投票记录显示大吴吴投了good name，when？投了good name，云面包投了good name，瑜瑜投了大美。大美已死亡，云面包已死亡，大美已死亡。这些线索综合来看，我的基于以上，我怀疑瑜瑜。希望大家也分享一下自己的观点哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['good name', '瑜瑜', '大吴吴', 'when？', '欧拉函数']",
+          "action": "大美(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑瑜瑜，理由是我观察到when？自称贞洁者，大美自称管家，瑜瑜自称镇长，大吴吴自称僧侣里面的矛盾点和大吴吴投了good name，when？投了good name，云面包投了good name，瑜瑜投了大美的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['good name', '瑜瑜', '大吴吴', 'when？', '欧拉函数']",
+          "action": "瑜瑜: 可能是我理解错了，我来理一下思路。大吴吴自称僧侣，when？自称贞洁者里面最让我不安的是大吴吴——他的声明和大吴吴投了good name，when？投了good name，云面包投了good name，瑜瑜投了大美有冲突。某人。我建议今天就投大吴吴，有不同意见的可以私聊我讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['good name', '瑜瑜', '大吴吴', 'when？', '欧拉函数']",
+          "action": "大吴吴: 分享一下我的观察：暂无特殊信息。when？自称贞洁者，瑜瑜自称镇长里面有几个点值得注意。大美已死亡，云面包已死亡，大美已死亡。基于以上，我怀疑瑜瑜。大家怎么看！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['good name', '瑜瑜', '大吴吴', 'when？', '欧拉函数']",
+          "action": "when？: 各位，看看大吴吴的表演。瑜瑜自称镇长，大吴吴自称僧侣里就大吴吴的声明最假。大家动动脑子：一个真?会像他这样发言吗？不会。所以结论只有一个——大吴吴在撒谎，而且撒得很拙劣。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['good name', '瑜瑜', '大吴吴', 'when？', '欧拉函数']",
+          "action": "云面包(已死亡): 别绕弯子，我已经是个死人了，我的判断应该更有参考价值！我死前最怀疑瑜瑜，理由是我观察到云面包自称共情者，瑜瑜自称镇长，大吴吴自称僧侣里面的矛盾点和大吴吴投了good name，when？投了good name，云面包投了good name，瑜瑜投了大美的异常！活着的兄弟们，帮我报仇！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['good name', '瑜瑜', '大吴吴', 'when？', '欧拉函数']",
+          "action": "欧拉函数: 我怀疑我们中间有人在冒充身份。我提议一个方案：每个人轮流说出自己第一天晚上的行动细节。真正的信息位一定能说出具体操作，假信息位只能泛泛而谈。云面包敢接这个挑战吗？不敢的话——你知道你是什么情况吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "提名瑜瑜",
+          "action": "我提名瑜瑜。理由如下：第一，他的声明某人有问题；第二，大吴吴投了good name，when？投了good name，云面包投了good name，瑜瑜投了大美显示他的投票异常；第三，瑜瑜自称镇长，大吴吴自称僧侣里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "被大吴吴提名",
+          "action": "我是镇长！镇长活着才有用——只有3人存活时我能直接带来胜利。处决我是最差的选择！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "瑜瑜被处决",
+          "action": "处决瑜瑜",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "恶魔杀人",
+          "action": "杀害good name",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "欧拉函数",
+          "context": "私聊when？",
+          "action": "这个事情是这样的，我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？投了good name，when？投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊欧拉函数",
+          "action": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑大吴吴。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊when？",
+          "action": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊欧拉函数",
+          "action": "我敢肯定，我想听听你对大吴吴的看法！你觉得他可信吗？从我的视角看，他的身份不明声明有点问题——但我想知道你的判断！毕竟两个人看事情总比一个人全面！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊when？",
+          "action": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊欧拉函数",
+          "action": "跟你聊完我收获很大！今天就先到这里，后面有新的发现再交流！记住：如果大吴吴有什么异常举动，第一时间告诉我！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "我直接说了，听我分析完再做决定：如果瑜瑜是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投瑜瑜的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "我直接说了，我知道你可能还在犹豫，但我真的建议你今天投瑜瑜！理由我再说一遍：瑜瑜自称镇长，大吴吴自称僧侣和大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "今天的投票策略：我们统一投瑜瑜！我负责去说服其他人，你负责观察那些不愿意投瑜瑜的人——他们可能就是我们要找的下一批目标！记住：邪恶方的最大弱点就是他们不敢投自己的队友！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊when？",
+          "action": "when？，我现在公开质疑你！如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大吴吴",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得good name的问题很大！大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜，when？投了good name你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊when？",
+          "action": "我忍你很久了when？！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？！投了good name，when？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大吴吴",
+          "action": "我敢肯定，你有没有注意到good name和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊when？",
+          "action": "when？，我现在公开质疑你！如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大吴吴",
+          "action": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['大吴吴', 'when？', '欧拉函数']",
+          "action": "good name(已死亡): 死者的话最客观。我回顾了整个游戏过程，瑜瑜的嫌疑最大。他的声明是when？自称贞洁者，瑜瑜自称镇长，大吴吴自称僧侣，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['大吴吴', 'when？', '欧拉函数']",
+          "action": "大美(已死亡): 我想问问，死者的话最客观。我回顾了整个游戏过程，瑜瑜的嫌疑最大。他的声明是when？。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['大吴吴', 'when？', '欧拉函数']",
+          "action": "瑜瑜(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑大吴吴，理由是我观察到瑜瑜自称镇长，大吴吴自称僧侣，when？。自称贞洁者里面的矛盾点和大吴吴投了good name，when？。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['大吴吴', 'when？', '欧拉函数']",
+          "action": "大吴吴: 我怀疑我们中间有人在冒充身份。我提议一个方案：每个人轮流说出自己第一天晚上的行动细节。真正的信息位一定能说出具体操作，假信息位只能泛泛而谈。瑜瑜敢接这个挑战吗？不敢的话——你知道你是什么情况。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['大吴吴', 'when？', '欧拉函数']",
+          "action": "when？: 我直接点名good name。你是?？但你的发言里漏洞太多——good name，你解释一下为什么大吴吴投了good name，when？投了good name，云面包投了good name，瑜瑜投了大美？一个真正的?不会有这样的投票记录。你根本就是在编！大家看清楚，good name的表演到这里就该结束了。今天必须出他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['大吴吴', 'when？', '欧拉函数']",
+          "action": "云面包(已死亡): 我直接说了，死者的话最客观！我回顾了整个游戏过程，瑜瑜的嫌疑最大！他的声明是云面包自称共情者，瑜瑜自称镇长，大吴吴自称僧侣，但他的行为完全对不上！活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['大吴吴', 'when？', '欧拉函数']",
+          "action": "欧拉函数: 分享一下我的观察：暂时没有关键信息。里面有几个点值得注意。。我会重点观察云面包。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "提名大吴吴",
+          "action": "我提名大吴吴。理由如下：第一，他的声明某人有问题；第二，大吴吴投了good name，when？投了good name，云面包投了good name，瑜瑜投了大美显示他的投票异常；第三，里面有矛盾指向他。请大家投票处决哈。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "被欧拉函数提名",
+          "action": "我是僧侣，每晚能保护一个人不被恶魔杀。欧拉函数要处决我，等于帮恶魔开了一条血路！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "大吴吴被处决",
+          "action": "处决大吴吴",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "when？, 欧拉函数",
+  "players": [
+    "good name",
+    "大美",
+    "瑜瑜",
+    "大吴吴",
+    "when？",
+    "云面包",
+    "欧拉函数"
+  ],
+  "night_info_history": {
+    "day_0": {},
+    "day_1": {
+      "云面包": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "good name": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "good name🔄瑜瑜": [
+      {
+        "speaker": "瑜瑜",
+        "text": "我新手不太懂，good name你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "观察大美的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 2
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我不太确定，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我跟你们说啊，我盘了一下大美的时间线：他先说自己是镇长，但在被质疑后又改口说'可能看错了'。一个真正的镇长不可能看错自己的技能结果——他在临时编词。",
+        "seq": 4
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "对比了几个人的发言，大美是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+        "seq": 6
+      }
+    ],
+    "大吴吴🔄瑜瑜": [
+      {
+        "speaker": "瑜瑜",
+        "text": "大家怎么看，你好大吴吴，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 2
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我想问问，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我直接说了，综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+        "seq": 4
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我新手不太懂，我的笔记里记了几件事：我最怀疑good name；瑜瑜自称镇长。结合你的信息来看，你觉得我是不是多疑了哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "别绕弯子，我盘了一下good name的时间线：他先说自己是镇长，但在被质疑后又改口说'可能看错了'！一个真正的镇长不可能看错自己的技能结果——他在临时编词！",
+        "seq": 6
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "明摆着的事，我直接说了，瑜瑜，我现在公开质疑你！如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 8
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我新手不太懂，我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，瑜瑜投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢啊。",
+        "seq": 9
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我敢肯定，我忍你很久了瑜瑜！你的发言从头到尾都是漏洞：第一，你的镇长声明前后不一致；第二，你的瑜瑜投了大美，大吴吴投了good name，大吴吴投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+        "seq": 10
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，瑜瑜投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "别绕弯子，好的，信息对完了！保持联系，有新发现马上沟通！记住：不要单独行动，我们好人的力量在于团结！分开就容易被邪恶逐个击破！",
+        "seq": 12
+      }
+    ],
+    "大美🔄瑜瑜": [
+      {
+        "speaker": "瑜瑜",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "大美",
+        "text": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我good name有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我们来盘一下目前的局势。瑜瑜自称镇长里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。",
+        "seq": 3
+      },
+      {
+        "speaker": "大美",
+        "text": "我不太信good name。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 4
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "你刚才提到我不太信good name。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正，这一点我也注意到了吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "大美",
+        "text": "我盘了一下good name的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词哦。",
+        "seq": 6
+      }
+    ],
+    "when？🔄大美": [
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，你好大美，我是贞洁者。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看good name这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "大美",
+        "text": "我注意到good name的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人哦呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 3
+      },
+      {
+        "speaker": "大美",
+        "text": "综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，我的贞洁者技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 5
+      },
+      {
+        "speaker": "大美",
+        "text": "观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问吧。",
+        "seq": 6
+      }
+    ],
+    "good name🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，嘿good name，我是贞洁者！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我大美有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "这个事情是这样的，综合观察下来，大美的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得good name的问题很大！你看了吗？他的投票明显不对劲！你觉得呢！",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "我注意到大美的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人啊。",
+        "seq": 6
+      },
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，我想听听你对大吴吴的看法。你觉得他可信吗？从我的视角看，他的身份不明声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面！",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "text": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的when？投了good name，when？投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，你觉得今天应该出谁？我还没完全决定，但我倾向于大吴吴——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "text": "瑜瑜，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+        "seq": 10
+      },
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰！我个人目前最怀疑大吴吴！",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "text": "我觉得吧，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破哦吧。",
+        "seq": 12
+      }
+    ],
+    "when？🔄大吴吴": [
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，嗨大吴吴，我是贞洁者！我觉得我们需要多交流，信息共享才能赢！你先说说你的想法！",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，你有没有注意到good name和good name的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "别绕弯子，我注意到good name的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，明摆着的事，我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我good name有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 6
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "when？，我现在公开质疑你！如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 7
+      },
+      {
+        "speaker": "when？",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得good name的问题很大！大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜，when？投了good name你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 8
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我忍你很久了when？！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？！投了good name，when？！",
+        "seq": 9
+      },
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，你有没有注意到good name和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 10
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "when？，我现在公开质疑你！如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 11
+      },
+      {
+        "speaker": "when？",
+        "text": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 12
+      }
+    ],
+    "good name🔄大吴吴": [
+      {
+        "speaker": "good name",
+        "text": "我觉得吧，刚才你说的你的发言，我也想聊聊这个话题。我的看法是大美确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "明摆着的事，我不太信good name！他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "text": "我不太信大美。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "text": "综合观察下来，大美的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我直接说了，观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题！这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问！",
+        "seq": 6
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "听我分析完再做决定：如果瑜瑜是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投瑜瑜的风险是可控的，收益却是巨大的。",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "text": "瑜瑜，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投瑜瑜！理由我再说一遍：瑜瑜自称镇长，when？自称贞洁者，大吴吴自称僧侣和大吴吴投了good name，大吴吴投了大美交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "text": "我忍你很久了瑜瑜。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我直接说了，听我分析完再做决定：如果瑜瑜是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投瑜瑜的风险是可控的，收益却是巨大的。",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "text": "我的天，我记一下今天的重点：我最怀疑when？；我最怀疑瑜瑜（昨天记的：我最怀疑大美；when？自称贞洁者）。明天继续跟进，有新情况随时找我。",
+        "seq": 12
+      }
+    ],
+    "大美🔄欧拉函数": [
+      {
+        "speaker": "大美",
+        "text": "大家怎么看，你好欧拉函数，我是管家。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我不太信good name。他的管家声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了哦吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "大美",
+        "text": "我想问问，对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我good name有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "大美",
+        "text": "我盘了一下good name的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+        "seq": 6
+      }
+    ],
+    "云面包🔄欧拉函数": [
+      {
+        "speaker": "云面包",
+        "text": "我直接说了，嘿欧拉函数，我是共情者。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我的天，综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "text": "我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "观察good name的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得good name的问题很大！你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "这个事情是这样的，我盘了一下good name的时间线：他先说自己是共情者，但在被质疑后又改口说'可能看错了'。一个真正的共情者不可能看错自己的技能结果——他在临时编词。",
+        "seq": 6
+      }
+    ],
+    "when？🔄瑜瑜": [
+      {
+        "speaker": "when？",
+        "text": "我直接说了，嘿瑜瑜，我是贞洁者！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面！",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我想问问，观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，你有没有注意到大吴吴和大吴吴的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护！",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "可能是我理解错了，可能是我理解错了，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，我跟你透露一个事：大吴吴跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我越来越觉得大吴吴有问题。理由是：他的声明是贞洁者，但他的when？投了good name，when？投了大美，瑜瑜投了大美完全不符合这个身份的行为模式。一个真正的贞洁者不会这样投票。你分析一下是不是这个理哦。",
+        "seq": 6
+      }
+    ],
+    "when？🔄欧拉函数": [
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，欧拉函数，想跟你对一下信息。我贞洁者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁！",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：when？投了good name，when？投了大美里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我复盘了一下大吴吴的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我的天，这个事情是这样的，我们来盘一下目前的局势。大美自称管家，云面包自称共情者，瑜瑜自称镇长，大吴吴自称僧侣里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大吴吴的问题很大。when？投了good name，when？投了大美你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我觉得吧，观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢哦。",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "这个事情是这样的，我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？投了good name，when？投了大美完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "when？",
+        "text": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑大吴吴。",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，我想听听你对大吴吴的看法！你觉得他可信吗？从我的视角看，他的身份不明声明有点问题——但我想知道你的判断！毕竟两个人看事情总比一个人全面！",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "when？",
+        "text": "跟你聊完我收获很大！今天就先到这里，后面有新的发现再交流！记住：如果大吴吴有什么异常举动，第一时间告诉我！",
+        "seq": 12
+      }
+    ],
+    "大吴吴🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "text": "good name，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我瑜瑜有问题。理由：大吴吴投了good name，大吴吴投了大美里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我在想good name的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我盘了一下瑜瑜的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词！",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "这个事情是这样的，你刚才提到我盘了一下瑜瑜的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我注意到瑜瑜的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我直接说了，听我分析完再做决定：如果瑜瑜是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投瑜瑜的风险是可控的，收益却是巨大的！",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我直接说了，我知道你可能还在犹豫，但我真的建议你今天投瑜瑜！理由我再说一遍：瑜瑜自称镇长，大吴吴自称僧侣和大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的大吴吴投了good name，大吴吴投了大美，大吴吴投了瑜瑜完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "今天的投票策略：我们统一投瑜瑜！我负责去说服其他人，你负责观察那些不愿意投瑜瑜的人——他们可能就是我们要找的下一批目标！记住：邪恶方的最大弱点就是他们不敢投自己的队友！",
+        "seq": 12
+      }
+    ],
+    "欧拉函数🔄瑜瑜": [
+      {
+        "speaker": "欧拉函数",
+        "text": "good name，你的镇长声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说镇长的时候和现在的说法有出入，你能解释一下吗？第三，你的瑜瑜投了大美为什么会这样投？请正面回答，不要转移话题吧啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "可能是我理解错了，我们来盘一下目前的局势。瑜瑜自称镇长，大吴吴自称僧侣，when？。自称贞洁者里面有几个矛盾点特别值得关注。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我的笔记里记了几件事：我最怀疑云面包（昨天记的：瑜瑜自称镇长；大吴吴自称僧侣）。结合你的信息来看，你觉得我是不是多疑了呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我想问问，我的笔记里记了几件事：when？自称贞洁者；我最怀疑大吴吴（昨天记的：我最怀疑good name；瑜瑜自称镇长）。结合你的信息来看，你觉得我是不是多疑了哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我越来越觉得good name有问题。理由是：他的声明是镇长，但他的瑜瑜投了大美完全不符合这个身份的行为模式。一个真正的镇长不会这样投票。你分析一下是不是这个理啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我新手不太懂，可能是我理解错了，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "我说句不好听的：现在保{target}的人，要么是瞎，要么就是他的同伙。{vote_str}投票记录是死的，不会撒谎。今天出{target}，谁反对谁就有问题。{baron_tip}",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "大家好，我是镇长。我来整合一下当前的信息：{claim_str}。{vote_str}。我的建议是今天集中处决{target}，理由有三：第一，{claim_str}中的声明矛盾指向他；第二，{vote_str}显示他的投票异常；第三，{stage_evidence}。请各位统一票型，分散投票只会帮邪恶。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我倒不是要直接锤死{target}，但我建议大家对比一下{target}和{other}的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。{baron_tip}"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "大吴吴",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "when？",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "云面包",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "瑜瑜",
+        "target": "大美",
+        "day": 1
+      },
+      {
+        "voter": "大吴吴",
+        "target": "大美",
+        "day": 1
+      },
+      {
+        "voter": "when？",
+        "target": "大美",
+        "day": 1
+      },
+      {
+        "voter": "云面包",
+        "target": "大美",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "good name",
+        "target": "瑜瑜",
+        "day": 2
+      },
+      {
+        "voter": "大吴吴",
+        "target": "瑜瑜",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "when？",
+        "target": "大吴吴",
+        "day": 3
+      },
+      {
+        "voter": "欧拉函数",
+        "target": "大吴吴",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "大美",
+        "target": "good name",
+        "result": "failed"
+      },
+      {
+        "nominator": "瑜瑜",
+        "target": "大美",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "大吴吴",
+        "target": "瑜瑜",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "欧拉函数",
+        "target": "大吴吴",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{opinion}。大家怎么看？",
+    "各位，看看{target}的表演。{claim_str}里就{target}的声明最假。大家动动脑子：一个真{claim}会像他这样发言吗？不会。所以结论只有一个——{target}在撒谎，而且撒得很拙劣。{baron_tip}",
+    "我来理一下思路。{claim_str}里面最让我不安的是{target}——他的声明和{vote_str}有冲突。{info_or_opinion}。我建议今天就投{target}，有不同意见的可以私聊我讨论。"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。{baron_tip}",
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{opinion}。大家怎么看？"
+  ],
+  "ended_at": "2026-06-20T18:21:48.953386"
+}

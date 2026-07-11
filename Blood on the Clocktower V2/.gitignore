@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Training data backups
+training/training_data.jsonl.bak
+*.log
+err.log
+out.log
+
+# OS
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+temp_*
+check_*
+fix_*

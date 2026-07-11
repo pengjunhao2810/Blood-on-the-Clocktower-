@@ -1,0 +1,2126 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T15:25:03.565044",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "则夷则",
+          "context": "私聊Hannoy",
+          "action": "收到分配！我圣徒没问题，但我觉得剩下酒鬼留着备用！如果你那边需要调整，我可以换身份！关键是你圣徒要站住脚，我配合你！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊则夷则",
+          "action": "盘一下剩余玩家！告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会！我们可以在他们开口之前先把欧拉函数定义成'邪恶方'，等于提前占领了好人的心智！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Hannoy",
+          "action": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Hannoy是某个角色！我配合说我也觉得Hannoy符合那个角色——两个独立信息位交叉验证同一结论，好人必信！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊则夷则",
+          "action": "我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Hannoy",
+          "action": "今晚刀Hannoy，白天的公聊目标也是Hannoy！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊则夷则",
+          "action": "今晚刀欧拉函数，白天的公聊目标也是欧拉函数！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊欧拉函数",
+          "action": "欧拉函数，想跟你对一下信息！我镇长这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助！你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊则夷则",
+          "action": "我的笔记里记了几件事：我最怀疑Hannoy！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊欧拉函数",
+          "action": "这还用想？，我编了一个完整的伪推理：先分析暂无投票，再结合里面的矛盾点，最后得出结论——Hannoy是邪恶！这套逻辑看起来无懈可击，因为大部分信息是真实的，唯一的谎言就是结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊则夷则",
+          "action": "别绕弯子，我们来盘一下目前的局势！里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊欧拉函数",
+          "action": "我们来编一个完整的'推理链'：你镇民假装查到了Hannoy有问题，我镇长假装通过排除法得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊则夷则",
+          "action": "这还用想？，我越来越觉得Hannoy有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "嘿Rujie Shi，我是镇长！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "别绕弯子，我编了一个完整的伪推理：先分析暂无投票，再结合则夷则自称镇长里面的矛盾点，最后得出结论——Hannoy是邪恶！这套逻辑看起来无懈可击，因为大部分信息是真实的，唯一的谎言就是结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "明摆着的事，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "我敢肯定，我们来编一个完整的'推理链'：你镇民假装查到了Hannoy有问题，我镇长假装通过排除法得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊薛猫",
+          "action": "别绕弯子，你好薛猫，我是洗衣妇！首夜得知你是送葬者——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享！如果你不认，我需要去排查信息干扰来源！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊欧拉函数",
+          "action": "我越来越觉得Hannoy有问题。理由是：他的声明是洗衣妇，但他的暂无投票完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊薛猫",
+          "action": "我直接说了，来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道薛猫或Hannoy之中有送葬者！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊欧拉函数",
+          "action": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊薛猫",
+          "action": "我直接说了，我是洗衣妇！薛猫和Hannoy两人均不认我得知的镇民送葬者，怀疑首夜被投毒者下毒导致信息失真！你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验薛猫、Hannoy身份！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊欧拉函数",
+          "action": "从逻辑上看，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy；薛猫自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊澳大利亚",
+          "action": "明摆着的事，你好澳大利亚，我是洗衣妇！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊欧拉函数",
+          "action": "这还用想？，我敢肯定，我们来盘一下目前的局势！欧拉函数自称洗衣妇里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊澳大利亚",
+          "action": "来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道薛猫或Hannoy之中有送葬者！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊欧拉函数",
+          "action": "别绕弯子，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy。结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊澳大利亚",
+          "action": "这还用想？，我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊欧拉函数",
+          "action": "我越来越觉得Hannoy有问题！理由是：他的声明是洗衣妇，但他的暂无投票完全不符合这个身份的行为模式！一个真正的洗衣妇不会这样投票！你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "Hannoy你好，我是图书管理员！第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然！你同感吗？ 合作可以！我验人，你提供信息！你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "你有没有注意到欧拉函数和薛猫的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "我敢肯定，我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "这还用想？，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我欧拉函数不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "我敢肯定，我们来盘一下目前的局势！困困自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊澳大利亚",
+          "action": "澳大利亚，我刚整理了一下笔记：我最怀疑Hannoy。你那边有什么发现？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊困困",
+          "action": "来，我们对对信息！我的占卜师技能告诉我一些事情：我查了薛猫和困困，都是好的！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊澳大利亚",
+          "action": "来，我们对对信息！我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊困困",
+          "action": "别绕弯子，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊澳大利亚",
+          "action": "我的笔记里记了几件事：我最怀疑Hannoy！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊困困",
+          "action": "我们来盘一下目前的局势！欧拉函数自称洗衣妇，困困自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！我的结论是Hannoy至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊薛猫",
+          "action": "别绕弯子，你好薛猫，我是图书管理员！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！ 合作可以！我验人，你提供信息！你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊困困",
+          "action": "理性分析的话，基于已公开的信息，我们来盘一下目前的局势。欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊薛猫",
+          "action": "来，我们对对信息！我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊困困",
+          "action": "客观来说，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy；薛猫自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊薛猫",
+          "action": "我直接说了，这还用想？，我的笔记里记了几件事：我最怀疑Hannoy。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊困困",
+          "action": "综合现有信息，我越来越觉得Hannoy有问题。理由是：他的声明是图书管理员，但他的暂无投票完全不符合这个身份的行为模式。一个真正的图书管理员不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Hannoy",
+          "action": "理性分析的话，hannoy你好，我是送葬者。第一天信息有限，但我注意到一些细节——欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊薛猫",
+          "action": "我跟你透露一个事：欧拉函数跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Hannoy",
+          "action": "理性分析的话，综合现有信息，我们来盘一下目前的局势。欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊薛猫",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得欧拉函数的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊薛猫",
+          "action": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Rujie Shi",
+          "action": "你好Rujie Shi，我是占卜师！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊澳大利亚",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Rujie Shi",
+          "action": "我敢肯定，来，我们对对信息！我的占卜师技能告诉我一些事情：我查了薛猫和困困，都是好的！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊澳大利亚",
+          "action": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Rujie Shi",
+          "action": "我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？ 合作可以！我验人，你提供信息！你先说说你知道什么！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊澳大利亚",
+          "action": "明摆着的事，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Hannoy', '欧拉函数', '薛猫', '困困', '澳大利亚', '则夷则', 'Rujie Shi']",
+          "action": "Hannoy: 我是镇长，我还在收集信息！但目前初步判断，欧拉函数是让我最不安的一个——他的声明和都在敲警钟！我不急着下定论，但大家盯紧他！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['Hannoy', '欧拉函数', '薛猫', '困困', '澳大利亚', '则夷则', 'Rujie Shi']",
+          "action": "欧拉函数: 我是洗衣妇，我确认薛猫是送葬者金水。薛猫本人已认领身份，信息链清晰。建议今天从外置位盘，薛猫暂排好人！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['Hannoy', '欧拉函数', '薛猫', '困困', '澳大利亚', '则夷则', 'Rujie Shi']",
+          "action": "薛猫: 根据我的记录：我最怀疑Hannoy；薛猫自称送葬者；Hannoy自称镇长。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Hannoy', '欧拉函数', '薛猫', '困困', '澳大利亚', '则夷则', 'Rujie Shi']",
+          "action": "困困: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息！目前Hannoy自称镇长，欧拉函数自称洗衣妇，而投票记录显示！这些线索综合来看，我的我会重点观察Hannoy！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['Hannoy', '欧拉函数', '薛猫', '困困', '澳大利亚', '则夷则', 'Rujie Shi']",
+          "action": "澳大利亚: 我是占卜师，昨晚查验了薛猫和困困，都不是恶魔。排除了两个好人我建议先从薛猫开始盘——如果他是好人翻出来，那困困就是铁邪恶！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['Hannoy', '欧拉函数', '薛猫', '困困', '澳大利亚', '则夷则', 'Rujie Shi']",
+          "action": "则夷则: 我不太喜欢带节奏，但这个Hannoy我实在忍不下去了——他的每一个发言都在编！Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师里面的矛盾点他自己都圆不上，你们真的看不出来吗！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['Hannoy', '欧拉函数', '薛猫', '困困', '澳大利亚', '则夷则', 'Rujie Shi']",
+          "action": "Rujie Shi: 别绕弯子，大家好，我是猎手。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察则夷则。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "提名Hannoy",
+          "action": "我提名Hannoy。理由如下：第一，他的声明某人有问题；第二，暂无记录显示他的投票异常；第三，欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员，Hannoy自称镇长，澳大利亚自称占卜师里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "被薛猫提名",
+          "action": "老实说，大家别被薛猫带偏了！薛猫的指控完全站不住脚——他没有拿出任何实锤证据，全靠推测。这个游戏不是靠感觉就能定罪的好吗？请大家理性投票。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "Hannoy被处决",
+          "action": "处决Hannoy",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "则夷则",
+          "context": "恶魔杀人",
+          "action": "杀害澳大利亚",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "Rujie Shi你好，我是洗衣妇！第一天信息有限，但我注意到一些细节——欧拉函数自称洗衣妇，薛猫自称送葬者，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手里面有些人的声明不太自然！你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道薛猫或Hannoy之中有送葬者！你觉得这意味着什么？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "我是洗衣妇！薛猫和Hannoy两人均不认我得知的镇民送葬者，怀疑首夜被投毒者下毒导致信息失真！你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验薛猫、Hannoy身份！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊困困",
+          "action": "困困，我刚整理了一下笔记：我最怀疑Hannoy；欧拉函数自称洗衣妇（昨天记的：薛猫自称送葬者；Hannoy自称镇长）。你那边有什么发现！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊欧拉函数",
+          "action": "我直接说了，我们来盘一下目前的局势。困困自称图书管理员，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊困困",
+          "action": "明摆着的事，我直接说了，我们来盘一下目前的局势！欧拉函数自称洗衣妇，薛猫自称送葬者，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊欧拉函数",
+          "action": "我越来越觉得Hannoy有问题！理由是：他的声明是洗衣妇，但他的困困投了Hannoy完全不符合这个身份的行为模式！一个真正的洗衣妇不会这样投票！你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊困困",
+          "action": "出问题了：薛猫和Hannoy都不承认送葬者这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？如果是投毒者，我的信息就可能被污染了——必须优先排查。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊欧拉函数",
+          "action": "我的笔记里记了几件事：我最怀疑Hannoy；欧拉函数自称酒鬼（昨天记的：Hannoy自称镇长；欧拉函数自称洗衣妇）！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊则夷则",
+          "action": "我忍你很久了Hannoy！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的则夷则投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊欧拉函数",
+          "action": "情况不对，欧拉函数开始反击了。我们需要立刻转移焦点——你跳出来说困困更可疑，我配合你。理由就说困困的投票记录不对——则夷则投了Hannoy里面他投的票全是跟风。记住：最好的防守就是进攻！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊则夷则",
+          "action": "明摆着的事，则夷则，我现在公开质疑你！如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊欧拉函数",
+          "action": "对方在盘我们的逻辑漏洞了！告诉你一个技巧：把水搅浑的最好方式就是反问！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊则夷则",
+          "action": "我敢肯定，则夷则，我现在公开质疑你！如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊欧拉函数",
+          "action": "这还用想？，这还用想？！，被怀疑了，别慌！我教你反制：你先发制人去质疑欧拉函数——说他洗衣妇的身份信息跟别人对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊困困",
+          "action": "你好困困，我是镇长。想跟你聊聊对局势的看法。则夷则自称镇长，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手里面我注意到你报了镇民——说实话我也在关注同样的方向！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊则夷则",
+          "action": "来，我们对对信息！我的图书管理员技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合则夷则投了Hannoy，困困投了Hannoy来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊困困",
+          "action": "我们来编一个完整的'推理链'：你镇民假装查到了欧拉函数有问题，我镇长假装通过排除法得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊则夷则",
+          "action": "来，我们对对信息。我的图书管理员技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合则夷则投了Hannoy，困困投了Hannoy来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊困困",
+          "action": "我编了一个完整的伪推理：先分析困困投了Hannoy，则夷则投了Hannoy，再结合则夷则自称镇长，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手里面的矛盾点，最后得出结论——欧拉函数是邪恶！这套逻辑看起来无懈可击，因为大部分信息是真实的，唯一的谎言就是结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊则夷则",
+          "action": "我的笔记里记了几件事：我最怀疑Hannoy；欧拉函数自称酒鬼；则夷则自称镇长（昨天记的：Hannoy自称镇长；欧拉函数自称洗衣妇）！。结合你的信息来看，你觉得我是不是多疑了？。 合作可以。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "我想听听你对欧拉函数的看法。你觉得他可信吗？从我的视角看，他的猎手声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "则夷则，我现在公开质疑你！如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰！我个人目前最怀疑欧拉函数！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "我忍你很久了则夷则！你的发言从头到尾都是漏洞：第一，你的镇长声明前后不一致；第二，你的则夷则投了Hannoy，Rujie Shi投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "别绕弯子，我注意到你一直在观察欧拉函数！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "我敢肯定，今天就到这。我们的共识是：则夷则是第一嫌疑人。明天根据处决结果再调整策略。如果则夷则是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！ 合作好。你找信息，我最后开枪！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊薛猫",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Hannoy！理由我再说一遍：困困自称图书管理员，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手，则夷则自称镇长和薛猫投了Hannoy，困困投了Hannoy交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊困困",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投欧拉函数。理由我再说一遍：欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手和困困投了Hannoy，薛猫投了Hannoy交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊薛猫",
+          "action": "听我分析完再做决定：如果Hannoy是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投Hannoy的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊困困",
+          "action": "综合现有信息，听我分析完再做决定：如果欧拉函数是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投欧拉函数的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊薛猫",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Hannoy！理由我再说一遍：困困自称图书管理员，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手，则夷则自称镇长和薛猫投了Hannoy，困困投了Hannoy交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊困困",
+          "action": "分头行动：我盯着欧拉函数的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出欧拉函数。如果他翻出是好人，我们就从保过他的人里继续盘。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Rujie Shi",
+          "action": "你好Rujie Shi，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊薛猫",
+          "action": "我敢肯定，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：薛猫投了Hannoy，Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Rujie Shi",
+          "action": "综合现有信息，我们来盘一下目前的局势。欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，欧拉函数的投票轨迹跟他的声明对不上。我的结论是欧拉函数至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊薛猫",
+          "action": "明摆着的事，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：薛猫投了Hannoy，Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Rujie Shi",
+          "action": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合Rujie Shi投了Hannoy，薛猫投了Hannoy来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊薛猫",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：薛猫投了Hannoy，Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 合作好！你找信息，我最后开枪！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['欧拉函数', '薛猫', '困困', '则夷则', 'Rujie Shi']",
+          "action": "Hannoy(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑则夷则，理由是我观察到困困自称图书管理员，薛猫自称送葬者，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师里面的矛盾点和薛猫投了Hannoy，困困投了Hannoy，澳大利亚投了Hannoy，则夷则投了Hannoy的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['欧拉函数', '薛猫', '困困', '则夷则', 'Rujie Shi']",
+          "action": "欧拉函数: 公聊同步：我的首夜查验薛猫是送葬者已确认！这是我的金水，请大家不要浪费处决机会在他身上！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['欧拉函数', '薛猫', '困困', '则夷则', 'Rujie Shi']",
+          "action": "薛猫: 根据我的记录：我最怀疑欧拉函数；薛猫自称送葬者（昨天记的：薛猫自称送葬者；Hannoy自称镇长）。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['欧拉函数', '薛猫', '困困', '则夷则', 'Rujie Shi']",
+          "action": "困困: 明摆着的事，我怀疑我们中间有人在冒充身份！我提议一个方案：每个人轮流说出自己第一天晚上的行动细节！真正的信息位一定能说出具体操作，假信息位只能泛泛而谈！Hannoy敢接这个挑战吗？不敢的话——你知道你是什么情况！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['欧拉函数', '薛猫', '困困', '则夷则', 'Rujie Shi']",
+          "action": "澳大利亚(已死亡): 死者的话最客观。我回顾了整个游戏过程，欧拉函数的嫌疑最大。他的声明是欧拉函数自称洗衣妇，困困自称图书管理员，澳大利亚自称占卜师，Hannoy自称镇长，Rujie Shi自称猎手，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['欧拉函数', '薛猫', '困困', '则夷则', 'Rujie Shi']",
+          "action": "则夷则: 各位，看看欧拉函数的表演。Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手里就欧拉函数的声明最假。大家动动脑子：一个真?会像他这样发言吗？。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['欧拉函数', '薛猫', '困困', '则夷则', 'Rujie Shi']",
+          "action": "Rujie Shi: 这还用想？，大家好，我是猎手！我来分析一下目前的局势：暂无特殊信息！我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口！基于以上，我怀疑则夷则！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "提名薛猫",
+          "action": "提名薛猫。他的投票记录Hannoy非常反常——好人不该这样投票我不需要再多说了，说实话，证据摆在这里。谁反对可以站出来对质。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "被则夷则提名",
+          "action": "我理解大家的怀疑，但我真的是好人。我的角色是送葬者，虽然能力不强，但我的立场是明确的。请大家不要浪费处决机会在我身上——我建议去查薛猫，他才是真正有问题的人。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "薛猫被处决",
+          "action": "处决薛猫",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "则夷则",
+          "context": "恶魔杀人",
+          "action": "杀害欧拉函数",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "明摆着的事，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "今天就到这！我们的共识是：则夷则是第一嫌疑人！明天根据处决结果再调整策略！如果则夷则是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！ 合作好！你找信息，我最后开枪！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "明摆着的事，有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是镇长，我之前没说是因为在收集信息。身份对换，重新洗牌！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "我记一下今天的重点：我最怀疑则夷则（昨天记的：我最怀疑则夷则；薛猫自称送葬者）！明天继续跟进，有新情况随时找我！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Rujie Shi",
+          "action": "他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊则夷则",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊困困",
+          "action": "被怀疑了，别慌！我教你反制：你先发制人去质疑欧拉函数——说他身份不明的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！我们利用这个窗口期重新掌握主动权！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊则夷则",
+          "action": "明摆着的事，我敢肯定，hannoy，我现在公开质疑你！如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！ 合作可以！我验人，你提供信息！你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊困困",
+          "action": "我敢肯定，情况不对，欧拉函数开始反击了！我们需要立刻转移焦点——你跳出来说Rujie Shi更可疑，我配合你！理由就说Rujie Shi的投票记录不对——困困投了Hannoy，困困投了薛猫，则夷则投了Hannoy，则夷则投了薛猫里面他投的票全是跟风！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊则夷则",
+          "action": "明摆着的事，我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的镇长声明前后不一致；第二，你的则夷则投了Hannoy，则夷则投了薛猫，困困投了Hannoy，困困投了薛猫完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊困困",
+          "action": "情况不对，欧拉函数开始反击了！我们需要立刻转移焦点——你跳出来说Rujie Shi更可疑，我配合你！理由就说Rujie Shi的投票记录不对——困困投了Hannoy，困困投了薛猫，则夷则投了Hannoy，则夷则投了薛猫里面他投的票全是跟风！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊则夷则",
+          "action": "我敢肯定，我记一下今天的重点：我最怀疑Hannoy（昨天记的：欧拉函数自称酒鬼；则夷则自称镇长）！明天继续跟进，有新情况随时找我！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊困困",
+          "action": "则夷则，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？。第三，你的困困投了Hannoy，困困投了薛猫，Rujie Shi投了Hannoy，Rujie Shi投了薛猫为什么会这样投？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Rujie Shi",
+          "action": "明摆着的事，我越来越觉得Hannoy有问题！理由是：他的声明是猎手，但他的Rujie Shi投了Hannoy，Rujie Shi投了薛猫，困困投了Hannoy，困困投了薛猫完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊困困",
+          "action": "这还用想？，我的笔记里记了几件事：我最怀疑则夷则（昨天记的：我最怀疑则夷则；薛猫自称送葬者）！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Rujie Shi",
+          "action": "明摆着的事，我们来盘一下目前的局势。欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊困困",
+          "action": "我直接说了，我们来盘一下目前的局势！澳大利亚自称占卜师，Rujie Shi自称猎手，欧拉函数自称洗衣妇，薛猫自称送葬者里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Rujie Shi",
+          "action": "明摆着的事，来，我们对对信息。我的图书管理员技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['困困', '则夷则', 'Rujie Shi']",
+          "action": "Hannoy(已死亡): 我直接说了，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑则夷则，理由是我观察到困困自称图书管理员，薛猫自称送葬者，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师里面的矛盾点和薛猫投了Hannoy，困困投了Hannoy，澳大利亚投了Hannoy，则夷则投了Hannoy的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['困困', '则夷则', 'Rujie Shi']",
+          "action": "欧拉函数(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑则夷则，理由是我观察到欧拉函数自称洗衣妇，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手里面的矛盾点和薛猫投了Hannoy，困困投了Hannoy，澳大利亚投了Hannoy，则夷则投了Hannoy的异常。活着的兄弟们，帮我报仇！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['困困', '则夷则', 'Rujie Shi']",
+          "action": "薛猫(已死亡): 基于已公开的信息，我是送葬者，昨天被处决的是小恶魔。处决对了！我建议大家复盘一下投票——那些带头投他的人里必然有邪恶在推波助澜。特别是薛猫投了Hannoy，困困投了Hannoy，澳大利亚投了Hannoy，则夷则投了Hannoy里面跟票最快的那几个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['困困', '则夷则', 'Rujie Shi']",
+          "action": "困困: 现在是公聊时间，我分享一下我的推理：图书管理员信息：本局没有外来者！目前欧拉函数自称酒鬼，则夷则自称镇长，Rujie Shi自称猎手，薛猫自称送葬者，而投票记录显示薛猫投了Hannoy，困困投了Hannoy，澳大利亚投了Hannoy，则夷则投了Hannoy！这些线索综合来看，我的基于以上，我怀疑Hannoy！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['困困', '则夷则', 'Rujie Shi']",
+          "action": "澳大利亚(已死亡): 死者的话最客观。我回顾了整个游戏过程，欧拉函数的嫌疑最大。他的声明是欧拉函数自称洗衣妇，困困自称图书管理员，澳大利亚自称占卜师，Hannoy自称镇长，Rujie Shi自称猎手，但他的行为完全对不上。活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['困困', '则夷则', 'Rujie Shi']",
+          "action": "则夷则: 我敢肯定，我的笔记已经记了好几页欧拉函数的可疑行为了！某人！大家说说，这些够不够处决他？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['困困', '则夷则', 'Rujie Shi']",
+          "action": "Rujie Shi: 别绕弯子，根据我的记录：我最怀疑则夷则；薛猫自称送葬者（昨天记的：我最怀疑则夷则；薛猫自称送葬者）！大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "提名困困",
+          "action": "其实吧，我提名困困。理由如下：第一，他的声明某人有问题；第二，薛猫投了Hannoy，困困投了Hannoy，澳大利亚投了Hannoy，则夷则投了Hannoy显示他的投票异常；第三，欧拉函数自称洗衣妇，薛猫自称送葬者，Rujie Shi自称猎手里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "被Rujie Shi提名",
+          "action": "大家想一想：如果我是邪恶，我会这么被动地等着被处决吗？我如果真是坏人，我早就编一套完美说辞了。正因为我是好人，我才觉得委屈——被冤枉的感觉你们懂吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "困困被处决",
+          "action": "处决困困",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "则夷则, Rujie Shi",
+  "players": [
+    "Hannoy",
+    "欧拉函数",
+    "薛猫",
+    "困困",
+    "澳大利亚",
+    "则夷则",
+    "Rujie Shi"
+  ],
+  "private_chat_history": {
+    "Hannoy🔄则夷则": [
+      {
+        "speaker": "则夷则",
+        "listener": "Hannoy",
+        "text": "收到分配！我圣徒没问题，但我觉得剩下酒鬼留着备用！如果你那边需要调整，我可以换身份！关键是你圣徒要站住脚，我配合你！",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "则夷则",
+        "text": "盘一下剩余玩家！告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会！我们可以在他们开口之前先把欧拉函数定义成'邪恶方'，等于提前占领了好人的心智！",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Hannoy",
+        "text": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Hannoy是某个角色！我配合说我也觉得Hannoy符合那个角色——两个独立信息位交叉验证同一结论，好人必信！",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "则夷则",
+        "text": "我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了。",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Hannoy",
+        "text": "今晚刀Hannoy，白天的公聊目标也是Hannoy！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "则夷则",
+        "text": "今晚刀欧拉函数，白天的公聊目标也是欧拉函数！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+        "seq": 6
+      }
+    ],
+    "则夷则🔄欧拉函数": [
+      {
+        "speaker": "则夷则",
+        "listener": "欧拉函数",
+        "text": "欧拉函数，想跟你对一下信息！我镇长这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助！你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "则夷则",
+        "text": "我的笔记里记了几件事：我最怀疑Hannoy！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "欧拉函数",
+        "text": "这还用想？，我编了一个完整的伪推理：先分析暂无投票，再结合里面的矛盾点，最后得出结论——Hannoy是邪恶！这套逻辑看起来无懈可击，因为大部分信息是真实的，唯一的谎言就是结论！",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "则夷则",
+        "text": "别绕弯子，我们来盘一下目前的局势！里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "欧拉函数",
+        "text": "我们来编一个完整的'推理链'：你镇民假装查到了Hannoy有问题，我镇长假装通过排除法得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "则夷则",
+        "text": "这还用想？，我越来越觉得Hannoy有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "则夷则",
+        "text": "我忍你很久了Hannoy！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的则夷则投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+        "seq": 7
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "欧拉函数",
+        "text": "情况不对，欧拉函数开始反击了。我们需要立刻转移焦点——你跳出来说困困更可疑，我配合你。理由就说困困的投票记录不对——则夷则投了Hannoy里面他投的票全是跟风。记住：最好的防守就是进攻！",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "则夷则",
+        "text": "明摆着的事，则夷则，我现在公开质疑你！如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 9
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "欧拉函数",
+        "text": "对方在盘我们的逻辑漏洞了！告诉你一个技巧：把水搅浑的最好方式就是反问！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？！",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "则夷则",
+        "text": "我敢肯定，则夷则，我现在公开质疑你！如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 11
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "欧拉函数",
+        "text": "这还用想？，这还用想？！，被怀疑了，别慌！我教你反制：你先发制人去质疑欧拉函数——说他洗衣妇的身份信息跟别人对不上！",
+        "seq": 12
+      }
+    ],
+    "Rujie Shi🔄则夷则": [
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "嘿Rujie Shi，我是镇长！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面！",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "别绕弯子，我编了一个完整的伪推理：先分析暂无投票，再结合则夷则自称镇长里面的矛盾点，最后得出结论——Hannoy是邪恶！这套逻辑看起来无懈可击，因为大部分信息是真实的，唯一的谎言就是结论！",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "明摆着的事，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "我敢肯定，我们来编一个完整的'推理链'：你镇民假装查到了Hannoy有问题，我镇长假装通过排除法得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了。",
+        "seq": 6
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "我想听听你对欧拉函数的看法。你觉得他可信吗？从我的视角看，他的猎手声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面。",
+        "seq": 7
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "则夷则，我现在公开质疑你！如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了！",
+        "seq": 8
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰！我个人目前最怀疑欧拉函数！",
+        "seq": 9
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "我忍你很久了则夷则！你的发言从头到尾都是漏洞：第一，你的镇长声明前后不一致；第二，你的则夷则投了Hannoy，Rujie Shi投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+        "seq": 10
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "别绕弯子，我注意到你一直在观察欧拉函数！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+        "seq": 11
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "我敢肯定，今天就到这。我们的共识是：则夷则是第一嫌疑人。明天根据处决结果再调整策略。如果则夷则是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！ 合作好。你找信息，我最后开枪！",
+        "seq": 12
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "明摆着的事，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？。",
+        "seq": 13
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "今天就到这！我们的共识是：则夷则是第一嫌疑人！明天根据处决结果再调整策略！如果则夷则是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！ 合作好！你找信息，我最后开枪！",
+        "seq": 14
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "明摆着的事，有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是镇长，我之前没说是因为在收集信息。身份对换，重新洗牌！",
+        "seq": 15
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "我记一下今天的重点：我最怀疑则夷则（昨天记的：我最怀疑则夷则；薛猫自称送葬者）！明天继续跟进，有新情况随时找我！",
+        "seq": 16
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "Rujie Shi",
+        "text": "他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+        "seq": 17
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "则夷则",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破！",
+        "seq": 18
+      }
+    ],
+    "欧拉函数🔄薛猫": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "薛猫",
+        "text": "别绕弯子，你好薛猫，我是洗衣妇！首夜得知你是送葬者——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享！如果你不认，我需要去排查信息干扰来源！",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "欧拉函数",
+        "text": "我越来越觉得Hannoy有问题。理由是：他的声明是洗衣妇，但他的暂无投票完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "薛猫",
+        "text": "我直接说了，来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道薛猫或Hannoy之中有送葬者！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "欧拉函数",
+        "text": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "薛猫",
+        "text": "我直接说了，我是洗衣妇！薛猫和Hannoy两人均不认我得知的镇民送葬者，怀疑首夜被投毒者下毒导致信息失真！你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验薛猫、Hannoy身份！",
+        "seq": 5
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "欧拉函数",
+        "text": "从逻辑上看，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy；薛猫自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "欧拉函数🔄澳大利亚": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "澳大利亚",
+        "text": "明摆着的事，你好澳大利亚，我是洗衣妇！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "欧拉函数",
+        "text": "这还用想？，我敢肯定，我们来盘一下目前的局势！欧拉函数自称洗衣妇里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "澳大利亚",
+        "text": "来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道薛猫或Hannoy之中有送葬者！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "欧拉函数",
+        "text": "别绕弯子，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy。结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "澳大利亚",
+        "text": "这还用想？，我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "欧拉函数",
+        "text": "我越来越觉得Hannoy有问题！理由是：他的声明是洗衣妇，但他的暂无投票完全不符合这个身份的行为模式！一个真正的洗衣妇不会这样投票！你分析一下是不是这个理！",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄困困": [
+      {
+        "speaker": "困困",
+        "listener": "Hannoy",
+        "text": "Hannoy你好，我是图书管理员！第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然！你同感吗？ 合作可以！我验人，你提供信息！你先说说你知道什么？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "困困",
+        "text": "你有没有注意到欧拉函数和薛猫的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "listener": "Hannoy",
+        "text": "我敢肯定，我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "困困",
+        "text": "这还用想？，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我欧拉函数不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "listener": "Hannoy",
+        "text": "我敢肯定，我们来盘一下目前的局势！困困自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "困困",
+        "text": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 6
+      }
+    ],
+    "困困🔄澳大利亚": [
+      {
+        "speaker": "困困",
+        "listener": "澳大利亚",
+        "text": "澳大利亚，我刚整理了一下笔记：我最怀疑Hannoy。你那边有什么发现？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 1
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "困困",
+        "text": "来，我们对对信息！我的占卜师技能告诉我一些事情：我查了薛猫和困困，都是好的！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "listener": "澳大利亚",
+        "text": "来，我们对对信息！我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "困困",
+        "text": "别绕弯子，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "listener": "澳大利亚",
+        "text": "我的笔记里记了几件事：我最怀疑Hannoy！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "困困",
+        "text": "我们来盘一下目前的局势！欧拉函数自称洗衣妇，困困自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！我的结论是Hannoy至少需要被好好审一审！",
+        "seq": 6
+      }
+    ],
+    "困困🔄薛猫": [
+      {
+        "speaker": "困困",
+        "listener": "薛猫",
+        "text": "别绕弯子，你好薛猫，我是图书管理员！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！ 合作可以！我验人，你提供信息！你先说说你知道什么？",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "困困",
+        "text": "理性分析的话，基于已公开的信息，我们来盘一下目前的局势。欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审。",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "listener": "薛猫",
+        "text": "来，我们对对信息！我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "困困",
+        "text": "客观来说，我的笔记里记了几件事：欧拉函数自称洗衣妇；我最怀疑Hannoy；薛猫自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "listener": "薛猫",
+        "text": "我直接说了，这还用想？，我的笔记里记了几件事：我最怀疑Hannoy。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "困困",
+        "text": "综合现有信息，我越来越觉得Hannoy有问题。理由是：他的声明是图书管理员，但他的暂无投票完全不符合这个身份的行为模式。一个真正的图书管理员不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "listener": "薛猫",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Hannoy！理由我再说一遍：困困自称图书管理员，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手，则夷则自称镇长和薛猫投了Hannoy，困困投了Hannoy交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 7
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "困困",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投欧拉函数。理由我再说一遍：欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手和困困投了Hannoy，薛猫投了Hannoy交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "listener": "薛猫",
+        "text": "听我分析完再做决定：如果Hannoy是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投Hannoy的风险是可控的，收益却是巨大的！",
+        "seq": 9
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "困困",
+        "text": "综合现有信息，听我分析完再做决定：如果欧拉函数是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投欧拉函数的风险是可控的，收益却是巨大的。",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "listener": "薛猫",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Hannoy！理由我再说一遍：困困自称图书管理员，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手，则夷则自称镇长和薛猫投了Hannoy，困困投了Hannoy交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 11
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "困困",
+        "text": "分头行动：我盯着欧拉函数的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出欧拉函数。如果他翻出是好人，我们就从保过他的人里继续盘。",
+        "seq": 12
+      }
+    ],
+    "Hannoy🔄薛猫": [
+      {
+        "speaker": "薛猫",
+        "listener": "Hannoy",
+        "text": "理性分析的话，hannoy你好，我是送葬者。第一天信息有限，但我注意到一些细节——欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "薛猫",
+        "text": "我跟你透露一个事：欧拉函数跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 2
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "Hannoy",
+        "text": "理性分析的话，综合现有信息，我们来盘一下目前的局势。欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "薛猫",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得欧拉函数的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "Hannoy",
+        "text": "基于已公开的信息，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "listener": "薛猫",
+        "text": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 6
+      }
+    ],
+    "Rujie Shi🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "listener": "Rujie Shi",
+        "text": "你好Rujie Shi，我是占卜师！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "澳大利亚",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "Rujie Shi",
+        "text": "我敢肯定，来，我们对对信息！我的占卜师技能告诉我一些事情：我查了薛猫和困困，都是好的！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "澳大利亚",
+        "text": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "listener": "Rujie Shi",
+        "text": "我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？ 合作可以！我验人，你提供信息！你先说说你知道什么！",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "澳大利亚",
+        "text": "明摆着的事，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了。",
+        "seq": 6
+      }
+    ],
+    "Rujie Shi🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "Rujie Shi",
+        "text": "Rujie Shi你好，我是洗衣妇！第一天信息有限，但我注意到一些细节——欧拉函数自称洗衣妇，薛猫自称送葬者，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手里面有些人的声明不太自然！你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "欧拉函数",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "Rujie Shi",
+        "text": "来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道薛猫或Hannoy之中有送葬者！你觉得这意味着什么？！",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "欧拉函数",
+        "text": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "Rujie Shi",
+        "text": "我是洗衣妇！薛猫和Hannoy两人均不认我得知的镇民送葬者，怀疑首夜被投毒者下毒导致信息失真！你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验薛猫、Hannoy身份！",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "欧拉函数",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了！",
+        "seq": 6
+      }
+    ],
+    "困困🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "困困",
+        "text": "困困，我刚整理了一下笔记：我最怀疑Hannoy；欧拉函数自称洗衣妇（昨天记的：薛猫自称送葬者；Hannoy自称镇长）。你那边有什么发现！",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "listener": "欧拉函数",
+        "text": "我直接说了，我们来盘一下目前的局势。困困自称图书管理员，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "困困",
+        "text": "明摆着的事，我直接说了，我们来盘一下目前的局势！欧拉函数自称洗衣妇，薛猫自称送葬者，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "listener": "欧拉函数",
+        "text": "我越来越觉得Hannoy有问题！理由是：他的声明是洗衣妇，但他的困困投了Hannoy完全不符合这个身份的行为模式！一个真正的洗衣妇不会这样投票！你分析一下是不是这个理！",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "困困",
+        "text": "出问题了：薛猫和Hannoy都不承认送葬者这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？如果是投毒者，我的信息就可能被污染了——必须优先排查。",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "listener": "欧拉函数",
+        "text": "我的笔记里记了几件事：我最怀疑Hannoy；欧拉函数自称酒鬼（昨天记的：Hannoy自称镇长；欧拉函数自称洗衣妇）！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "则夷则🔄困困": [
+      {
+        "speaker": "则夷则",
+        "listener": "困困",
+        "text": "你好困困，我是镇长。想跟你聊聊对局势的看法。则夷则自称镇长，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手里面我注意到你报了镇民——说实话我也在关注同样的方向！",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "listener": "则夷则",
+        "text": "来，我们对对信息！我的图书管理员技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合则夷则投了Hannoy，困困投了Hannoy来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "困困",
+        "text": "我们来编一个完整的'推理链'：你镇民假装查到了欧拉函数有问题，我镇长假装通过排除法得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "listener": "则夷则",
+        "text": "来，我们对对信息。我的图书管理员技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合则夷则投了Hannoy，困困投了Hannoy来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "困困",
+        "text": "我编了一个完整的伪推理：先分析困困投了Hannoy，则夷则投了Hannoy，再结合则夷则自称镇长，Hannoy自称镇长，欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手里面的矛盾点，最后得出结论——欧拉函数是邪恶！这套逻辑看起来无懈可击，因为大部分信息是真实的，唯一的谎言就是结论！",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "listener": "则夷则",
+        "text": "我的笔记里记了几件事：我最怀疑Hannoy；欧拉函数自称酒鬼；则夷则自称镇长（昨天记的：Hannoy自称镇长；欧拉函数自称洗衣妇）！。结合你的信息来看，你觉得我是不是多疑了？。 合作可以。",
+        "seq": 6
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "困困",
+        "text": "被怀疑了，别慌！我教你反制：你先发制人去质疑欧拉函数——说他身份不明的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！我们利用这个窗口期重新掌握主动权！",
+        "seq": 7
+      },
+      {
+        "speaker": "困困",
+        "listener": "则夷则",
+        "text": "明摆着的事，我敢肯定，hannoy，我现在公开质疑你！如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！ 合作可以！我验人，你提供信息！你先说说你知道什么？",
+        "seq": 8
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "困困",
+        "text": "我敢肯定，情况不对，欧拉函数开始反击了！我们需要立刻转移焦点——你跳出来说Rujie Shi更可疑，我配合你！理由就说Rujie Shi的投票记录不对——困困投了Hannoy，困困投了薛猫，则夷则投了Hannoy，则夷则投了薛猫里面他投的票全是跟风！",
+        "seq": 9
+      },
+      {
+        "speaker": "困困",
+        "listener": "则夷则",
+        "text": "明摆着的事，我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的镇长声明前后不一致；第二，你的则夷则投了Hannoy，则夷则投了薛猫，困困投了Hannoy，困困投了薛猫完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的！",
+        "seq": 10
+      },
+      {
+        "speaker": "则夷则",
+        "listener": "困困",
+        "text": "情况不对，欧拉函数开始反击了！我们需要立刻转移焦点——你跳出来说Rujie Shi更可疑，我配合你！理由就说Rujie Shi的投票记录不对——困困投了Hannoy，困困投了薛猫，则夷则投了Hannoy，则夷则投了薛猫里面他投的票全是跟风！",
+        "seq": 11
+      },
+      {
+        "speaker": "困困",
+        "listener": "则夷则",
+        "text": "我敢肯定，我记一下今天的重点：我最怀疑Hannoy（昨天记的：欧拉函数自称酒鬼；则夷则自称镇长）！明天继续跟进，有新情况随时找我！",
+        "seq": 12
+      }
+    ],
+    "Rujie Shi🔄薛猫": [
+      {
+        "speaker": "薛猫",
+        "listener": "Rujie Shi",
+        "text": "你好Rujie Shi，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "薛猫",
+        "text": "我敢肯定，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：薛猫投了Hannoy，Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 2
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "Rujie Shi",
+        "text": "综合现有信息，我们来盘一下目前的局势。欧拉函数自称洗衣妇，薛猫自称送葬者，困困自称图书管理员，Hannoy自称镇长，澳大利亚自称占卜师，Rujie Shi自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，欧拉函数的投票轨迹跟他的声明对不上。我的结论是欧拉函数至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "薛猫",
+        "text": "明摆着的事，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：薛猫投了Hannoy，Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 4
+      },
+      {
+        "speaker": "薛猫",
+        "listener": "Rujie Shi",
+        "text": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合Rujie Shi投了Hannoy，薛猫投了Hannoy来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "薛猫",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题！理由：薛猫投了Hannoy，Rujie Shi投了Hannoy里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！ 合作好！你找信息，我最后开枪！",
+        "seq": 6
+      }
+    ],
+    "Rujie Shi🔄困困": [
+      {
+        "speaker": "Rujie Shi",
+        "listener": "困困",
+        "text": "则夷则，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？。第三，你的困困投了Hannoy，困困投了薛猫，Rujie Shi投了Hannoy，Rujie Shi投了薛猫为什么会这样投？。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "listener": "Rujie Shi",
+        "text": "明摆着的事，我越来越觉得Hannoy有问题！理由是：他的声明是猎手，但他的Rujie Shi投了Hannoy，Rujie Shi投了薛猫，困困投了Hannoy，困困投了薛猫完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！",
+        "seq": 2
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "困困",
+        "text": "这还用想？，我的笔记里记了几件事：我最怀疑则夷则（昨天记的：我最怀疑则夷则；薛猫自称送葬者）！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "listener": "Rujie Shi",
+        "text": "明摆着的事，我们来盘一下目前的局势。欧拉函数自称洗衣妇，澳大利亚自称占卜师，Rujie Shi自称猎手，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上！",
+        "seq": 4
+      },
+      {
+        "speaker": "Rujie Shi",
+        "listener": "困困",
+        "text": "我直接说了，我们来盘一下目前的局势！澳大利亚自称占卜师，Rujie Shi自称猎手，欧拉函数自称洗衣妇，薛猫自称送葬者里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上！",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "listener": "Rujie Shi",
+        "text": "明摆着的事，来，我们对对信息。我的图书管理员技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 6
+      }
+    ]
+  },
+  "_used_pub_1": [
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我是{bluff}，我还在收集信息。但目前初步判断，{target}是让我最不安的一个——他的声明和{vote_str}都在敲警钟。我不急着下定论，但大家盯紧他。",
+    "我不太喜欢带节奏，但这个{target}我实在忍不下去了——他的每一个发言都在编。{claim_str}里面的矛盾点他自己都圆不上，你们真的看不出来吗？",
+    "我是占卜师，昨晚查验了{chosen0}和{chosen1}，{result}。{demon_verdict}我建议先从{chosen0}开始盘——如果他是好人翻出来，那{chosen1}就是铁邪恶。",
+    "根据我的记录：{my_note}。大家怎么看？",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "我是洗衣妇，我确认{target}是{ww_role}金水。{target}本人已认领身份，信息链清晰。建议今天从外置位盘，{target}暂排好人。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "薛猫",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "澳大利亚",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "则夷则",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "Hannoy",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "困困",
+        "target": "薛猫",
+        "day": 2
+      },
+      {
+        "voter": "则夷则",
+        "target": "薛猫",
+        "day": 2
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "薛猫",
+        "day": 2
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "薛猫",
+        "target": "Hannoy",
+        "result": "executed",
+        "vote_count": 5,
+        "voters": [
+          "薛猫",
+          "困困",
+          "澳大利亚",
+          "则夷则",
+          "Rujie Shi"
+        ]
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "则夷则",
+        "target": "薛猫",
+        "result": "executed",
+        "vote_count": 3,
+        "voters": [
+          "困困",
+          "则夷则",
+          "Rujie Shi"
+        ]
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "Rujie Shi",
+        "target": "困困",
+        "result": "executed",
+        "vote_count": 0,
+        "voters": []
+      }
+    ]
+  },
+  "_used_pub_2": [
+    "公聊同步：我的首夜查验{target}是{ww_role}已确认。这是我的金水，请大家不要浪费处决机会在他身上。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "各位，看看{target}的表演。{claim_str}里就{target}的声明最假。大家动动脑子：一个真{claim}会像他这样发言吗？不会。所以结论只有一个——{target}在撒谎，而且撒得很拙劣。",
+    "根据我的记录：{my_note}。大家怎么看？"
+  ],
+  "_used_pub_3": [
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。大家说说，这些够不够处决他？",
+    "根据我的记录：{my_note}。大家怎么看？"
+  ],
+  "ended_at": "2026-06-20T15:25:03.964266"
+}

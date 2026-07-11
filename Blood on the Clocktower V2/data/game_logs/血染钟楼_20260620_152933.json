@@ -1,0 +1,1573 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T15:29:33.563497",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "基于已公开的信息，困困，想跟你对一下信息。我僧侣这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "大家怎么看，我的笔记里记了几件事：我最怀疑Youmi。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "你有没有注意到Youmi和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "大家怎么看，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我Youmi不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "我不太确定，我想问问，我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "角色分配完毕：我僧侣，你守鸦人。剩下的剩下图书管理员留着备用。核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧。对外我们口径一致，对内我们再讨论真实目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "你看这个局势：好人的信息越多他们就吵得越厉害！暂无矛盾这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手！不急，时间在我们这边！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "你看这个局势：好人的信息越多他们就吵得越厉害。暂无矛盾这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让Youmi成为焦点。只要好人在Youmi身上浪费一轮处决，我们就赚了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "今晚刀Youmi，白天的公聊目标也是Youmi。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "我敢肯定，今晚刀Youmi，白天的公聊目标也是Youmi！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊when？",
+          "action": "客观来说，你好when？，我是僧侣。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看Youmi这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊任",
+          "action": "我不太确定，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊when？",
+          "action": "基于已公开的信息，我复盘了一下Youmi的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊任",
+          "action": "可能是我理解错了，我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊when？",
+          "action": "我跟你透露一个事：Youmi跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊任",
+          "action": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "综合现有信息，理性分析的话，困困你好，我是送葬者。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Star或when？之中有猎手。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "我们来盘一下目前的局势。Youmi自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "大家怎么看，大家怎么看，我越来越觉得Youmi有问题。理由是：他的声明是送葬者，但他的暂无投票完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "从逻辑上看，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "我新手不太懂，我是洗衣妇。Star和when？。两人均不认我得知的镇民猎手，怀疑首夜被投毒者下毒导致信息失真呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Takai&xingfei",
+          "action": "基于已公开的信息，takai&xingfei，我刚整理了一下笔记：我最怀疑Star；Youmi自称送葬者；困困自称洗衣妇。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Youmi",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Takai&xingfei",
+          "action": "理性分析的话，我的笔记里记了几件事：我最怀疑Star；Youmi自称送葬者；困困自称洗衣妇。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Youmi",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Takai&xingfei",
+          "action": "我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Youmi",
+          "action": "我跟你们说啊，我的天，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "客观来说，你好when？，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "综合现有信息，我们来盘一下目前的局势。Youmi自称送葬者，困困自称洗衣妇里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "综合现有信息，我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "困困，想跟你对一下信息！我守鸦人这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助！你现在怀疑谁！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "我新手不太懂，我不太确定，你好Star，我是洗衣妇。首夜得知你是猎手——这个身份你认吗？。如果你认，我们就是金水关系，后面信息共享哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "你有没有注意到Youmi和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "我们来盘一下目前的局势。Youmi自称送葬者，困困自称洗衣妇里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "我跟你透露一个事：Youmi跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Star或when？之中有猎手。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊琥珀王",
+          "action": "别绕弯子，嘿琥珀王，我是守鸦人！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Star",
+          "action": "我越来越觉得Youmi有问题。理由是：他的声明是守鸦人，但他的暂无投票完全不符合这个身份的行为模式。一个真正的守鸦人不会这样投票。你分析一下是不是这个理啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊琥珀王",
+          "action": "我复盘了一下Youmi的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Star",
+          "action": "大家怎么看，我们来盘一下目前的局势。Star自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审哦呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊琥珀王",
+          "action": "这还用想？，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Youmi不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Star",
+          "action": "大家怎么看，可能是我理解错了，我的笔记里记了几件事：Star自称守鸦人；我最怀疑Youmi。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "可能是我理解错了，我不太确定，琥珀王你好，我是猎手。第一天信息有限，但我注意到一些细节——任自称僧侣，Youmi自称送葬者里面有些人的声明不太自然。你同感吗啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "我不太确定，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居任、when？。中有坏人呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "我新手不太懂，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居任、when？。中有坏人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "我想问问，我的笔记里记了几件事：Star自称守鸦人；我最怀疑Youmi；when？自称猎手。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "你好Takai&xingfei，我是共情者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "大家怎么看，我新手不太懂，我们来盘一下目前的局势。Star自称守鸦人，when？自称猎手，琥珀王自称共情者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Youmi', 'Star', 'Takai&xingfei', '困困', '琥珀王', 'when？']",
+          "action": "Youmi: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前困困自称洗衣妇，而投票记录显示。这些线索综合来看，我的我会重点观察Star。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Youmi', 'Star', 'Takai&xingfei', '困困', '琥珀王', 'when？']",
+          "action": "Star: 我是守鸦人，我还在收集信息。但目前初步判断，Youmi是让我最不安的一个——他的声明和都在敲警钟。我不急着下定论，但大家盯紧他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Youmi', 'Star', 'Takai&xingfei', '困困', '琥珀王', 'when？']",
+          "action": "Takai&xingfei: 我的天，根据我的记录：我最怀疑Youmi；琥珀王自称共情者；Star自称守鸦人。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Youmi', 'Star', 'Takai&xingfei', '困困', '琥珀王', 'when？']",
+          "action": "困困: 我是洗衣妇，但我的信息有问题。我查到Star是猎手，但Star和when？。都不认这个身份。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['Youmi', 'Star', 'Takai&xingfei', '困困', '琥珀王', 'when？']",
+          "action": "任(已死亡): 综合现有信息，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Youmi，理由是我观察到任自称僧侣，Star自称守鸦人，困困自称洗衣妇里面的矛盾点和的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Youmi', 'Star', 'Takai&xingfei', '困困', '琥珀王', 'when？']",
+          "action": "琥珀王: 我是共情者！昨晚我左右邪恶数为1，任(自称?)，when？(自称猎手)。如果1大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Youmi', 'Star', 'Takai&xingfei', '困困', '琥珀王', 'when？']",
+          "action": "when？: 大家好，我是猎手。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察Youmi。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "提名Youmi",
+          "action": "我提名Youmi。理由如下：第一，讲真，他的声明某人有问题；第二，暂无记录显示他的投票异常；第三，Star自称守鸦人，when？自称猎手，琥珀王自称共情者，困困自称洗衣妇里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "被琥珀王提名",
+          "action": "我知道被怀疑的感觉不好受，但我真的是好人。我建议今天先出别人——如果明天我还活着，你们随时可以再提我。但今天处决我绝对是浪费一次宝贵的机会。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "Youmi被处决",
+          "action": "处决Youmi",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "恶魔杀人",
+          "action": "杀害琥珀王",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "私聊困困",
+          "action": "我想问问，困困你好，我是猎手。第一天信息有限，但我注意到一些细节——任自称僧侣，Youmi自称送葬者，when？自称猎手，Star自称守鸦人，困困自称洗衣妇，琥珀王自称共情者里面有些人的声明不太自然。你同感吗吧吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊when？",
+          "action": "when？，有件事需要直接确认：我首夜查到你是猎手，这是真的吗？我需要你的正面回答才能安排后续策略。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊困困",
+          "action": "我的笔记里记了几件事：我最怀疑琥珀王；when？自称猎手（昨天记的：困困自称洗衣妇；琥珀王自称共情者）。结合你的信息来看，你觉得我是不是多疑了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊when？",
+          "action": "我越来越觉得Star有问题。理由是：他的声明是猎手，但他的when？投了Youmi，困困投了Youmi完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊困困",
+          "action": "我新手不太懂，我不太确定，我越来越觉得琥珀王有问题。理由是：他的声明是洗衣妇，但他的困困投了Youmi，when？投了Youmi完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊when？",
+          "action": "我想问问，我的笔记里记了几件事：when？自称猎手；我最怀疑Star（昨天记的：困困自称洗衣妇；Star自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Star",
+          "action": "琥珀王，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊when？",
+          "action": "我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Star",
+          "action": "来，我们对对信息。我的猎手技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊when？",
+          "action": "这还用想？，我直接说了，被怀疑了，别慌！我教你反制：你先发制人去质疑困困——说他猎手的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Star",
+          "action": "我们来盘一下目前的局势。任自称僧侣，Youmi自称送葬者，when？自称猎手，Star自称守鸦人，困困自称洗衣妇，琥珀王自称共情者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊when？",
+          "action": "我直接说了，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Takai&xingfei",
+          "action": "可能是我理解错了，takai&xingfei，我刚整理了一下笔记：我最怀疑琥珀王；when？自称猎手（昨天记的：困困自称洗衣妇；琥珀王自称共情者）。你那边有什么发现吧哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊when？",
+          "action": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我琥珀王有问题。理由：when？投了Youmi里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Takai&xingfei",
+          "action": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我琥珀王有问题。理由：when？。投了Youmi里他的投票全是在跟风，没有一次是独立判断的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊when？",
+          "action": "我觉得吧，我们来盘一下目前的局势。琥珀王自称共情者，Star自称守鸦人，困困自称洗衣妇，when？自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Takai&xingfei",
+          "action": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我琥珀王有问题。理由：when？投了Youmi里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊when？",
+          "action": "真的假的？！，来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了Youmi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的Star投了Youmi，困困投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "这还用想？，这还用想？，情况不对，困困开始反击了！我们需要立刻转移焦点——你跳出来说Takai&xingfei更可疑，我配合你！理由就说Takai&xingfei的投票记录不对——困困投了Youmi，Star投了Youmi里面他投的票全是跟风！记住：最好的防守就是进攻！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "我想问问，star，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "对方在盘我们的逻辑漏洞了！告诉你一个技巧：把水搅浑的最好方式就是反问！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的Star投了Youmi，困困投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "Takai&xingfei你好，我是洗衣妇。第一天信息有限，但我注意到一些细节——Youmi自称送葬者，困困自称洗衣妇，Star自称守鸦人，琥珀王自称共情者，when？自称猎手里面有些人的声明不太自然。你同感吗吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我越来越觉得琥珀王有问题。理由是：他的声明是洗衣妇，但他的困困投了Youmi完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "我不太确定，我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的困困投了Youmi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我的天，我的笔记里记了几件事：我最怀疑琥珀王；困困自称洗衣妇（昨天记的：琥珀王自称共情者；Star自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "我想问问，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Star或when？。之中有猎手啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我的笔记里记了几件事：我最怀疑琥珀王；困困自称洗衣妇（昨天记的：琥珀王自称共情者；Star自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "我觉得吧，琥珀王，你的守鸦人声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说守鸦人的时候和现在的说法有出入，你能解释一下吗？第三，你的Star投了Youmi为什么会这样投？请正面回答，不要转移话题哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "明摆着的事，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "真的假的？！，来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Star投了Youmi来分析，重点嫌疑人应该已经很明显了呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。Star投了Youmi你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "真的假的？！，我们来盘一下目前的局势。琥珀王自称共情者，Star自称守鸦人，困困自称洗衣妇，when？自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "你有没有注意到困困和when？的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Star', 'Takai&xingfei', '困困', 'when？']",
+          "action": "Youmi(已死亡): 死者的话最客观。我回顾了整个游戏过程，困困的嫌疑最大。他的声明是Youmi自称送葬者，困困自称洗衣妇，Star自称守鸦人，琥珀王自称共情者，when？自称猎手，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Star', 'Takai&xingfei', '困困', 'when？']",
+          "action": "Star: 别绕弯子，我的笔记已经记了好几页困困的可疑行为了。某人。大家说说，这些够不够处决他？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Star', 'Takai&xingfei', '困困', 'when？']",
+          "action": "Takai&xingfei: 根据我的记录：我最怀疑琥珀王；困困自称洗衣妇（昨天记的：琥珀王自称共情者；Star自称守鸦人）。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Star', 'Takai&xingfei', '困困', 'when？']",
+          "action": "困困: 我不太确定，我是洗衣妇，我确认when？是猎手金水。when？本人已认领身份，信息链清晰。建议今天从外置位盘，when？暂排好人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['Star', 'Takai&xingfei', '困困', 'when？']",
+          "action": "任(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑困困，理由是我观察到任自称僧侣，Star自称守鸦人，困困自称洗衣妇，琥珀王自称共情者，when？自称猎手里面的矛盾点和Star投了Youmi，困困投了Youmi，琥珀王投了Youmi，when？投了Youmi的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Star', 'Takai&xingfei', '困困', 'when？']",
+          "action": "琥珀王(已死亡): 我新手不太懂，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Star，理由是我观察到Star自称守鸦人，when？自称猎手，琥珀王自称共情者，困困自称洗衣妇里面的矛盾点和Star投了Youmi，困困投了Youmi，琥珀王投了Youmi，when？投了Youmi的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Star', 'Takai&xingfei', '困困', 'when？']",
+          "action": "when？: 大家好，我是猎手。我来分析一下目前的局势：暂无特殊信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑琥珀王。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "提名Star",
+          "action": "我提名Star。理由如下：第一，他的声明某人有问题；第二，Star投了Youmi，困困投了Youmi，琥珀王投了Youmi，when？投了Youmi显示他的投票异常；第三，琥珀王自称共情者，Star自称守鸦人，困困自称洗衣妇，when？自称猎手里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "被Takai&xingfei提名",
+          "action": "有意思，Takai&xingfei说我有问题——那我想问问Takai&xingfei：你自己的身份是什么？你凭什么来指控我？如果你自己都说不清楚自己是谁，那你对我的指控就是诽谤。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "Star被处决",
+          "action": "处决Star",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "good_win",
+  "survivors": "Takai&xingfei, 困困, when？",
+  "players": [
+    "Youmi",
+    "Star",
+    "Takai&xingfei",
+    "困困",
+    "任",
+    "琥珀王",
+    "when？"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "困困": [
+        {
+          "key": "washerwoman",
+          "text": "Star 和 when？ 中有一人是 猎手",
+          "day": 0
+        }
+      ],
+      "琥珀王": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "困困": [
+        {
+          "key": "washerwoman",
+          "text": "Star 和 when？ 中有一人是 猎手",
+          "day": 1
+        }
+      ],
+      "琥珀王": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 1
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "任🔄困困": [
+      {
+        "speaker": "任",
+        "text": "基于已公开的信息，困困，想跟你对一下信息。我僧侣这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "大家怎么看，我的笔记里记了几件事：我最怀疑Youmi。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "你有没有注意到Youmi和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "大家怎么看，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我Youmi不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "我不太确定，我想问问，我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+        "seq": 6
+      }
+    ],
+    "Star🔄任": [
+      {
+        "speaker": "任",
+        "text": "角色分配完毕：我僧侣，你守鸦人。剩下的剩下图书管理员留着备用。核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧。对外我们口径一致，对内我们再讨论真实目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "你看这个局势：好人的信息越多他们就吵得越厉害！暂无矛盾这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手！不急，时间在我们这边！",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "你看这个局势：好人的信息越多他们就吵得越厉害。暂无矛盾这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让Youmi成为焦点。只要好人在Youmi身上浪费一轮处决，我们就赚了。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "今晚刀Youmi，白天的公聊目标也是Youmi。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我敢肯定，今晚刀Youmi，白天的公聊目标也是Youmi！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+        "seq": 6
+      }
+    ],
+    "when？🔄任": [
+      {
+        "speaker": "任",
+        "text": "客观来说，你好when？，我是僧侣。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看Youmi这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "我不太确定，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "基于已公开的信息，我复盘了一下Youmi的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "可能是我理解错了，我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "我跟你透露一个事：Youmi跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄困困": [
+      {
+        "speaker": "Youmi",
+        "text": "综合现有信息，理性分析的话，困困你好，我是送葬者。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Star或when？之中有猎手。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我们来盘一下目前的局势。Youmi自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "大家怎么看，大家怎么看，我越来越觉得Youmi有问题。理由是：他的声明是送葬者，但他的暂无投票完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "从逻辑上看，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "我新手不太懂，我是洗衣妇。Star和when？。两人均不认我得知的镇民猎手，怀疑首夜被投毒者下毒导致信息失真呢。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄Youmi": [
+      {
+        "speaker": "Youmi",
+        "text": "基于已公开的信息，takai&xingfei，我刚整理了一下笔记：我最怀疑Star；Youmi自称送葬者；困困自称洗衣妇。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "理性分析的话，我的笔记里记了几件事：我最怀疑Star；Youmi自称送葬者；困困自称洗衣妇。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我跟你们说啊，我的天，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄when？": [
+      {
+        "speaker": "Youmi",
+        "text": "客观来说，你好when？，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "综合现有信息，我们来盘一下目前的局势。Youmi自称送葬者，困困自称洗衣妇里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "综合现有信息，我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      }
+    ],
+    "Star🔄困困": [
+      {
+        "speaker": "Star",
+        "text": "困困，想跟你对一下信息！我守鸦人这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助！你现在怀疑谁！",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "我新手不太懂，我不太确定，你好Star，我是洗衣妇。首夜得知你是猎手——这个身份你认吗？。如果你认，我们就是金水关系，后面信息共享哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "你有没有注意到Youmi和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我们来盘一下目前的局势。Youmi自称送葬者，困困自称洗衣妇里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "text": "我跟你透露一个事：Youmi跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Star或when？之中有猎手。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的Star投了Youmi，困困投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？，这还用想？，情况不对，困困开始反击了！我们需要立刻转移焦点——你跳出来说Takai&xingfei更可疑，我配合你！理由就说Takai&xingfei的投票记录不对——困困投了Youmi，Star投了Youmi里面他投的票全是跟风！记住：最好的防守就是进攻！",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "我想问问，star，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "Star",
+        "text": "对方在盘我们的逻辑漏洞了！告诉你一个技巧：把水搅浑的最好方式就是反问！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问！",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "text": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的Star投了Youmi，困困投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "Star",
+        "text": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+        "seq": 12
+      }
+    ],
+    "Star🔄琥珀王": [
+      {
+        "speaker": "Star",
+        "text": "别绕弯子，嘿琥珀王，我是守鸦人！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我越来越觉得Youmi有问题。理由是：他的声明是守鸦人，但他的暂无投票完全不符合这个身份的行为模式。一个真正的守鸦人不会这样投票。你分析一下是不是这个理啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "我复盘了一下Youmi的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "大家怎么看，我们来盘一下目前的局势。Star自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审哦呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Youmi不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "大家怎么看，可能是我理解错了，我的笔记里记了几件事：Star自称守鸦人；我最怀疑Youmi。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "when？🔄琥珀王": [
+      {
+        "speaker": "when？",
+        "text": "可能是我理解错了，我不太确定，琥珀王你好，我是猎手。第一天信息有限，但我注意到一些细节——任自称僧侣，Youmi自称送葬者里面有些人的声明不太自然。你同感吗啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我不太确定，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居任、when？。中有坏人呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我新手不太懂，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居任、when？。中有坏人。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我想问问，我的笔记里记了几件事：Star自称守鸦人；我最怀疑Youmi；when？自称猎手。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "你好Takai&xingfei，我是共情者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "大家怎么看，我新手不太懂，我们来盘一下目前的局势。Star自称守鸦人，when？自称猎手，琥珀王自称共情者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      }
+    ],
+    "when？🔄困困": [
+      {
+        "speaker": "when？",
+        "text": "我想问问，困困你好，我是猎手。第一天信息有限，但我注意到一些细节——任自称僧侣，Youmi自称送葬者，when？自称猎手，Star自称守鸦人，困困自称洗衣妇，琥珀王自称共情者里面有些人的声明不太自然。你同感吗吧吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "when？，有件事需要直接确认：我首夜查到你是猎手，这是真的吗？我需要你的正面回答才能安排后续策略。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我的笔记里记了几件事：我最怀疑琥珀王；when？自称猎手（昨天记的：困困自称洗衣妇；琥珀王自称共情者）。结合你的信息来看，你觉得我是不是多疑了呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我越来越觉得Star有问题。理由是：他的声明是猎手，但他的when？投了Youmi，困困投了Youmi完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我新手不太懂，我不太确定，我越来越觉得琥珀王有问题。理由是：他的声明是洗衣妇，但他的困困投了Youmi，when？投了Youmi完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "我想问问，我的笔记里记了几件事：when？自称猎手；我最怀疑Star（昨天记的：困困自称洗衣妇；Star自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "Star🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "琥珀王，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "来，我们对对信息。我的猎手技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？，我直接说了，被怀疑了，别慌！我教你反制：你先发制人去质疑困困——说他猎手的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我们来盘一下目前的局势。任自称僧侣，Youmi自称送葬者，when？自称猎手，Star自称守鸦人，困困自称洗衣妇，琥珀王自称共情者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我直接说了，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "可能是我理解错了，takai&xingfei，我刚整理了一下笔记：我最怀疑琥珀王；when？自称猎手（昨天记的：困困自称洗衣妇；琥珀王自称共情者）。你那边有什么发现吧哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我琥珀王有问题。理由：when？投了Youmi里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我琥珀王有问题。理由：when？。投了Youmi里他的投票全是在跟风，没有一次是独立判断的。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我觉得吧，我们来盘一下目前的局势。琥珀王自称共情者，Star自称守鸦人，困困自称洗衣妇，when？自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我琥珀王有问题。理由：when？投了Youmi里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了Youmi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "Takai&xingfei你好，我是洗衣妇。第一天信息有限，但我注意到一些细节——Youmi自称送葬者，困困自称洗衣妇，Star自称守鸦人，琥珀王自称共情者，when？自称猎手里面有些人的声明不太自然。你同感吗吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我越来越觉得琥珀王有问题。理由是：他的声明是洗衣妇，但他的困困投了Youmi完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "我不太确定，我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的困困投了Youmi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的天，我的笔记里记了几件事：我最怀疑琥珀王；困困自称洗衣妇（昨天记的：琥珀王自称共情者；Star自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我想问问，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Star或when？。之中有猎手啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的笔记里记了几件事：我最怀疑琥珀王；困困自称洗衣妇（昨天记的：琥珀王自称共情者；Star自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "Star🔄Takai&xingfei": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我觉得吧，琥珀王，你的守鸦人声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说守鸦人的时候和现在的说法有出入，你能解释一下吗？第三，你的Star投了Youmi为什么会这样投？请正面回答，不要转移话题哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "明摆着的事，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Star投了Youmi来分析，重点嫌疑人应该已经很明显了呢呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。Star投了Youmi你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，我们来盘一下目前的局势。琥珀王自称共情者，Star自称守鸦人，困困自称洗衣妇，when？自称猎手里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "你有没有注意到困困和when？的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护！",
+        "seq": 6
+      }
+    ]
+  },
+  "_used_pub_1": [
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "我是洗衣妇，但我的信息有问题。我查到{target1}是{ww_role}，但{target1}和{target2}都不认这个身份。已私聊调查员排查投毒者、图书管理员核对外来者总数。在我理清信息干扰之前，大家保持警惕——可能存在男爵或投毒者。",
+    "根据我的记录：{my_note}。大家怎么看？",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我是共情者！昨晚我左右邪恶数为{e}，{neighbor_info}。如果{e}大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰。",
+    "我是{bluff}，我还在收集信息。但目前初步判断，{target}是让我最不安的一个——他的声明和{vote_str}都在敲警钟。我不急着下定论，但大家盯紧他。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Star",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "when？",
+        "target": "Youmi",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "Star",
+        "day": 2
+      },
+      {
+        "voter": "困困",
+        "target": "Star",
+        "day": 2
+      }
+    ]
+  },
+  "_used_pub_2": [
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。大家说说，这些够不够处决他？",
+    "根据我的记录：{my_note}。大家怎么看？",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我是洗衣妇，我确认{target}是{ww_role}金水。{target}本人已认领身份，信息链清晰。建议今天从外置位盘，{target}暂排好人。"
+  ],
+  "ended_at": "2026-06-20T15:29:33.936582"
+}

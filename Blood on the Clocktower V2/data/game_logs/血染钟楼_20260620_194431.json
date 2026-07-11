@@ -1,0 +1,2087 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T19:44:31.389082",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "综合现有信息，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Youmi确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "别绕弯子，来，我们对对信息！我的调查员技能告诉我一些事情：查到Youmi是Run！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "我的笔记里记了几件事：我最怀疑Youmi。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "这还用想？，观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "理性分析的话，我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "别绕弯子，我们来盘一下目前的局势！里面有几个矛盾点特别值得关注！第一，；第二，Youmi的投票轨迹跟他的声明对不上！我的结论是Youmi至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊琥珀王",
+          "action": "你好琥珀王，我是洗衣妇。首夜得知你是图书管理员——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享。如果你不认，我需要去排查信息干扰来源。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Run",
+          "action": "从逻辑上看，我们来盘一下目前的局势。Run自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊琥珀王",
+          "action": "客观来说，我们来盘一下目前的局势。Run自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Run",
+          "action": "理性分析的话，我在想Youmi的行为能不能用洗衣妇来解释——他自称是洗衣妇，但如果是真洗衣妇，应该会洗衣妇应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊琥珀王",
+          "action": "综合现有信息，我是洗衣妇。琥珀王和澳大利亚两人均不认我得知的镇民图书管理员，怀疑首夜被投毒者下毒导致信息失真。你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验琥珀王、澳大利亚身份。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Run",
+          "action": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Hannoy",
+          "action": "你好Hannoy，我是洗衣妇。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Run",
+          "action": "我新手不太懂，综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Hannoy",
+          "action": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道琥珀王或澳大利亚之中有图书管理员。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Run",
+          "action": "我想问问，我盘了一下Youmi的时间线：他先说自己是洗衣妇，但在被质疑后又改口说'可能看错了'。一个真正的洗衣妇不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Hannoy",
+          "action": "客观来说，我在想Youmi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Run",
+          "action": "对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Star",
+          "action": "我想问问，你好Star，我是僧侣。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Hannoy",
+          "action": "你刚才提到我想问问，你好Star，我是僧侣！现在情报还不多，我想先听听你的判断——目前你怀疑谁？！为什么？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Star",
+          "action": "我不太信Youmi。他的僧侣声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Hannoy",
+          "action": "明摆着的事，我越来越觉得Youmi有问题！理由是：他的声明是僧侣，但他的完全不符合这个身份的行为模式！一个真正的僧侣不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Star",
+          "action": "我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Hannoy",
+          "action": "我的笔记里记了几件事：我最怀疑Youmi；Hannoy自称僧侣；Star自称僧侣！结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "Youmi你好，我是僧侣。第一天信息有限，但我注意到一些细节——Run自称洗衣妇，Hannoy自称僧侣，Star自称僧侣里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "我跟你们说啊，真的假的？！，我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "这个事情是这样的，我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "观察Youmi的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "你有没有注意到Hannoy和香辣鸡腿堡的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊琥珀王",
+          "action": "嗨琥珀王，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Youmi",
+          "action": "理性分析的话，综合现有信息，你刚才提到嗨琥珀王，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊琥珀王",
+          "action": "这个事情是这样的，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Youmi",
+          "action": "客观来说，我的笔记里记了几件事：我最怀疑Youmi；Youmi自称猎手；琥珀王自称猎手。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊琥珀王",
+          "action": "我的天，我的猎手技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Youmi",
+          "action": "我越来越觉得Youmi有问题。理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊香辣鸡腿堡",
+          "action": "这个事情是这样的，收到分配。我管家没问题，但我觉得剩下占卜师留着备用。如果你那边需要调整，我可以换身份。关键是你管家要站住脚，我配合你。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Youmi",
+          "action": "你看这个局势：好人的信息越多他们就吵得越厉害。这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我跟你们说啊，你看这个局势：好人的信息越多他们就吵得越厉害。琥珀王和Youmi都自称猎手这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Youmi",
+          "action": "综合现有信息，基于已公开的信息，制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Hannoy是某个角色。我配合说我也觉得Hannoy符合那个角色——两个独立信息位交叉验证同一结论，好人必信。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我跟你们说啊，确认攻击目标：Hannoy。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在Hannoy自称僧侣，Youmi自称猎手，琥珀王自称猎手里面的定位是信息位，威胁最大。今天集中火力搞他。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Youmi",
+          "action": "确认攻击目标：Hannoy。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在里面的定位是信息位，威胁最大。今天集中火力搞他。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "我直接说了，这还用想？，刚才你说的你的发言，我也想聊聊这个话题！我的看法是Youmi确实值得重点观察，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "客观来说，对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "我在想Youmi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "你刚才提到综合观察下来，Youmi的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着，这一点我也注意到了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊香辣鸡腿堡",
+          "action": "基于已公开的信息，你好香辣鸡腿堡，我是贞洁者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊澳大利亚",
+          "action": "综合现有信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊香辣鸡腿堡",
+          "action": "从逻辑上看，我盘了一下Youmi的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊澳大利亚",
+          "action": "我盘了一下目前的线索：加上澳大利亚自称贞洁者里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我不太信Youmi。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊澳大利亚",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看Hannoy有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "综合现有信息，理性分析的话，琥珀王，我刚整理了一下笔记：我最怀疑Youmi；澳大利亚自称贞洁者。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "理性分析的话，综合现有信息，观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "客观来说，我越来越觉得琥珀王有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "从逻辑上看，我们来盘一下目前的局势。Run自称洗衣妇，琥珀王自称图书管理员，Youmi自称猎手里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "综合现有信息，我们来盘一下目前的局势。澳大利亚自称贞洁者里面有几个矛盾点特别值得关注。第一，；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', 'Run', '香辣鸡腿堡', '琥珀王', 'Star', '澳大利亚']",
+          "action": "Youmi: 大家注意Hannoy的发言——他自称?，但这不是明摆着在撒谎吗？大家注意Run，他的投票轨迹不对——好人不这样投票。我建议今天直接出Hannoy，错了算我的。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', 'Run', '香辣鸡腿堡', '琥珀王', 'Star', '澳大利亚']",
+          "action": "Hannoy: 分享一下我的观察：暂时没有关键信息。Run自称洗衣妇，Star自称僧侣里面有几个点值得注意。。本局7人场标准配置0个外来者，目前0人认领。如果数字对不上，可能有人隐藏身份或有男爵。我会重点观察Youmi。大家怎么看吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', 'Run', '香辣鸡腿堡', '琥珀王', 'Star', '澳大利亚']",
+          "action": "Run: 我是洗衣妇，我确认琥珀王是图书管理员金水。琥珀王本人已认领身份，信息链清晰。建议今天从外置位盘，琥珀王暂排好人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', 'Run', '香辣鸡腿堡', '琥珀王', 'Star', '澳大利亚']",
+          "action": "香辣鸡腿堡: 我是管家。我严重怀疑Hannoy——他的发言逻辑前后矛盾，明显在编故事。我倒不是要直接锤死Hannoy，但我建议大家对比一下Hannoy和Run的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', 'Run', '香辣鸡腿堡', '琥珀王', 'Star', '澳大利亚']",
+          "action": "琥珀王: 基于已公开的信息，图书管理员报告：本局没有外来者——所有人声称自己是镇民的话是正常的。如果有人跳外来者，他一定在撒谎。。这意味着场上有男爵的话就不存在酒鬼，所有信息位的查验结果都是准确的——如果有人对跳身份，必出一狼；如果有人自称外来者，可以直接标假。请大家自报一下身份类别（镇民或外来者），我来统计一下全场的外来者总数是否和预期一致。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', 'Run', '香辣鸡腿堡', '琥珀王', 'Star', '澳大利亚']",
+          "action": "Star: 我是调查员！我查出琥珀王是调查员——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', 'Run', '香辣鸡腿堡', '琥珀王', 'Star', '澳大利亚']",
+          "action": "澳大利亚: 根据我的记录：Run自称洗衣妇；香辣鸡腿堡自称管家；Star自称调查员。。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "提名琥珀王",
+          "action": "我提名琥珀王。理由如下：第一，他的声明某人有问题；第二，显示他的投票异常；第三，澳大利亚自称贞洁者，琥珀王自称图书管理员，Run自称洗衣妇，香辣鸡腿堡自称管家，Star自称调查员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "被澳大利亚提名",
+          "action": "老实说，我是图书管理员。我重申我的身份——我是好人阵营的图书管理员。澳大利亚指控我，但理由完全是空泛的推测，没有任何实际行为能支撑他的结论。我的和Run自称洗衣妇，琥珀王自称图书管理员，Youmi自称猎手，香辣鸡腿堡自称管家，Star自称调查员可以证明我的立场。如果要处决，我建议先查Youmi——他今天的发言才真正有问题。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "琥珀王被处决",
+          "action": "处决琥珀王",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "恶魔杀人",
+          "action": "杀害Run",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "Youmi",
+          "context": "私聊Star",
+          "action": "真的假的？！，我跟你们说啊，我的猎手技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Youmi",
+          "action": "明摆着的事，这还用想？！，来，我们对对信息！我的调查员技能告诉我一些事情：查到Youmi是Run！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Star",
+          "action": "我的天，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。Star投了琥珀王，Youmi投了琥珀王你看了吗？他的投票明显不对劲。你觉得呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Youmi",
+          "action": "观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Star",
+          "action": "我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Youmi",
+          "action": "我越来越觉得Youmi有问题！理由是：他的声明是身份不明，但他的Youmi投了琥珀王，Star投了琥珀王完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊澳大利亚",
+          "action": "我跟你们说啊，我觉得吧，我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Youmi",
+          "action": "客观来说，理性分析的话，对比了几个人的发言，Star是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊澳大利亚",
+          "action": "我的天，你有没有注意到Hannoy和Star的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Youmi",
+          "action": "你刚才提到我的天，你有没有注意到Hannoy和Star的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Star的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊澳大利亚",
+          "action": "我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Youmi",
+          "action": "我的笔记里记了几件事：我最怀疑Star（昨天记的：香辣鸡腿堡自称管家；Star自称调查员）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊香辣鸡腿堡",
+          "action": "这个事情是这样的，目标锁定：Hannoy。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Youmi",
+          "action": "从逻辑上看，琥珀王的发言越来越可疑了，他自称身份不明但说法前后不太一致。明天公聊我打算先提这一点，如果你也注意到了可以接我的话——这样看起来像是大家的共识而不是我一个人的判断。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊香辣鸡腿堡",
+          "action": "真的假的？！，我觉得吧，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Youmi",
+          "action": "刚才我在想，如果有人在公聊问起我们的管家身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我觉得吧，这个事情是这样的，刚才我在想，如果有人在公聊问起我们的猎手身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Youmi",
+          "action": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的Star投了琥珀王，澳大利亚投了琥珀王完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "Youmi，我现在公开质疑你。如果你真是好人，请用你的调查员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "综合现有信息，star，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "我敢肯定，明摆着的事，我忍你很久了Youmi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的澳大利亚投了琥珀王，Star投了琥珀王完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "基于已公开的信息，我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的Star投了琥珀王，澳大利亚投了琥珀王完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "我记一下今天的重点：我最怀疑琥珀王；我最怀疑Run（昨天记的：香辣鸡腿堡自称管家；我最怀疑琥珀王）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "你好Hannoy，我是贞洁者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "可能是我理解错了，我盘了一下Star的时间线：他先说自己是贞洁者，但在被质疑后又改口说'可能看错了'。一个真正的贞洁者不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "我不太信Star。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "我的笔记里记了几件事：澳大利亚自称贞洁者；我最怀疑Star；我最怀疑Run（昨天记的：Star自称僧侣；Run自称洗衣妇）。结合你的信息来看，你觉得我是不是多疑了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "我盘了一下Star的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "我新手不太懂，观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得澳大利亚的问题很大。Star投了琥珀王，香辣鸡腿堡投了琥珀王你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我敢肯定，我们来盘一下目前的局势。Hannoy自称僧侣，Star自称僧侣，Run自称洗衣妇，香辣鸡腿堡自称管家里面有几个矛盾点特别值得关注。第一，Star和Hannoy都自称僧侣；第二，Youmi的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "基于已公开的信息，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "你刚才提到基于已公开的信息，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留！你观察一下他的发，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "综合现有信息，我复盘了一下澳大利亚的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我在想Youmi的行为能不能用管家来解释——他自称是管家，但如果是真管家，应该会管家应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，嗨Hannoy，我是管家。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大家怎么看，我在想Youmi的行为能不能用管家来解释——他自称是管家，但如果是真管家，应该会管家应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Hannoy",
+          "action": "我盘了一下目前的线索：香辣鸡腿堡投了琥珀王加上澳大利亚自称贞洁者，Run自称洗衣妇，香辣鸡腿堡自称管家，Star自称调查员里面的疑点，指向澳大利亚的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我们来盘一下目前的局势。Run自称洗衣妇，Hannoy自称僧侣，Star自称僧侣，香辣鸡腿堡自称管家，澳大利亚自称贞洁者里面有几个矛盾点特别值得关注。第一，Star和Hannoy都自称僧侣；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审哦哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Hannoy",
+          "action": "客观来说，我们来构建一个完整的推理链：你镇民的角度看澳大利亚有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大家怎么看，我越来越觉得Youmi有问题。理由是：他的声明是管家，但他的香辣鸡腿堡投了琥珀王完全不符合这个身份的行为模式。一个真正的管家不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', '香辣鸡腿堡', 'Star', '澳大利亚']",
+          "action": "Youmi: 澳大利亚一直在装好人，但他的马脚已经露出来了：我严重怀疑Star——他的发言逻辑前后矛盾，明显在编故事。真正的好人被质疑时会拿出自己的信息来对质，澳大利亚只会反问——这是邪恶的标准操作。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', '香辣鸡腿堡', 'Star', '澳大利亚']",
+          "action": "Hannoy: 我新手不太懂，大家好，我是僧侣。我来分析一下目前的局势：暂无特殊信息。琥珀王已死亡，Run已死亡，琥珀王已死亡啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', '香辣鸡腿堡', 'Star', '澳大利亚']",
+          "action": "Run(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Star，理由是我观察到Run自称洗衣妇，琥珀王自称图书管理员，香辣鸡腿堡自称管家，Star自称调查员，Hannoy自称僧侣里面的矛盾点和Youmi投了琥珀王，Run投了琥珀王，香辣鸡腿堡投了琥珀王，Star投了琥珀王的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', '香辣鸡腿堡', 'Star', '澳大利亚']",
+          "action": "香辣鸡腿堡: 理性分析的话，各位，看看澳大利亚的表演。澳大利亚自称贞洁者，Run自称洗衣妇，Star自称调查员，Hannoy自称僧侣里就澳大利亚的声明最假。连续两天了，我的管家信息都指向Hannoy——一个人可以被冤枉一次，但不会被连续误判两次！大家注意Star，他的投票轨迹不对——好人不这样投票。大家动动脑子：一个真?会像他这样发言吗？不会。所以结论只有一个——澳大利亚在撒谎，而且撒得很拙劣。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', '香辣鸡腿堡', 'Star', '澳大利亚']",
+          "action": "琥珀王(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Run，理由是我观察到Run自称洗衣妇，琥珀王自称图书管理员，Youmi自称猎手，香辣鸡腿堡自称管家，Star自称调查员里面的矛盾点和Youmi投了琥珀王，Run投了琥珀王，香辣鸡腿堡投了琥珀王，Star投了琥珀王的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', '香辣鸡腿堡', 'Star', '澳大利亚']",
+          "action": "Star: 调查员有重要发现：Youmi是调查员。这是我首夜查验的铁证。建议今天直接出Youmi。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['Youmi', 'Hannoy', '香辣鸡腿堡', 'Star', '澳大利亚']",
+          "action": "澳大利亚: 现在是公聊时间，我分享一下我的推理：暂无特殊信息。目前琥珀王自称图书管理员，Run自称洗衣妇，香辣鸡腿堡自称管家，Star自称调查员，Hannoy自称僧侣，而投票记录显示Youmi投了琥珀王，Run投了琥珀王，香辣鸡腿堡投了琥珀王，Star投了琥珀王。琥珀王已死亡，Run已死亡，琥珀王已死亡。本局预期没有外来者，但已经有1个人自称外来者（香辣鸡腿堡）了——这个数字对不上，说明有人在冒充！本局7人场标准配置0个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。这些线索综合来看，我的基于以上，我怀疑Star。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "提名Star",
+          "action": "我提名Star。Star自称调查员但调查员这个声明和其他人提供的信息对不上；他的投票记录琥珀王非常反常——好人不该这样投票；琥珀王已死亡；Run已死亡这是铁证。请大家投票。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "被Youmi提名",
+          "action": "我是调查员！我查出Youmi或Run之中有红唇女郎——这才是真正的爪牙！Youmi急着处决我，你想想，就是因为怕我继续查出他的同伙！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "Star被处决",
+          "action": "处决Star",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "恶魔杀人",
+          "action": "杀害Youmi",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Hannoy",
+          "action": "从逻辑上看，我复盘了一下澳大利亚的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊香辣鸡腿堡",
+          "action": "香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Hannoy",
+          "action": "客观来说，从逻辑上看，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得澳大利亚的问题很大。Hannoy投了Star，香辣鸡腿堡投了琥珀王，香辣鸡腿堡投了Star你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的香辣鸡腿堡投了琥珀王，香辣鸡腿堡投了Star，Hannoy投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，你有没有注意到澳大利亚和澳大利亚的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊香辣鸡腿堡",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊澳大利亚",
+          "action": "基于已公开的信息，我跟你透露一个事：澳大利亚跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的香辣鸡腿堡投了琥珀王，香辣鸡腿堡投了Star，澳大利亚投了琥珀王，澳大利亚投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊澳大利亚",
+          "action": "基于已公开的信息，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊香辣鸡腿堡",
+          "action": "客观来说，综合现有信息，hannoy，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊澳大利亚",
+          "action": "从逻辑上看，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊香辣鸡腿堡",
+          "action": "基于已公开的信息，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "大家怎么看，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的澳大利亚投了琥珀王，澳大利亚投了Star，Hannoy投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "综合现有信息，hannoy，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "可能是我理解错了，我不太确定，香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的Hannoy投了Star，澳大利亚投了琥珀王，澳大利亚投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "大家怎么看，可能是我理解错了，香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "综合现有信息，今天就到这。我们的共识是：Hannoy是第一嫌疑人。明天根据处决结果再调整策略。如果Hannoy是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Hannoy', '香辣鸡腿堡', '澳大利亚']",
+          "action": "Youmi(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Hannoy，理由是我观察到Run自称洗衣妇，香辣鸡腿堡自称管家，Star自称调查员，Hannoy自称僧侣里面的矛盾点和Youmi投了琥珀王，Run投了琥珀王，香辣鸡腿堡投了琥珀王，Star投了琥珀王的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Hannoy', '香辣鸡腿堡', '澳大利亚']",
+          "action": "Hannoy: 大家好，我是僧侣。我来分析一下目前的局势：暂无特殊信息。琥珀王已死亡，Run已死亡，Star已死亡。本局预期没有外来者，但已经有1个人自称外来者（香辣鸡腿堡）了——这个数字对不上，说明有人在冒充！本局7人场标准配置0个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑Run。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Hannoy', '香辣鸡腿堡', '澳大利亚']",
+          "action": "Run(已死亡): 理性分析的话，死者的话最客观。我回顾了整个游戏过程，Star的嫌疑最大。他的声明是Run自称洗衣妇，琥珀王自称图书管理员，香辣鸡腿堡自称管家，Star自称调查员，Hannoy自称僧侣，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Hannoy', '香辣鸡腿堡', '澳大利亚']",
+          "action": "香辣鸡腿堡: 我的笔记已经记了好几页澳大利亚的可疑行为了。某人。我觉得澳大利亚和Hannoy有勾结——他们的投票高度一致，不是巧合。大家说说，这些够不够处决他？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Hannoy', '香辣鸡腿堡', '澳大利亚']",
+          "action": "琥珀王(已死亡): 死者的话最客观。我回顾了整个游戏过程，Run的嫌疑最大。他的声明是Run自称洗衣妇，琥珀王自称图书管理员，Youmi自称猎手，香辣鸡腿堡自称管家，Star自称调查员，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Hannoy', '香辣鸡腿堡', '澳大利亚']",
+          "action": "Star(已死亡): 我敢肯定，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Run，理由是我观察到Run自称洗衣妇，香辣鸡腿堡自称管家，Star自称调查员，Hannoy自称僧侣里面的矛盾点和Youmi投了琥珀王，Run投了琥珀王，香辣鸡腿堡投了琥珀王，Star投了琥珀王的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['Hannoy', '香辣鸡腿堡', '澳大利亚']",
+          "action": "澳大利亚: 理性分析的话，分享一下我的观察：暂无特殊信息。Hannoy自称僧侣里面有几个点值得注意。琥珀王已死亡，Run已死亡，Star已死亡。本局7人场标准配置0个外来者，目前0人认领。如果数字对不上，可能有人隐藏身份或有男爵。基于以上，我怀疑Star。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "提名澳大利亚",
+          "action": "我提名澳大利亚——理由很充分：澳大利亚自称贞洁者但?这个声明和其他人提供的信息对不上；他的投票记录琥珀王/Star非常反常——好人不该这样投票；琥珀王已死亡；Run已死亡。我拿我的身份担保，澳大利亚绝对不是好人。该投票了。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "被香辣鸡腿堡提名",
+          "action": "我是贞洁者，我的身份经得起验证。香辣鸡腿堡的指控有几点站不住脚：首先，他说的问题并不存在；其次，Youmi投了琥珀王，Run投了琥珀王，香辣鸡腿堡投了琥珀王，Star投了琥珀王显示我一直在支持好人；最后，香辣鸡腿堡自己的贞洁者声明本身就值得怀疑。与其在我身上浪费处决机会，不如去盘Star，他才是更需要被查的人。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "澳大利亚被处决",
+          "action": "处决澳大利亚",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "Hannoy, 香辣鸡腿堡",
+  "players": [
+    "Youmi",
+    "Hannoy",
+    "Run",
+    "香辣鸡腿堡",
+    "琥珀王",
+    "Star",
+    "澳大利亚"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "Run": [
+        {
+          "key": "washerwoman",
+          "text": "琥珀王 和 澳大利亚 中有一人是 图书管理员",
+          "day": 0
+        }
+      ],
+      "琥珀王": [
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 0
+        }
+      ],
+      "Star": [
+        {
+          "key": "investigator",
+          "text": "Youmi 和 Run 中有一人是 红唇女郎",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "Run": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        }
+      ],
+      "Hannoy": [
+        {
+          "key": "monk",
+          "text": "保护了 澳大利亚",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "Youmi": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        }
+      ],
+      "Hannoy": [
+        {
+          "key": "monk",
+          "text": "保护了 香辣鸡腿堡",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "Run🔄Star": [
+      {
+        "speaker": "Run",
+        "text": "综合现有信息，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Youmi确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "别绕弯子，来，我们对对信息！我的调查员技能告诉我一些事情：查到Youmi是Run！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "text": "我的笔记里记了几件事：我最怀疑Youmi。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？，观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "text": "理性分析的话，我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "别绕弯子，我们来盘一下目前的局势！里面有几个矛盾点特别值得关注！第一，；第二，Youmi的投票轨迹跟他的声明对不上！我的结论是Youmi至少需要被好好审一审！",
+        "seq": 6
+      }
+    ],
+    "Run🔄琥珀王": [
+      {
+        "speaker": "Run",
+        "text": "你好琥珀王，我是洗衣妇。首夜得知你是图书管理员——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享。如果你不认，我需要去排查信息干扰来源。",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "从逻辑上看，我们来盘一下目前的局势。Run自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "text": "客观来说，我们来盘一下目前的局势。Run自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "理性分析的话，我在想Youmi的行为能不能用洗衣妇来解释——他自称是洗衣妇，但如果是真洗衣妇，应该会洗衣妇应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "text": "综合现有信息，我是洗衣妇。琥珀王和澳大利亚两人均不认我得知的镇民图书管理员，怀疑首夜被投毒者下毒导致信息失真。你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验琥珀王、澳大利亚身份。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄Run": [
+      {
+        "speaker": "Run",
+        "text": "你好Hannoy，我是洗衣妇。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我新手不太懂，综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "text": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道琥珀王或澳大利亚之中有图书管理员。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我想问问，我盘了一下Youmi的时间线：他先说自己是洗衣妇，但在被质疑后又改口说'可能看错了'。一个真正的洗衣妇不可能看错自己的技能结果——他在临时编词。",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "text": "客观来说，我在想Youmi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄Star": [
+      {
+        "speaker": "Hannoy",
+        "text": "我想问问，你好Star，我是僧侣。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "你刚才提到我想问问，你好Star，我是僧侣！现在情报还不多，我想先听听你的判断——目前你怀疑谁？！为什么？！",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我不太信Youmi。他的僧侣声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "明摆着的事，我越来越觉得Youmi有问题！理由是：他的声明是僧侣，但他的完全不符合这个身份的行为模式！一个真正的僧侣不会这样投票！你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我的笔记里记了几件事：我最怀疑Youmi；Hannoy自称僧侣；Star自称僧侣！结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄Youmi": [
+      {
+        "speaker": "Hannoy",
+        "text": "Youmi你好，我是僧侣。第一天信息有限，但我注意到一些细节——Run自称洗衣妇，Hannoy自称僧侣，Star自称僧侣里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我跟你们说啊，真的假的？！，我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "text": "这个事情是这样的，我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "观察Youmi的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 5
+      },
+      {
+        "speaker": "Youmi",
+        "text": "你有没有注意到Hannoy和香辣鸡腿堡的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄琥珀王": [
+      {
+        "speaker": "Youmi",
+        "text": "嗨琥珀王，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "理性分析的话，综合现有信息，你刚才提到嗨琥珀王，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "这个事情是这样的，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "客观来说，我的笔记里记了几件事：我最怀疑Youmi；Youmi自称猎手；琥珀王自称猎手。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的天，我的猎手技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我越来越觉得Youmi有问题。理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄香辣鸡腿堡": [
+      {
+        "speaker": "Youmi",
+        "text": "这个事情是这样的，收到分配。我管家没问题，但我觉得剩下占卜师留着备用。如果你那边需要调整，我可以换身份。关键是你管家要站住脚，我配合你。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "你看这个局势：好人的信息越多他们就吵得越厉害。这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我跟你们说啊，你看这个局势：好人的信息越多他们就吵得越厉害。琥珀王和Youmi都自称猎手这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "综合现有信息，基于已公开的信息，制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Hannoy是某个角色。我配合说我也觉得Hannoy符合那个角色——两个独立信息位交叉验证同一结论，好人必信。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我跟你们说啊，确认攻击目标：Hannoy。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在Hannoy自称僧侣，Youmi自称猎手，琥珀王自称猎手里面的定位是信息位，威胁最大。今天集中火力搞他。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "确认攻击目标：Hannoy。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在里面的定位是信息位，威胁最大。今天集中火力搞他。",
+        "seq": 6
+      },
+      {
+        "speaker": "Youmi",
+        "text": "这个事情是这样的，目标锁定：Hannoy。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "从逻辑上看，琥珀王的发言越来越可疑了，他自称身份不明但说法前后不太一致。明天公聊我打算先提这一点，如果你也注意到了可以接我的话——这样看起来像是大家的共识而不是我一个人的判断。",
+        "seq": 8
+      },
+      {
+        "speaker": "Youmi",
+        "text": "真的假的？！，我觉得吧，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "刚才我在想，如果有人在公聊问起我们的管家身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+        "seq": 10
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我觉得吧，这个事情是这样的，刚才我在想，如果有人在公聊问起我们的猎手身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+        "seq": 12
+      }
+    ],
+    "Star🔄澳大利亚": [
+      {
+        "speaker": "Star",
+        "text": "我直接说了，这还用想？，刚才你说的你的发言，我也想聊聊这个话题！我的看法是Youmi确实值得重点观察，你觉得呢！",
+        "seq": 1
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "客观来说，对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "我在想Youmi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "text": "你刚才提到综合观察下来，Youmi的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着，这一点我也注意到了！",
+        "seq": 5
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 6
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的Star投了琥珀王，澳大利亚投了琥珀王完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "Star",
+        "text": "Youmi，我现在公开质疑你。如果你真是好人，请用你的调查员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "综合现有信息，star，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "Star",
+        "text": "我敢肯定，明摆着的事，我忍你很久了Youmi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的澳大利亚投了琥珀王，Star投了琥珀王完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "基于已公开的信息，我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的Star投了琥珀王，澳大利亚投了琥珀王完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "Star",
+        "text": "我记一下今天的重点：我最怀疑琥珀王；我最怀疑Run（昨天记的：香辣鸡腿堡自称管家；我最怀疑琥珀王）。明天继续跟进，有新情况随时找我。",
+        "seq": 12
+      }
+    ],
+    "澳大利亚🔄香辣鸡腿堡": [
+      {
+        "speaker": "澳大利亚",
+        "text": "基于已公开的信息，你好香辣鸡腿堡，我是贞洁者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "综合现有信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "从逻辑上看，我盘了一下Youmi的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我盘了一下目前的线索：加上澳大利亚自称贞洁者里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我不太信Youmi。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看Hannoy有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 6
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "基于已公开的信息，我跟你透露一个事：澳大利亚跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 7
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的香辣鸡腿堡投了琥珀王，香辣鸡腿堡投了Star，澳大利亚投了琥珀王，澳大利亚投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "基于已公开的信息，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 9
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "客观来说，综合现有信息，hannoy，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "从逻辑上看，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 11
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "基于已公开的信息，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "澳大利亚🔄琥珀王": [
+      {
+        "speaker": "澳大利亚",
+        "text": "综合现有信息，理性分析的话，琥珀王，我刚整理了一下笔记：我最怀疑Youmi；澳大利亚自称贞洁者。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "理性分析的话，综合现有信息，观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "客观来说，我越来越觉得琥珀王有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "从逻辑上看，我们来盘一下目前的局势。Run自称洗衣妇，琥珀王自称图书管理员，Youmi自称猎手里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "综合现有信息，我们来盘一下目前的局势。澳大利亚自称贞洁者里面有几个矛盾点特别值得关注。第一，；第二，琥珀王的投票轨迹跟他的声明对不上。我的结论是琥珀王至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "Star🔄Youmi": [
+      {
+        "speaker": "Youmi",
+        "text": "真的假的？！，我跟你们说啊，我的猎手技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "明摆着的事，这还用想？！，来，我们对对信息！我的调查员技能告诉我一些事情：查到Youmi是Run！",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的天，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。Star投了琥珀王，Youmi投了琥珀王你看了吗？他的投票明显不对劲。你觉得呢吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我越来越觉得Youmi有问题！理由是：他的声明是身份不明，但他的Youmi投了琥珀王，Star投了琥珀王完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄澳大利亚": [
+      {
+        "speaker": "Youmi",
+        "text": "我跟你们说啊，我觉得吧，我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 1
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "客观来说，理性分析的话，对比了几个人的发言，Star是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的天，你有没有注意到Hannoy和Star的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "你刚才提到我的天，你有没有注意到Hannoy和Star的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Star的可疑程度比想象中更高。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 5
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我的笔记里记了几件事：我最怀疑Star（昨天记的：香辣鸡腿堡自称管家；Star自称调查员）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "你好Hannoy，我是贞洁者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "可能是我理解错了，我盘了一下Star的时间线：他先说自己是贞洁者，但在被质疑后又改口说'可能看错了'。一个真正的贞洁者不可能看错自己的技能结果——他在临时编词。",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我不太信Star。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我的笔记里记了几件事：澳大利亚自称贞洁者；我最怀疑Star；我最怀疑Run（昨天记的：Star自称僧侣；Run自称洗衣妇）。结合你的信息来看，你觉得我是不是多疑了哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我盘了一下Star的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我新手不太懂，观察了一下Youmi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "大家怎么看，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的澳大利亚投了琥珀王，澳大利亚投了Star，Hannoy投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 7
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "综合现有信息，hannoy，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "可能是我理解错了，我不太确定，香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的Hannoy投了Star，澳大利亚投了琥珀王，澳大利亚投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "大家怎么看，可能是我理解错了，香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "综合现有信息，今天就到这。我们的共识是：Hannoy是第一嫌疑人。明天根据处决结果再调整策略。如果Hannoy是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 12
+      }
+    ],
+    "Star🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得澳大利亚的问题很大。Star投了琥珀王，香辣鸡腿堡投了琥珀王你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "我敢肯定，我们来盘一下目前的局势。Hannoy自称僧侣，Star自称僧侣，Run自称洗衣妇，香辣鸡腿堡自称管家里面有几个矛盾点特别值得关注。第一，Star和Hannoy都自称僧侣；第二，Youmi的投票轨迹跟他的声明对不上。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "基于已公开的信息，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "你刚才提到基于已公开的信息，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我澳大利亚不能留！你观察一下他的发，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高！",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "综合现有信息，我复盘了一下澳大利亚的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我在想Youmi的行为能不能用管家来解释——他自称是管家，但如果是真管家，应该会管家应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "基于已公开的信息，嗨Hannoy，我是管家。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "大家怎么看，我在想Youmi的行为能不能用管家来解释——他自称是管家，但如果是真管家，应该会管家应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我盘了一下目前的线索：香辣鸡腿堡投了琥珀王加上澳大利亚自称贞洁者，Run自称洗衣妇，香辣鸡腿堡自称管家，Star自称调查员里面的疑点，指向澳大利亚的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我们来盘一下目前的局势。Run自称洗衣妇，Hannoy自称僧侣，Star自称僧侣，香辣鸡腿堡自称管家，澳大利亚自称贞洁者里面有几个矛盾点特别值得关注。第一，Star和Hannoy都自称僧侣；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审哦哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "客观来说，我们来构建一个完整的推理链：你镇民的角度看澳大利亚有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "大家怎么看，我越来越觉得Youmi有问题。理由是：他的声明是管家，但他的香辣鸡腿堡投了琥珀王完全不符合这个身份的行为模式。一个真正的管家不会这样投票。",
+        "seq": 6
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "从逻辑上看，我复盘了一下澳大利亚的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 7
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "客观来说，从逻辑上看，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得澳大利亚的问题很大。Hannoy投了Star，香辣鸡腿堡投了琥珀王，香辣鸡腿堡投了Star你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 9
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的香辣鸡腿堡投了琥珀王，香辣鸡腿堡投了Star，Hannoy投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+        "seq": 10
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "基于已公开的信息，你有没有注意到澳大利亚和澳大利亚的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 11
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破呢。",
+        "seq": 12
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "图书管理员报告：{lib_info}。{anchor_explanation}请大家自报一下身份类别（镇民或外来者），我来统计一下全场的外来者总数是否和预期一致。",
+    "我是{bluff}。{fake_info}我倒不是要直接锤死{target}，但我建议大家对比一下{target}和{other}的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。{baron_tip}",
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "大家注意{target}的发言——他自称{claim}，但{accusation}这不是明摆着在撒谎吗？{fake_info}我建议今天直接出{target}，错了算我的。{baron_tip}",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。{cross_ref}{drunk_warning}{recluse_warning}",
+    "我是洗衣妇，我确认{target}是{ww_role}金水。{target}本人已认领身份，信息链清晰。{cross_ref}建议今天从外置位盘，{target}暂排好人。{drunk_warning}"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Youmi",
+        "target": "琥珀王",
+        "day": 1
+      },
+      {
+        "voter": "Run",
+        "target": "琥珀王",
+        "day": 1
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "琥珀王",
+        "day": 1
+      },
+      {
+        "voter": "Star",
+        "target": "琥珀王",
+        "day": 1
+      },
+      {
+        "voter": "澳大利亚",
+        "target": "琥珀王",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "Youmi",
+        "target": "Star",
+        "day": 2
+      },
+      {
+        "voter": "Hannoy",
+        "target": "Star",
+        "day": 2
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "Star",
+        "day": 2
+      },
+      {
+        "voter": "澳大利亚",
+        "target": "Star",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "Hannoy",
+        "target": "澳大利亚",
+        "day": 3
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "澳大利亚",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "澳大利亚",
+        "target": "琥珀王",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "Youmi",
+        "target": "Star",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "香辣鸡腿堡",
+        "target": "澳大利亚",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "各位，看看{target}的表演。{claim_str}里就{target}的声明最假。{fake_info}大家动动脑子：一个真{claim}会像他这样发言吗？不会。所以结论只有一个——{target}在撒谎，而且撒得很拙劣。{baron_tip}",
+    "调查员有重要发现：{target}是{role}。这是我首夜查验的铁证。{cross_ref}建议今天直接出{target}。{drunk_warning}{recluse_warning}",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "{target}一直在装好人，但他的马脚已经露出来了：{contradict_str}{fake_info}真正的好人被质疑时会拿出自己的信息来对质，{target}只会反问——这是邪恶的标准操作。{baron_tip}",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。{fake_info}大家说说，这些够不够处决他？{baron_tip}",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。"
+  ],
+  "ended_at": "2026-06-20T19:44:31.586293"
+}

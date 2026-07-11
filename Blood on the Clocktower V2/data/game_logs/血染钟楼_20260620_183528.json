@@ -1,0 +1,1634 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T18:35:28.774302",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "good name",
+          "context": "私聊澳大利亚",
+          "action": "你好澳大利亚，我是陌客！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊good name",
+          "action": "大家怎么看，我注意到云面包的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊澳大利亚",
+          "action": "对比了几个人的发言，云面包是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊good name",
+          "action": "可能是我理解错了，我不太信云面包。他的陌客声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊澳大利亚",
+          "action": "别绕弯子，综合观察下来，云面包的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊good name",
+          "action": "我想问问，我不太确定，对比了几个人的发言，云面包是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊云面包",
+          "action": "明摆着的事，这还用想？，云面包你好，我是陌客！第一天信息有限，但我注意到一些细节——good name自称陌客里面有些人的声明不太自然！你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊good name",
+          "action": "综合现有信息，观察Takai&xingfei的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊云面包",
+          "action": "明摆着的事，观察云面包的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题！这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊good name",
+          "action": "从逻辑上看，我注意到Takai&xingfei的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊云面包",
+          "action": "我盘了一下云面包的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'！一个真正的身份不明不可能看错自己的技能结果——他在临时编词！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊good name",
+          "action": "从逻辑上看，我盘了一下Takai&xingfei的时间线：他先说自己是陌客，但在被质疑后又改口说'可能看错了'。一个真正的陌客不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "大6，我刚整理了一下笔记：我最怀疑云面包；good name自称陌客！你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这个，这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "我敢肯定，我虽然没有查验技能，但我的逻辑告诉我云面包有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "你有没有注意到云面包和云面包的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "我不太信云面包。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "我的管家技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊大6",
+          "action": "我新手不太懂，我不太确定，你好大6，我是僧侣。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊澳大利亚",
+          "action": "我觉得吧，我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊大6",
+          "action": "我想问问，观察云面包的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊澳大利亚",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊大6",
+          "action": "我盘了一下云面包的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊澳大利亚",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "Star，我刚整理了一下笔记：good name自称陌客；我最怀疑云面包；澳大利亚自称僧侣。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "我的笔记里记了几件事：我最怀疑云面包。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "从逻辑上看，我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Star",
+          "action": "我想问问，综合观察下来，云面包的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊澳大利亚",
+          "action": "从逻辑上看，我在想云面包的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Youmi",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊云面包",
+          "action": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Youmi",
+          "action": "对比了几个人的发言，Takai&xingfei是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊云面包",
+          "action": "我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Youmi",
+          "action": "从逻辑上看，我不太信Takai&xingfei。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊云面包",
+          "action": "我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊大6",
+          "action": "从逻辑上看，大6你好，我是贞洁者。第一天信息有限，但我注意到一些细节——good name自称陌客里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊云面包",
+          "action": "我跟你们说啊，我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊大6",
+          "action": "理性分析的话，综合观察下来，Takai&xingfei的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊云面包",
+          "action": "你有没有注意到云面包和Youmi的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊大6",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊云面包",
+          "action": "真的假的？！，我觉得吧，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是云面包确实值得重点观察，你觉得呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "基于已公开的信息，从逻辑上看，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "我在想云面包的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "观察了一下云面包对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "我跟你们说啊，我的天，我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "从逻辑上看，你刚才提到我跟你们说啊，我的天，我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明云面包的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Youmi",
+          "action": "我的天，youmi你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗吧呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Takai&xingfei",
+          "action": "真的假的？！，你有没有注意到云面包和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Youmi",
+          "action": "观察了一下云面包对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Takai&xingfei",
+          "action": "这个事情是这样的，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Youmi",
+          "action": "我的笔记里记了几件事：我最怀疑云面包；Takai&xingfei自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Takai&xingfei",
+          "action": "我觉得吧，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Star",
+          "action": "嘿Star，我是洗衣妇。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Youmi",
+          "action": "客观来说，来，我们对对信息。我的调查员技能告诉我一些事情：查到大6是Takai&xingfei。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Star",
+          "action": "我的天，真的假的？！，我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Youmi",
+          "action": "客观来说，我越来越觉得云面包有问题。理由是：他的声明是洗衣妇，但他的完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Star",
+          "action": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Youmi",
+          "action": "你刚才提到我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明云面包的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['云面包', 'Takai&xingfei', '大6', 'good name', 'Star', 'Youmi', '澳大利亚']",
+          "action": "云面包: 大家好，我是镇民。我来分析一下目前的局势：暂时没有关键信息。。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察Takai&xingfei。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['云面包', 'Takai&xingfei', '大6', 'good name', 'Star', 'Youmi', '澳大利亚']",
+          "action": "Takai&xingfei: 我来理一下思路。怎么说呢，里面最让我不安的是云面包——他的声明和有冲突。某人。我建议今天就投云面包，有不同意见的可以私聊我讨论。对了另外呢，这事儿我得捋一捋，感觉没那么简单",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['云面包', 'Takai&xingfei', '大6', 'good name', 'Star', 'Youmi', '澳大利亚']",
+          "action": "大6: 我是管家，我有个重大发现：我严重怀疑云面包——他的发言逻辑前后矛盾，明显在编故事。兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。本局应该有2个外来者，但只有0个人认领。Youmi一直不报身份，很可能就是隐藏的外来者或者更糟——邪恶在冒充镇民。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['云面包', 'Takai&xingfei', '大6', 'good name', 'Star', 'Youmi', '澳大利亚']",
+          "action": "good name: 我来盘一下目前的局面。暂时没有关键信息。大6自称管家，。。综合这些，我倾向云面包有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['云面包', 'Takai&xingfei', '大6', 'good name', 'Star', 'Youmi', '澳大利亚']",
+          "action": "Star: 根据我的记录：我最怀疑云面包；Youmi自称洗衣妇；大6自称管家。某人。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['云面包', 'Takai&xingfei', '大6', 'good name', 'Star', 'Youmi', '澳大利亚']",
+          "action": "Youmi: 真的假的？！，我倒不是要直接锤死云面包，但我建议大家对比一下云面包和Youmi的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['云面包', 'Takai&xingfei', '大6', 'good name', 'Star', 'Youmi', '澳大利亚']",
+          "action": "澳大利亚: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前good name自称陌客，大6自称管家，而投票记录显示。。这些线索综合来看，我的我会重点观察云面包。希望大家也分享一下自己的观点吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "提名云面包",
+          "action": "我提名云面包。理由如下：第一，我感觉，他的声明某人有问题；第二，显示他的投票异常；第三，Youmi自称洗衣妇，大6自称管家里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "被Star提名",
+          "action": "请大家冷静。Star的指控有几个漏洞：第一，他说的证据根本不存在；第二，他自己的某人声明本身就疑点重重；第三，里他自己的投票也很奇怪。与其处决我，不如先查查Star自己。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "云面包被处决",
+          "action": "处决云面包",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "Youmi",
+          "context": "恶魔自杀",
+          "action": "自杀传位给大6",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "澳大利亚",
+          "context": "私聊大6",
+          "action": "good name，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊澳大利亚",
+          "action": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊大6",
+          "action": "我忍你很久了good name。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的大6投了云面包，澳大利亚投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊澳大利亚",
+          "action": "我的管家技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊大6",
+          "action": "我不太确定，good name，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊澳大利亚",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。澳大利亚投了云面包，大6投了云面包你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Takai&xingfei",
+          "action": "good name，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊澳大利亚",
+          "action": "我觉得吧，你刚才提到good name，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Takai&xingfei",
+          "action": "来，我们对对信息。我的僧侣技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Takai&xingfei投了云面包，澳大利亚投了云面包来分析，重点嫌疑人应该已经很明显了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊澳大利亚",
+          "action": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的澳大利亚投了云面包，Takai&xingfei投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Takai&xingfei",
+          "action": "我的笔记里记了几件事：我最怀疑good name（昨天记的：澳大利亚自称僧侣；大6自称管家）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊澳大利亚",
+          "action": "我的笔记里记了几件事：我最怀疑Youmi（昨天记的：我最怀疑云面包；Takai&xingfei自称镇长）。结合你的信息来看，你觉得我是不是多疑了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊good name",
+          "action": "我不太确定，我忍你很久了good name。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的good name投了云面包，澳大利亚投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊澳大利亚",
+          "action": "澳大利亚，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊good name",
+          "action": "大家怎么看，我忍你很久了good name。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的good name投了云面包，澳大利亚投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊澳大利亚",
+          "action": "明摆着的事，我忍你很久了澳大利亚。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的澳大利亚投了云面包，good name投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊good name",
+          "action": "good name，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊澳大利亚",
+          "action": "别绕弯子，今天就到这！我们的共识是：澳大利亚是第一嫌疑人！明天根据处决结果再调整策略！如果澳大利亚是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "我跟你们说啊，我的天，我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "澳大利亚，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "你有没有注意到good name和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "我敢肯定，我忍你很久了澳大利亚。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的大6投了云面包，good name投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "你有没有注意到good name和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "今天就到这。我们的共识是：澳大利亚是第一嫌疑人。明天根据处决结果再调整策略。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Takai&xingfei",
+          "action": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大6",
+          "action": "我跟你们说啊，我在想大6的行为能不能用管家来解释——他自称是管家，但如果是真管家，应该会管家应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Takai&xingfei",
+          "action": "我的天，我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大6",
+          "action": "来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合大6投了云面包，Takai&xingfei投了云面包来分析，重点嫌疑人应该已经很明显了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Takai&xingfei",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。Takai&xingfei投了云面包，大6投了云面包你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大6",
+          "action": "我觉得吧，我们来盘一下目前的局势。Takai&xingfei自称镇长，大6自称管家里面有几个矛盾点特别值得关注。第一，；第二，大6的投票轨迹跟他的声明对不上。我的结论是大6至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Takai&xingfei",
+          "action": "澳大利亚，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切！真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊good name",
+          "action": "真的假的？！，观察了一下大6对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Takai&xingfei",
+          "action": "别绕弯子，我越来越觉得澳大利亚有问题！理由是：他的声明是身份不明，但他的Takai&xingfei投了云面包，good name投了云面包完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊good name",
+          "action": "真的假的？！，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合good name投了云面包，Takai&xingfei投了云面包来分析，重点嫌疑人应该已经很明显了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Takai&xingfei",
+          "action": "我在想澳大利亚的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊good name",
+          "action": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的good name投了云面包，Takai&xingfei投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '大6', 'good name', '澳大利亚']",
+          "action": "云面包(已死亡): 死者的话最客观。我回顾了整个游戏过程，good name的嫌疑最大。他的声明是good name自称陌客，云面包自称贞洁者，大6自称管家，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '大6', 'good name', '澳大利亚']",
+          "action": "Takai&xingfei: 大家好，我是镇长。我来整合一下当前的信息：大6自称管家。Takai&xingfei投了云面包，大6投了云面包，good name投了云面包，Youmi投了云面包。我的建议是今天集中处决大6，理由有三：第一，大6自称管家中的声明矛盾指向他；第二，Takai&xingfei投了云面包，大6投了云面包，good name投了云面包，Youmi投了云面包显示他的投票异常；第三，某人。请各位统一票型，分散投票只会帮邪恶。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '大6', 'good name', '澳大利亚']",
+          "action": "大6: 我跟你们说啊，good name，你别装了。你刚才说你是?，那你怎么解释你的投票？Takai&xingfei投了云面包，大6投了云面包，good name投了云面包，Youmi投了云面包完全不是?该有的行为模式。你编故事之前能不能先对对台词呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '大6', 'good name', '澳大利亚']",
+          "action": "good name: 我直接说了，我来盘一下目前的局面。暂无特殊信息。大6自称管家，Takai&xingfei自称镇长，Takai&xingfei投了云面包，大6投了云面包，good name投了云面包，Youmi投了云面包。Star已死亡，云面包已死亡，Youmi已死亡。综合这些，我倾向澳大利亚有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '大6', 'good name', '澳大利亚']",
+          "action": "Star(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Takai&xingfei，理由是我观察到Youmi自称洗衣妇，大6自称管家，Takai&xingfei自称镇长里面的矛盾点和Takai&xingfei投了云面包，大6投了云面包，good name投了云面包，Youmi投了云面包的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '大6', 'good name', '澳大利亚']",
+          "action": "Youmi(已死亡): 死者的话最客观。我回顾了整个游戏过程，Takai&xingfei的嫌疑最大。他的声明是Takai&xingfei自称镇长，Youmi自称洗衣妇，大6自称管家，但他的行为完全对不上。活着的各位，别让我的死白费呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '大6', 'good name', '澳大利亚']",
+          "action": "澳大利亚: 大家好，我是僧侣。我来分析一下目前的局势：暂无特殊信息。Star已死亡，云面包已死亡，Youmi已死亡。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑good name。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "提名good name",
+          "action": "我提名good name——理由很充分：他的投票记录云面包非常反常——好人不该这样投票；Star已死亡；云面包已死亡；Youmi已死亡。我拿我的身份担保，我感觉，good name绝对不是好人。该投票了。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被大6提名",
+          "action": "请大家冷静。大6的指控有几个漏洞：第一，说实话，他说的证据根本不存在；第二，他自己的某人声明本身就疑点重重；第三，Takai&xingfei投了云面包，大6投了云面包，good name投了云面包，Youmi投了云面包里他自己的投票也很奇怪。与其处决我，不如先查查大6自己。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "good name被处决",
+          "action": "处决good name",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "大6",
+          "context": "恶魔杀人",
+          "action": "杀害澳大利亚",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "Takai&xingfei, 大6",
+  "players": [
+    "云面包",
+    "Takai&xingfei",
+    "大6",
+    "good name",
+    "Star",
+    "Youmi",
+    "澳大利亚"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "Star": [
+        {
+          "key": "investigator",
+          "text": "大6 和 Takai&xingfei 中有一人是 男爵",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "Youmi": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        }
+      ],
+      "Star": [
+        {
+          "key": "investigator",
+          "text": "大6 和 Takai&xingfei 中有一人是 男爵",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "澳大利亚": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        }
+      ],
+      "Star": [
+        {
+          "key": "investigator",
+          "text": "大6 和 Takai&xingfei 中有一人是 男爵",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "good name🔄澳大利亚": [
+      {
+        "speaker": "good name",
+        "text": "你好澳大利亚，我是陌客！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "大家怎么看，我注意到云面包的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "text": "对比了几个人的发言，云面包是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+        "seq": 3
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "可能是我理解错了，我不太信云面包。他的陌客声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "text": "别绕弯子，综合观察下来，云面包的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+        "seq": 5
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我想问问，我不太确定，对比了几个人的发言，云面包是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 6
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我不太确定，我忍你很久了good name。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的good name投了云面包，澳大利亚投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "text": "澳大利亚，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "大家怎么看，我忍你很久了good name。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的good name投了云面包，澳大利亚投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "text": "明摆着的事，我忍你很久了澳大利亚。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的澳大利亚投了云面包，good name投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "good name，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "text": "别绕弯子，今天就到这！我们的共识是：澳大利亚是第一嫌疑人！明天根据处决结果再调整策略！如果澳大利亚是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！",
+        "seq": 12
+      }
+    ],
+    "good name🔄云面包": [
+      {
+        "speaker": "good name",
+        "text": "明摆着的事，这还用想？，云面包你好，我是陌客！第一天信息有限，但我注意到一些细节——good name自称陌客里面有些人的声明不太自然！你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "云面包",
+        "text": "综合现有信息，观察Takai&xingfei的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "text": "明摆着的事，观察云面包的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题！这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问！",
+        "seq": 3
+      },
+      {
+        "speaker": "云面包",
+        "text": "从逻辑上看，我注意到Takai&xingfei的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "text": "我盘了一下云面包的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'！一个真正的身份不明不可能看错自己的技能结果——他在临时编词！",
+        "seq": 5
+      },
+      {
+        "speaker": "云面包",
+        "text": "从逻辑上看，我盘了一下Takai&xingfei的时间线：他先说自己是陌客，但在被质疑后又改口说'可能看错了'。一个真正的陌客不可能看错自己的技能结果——他在临时编词。",
+        "seq": 6
+      }
+    ],
+    "good name🔄大6": [
+      {
+        "speaker": "good name",
+        "text": "大6，我刚整理了一下笔记：我最怀疑云面包；good name自称陌客！你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这个，这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "text": "我敢肯定，我虽然没有查验技能，但我的逻辑告诉我云面包有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "你有没有注意到云面包和云面包的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "text": "我不太信云面包。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "我的管家技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 6
+      },
+      {
+        "speaker": "大6",
+        "text": "我跟你们说啊，我的天，我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "text": "澳大利亚，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+        "seq": 8
+      },
+      {
+        "speaker": "大6",
+        "text": "你有没有注意到good name和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "text": "我敢肯定，我忍你很久了澳大利亚。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的大6投了云面包，good name投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的！",
+        "seq": 10
+      },
+      {
+        "speaker": "大6",
+        "text": "你有没有注意到good name和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "text": "今天就到这。我们的共识是：澳大利亚是第一嫌疑人。明天根据处决结果再调整策略。",
+        "seq": 12
+      }
+    ],
+    "大6🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "我新手不太懂，我不太确定，你好大6，我是僧侣。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "我觉得吧，我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我想问问，观察云面包的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问呢吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我盘了一下云面包的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢吧。",
+        "seq": 6
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "good name，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "大6",
+        "text": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式呢。",
+        "seq": 8
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我忍你很久了good name。你的发言从头到尾都是漏洞：第一，你的管家声明前后不一致；第二，你的大6投了云面包，澳大利亚投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "大6",
+        "text": "我的管家技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢。",
+        "seq": 10
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我不太确定，good name，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "大6",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。澳大利亚投了云面包，大6投了云面包你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 12
+      }
+    ],
+    "Star🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "Star，我刚整理了一下笔记：good name自称陌客；我最怀疑云面包；澳大利亚自称僧侣。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "我的笔记里记了几件事：我最怀疑云面包。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "从逻辑上看，我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我想问问，综合观察下来，云面包的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "从逻辑上看，我在想云面包的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄云面包": [
+      {
+        "speaker": "云面包",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "text": "对比了几个人的发言，Takai&xingfei是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "text": "从逻辑上看，我不太信Takai&xingfei。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 5
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 6
+      }
+    ],
+    "云面包🔄大6": [
+      {
+        "speaker": "云面包",
+        "text": "从逻辑上看，大6你好，我是贞洁者。第一天信息有限，但我注意到一些细节——good name自称陌客里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "我跟你们说啊，我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "text": "理性分析的话，综合观察下来，Takai&xingfei的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "你有没有注意到云面包和Youmi的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "真的假的？！，我觉得吧，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 6
+      }
+    ],
+    "Star🔄Takai&xingfei": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是云面包确实值得重点观察，你觉得呢吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "基于已公开的信息，从逻辑上看，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审。",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我在想云面包的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "观察了一下云面包对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我跟你们说啊，我的天，我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "从逻辑上看，你刚才提到我跟你们说啊，我的天，我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明云面包的可疑程度比想象中更高。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄Youmi": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的天，youmi你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗吧呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "text": "真的假的？！，你有没有注意到云面包和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "观察了一下云面包对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "text": "这个事情是这样的，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的笔记里记了几件事：我最怀疑云面包；Takai&xingfei自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我觉得吧，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "Star🔄Youmi": [
+      {
+        "speaker": "Youmi",
+        "text": "嘿Star，我是洗衣妇。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "客观来说，来，我们对对信息。我的调查员技能告诉我一些事情：查到大6是Takai&xingfei。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的天，真的假的？！，我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "客观来说，我越来越觉得云面包有问题。理由是：他的声明是洗衣妇，但他的完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "你刚才提到我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明云面包的可疑程度比想象中更高。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "good name，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我觉得吧，你刚才提到good name，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "来，我们对对信息。我的僧侣技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Takai&xingfei投了云面包，澳大利亚投了云面包来分析，重点嫌疑人应该已经很明显了啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的澳大利亚投了云面包，Takai&xingfei投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我的笔记里记了几件事：我最怀疑good name（昨天记的：澳大利亚自称僧侣；大6自称管家）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的笔记里记了几件事：我最怀疑Youmi（昨天记的：我最怀疑云面包；Takai&xingfei自称镇长）。结合你的信息来看，你觉得我是不是多疑了哦。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我跟你们说啊，我在想大6的行为能不能用管家来解释——他自称是管家，但如果是真管家，应该会管家应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "我的天，我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合大6投了云面包，Takai&xingfei投了云面包来分析，重点嫌疑人应该已经很明显了哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。Takai&xingfei投了云面包，大6投了云面包你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我觉得吧，我们来盘一下目前的局势。Takai&xingfei自称镇长，大6自称管家里面有几个矛盾点特别值得关注。第一，；第二，大6的投票轨迹跟他的声明对不上。我的结论是大6至少需要被好好审一审。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄good name": [
+      {
+        "speaker": "good name",
+        "text": "澳大利亚，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切！真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者！",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，观察了一下大6对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "text": "别绕弯子，我越来越觉得澳大利亚有问题！理由是：他的声明是身份不明，但他的Takai&xingfei投了云面包，good name投了云面包完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "真的假的？！，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合good name投了云面包，Takai&xingfei投了云面包来分析，重点嫌疑人应该已经很明显了呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "text": "我在想澳大利亚的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的good name投了云面包，Takai&xingfei投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理呢。",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "我来理一下思路。{claim_str}里面最让我不安的是{target}——他的声明和{vote_str}有冲突。{info_or_opinion}。我建议今天就投{target}，有不同意见的可以私聊我讨论。",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我是{bluff}，我有个重大发现：{fake_info}兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。{baron_tip}",
+    "我倒不是要直接锤死{target}，但我建议大家对比一下{target}和{other}的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。{baron_tip}"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "大6",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "good name",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "Youmi",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "澳大利亚",
+        "target": "云面包",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "good name",
+        "day": 2
+      },
+      {
+        "voter": "大6",
+        "target": "good name",
+        "day": 2
+      },
+      {
+        "voter": "澳大利亚",
+        "target": "good name",
+        "day": 2
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "Star",
+        "target": "云面包",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "大6",
+        "target": "good name",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_2": [
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "大家好，我是镇长。我来整合一下当前的信息：{claim_str}。{vote_str}。我的建议是今天集中处决{target}，理由有三：第一，{claim_str}中的声明矛盾指向他；第二，{vote_str}显示他的投票异常；第三，{stage_evidence}。请各位统一票型，分散投票只会帮邪恶。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "{target}，你别装了。你刚才说你是{claim}，那你怎么解释你的投票？{vote_str}完全不是{claim}该有的行为模式。你编故事之前能不能先对对台词？{baron_tip}"
+  ],
+  "ended_at": "2026-06-20T18:35:28.925193"
+}

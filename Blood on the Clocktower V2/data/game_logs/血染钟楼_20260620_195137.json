@@ -1,0 +1,2855 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T19:51:14.215647",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "琥珀王，想跟你对一下信息。我圣徒这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "我跟你们说啊，真的假的？！，注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "可能是我理解错了，我不太确定，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "我觉得吧，我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊when？",
+          "action": "你好when？，我是圣徒。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看progress这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊薛猫",
+          "action": "综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊when？",
+          "action": "我不太确定，你有没有注意到progress和Rujie Shi的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊薛猫",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我progress有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊when？",
+          "action": "真的假的？！，我的天，when？你好，我是贞洁者。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊任",
+          "action": "我新手不太懂，我对progress的贞洁者声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊when？",
+          "action": "我注意到progress的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊任",
+          "action": "我盘了一下progress的时间线：他先说自己是贞洁者，但在被质疑后又改口说'可能看错了'。一个真正的贞洁者不可能看错自己的技能结果——他在临时编词哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊wowo",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊任",
+          "action": "我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊wowo",
+          "action": "观察progress的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊任",
+          "action": "大家怎么看，你刚才提到观察progress的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊大6",
+          "action": "我敢肯定，明摆着的事，嗨大6，我是镇长。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊则夷则",
+          "action": "观察progress的发言轨迹：他被第一次问到时给出了镇长相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊大6",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看任有问题，我镇长分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊则夷则",
+          "action": "理性分析的话，对比了几个人的发言，progress是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊wowo",
+          "action": "别绕弯子，嘿wowo，我是镇长。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊则夷则",
+          "action": "我不太确定，我的笔记里记了几件事：我最怀疑progress；则夷则自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊wowo",
+          "action": "我盘了一下目前的线索：加上则夷则自称镇长里面的疑点，指向任的嫌疑最大！我们可以拿这套逻辑去公聊推动投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊则夷则",
+          "action": "我新手不太懂，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Rujie Shi或猪头鹰之中有士兵。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊琥珀王",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊猪头鹰",
+          "action": "我的笔记里记了几件事：我最怀疑progress。怎么说呢，结合你的信息来看，你觉得我是不是多疑了？。对了再补充一点，但说真的，现在下结论确实有点早",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊琥珀王",
+          "action": "我的天，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。我的结论是progress至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊猪头鹰",
+          "action": "我的天，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数1。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊progress",
+          "action": "progress你好，我是守鸦人。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？。对了还有啊，我觉得我们要多观察几轮",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊猪头鹰",
+          "action": "别绕弯子，我跟你透露一个事：薛猫跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊progress",
+          "action": "注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊猪头鹰",
+          "action": "薛猫，我直接问你几个问题：你自称守鸦人，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Hannoy",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大6",
+          "action": "大家怎么看，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Hannoy",
+          "action": "综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大6",
+          "action": "可能是我理解错了，注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。我的结论是progress至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "大家怎么看，我们来盘一下目前的局势。Hannoy自称送葬者里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Rujie Shi",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊困困",
+          "action": "我越来越觉得progress有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Rujie Shi",
+          "action": "我跟你们说啊，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了则夷则和大6，有恶魔。建议今天推则夷则。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊困困",
+          "action": "我不太确定，大家怎么看，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。我的结论是progress至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Rujie Shi",
+          "action": "这还用想？，嘿Rujie Shi，我是陌客！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊progress",
+          "action": "可能是我理解错了，我不太确定，我在想progress的行为能不能用陌客来解释——他自称是陌客，但如果是真陌客，应该会陌客应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Rujie Shi",
+          "action": "这还用想？，你有没有注意到薛猫和Hannoy的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊progress",
+          "action": "我的笔记里记了几件事：我最怀疑progress；progress自称陌客。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "progress: 我是陌客，我有个重大发现：大家注意猪头鹰，他的投票轨迹不对——好人不这样投票！兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "薛猫: 大家注意progress的发言——他自称?，但这不是明摆着在撒谎吗？大家注意猪头鹰，他的投票轨迹不对——好人不这样投票。我建议今天直接出progress，错了算我的。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "任: 我的天，根据我的记录：我最怀疑progress；任自称贞洁者；progress自称陌客。。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "困困: 我是占卜师，昨晚查验了则夷则和大6，有恶魔！这两人必须处决一个。有恶魔嫌疑我建议先从则夷则开始盘——如果他是好人翻出来，那大6就是铁邪恶。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "琥珀王: 我厨师首夜查到1对相邻邪恶。这个数字意味着：有至少一对邪恶相邻。我注意到困困也报了占卜师身份——两个信息位的结果如果能对上，就能锁定范围了。欢迎大家一起分析。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "when？: 我来盘一下目前的局面。暂时没有关键信息。薛猫自称圣徒，任自称贞洁者，progress自称陌客，困困自称占卜师，。。本局12人场标准配置2个外来者，目前2人认领。如果数字对不上，可能有人隐藏身份或有男爵。综合这些，我倾向progress有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "Hannoy: 大家好，我是送葬者。我来分析一下目前的局势：暂时没有关键信息。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "大6: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前则夷则自称镇长，Hannoy自称送葬者，progress自称陌客，困困自称占卜师，而投票记录显示。。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。这些线索综合来看，我的我会重点观察progress。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "wowo: 可能是我理解错了，洗衣妇报信息：我查到Rujie Shi是士兵，本人已认领。我注意到困困也报了占卜师身份——两个信息位的结果如果能对上，就能锁定范围了。这意味着我们有了一条干净的信息链。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "猪头鹰: 我的天，分享一下我的观察：暂时没有关键信息。progress自称陌客，困困自称占卜师，Hannoy自称送葬者里面有几个点值得注意。。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。我会重点观察progress。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "Rujie Shi: 大家怎么看，我是士兵，恶魔刀不死我。我来说句直白的：progress有问题。progress自称陌客，困困自称占卜师，Hannoy自称送葬者里他的声明站不住脚——我对progress有怀疑。我不怕刀，所以我敢直接点名。今天出progress，我担保他不是好人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '困困', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi', '则夷则']",
+          "action": "则夷则: 我是镇长。大家注意Hannoy，他的投票轨迹不对——好人不这样投票。说一个我的观察：任和Rujie Shi在私聊阶段有过接触，之后任的公聊口径突然变了——这像是串过供的样子。你们不觉得奇怪吗！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "提名则夷则",
+          "action": "我提名则夷则。理由：第一，我觉得吧，他的某人声明与对不上；第二，里面他投的票和全场趋势不一致；第三，薛猫自称圣徒，任自称贞洁者，progress自称陌客，困困自称占卜师，Hannoy自称送葬者中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "被when？提名",
+          "action": "我是镇长。when？说我有问题，但他的理由站不住脚：他指控我的依据根本不成立。大家想想，如果我真有问题，when？为什么不拿出实锤证据？因为他拿不出来——因为他自己才是心中有鬼的那个。我建议今天先查任，他才是真正可疑的人哦。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "则夷则被处决",
+          "action": "处决则夷则",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "薛猫",
+          "context": "恶魔杀人",
+          "action": "杀害困困",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "大家怎么看，我想问问，hannoy，我刚整理了一下笔记：我最怀疑progress（昨天记的：困困自称占卜师；Hannoy自称送葬者）。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗哦哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "我越来越觉得则夷则有问题。理由是：他的声明是送葬者，但他的Hannoy投了则夷则，wowo投了则夷则完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "我不太确定，注意则夷则的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊薛猫",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是则夷则确实值得重点观察，你觉得呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊wowo",
+          "action": "我想问问，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得任的问题很大。wowo投了则夷则你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊薛猫",
+          "action": "我想问问，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Rujie Shi或猪头鹰之中有士兵。你觉得这意味着什么？结合wowo投了则夷则来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊wowo",
+          "action": "我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我任不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊琥珀王",
+          "action": "你刚才提到我的天，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数1。你觉得这意味着什么？结合来分析，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊猪头鹰",
+          "action": "真的假的？！，你刚才提到你刚才提到我的天，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数1。你觉得这意味着什么？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊琥珀王",
+          "action": "我觉得吧，我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：猪头鹰自称守鸦人，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊猪头鹰",
+          "action": "真的假的？！，我的天，我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊薛猫",
+          "action": "我跟你们说啊，薛猫你好，我是守鸦人。第一天信息有限，但我注意到一些细节——猪头鹰自称守鸦人，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有些人的声明不太自然。你同感吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊猪头鹰",
+          "action": "我想问问，可能是我理解错了，任，我直接问你几个问题：你自称守鸦人，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊薛猫",
+          "action": "真的假的？！，我的笔记里记了几件事：我最怀疑progress；我最怀疑则夷则；猪头鹰自称守鸦人（昨天记的：困困自称占卜师；Hannoy自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊猪头鹰",
+          "action": "我想问问，任的发言和行为对不上——他说自己是守鸦人，但我观察到他我最怀疑任；猪头鹰自称守鸦人（昨天记的：薛猫自称圣徒；progress自称陌客）。一个真正的守鸦人不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是则夷则确实值得重点观察，你觉得呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "理性分析的话，观察progress的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "大家怎么看，可能是我理解错了，我对则夷则的身份不明声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "综合观察下来，则夷则的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊任",
+          "action": "我想问问，对比了几个人的发言，则夷则是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊when？",
+          "action": "我跟你们说啊，对比了几个人的发言，progress是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊任",
+          "action": "大家怎么看，我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：薛猫自称圣徒，任自称贞洁者，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵和任投了则夷则，when？投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊when？",
+          "action": "我觉得吧，我知道你可能还在犹豫，但我真的建议你今天投progress。理由我再说一遍：任自称贞洁者，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和when？投了则夷则，任投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊琥珀王",
+          "action": "琥珀王你好，我是士兵。第一天信息有限，但我注意到一些细节——progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有些人的声明不太自然。你同感吗哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Rujie Shi",
+          "action": "我觉得吧，注意则夷则的回应模式：第一次被质疑士兵声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真士兵，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊琥珀王",
+          "action": "我新手不太懂，我在想则夷则的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Rujie Shi",
+          "action": "我越来越觉得则夷则有问题。理由是：他的声明是士兵，但他的Rujie Shi投了则夷则，琥珀王投了则夷则完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊任",
+          "action": "你好任，我是士兵。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Rujie Shi",
+          "action": "我的天，我对则夷则的士兵声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊任",
+          "action": "我的笔记里记了几件事：我最怀疑progress；Rujie Shi自称士兵；我最怀疑则夷则（昨天记的：困困自称占卜师；Hannoy自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Rujie Shi",
+          "action": "我注意到则夷则的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "progress你好，我是送葬者。第一天信息有限，但我注意到一些细节——Hannoy自称送葬者，progress自称陌客，困困自称占卜师，Rujie Shi自称士兵，则夷则自称镇长里面有些人的声明不太自然。你同感吗哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "我跟你透露一个事：薛猫跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "可能是我理解错了，我们来盘一下目前的局势。Hannoy自称送葬者，progress自称陌客，困困自称占卜师，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审吧呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "别绕弯子，我的陌客技能虽然没有直接查到铁证，但我的直觉告诉我薛猫不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "理性分析的话，你好progress，我是管家。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "我直接说了，我复盘了薛猫的全部公聊发言，发现几个具体矛盾：第一，他先说自己是管家，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了Rujie Shi；第三，里他的投票和管家身份的利益取向完全不符！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "客观来说，客观来说，我注意到则夷则的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "我敢肯定，明摆着的事，薛猫，我直接问你几个问题：你自称管家，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "progress: 我敢肯定，薛猫自称?，但发言和这个身份不符！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "薛猫: 我本来想再观察一轮，但任的发言实在太离谱了。你说你是?，可你的任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？投了则夷则完全不符合你的身份。我来给大家捋一捋：第一，任的声明有问题；第二，他的投票记录暴露了他；第三，。三点证据链闭合了，没什么好犹豫的。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "任: 大家好，我是镇民。我来分析一下目前的局势：暂无特殊信息。则夷则已死亡，困困已死亡，则夷则已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑则夷则呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "困困(已死亡): 我觉得吧，死者的话最客观。我回顾了整个游戏过程，progress的嫌疑最大。他的声明是progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "琥珀王: 我跟你们说啊，回顾一下厨师首夜结果：1对相邻邪恶。再看现在的困困(自称占卜师)，when？(自称?)，我倾向于今天从邻居中出一个。厨师的初始数据和后续发言相互印证啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "when？: 我新手不太懂，根据我的记录：我最怀疑则夷则（昨天记的：progress自称陌客；困困自称占卜师）。则夷则已死亡，困困已死亡，则夷则已死亡。大家怎么看呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "Hannoy: 我不太确定，送葬者报身份：昨天出局的是共情者，善良阵营。处决错了……这是铁证，我的技能不会错。基于这个结果，之前保共情者的人要重点盘，踩共情者的人可以考虑排好。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "大6: 我来盘一下目前的局面。暂无特殊信息。则夷则自称镇长，Hannoy自称送葬者，progress自称陌客，困困自称占卜师，Rujie Shi自称士兵，任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？投了则夷则。则夷则已死亡，困困已死亡，则夷则已死亡。本局12人场标准配置2个外来者，目前2人认领。如果数字对不上，可能有人隐藏身份或有男爵。综合这些，我倾向progress有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "wowo: 可能是我理解错了，洗衣妇报信息：我查到猪头鹰是士兵，本人已认领。我注意到困困也报了占卜师身份——两个信息位的结果如果能对上，就能锁定范围了。这意味着我们有了一条干净的信息链吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "猪头鹰: 这个事情是这样的，分享一下我的观察：暂无特殊信息。progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有几个点值得注意。则夷则已死亡，困困已死亡，则夷则已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。基于以上，我怀疑则夷则。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "Rujie Shi: 我是士兵，恶魔刀不死我。我来说句直白的：progress有问题。progress自称陌客，困困自称占卜师，Hannoy自称送葬者，则夷则自称镇长里他的声明站不住脚——我对则夷则有怀疑。我不怕刀，所以我敢直接点名。今天出progress，我担保他不是好人吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['progress', '薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', '猪头鹰', 'Rujie Shi']",
+          "action": "则夷则(已死亡): 死者的话最客观。我回顾了整个游戏过程，wowo的嫌疑最大。他的声明是则夷则自称镇长，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "提名大6",
+          "action": "我提名大6。理由：第一，他的某人声明与对不上；第二，任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？投了则夷则里面他投的票和全场趋势不一致；第三，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长中他的定位有问题。请大家投票处决哈。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "被琥珀王提名",
+          "action": "我是管家，虽然能力有限但我始终站在好人这边。琥珀王的信息和推理明显有漏洞——大家仔细想想，他说的那些真的站得住脚吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "提名progress",
+          "action": "其实吧，我提名progress。理由：第一，他的某人声明与对不上；第二，任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？投了则夷则里面他投的票和全场趋势不一致；第三，薛猫自称圣徒，任自称贞洁者，progress自称陌客，困困自称占卜师，Hannoy自称送葬者中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "被when？提名",
+          "action": "我直接说吧，我是陌客。when？说我有问题，但他的理由站不住脚：他指控我的依据根本不成立。大家想想，如果我真有问题，when？为什么不拿出实锤证据？因为他拿不出来——因为他自己才是心中有鬼的那个。我建议今天先查薛猫，他才是真正可疑的人。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "progress被处决",
+          "action": "处决progress",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "薛猫",
+          "context": "恶魔杀人",
+          "action": "杀害猪头鹰",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊wowo",
+          "action": "我觉得吧，你好wowo，我是厨师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标啊吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，我们来盘一下目前的局势。则夷则自称镇长，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，琥珀王自称厨师里面有几个矛盾点特别值得关注。第一，；第二，Hannoy的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊wowo",
+          "action": "这个事情是这样的，我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊琥珀王",
+          "action": "我不太确定，我的笔记里记了几件事：琥珀王自称厨师；我最怀疑Hannoy；我最怀疑薛猫（昨天记的：我最怀疑progress；我最怀疑则夷则）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊wowo",
+          "action": "我的天，我跟你们说啊，我的笔记里记了几件事：我最怀疑则夷则；琥珀王自称厨师；我最怀疑when？（昨天记的：我最怀疑则夷则；Rujie Shi自称士兵）。结合你的信息来看，你觉得我是不是多疑了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，我新手不太懂，我越来越觉得progress有问题。理由是：他的声明是厨师，但他的琥珀王投了则夷则，琥珀王投了progress，wowo投了则夷则，wowo投了progress完全不符合这个身份的行为模式。一个真正的厨师不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "when？，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的when？投了则夷则，when？投了大6，琥珀王投了则夷则，琥珀王投了progress为什么会这样投？请正面回答，不要转移话题吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "我注意到progress的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "来，我们对对信息。我的厨师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了则夷则，when？投了大6，琥珀王投了则夷则，琥珀王投了progress来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "你刚才提到大家怎么看，综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明薛猫的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "对比了几个人的发言，progress是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "薛猫，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，我们来盘一下目前的局势。Hannoy自称送葬者，progress自称陌客，困困自称占卜师，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我觉得吧，我们来盘一下目前的局势。Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长，琥珀王自称厨师里面有几个矛盾点特别值得关注。第一，；第二，薛猫的投票轨迹跟他的声明对不上。我的结论是薛猫至少需要被好好审一审吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "我的笔记里记了几件事：我最怀疑progress（昨天记的：我最怀疑则夷则；Hannoy自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我跟你们说啊，注意薛猫的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "你刚才提到我跟你们说啊，注意薛猫的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊when？",
+          "action": "when？的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑when？（昨天记的：我最怀疑任；猪头鹰自称守鸦人）。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊薛猫",
+          "action": "大家怎么看，我想问问，我们来盘一下目前的局势。progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，薛猫的投票轨迹跟他的声明对不上。我的结论是薛猫至少需要被好好审一审吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊when？",
+          "action": "可能是我理解错了，我不太确定，我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊薛猫",
+          "action": "可能是我理解错了，我忍你很久了薛猫。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的薛猫投了大6，when？投了则夷则，when？投了大6完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊when？",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？。的问题很大。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊薛猫",
+          "action": "薛猫，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Hannoy",
+          "action": "我新手不太懂，when？。，我直接问你几个问题：你自称送葬者，那你的技能结果具体是什么？。为什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊薛猫",
+          "action": "我越来越觉得薛猫有问题。理由是：他的声明是身份不明，但他的薛猫投了大6，Hannoy投了则夷则，Hannoy投了大6完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Hannoy",
+          "action": "可能是我理解错了，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊薛猫",
+          "action": "我在想薛猫的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Hannoy",
+          "action": "我复盘了when？的全部公聊发言，发现几个具体矛盾：第一，他先说自己是送葬者，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了任；第三，Hannoy投了则夷则，Hannoy投了大6，薛猫投了大6里他的投票和送葬者身份的利益取向完全不符啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊薛猫",
+          "action": "注意薛猫的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Rujie Shi",
+          "action": "Rujie Shi，想跟你对一下信息。我送葬者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊薛猫",
+          "action": "我想问问，注意when？。的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Rujie Shi",
+          "action": "我不太确定，我新手不太懂，你有没有注意到when？和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊薛猫",
+          "action": "大家怎么看，你刚才提到我不太确定，我新手不太懂，你有没有注意到when？和琥珀王的互动？他们之间几乎不互相质疑——这在正常，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Rujie Shi",
+          "action": "我想问问，when？。，我直接问你几个问题：你自称士兵，那你的技能结果具体是什么？。为什么？哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊薛猫",
+          "action": "我们来盘一下目前的局势。progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，薛猫的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Rujie Shi",
+          "action": "Rujie Shi，我刚整理了一下笔记：我最怀疑progress（昨天记的：我最怀疑则夷则；Hannoy自称送葬者）。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Hannoy",
+          "action": "我想问问，我的笔记里记了几件事：我最怀疑when？；我最怀疑薛猫（昨天记的：Rujie Shi自称士兵；我最怀疑则夷则）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Rujie Shi",
+          "action": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合Rujie Shi投了则夷则，Rujie Shi投了progress，Hannoy投了则夷则，Hannoy投了大6来分析，重点嫌疑人应该已经很明显了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Hannoy",
+          "action": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Hannoy投了则夷则，Hannoy投了大6，Rujie Shi投了则夷则，Rujie Shi投了progress来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Rujie Shi",
+          "action": "注意progress的回应模式：第一次被质疑士兵声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真士兵，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Hannoy",
+          "action": "可能是我理解错了，我越来越觉得薛猫有问题。理由是：他的声明是送葬者，但他的Hannoy投了则夷则，Hannoy投了大6，Rujie Shi投了则夷则，Rujie Shi投了progress完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Rujie Shi",
+          "action": "我觉得吧，观察when？的发言轨迹：他被第一次问到时给出了士兵相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊任",
+          "action": "我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Rujie Shi",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和Rujie Shi投了则夷则，Rujie Shi投了progress，任投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊任",
+          "action": "听我分析完再做决定：如果progress是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投progress的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Rujie Shi",
+          "action": "真的假的？！，听我分析完再做决定：如果when？是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投when？的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊任",
+          "action": "可能是我理解错了，我想问问，我知道你可能还在犹豫，但我真的建议你今天投progress。理由我再说一遍：Rujie Shi自称士兵，则夷则自称镇长，Hannoy自称送葬者和任投了则夷则，Rujie Shi投了则夷则，Rujie Shi投了progress交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊wowo",
+          "action": "我注意到when？的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊任",
+          "action": "可能是我理解错了，注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊wowo",
+          "action": "这个事情是这样的，我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和wowo投了则夷则，wowo投了progress，任投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊任",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投progress。理由我再说一遍：困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长，琥珀王自称厨师和任投了则夷则，wowo投了则夷则，wowo投了progress交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊wowo",
+          "action": "听我分析完再做决定：如果when？是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投when？的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊任",
+          "action": "出问题了：Rujie Shi和猪头鹰都不承认士兵这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊大6",
+          "action": "when？，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊任",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：任投了则夷则，大6投了progress里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊大6",
+          "action": "我的笔记里记了几件事：我最怀疑when？；wowo自称酒鬼（昨天记的：Rujie Shi自称士兵；我最怀疑则夷则）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊任",
+          "action": "理性分析的话，观察Hannoy的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊大6",
+          "action": "我越来越觉得when？有问题。理由是：他的声明是身份不明，但他的大6投了progress，任投了则夷则完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊任",
+          "action": "对比了几个人的发言，Hannoy是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "我想问问，来，我们对对信息。我的猎手技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "综合现有信息，我越来越觉得Hannoy有问题。理由是：他的声明是身份不明，但他的when？投了则夷则，when？投了大6，大6投了progress完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "我不太确定，我忍你很久了薛猫。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的大6投了progress，when？投了则夷则，when？投了大6完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？投了则夷则，when？投了大6，大6投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "薛猫，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "综合现有信息，hannoy，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊wowo",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Hannoy确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊大6",
+          "action": "我不太确定，来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊wowo",
+          "action": "理性分析的话，我盘了一下Hannoy的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊大6",
+          "action": "我想问问，我在想薛猫的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊wowo",
+          "action": "客观来说，基于已公开的信息，我注意到Hannoy的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊大6",
+          "action": "大家怎么看，你刚才提到客观来说，基于已公开的信息，我注意到Hannoy的发言模式很可疑。他的每一句话都在'自保'而不是在'，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明薛猫的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "progress(已死亡): 别绕弯子，我已经是个死人了，我的判断应该更有参考价值！我死前最怀疑大6，理由是我观察到猪头鹰自称守鸦人，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵里面的矛盾点和任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？投了则夷则的异常！活着的兄弟们，帮我报仇！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "薛猫: when？，你别装了。你刚才说你是?，那你怎么解释你的投票？任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？投了则夷则完全不是?该有的行为模式。你编故事之前能不能先对对台词？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "任: 我怀疑我们中间有人在冒充身份。我提议一个方案：每个人轮流说出自己第一天晚上的行动细节。真正的信息位一定能说出具体操作，假信息位只能泛泛而谈。when？敢接这个挑战吗？不敢的话——你知道你是什么情况。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "困困(已死亡): 死者的话最客观。我回顾了整个游戏过程，progress的嫌疑最大。他的声明是progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "琥珀王: 真的假的？！，回顾一下厨师首夜结果：1对相邻邪恶。再看现在的困困(自称?)，when？(自称?)，我倾向于今天从邻居中出一个。厨师的初始数据和后续发言相互印证。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "when？: 我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于某个身份的声明，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己。薛猫，你有什么想说的吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "Hannoy: 可能是我理解错了，送葬者报身份：昨天出局的是守鸦人，善良阵营。处决错了……这是铁证，我的技能不会错。基于这个结果，之前保守鸦人的人要重点盘，踩守鸦人的人可以考虑排好。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "大6: 分享一下我的观察：暂无特殊信息。Rujie Shi自称士兵里面有几个点值得注意。则夷则已死亡，困困已死亡，则夷则已死亡。按人数计算，本局应该有2个外来者，但现在只有0个人认领——还有2个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前0人认领。如果数字对不上，可能有人隐藏身份或有男爵。基于以上，我怀疑Hannoy。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "wowo: 我是洗衣妇，我确认猪头鹰是士兵金水。猪头鹰本人已认领身份，信息链清晰。琥珀王自称厨师，他的信息范围应该包含任——这跟我的分析可以交叉验证。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "猪头鹰(已死亡): 我的天，我是渡鸦！我死前查验了when？——他是猎手，属于善良阵营！大家注意，我的信息是准确的——我死之前查到的就是铁证。when？如果是邪恶，今天必须处决他！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "Rujie Shi: 我新手不太懂，我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于某个身份的声明，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['薛猫', '任', '琥珀王', 'when？', 'Hannoy', '大6', 'wowo', 'Rujie Shi']",
+          "action": "则夷则(已死亡): 我已经是个死人了，我的判断应该更有参考价值！我死前最怀疑wowo，理由是我观察到则夷则自称镇长，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵里面的矛盾点和任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？！投了则夷则的异常！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "提名薛猫",
+          "action": "怎么说呢……，我提名薛猫。理由：第一，他的某人声明与对不上；第二，任投了则夷则，困困投了则夷则，琥珀王投了则夷则，when？投了则夷则里面他投的票和全场趋势不一致；第三，Rujie Shi自称士兵，Hannoy自称送葬者，wowo自称洗衣妇中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "被Hannoy提名",
+          "action": "我是圣徒。Hannoy指控我全靠推测，没有一条是实锤。这个游戏靠证据说话，不是靠感觉定罪的。我建议好人今天先投when？，明天再盘我不迟。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "薛猫被处决",
+          "action": "处决薛猫",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "good_win",
+  "survivors": "任, 琥珀王, when？, Hannoy, 大6, wowo, Rujie Shi",
+  "players": [
+    "progress",
+    "薛猫",
+    "任",
+    "困困",
+    "琥珀王",
+    "when？",
+    "Hannoy",
+    "大6",
+    "wowo",
+    "猪头鹰",
+    "Rujie Shi",
+    "则夷则"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "困困": [
+        {
+          "key": "seer",
+          "text": "查验 ['则夷则', '大6']，发现恶魔",
+          "day": 0
+        }
+      ],
+      "琥珀王": [
+        {
+          "key": "chef",
+          "text": "有 1 对相邻的邪恶玩家",
+          "day": 0
+        }
+      ],
+      "wowo": [
+        {
+          "key": "washerwoman",
+          "text": "Rujie Shi 和 猪头鹰 中有一人是 士兵",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "困困": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        },
+        {
+          "key": "seer",
+          "text": "查验 ['则夷则', '大6']，发现恶魔",
+          "day": 1
+        }
+      ],
+      "Hannoy": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 共情者",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "猪头鹰": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        },
+        {
+          "key": "ravenkeeper",
+          "text": "查看了 when？，身份是 猎手",
+          "day": 2
+        }
+      ],
+      "困困": [
+        {
+          "key": "seer",
+          "text": "查验 ['则夷则', '大6']，发现恶魔",
+          "day": 2
+        }
+      ],
+      "Hannoy": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 守鸦人",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "琥珀王🔄薛猫": [
+      {
+        "speaker": "薛猫",
+        "text": "琥珀王，想跟你对一下信息。我圣徒这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我跟你们说啊，真的假的？！，注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 2
+      },
+      {
+        "speaker": "薛猫",
+        "text": "可能是我理解错了，我不太确定，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我觉得吧，我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 4
+      }
+    ],
+    "when？🔄薛猫": [
+      {
+        "speaker": "薛猫",
+        "text": "你好when？，我是圣徒。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看progress这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我不太确定，你有没有注意到progress和Rujie Shi的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我progress有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "薛猫",
+        "text": "when？的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑when？（昨天记的：我最怀疑任；猪头鹰自称守鸦人）。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "大家怎么看，我想问问，我们来盘一下目前的局势。progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，薛猫的投票轨迹跟他的声明对不上。我的结论是薛猫至少需要被好好审一审吧。",
+        "seq": 6
+      },
+      {
+        "speaker": "薛猫",
+        "text": "可能是我理解错了，我不太确定，我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 7
+      },
+      {
+        "speaker": "when？",
+        "text": "可能是我理解错了，我忍你很久了薛猫。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的薛猫投了大6，when？投了则夷则，when？投了大6完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "薛猫",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？。的问题很大。",
+        "seq": 9
+      },
+      {
+        "speaker": "when？",
+        "text": "薛猫，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      }
+    ],
+    "when？🔄任": [
+      {
+        "speaker": "任",
+        "text": "真的假的？！，我的天，when？你好，我是贞洁者。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "我新手不太懂，我对progress的贞洁者声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "我注意到progress的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "我盘了一下progress的时间线：他先说自己是贞洁者，但在被质疑后又改口说'可能看错了'。一个真正的贞洁者不可能看错自己的技能结果——他在临时编词哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我想问问，对比了几个人的发言，则夷则是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 5
+      },
+      {
+        "speaker": "任",
+        "text": "我跟你们说啊，对比了几个人的发言，progress是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 6
+      },
+      {
+        "speaker": "when？",
+        "text": "大家怎么看，我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：薛猫自称圣徒，任自称贞洁者，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵和任投了则夷则，when？投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+        "seq": 7
+      },
+      {
+        "speaker": "任",
+        "text": "我觉得吧，我知道你可能还在犹豫，但我真的建议你今天投progress。理由我再说一遍：任自称贞洁者，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和when？投了则夷则，任投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多啊。",
+        "seq": 8
+      }
+    ],
+    "wowo🔄任": [
+      {
+        "speaker": "任",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "观察progress的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "大家怎么看，你刚才提到观察progress的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "我注意到when？的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "可能是我理解错了，注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 6
+      },
+      {
+        "speaker": "任",
+        "text": "这个事情是这样的，我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和wowo投了则夷则，wowo投了progress，任投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多呢。",
+        "seq": 7
+      },
+      {
+        "speaker": "wowo",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投progress。理由我再说一遍：困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长，琥珀王自称厨师和任投了则夷则，wowo投了则夷则，wowo投了progress交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+        "seq": 8
+      },
+      {
+        "speaker": "任",
+        "text": "听我分析完再做决定：如果when？是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投when？的风险是可控的，收益却是巨大的。",
+        "seq": 9
+      },
+      {
+        "speaker": "wowo",
+        "text": "出问题了：Rujie Shi和猪头鹰都不承认士兵这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？。",
+        "seq": 10
+      }
+    ],
+    "则夷则🔄大6": [
+      {
+        "speaker": "则夷则",
+        "text": "我敢肯定，明摆着的事，嗨大6，我是镇长。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "观察progress的发言轨迹：他被第一次问到时给出了镇长相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看任有问题，我镇长分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "理性分析的话，对比了几个人的发言，progress是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 4
+      }
+    ],
+    "wowo🔄则夷则": [
+      {
+        "speaker": "则夷则",
+        "text": "别绕弯子，嘿wowo，我是镇长。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "我不太确定，我的笔记里记了几件事：我最怀疑progress；则夷则自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我盘了一下目前的线索：加上则夷则自称镇长里面的疑点，指向任的嫌疑最大！我们可以拿这套逻辑去公聊推动投票！",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "我新手不太懂，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Rujie Shi或猪头鹰之中有士兵。你觉得这意味着什么？。",
+        "seq": 4
+      }
+    ],
+    "猪头鹰🔄琥珀王": [
+      {
+        "speaker": "猪头鹰",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我的笔记里记了几件事：我最怀疑progress。怎么说呢，结合你的信息来看，你觉得我是不是多疑了？。对了再补充一点，但说真的，现在下结论确实有点早",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "text": "我的天，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。我的结论是progress至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我的天，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数1。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "猪头鹰",
+        "text": "你刚才提到我的天，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数1。你觉得这意味着什么？结合来分析，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "真的假的？！，你刚才提到你刚才提到我的天，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数1。你觉得这意味着什么？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高。",
+        "seq": 6
+      },
+      {
+        "speaker": "猪头鹰",
+        "text": "我觉得吧，我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：猪头鹰自称守鸦人，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 7
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "真的假的？！，我的天，我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 8
+      }
+    ],
+    "progress🔄猪头鹰": [
+      {
+        "speaker": "猪头鹰",
+        "text": "progress你好，我是守鸦人。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？。对了还有啊，我觉得我们要多观察几轮",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "别绕弯子，我跟你透露一个事：薛猫跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "text": "注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "薛猫，我直接问你几个问题：你自称守鸦人，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开！",
+        "seq": 4
+      }
+    ],
+    "Hannoy🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "大家怎么看，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "可能是我理解错了，注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 4
+      }
+    ],
+    "Hannoy🔄困困": [
+      {
+        "speaker": "Hannoy",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。我的结论是progress至少需要被好好审一审。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "大家怎么看，我们来盘一下目前的局势。Hannoy自称送葬者里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "注意progress的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕呢。",
+        "seq": 4
+      }
+    ],
+    "Rujie Shi🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是progress确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我越来越觉得progress有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "我跟你们说啊，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了则夷则和大6，有恶魔。建议今天推则夷则。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我不太确定，大家怎么看，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上。我的结论是progress至少需要被好好审一审。",
+        "seq": 4
+      }
+    ],
+    "Rujie Shi🔄progress": [
+      {
+        "speaker": "progress",
+        "text": "这还用想？，嘿Rujie Shi，我是陌客！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面！",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "可能是我理解错了，我不太确定，我在想progress的行为能不能用陌客来解释——他自称是陌客，但如果是真陌客，应该会陌客应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "这还用想？，你有没有注意到薛猫和Hannoy的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我的笔记里记了几件事：我最怀疑progress；progress自称陌客。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      }
+    ],
+    "Hannoy🔄wowo": [
+      {
+        "speaker": "wowo",
+        "text": "大家怎么看，我想问问，hannoy，我刚整理了一下笔记：我最怀疑progress（昨天记的：困困自称占卜师；Hannoy自称送葬者）。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗哦哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "我越来越觉得则夷则有问题。理由是：他的声明是送葬者，但他的Hannoy投了则夷则，wowo投了则夷则完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我不太确定，注意则夷则的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕哦。",
+        "seq": 4
+      }
+    ],
+    "wowo🔄薛猫": [
+      {
+        "speaker": "wowo",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是则夷则确实值得重点观察，你觉得呢哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我想问问，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得任的问题很大。wowo投了则夷则你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "我想问问，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道Rujie Shi或猪头鹰之中有士兵。你觉得这意味着什么？结合wowo投了则夷则来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我任不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的哦。",
+        "seq": 4
+      }
+    ],
+    "猪头鹰🔄薛猫": [
+      {
+        "speaker": "猪头鹰",
+        "text": "我跟你们说啊，薛猫你好，我是守鸦人。第一天信息有限，但我注意到一些细节——猪头鹰自称守鸦人，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有些人的声明不太自然。你同感吗呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我想问问，可能是我理解错了，任，我直接问你几个问题：你自称守鸦人，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "text": "真的假的？！，我的笔记里记了几件事：我最怀疑progress；我最怀疑则夷则；猪头鹰自称守鸦人（昨天记的：困困自称占卜师；Hannoy自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我想问问，任的发言和行为对不上——他说自己是守鸦人，但我观察到他我最怀疑任；猪头鹰自称守鸦人（昨天记的：薛猫自称圣徒；progress自称陌客）。一个真正的守鸦人不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅吧。",
+        "seq": 4
+      }
+    ],
+    "when？🔄大6": [
+      {
+        "speaker": "when？",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是则夷则确实值得重点观察，你觉得呢吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "理性分析的话，观察progress的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "大家怎么看，可能是我理解错了，我对则夷则的身份不明声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "综合观察下来，则夷则的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我想问问，来，我们对对信息。我的猎手技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "综合现有信息，我越来越觉得Hannoy有问题。理由是：他的声明是身份不明，但他的when？投了则夷则，when？投了大6，大6投了progress完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      },
+      {
+        "speaker": "when？",
+        "text": "我不太确定，我忍你很久了薛猫。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的大6投了progress，when？投了则夷则，when？投了大6完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+        "seq": 7
+      },
+      {
+        "speaker": "大6",
+        "text": "我忍你很久了Hannoy。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？投了则夷则，when？投了大6，大6投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "when？",
+        "text": "薛猫，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+        "seq": 9
+      },
+      {
+        "speaker": "大6",
+        "text": "综合现有信息，hannoy，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      }
+    ],
+    "Rujie Shi🔄琥珀王": [
+      {
+        "speaker": "Rujie Shi",
+        "text": "琥珀王你好，我是士兵。第一天信息有限，但我注意到一些细节——progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有些人的声明不太自然。你同感吗哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我觉得吧，注意则夷则的回应模式：第一次被质疑士兵声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真士兵，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕呢吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我新手不太懂，我在想则夷则的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗哦。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我越来越觉得则夷则有问题。理由是：他的声明是士兵，但他的Rujie Shi投了则夷则，琥珀王投了则夷则完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      }
+    ],
+    "Rujie Shi🔄任": [
+      {
+        "speaker": "Rujie Shi",
+        "text": "你好任，我是士兵。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "任",
+        "text": "我的天，我对则夷则的士兵声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我的笔记里记了几件事：我最怀疑progress；Rujie Shi自称士兵；我最怀疑则夷则（昨天记的：困困自称占卜师；Hannoy自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "任",
+        "text": "我注意到则夷则的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "我觉得吧，观察when？的发言轨迹：他被第一次问到时给出了士兵相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我在想progress的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+        "seq": 6
+      },
+      {
+        "speaker": "任",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长和Rujie Shi投了则夷则，Rujie Shi投了progress，任投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+        "seq": 7
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "听我分析完再做决定：如果progress是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投progress的风险是可控的，收益却是巨大的。",
+        "seq": 8
+      },
+      {
+        "speaker": "任",
+        "text": "真的假的？！，听我分析完再做决定：如果when？是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投when？的风险是可控的，收益却是巨大的。",
+        "seq": 9
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "可能是我理解错了，我想问问，我知道你可能还在犹豫，但我真的建议你今天投progress。理由我再说一遍：Rujie Shi自称士兵，则夷则自称镇长，Hannoy自称送葬者和任投了则夷则，Rujie Shi投了则夷则，Rujie Shi投了progress交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 10
+      }
+    ],
+    "Hannoy🔄progress": [
+      {
+        "speaker": "Hannoy",
+        "text": "progress你好，我是送葬者。第一天信息有限，但我注意到一些细节——Hannoy自称送葬者，progress自称陌客，困困自称占卜师，Rujie Shi自称士兵，则夷则自称镇长里面有些人的声明不太自然。你同感吗哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "我跟你透露一个事：薛猫跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "可能是我理解错了，我们来盘一下目前的局势。Hannoy自称送葬者，progress自称陌客，困困自称占卜师，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审吧呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "别绕弯子，我的陌客技能虽然没有直接查到铁证，但我的直觉告诉我薛猫不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 4
+      }
+    ],
+    "progress🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "理性分析的话，你好progress，我是管家。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "我直接说了，我复盘了薛猫的全部公聊发言，发现几个具体矛盾：第一，他先说自己是管家，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了Rujie Shi；第三，里他的投票和管家身份的利益取向完全不符！",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "客观来说，客观来说，我注意到则夷则的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "我敢肯定，明摆着的事，薛猫，我直接问你几个问题：你自称管家，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+        "seq": 4
+      }
+    ],
+    "wowo🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "我觉得吧，你好wowo，我是厨师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标啊吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "大家怎么看，我们来盘一下目前的局势。则夷则自称镇长，progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，琥珀王自称厨师里面有几个矛盾点特别值得关注。第一，；第二，Hannoy的投票轨迹跟他的声明对不上。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "这个事情是这样的，我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "我不太确定，我的笔记里记了几件事：琥珀王自称厨师；我最怀疑Hannoy；我最怀疑薛猫（昨天记的：我最怀疑progress；我最怀疑则夷则）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我的天，我跟你们说啊，我的笔记里记了几件事：我最怀疑则夷则；琥珀王自称厨师；我最怀疑when？（昨天记的：我最怀疑则夷则；Rujie Shi自称士兵）。结合你的信息来看，你觉得我是不是多疑了哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "大家怎么看，我新手不太懂，我越来越觉得progress有问题。理由是：他的声明是厨师，但他的琥珀王投了则夷则，琥珀王投了progress，wowo投了则夷则，wowo投了progress完全不符合这个身份的行为模式。一个真正的厨师不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      }
+    ],
+    "when？🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "when？，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的when？投了则夷则，when？投了大6，琥珀王投了则夷则，琥珀王投了progress为什么会这样投？请正面回答，不要转移话题吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "我注意到progress的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "来，我们对对信息。我的厨师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了则夷则，when？投了大6，琥珀王投了则夷则，琥珀王投了progress来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "大家怎么看，综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "你刚才提到大家怎么看，综合观察下来，progress的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明薛猫的可疑程度比想象中更高。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "对比了几个人的发言，progress是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "薛猫，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "大家怎么看，我们来盘一下目前的局势。Hannoy自称送葬者，progress自称陌客，困困自称占卜师，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，progress的投票轨迹跟他的声明对不上啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我觉得吧，我们来盘一下目前的局势。Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长，琥珀王自称厨师里面有几个矛盾点特别值得关注。第一，；第二，薛猫的投票轨迹跟他的声明对不上。我的结论是薛猫至少需要被好好审一审吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我的笔记里记了几件事：我最怀疑progress（昨天记的：我最怀疑则夷则；Hannoy自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我跟你们说啊，注意薛猫的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "你刚才提到我跟你们说啊，注意薛猫的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高啊。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄薛猫": [
+      {
+        "speaker": "薛猫",
+        "text": "我新手不太懂，when？。，我直接问你几个问题：你自称送葬者，那你的技能结果具体是什么？。为什么？。",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我越来越觉得薛猫有问题。理由是：他的声明是身份不明，但他的薛猫投了大6，Hannoy投了则夷则，Hannoy投了大6完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "薛猫",
+        "text": "可能是我理解错了，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我在想薛猫的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我复盘了when？的全部公聊发言，发现几个具体矛盾：第一，他先说自己是送葬者，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了任；第三，Hannoy投了则夷则，Hannoy投了大6，薛猫投了大6里他的投票和送葬者身份的利益取向完全不符啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "注意薛猫的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕啊。",
+        "seq": 6
+      }
+    ],
+    "Rujie Shi🔄薛猫": [
+      {
+        "speaker": "薛猫",
+        "text": "Rujie Shi，想跟你对一下信息。我送葬者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我想问问，注意when？。的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。",
+        "seq": 2
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我不太确定，我新手不太懂，你有没有注意到when？和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "大家怎么看，你刚才提到我不太确定，我新手不太懂，你有没有注意到when？和琥珀王的互动？他们之间几乎不互相质疑——这在正常，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高。",
+        "seq": 4
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我想问问，when？。，我直接问你几个问题：你自称士兵，那你的技能结果具体是什么？。为什么？哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我们来盘一下目前的局势。progress自称陌客，困困自称占卜师，Hannoy自称送葬者，Rujie Shi自称士兵，则夷则自称镇长里面有几个矛盾点特别值得关注。第一，；第二，薛猫的投票轨迹跟他的声明对不上。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄Rujie Shi": [
+      {
+        "speaker": "Hannoy",
+        "text": "Rujie Shi，我刚整理了一下笔记：我最怀疑progress（昨天记的：我最怀疑则夷则；Hannoy自称送葬者）。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我想问问，我的笔记里记了几件事：我最怀疑when？；我最怀疑薛猫（昨天记的：Rujie Shi自称士兵；我最怀疑则夷则）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合Rujie Shi投了则夷则，Rujie Shi投了progress，Hannoy投了则夷则，Hannoy投了大6来分析，重点嫌疑人应该已经很明显了呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Hannoy投了则夷则，Hannoy投了大6，Rujie Shi投了则夷则，Rujie Shi投了progress来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "注意progress的回应模式：第一次被质疑士兵声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真士兵，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "可能是我理解错了，我越来越觉得薛猫有问题。理由是：他的声明是送葬者，但他的Hannoy投了则夷则，Hannoy投了大6，Rujie Shi投了则夷则，Rujie Shi投了progress完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票吧。",
+        "seq": 6
+      }
+    ],
+    "任🔄大6": [
+      {
+        "speaker": "任",
+        "text": "when？，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：任投了则夷则，大6投了progress里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "我的笔记里记了几件事：我最怀疑when？；wowo自称酒鬼（昨天记的：Rujie Shi自称士兵；我最怀疑则夷则）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "理性分析的话，观察Hannoy的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "我越来越觉得when？有问题。理由是：他的声明是身份不明，但他的大6投了progress，任投了则夷则完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "对比了几个人的发言，Hannoy是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 6
+      }
+    ],
+    "wowo🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Hannoy确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "我不太确定，来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "理性分析的话，我盘了一下Hannoy的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "我想问问，我在想薛猫的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "客观来说，基于已公开的信息，我注意到Hannoy的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "大家怎么看，你刚才提到客观来说，基于已公开的信息，我注意到Hannoy的发言模式很可疑。他的每一句话都在'自保'而不是在'，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明薛猫的可疑程度比想象中更高。",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "我是{bluff}。{fake_info}说一个我的观察：{target}和{other}在私聊阶段有过接触，之后{target}的公聊口径突然变了——这像是串过供的样子。你们不觉得奇怪吗？{baron_tip}",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "大家注意{target}的发言——他自称{claim}，但{accusation}这不是明摆着在撒谎吗？{fake_info}我建议今天直接出{target}，错了算我的。{baron_tip}",
+    "我是占卜师，昨晚查验了{chosen0}和{chosen1}，{result}。{demon_verdict}我建议先从{chosen0}开始盘——如果他是好人翻出来，那{chosen1}就是铁邪恶。{drunk_warning}{recluse_warning}",
+    "我是士兵，恶魔刀不死我。我来说句直白的：{target}有问题。{claim_str}里他的声明站不住脚——{info_or_opinion}。我不怕刀，所以我敢直接点名。今天出{target}，我担保他不是好人。",
+    "洗衣妇报信息：我查到{target}是{ww_role}，本人已认领。{cross_ref}这意味着我们有了一条干净的信息链。大家集中精力盘其他人。{drunk_warning}",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "我厨师首夜查到{chef_val}对相邻邪恶。这个数字意味着：{chef_analysis}。{cross_ref}欢迎大家一起分析。",
+    "我是{bluff}，我有个重大发现：{fake_info}兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。{baron_tip}",
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "任",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "when？",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "Hannoy",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "wowo",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "则夷则",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "progress",
+        "target": "大6",
+        "day": 2
+      },
+      {
+        "voter": "薛猫",
+        "target": "大6",
+        "day": 2
+      },
+      {
+        "voter": "when？",
+        "target": "大6",
+        "day": 2
+      },
+      {
+        "voter": "Hannoy",
+        "target": "大6",
+        "day": 2
+      },
+      {
+        "voter": "琥珀王",
+        "target": "progress",
+        "day": 2
+      },
+      {
+        "voter": "大6",
+        "target": "progress",
+        "day": 2
+      },
+      {
+        "voter": "wowo",
+        "target": "progress",
+        "day": 2
+      },
+      {
+        "voter": "猪头鹰",
+        "target": "progress",
+        "day": 2
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "progress",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "任",
+        "target": "薛猫",
+        "day": 3
+      },
+      {
+        "voter": "琥珀王",
+        "target": "薛猫",
+        "day": 3
+      },
+      {
+        "voter": "when？",
+        "target": "薛猫",
+        "day": 3
+      },
+      {
+        "voter": "wowo",
+        "target": "薛猫",
+        "day": 3
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "薛猫",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "when？",
+        "target": "则夷则",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "琥珀王",
+        "target": "大6",
+        "result": "failed"
+      },
+      {
+        "nominator": "when？",
+        "target": "progress",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "Hannoy",
+        "target": "薛猫",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "我本来想再观察一轮，但{target}的发言实在太离谱了。你说你是{claim}，可你的{vote_str}完全不符合你的身份。我来给大家捋一捋：第一，{target}的声明有问题；第二，他的投票记录暴露了他；第三，{contradict_str}。三点证据链闭合了，没什么好犹豫的。{baron_tip}",
+    "我是士兵，恶魔刀不死我。我来说句直白的：{target}有问题。{claim_str}里他的声明站不住脚——{info_or_opinion}。我不怕刀，所以我敢直接点名。今天出{target}，我担保他不是好人。",
+    "回顾一下厨师首夜结果：{chef_val}对相邻邪恶。再看现在的{neighbor_claims}，我倾向于今天从邻居中出一个。厨师的初始数据和后续发言相互印证。",
+    "洗衣妇报信息：我查到{target}是{ww_role}，本人已认领。{cross_ref}这意味着我们有了一条干净的信息链。大家集中精力盘其他人。{drunk_warning}",
+    "送葬者报身份：昨天出局的是{exec_role}，{exec_team_label}。{exec_verdict}这是铁证，我的技能不会错。基于这个结果，之前保{exec_role}的人要重点盘，踩{exec_role}的人可以考虑排好。",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_3": [
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "我是洗衣妇，我确认{target}是{ww_role}金水。{target}本人已认领身份，信息链清晰。{cross_ref}建议今天从外置位盘，{target}暂排好人。{drunk_warning}",
+    "{target}，你别装了。你刚才说你是{claim}，那你怎么解释你的投票？{vote_str}完全不是{claim}该有的行为模式。你编故事之前能不能先对对台词？{baron_tip}",
+    "回顾一下厨师首夜结果：{chef_val}对相邻邪恶。再看现在的{neighbor_claims}，我倾向于今天从邻居中出一个。厨师的初始数据和后续发言相互印证。",
+    "送葬者报身份：昨天出局的是{exec_role}，{exec_team_label}。{exec_verdict}这是铁证，我的技能不会错。基于这个结果，之前保{exec_role}的人要重点盘，踩{exec_role}的人可以考虑排好。"
+  ],
+  "ended_at": "2026-06-20T19:51:37.229116"
+}

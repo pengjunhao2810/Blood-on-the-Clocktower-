@@ -1,0 +1,2110 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T16:51:46.712033",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "真的假的？！，伪装方案：我洗衣妇，你士兵。图书管理员、洗衣妇、士兵里面我优先选前面的，因为信息位身份更有威慑力。你辅助我咬人就行——我主攻，你补刀。剩下图书管理员留着备用。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "我想问问，我思考了一下局势：说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "我觉得吧，制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Hannoy是某个角色。我配合说我也觉得Hannoy符合那个角色——两个独立信息位交叉验证同一结论，好人必信呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "目前分析下来，Hannoy是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "今晚刀Hannoy，白天的公聊目标也是Hannoy。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "确认攻击目标：Hannoy。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在里面的定位是信息位，威胁最大。今天集中火力搞他。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "嗨Hannoy，我是洗衣妇。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "基于已公开的信息，综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我盘了一下目前的线索：加上琥珀王自称洗衣妇里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑去公聊推动投票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "基于已公开的信息，我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "这个事情是这样的，我们来构建一个完整的推理链：你镇民的角度看Hannoy有问题，我洗衣妇分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "综合现有信息，我不太信Youmi。他的洗衣妇声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "kiod，想跟你对一下信息。我洗衣妇这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，我在想Hannoy的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看Hannoy有问题，我洗衣妇分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "我新手不太懂，我不太确定，我越来越觉得Hannoy有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "我盘了一下目前的线索：加上琥珀王自称洗衣妇里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑去公聊推动投票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "你刚才提到我盘了一下目前的线索：加上琥珀王自称洗衣妇里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Hannoy的可疑程度比想象中更高哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊when？",
+          "action": "我敢肯定，明摆着的事，你好when？，我是共情者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊wowo",
+          "action": "我敢肯定，我注意到Hannoy的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊when？",
+          "action": "这还用想？，来，我们对对信息！我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居Youmi、琥珀王中有坏人！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊wowo",
+          "action": "别绕弯子，对比了几个人的发言，Hannoy是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊when？",
+          "action": "这还用想？，你刚才提到别绕弯子，对比了几个人的发言，Hannoy是最违和的！他的关注点全在自证清白上，而不是在分析局势上—，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Hannoy的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊wowo",
+          "action": "别绕弯子，综合观察下来，Hannoy的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊kiod",
+          "action": "这还用想？，刚才你说的你的发言，我也想聊聊这个话题！我的看法是Hannoy确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊wowo",
+          "action": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审啊哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊kiod",
+          "action": "观察了一下Hannoy对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊wowo",
+          "action": "大家怎么看，观察了一下Hannoy对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊kiod",
+          "action": "我在想Hannoy的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊wowo",
+          "action": "我的笔记里记了几件事：我最怀疑Hannoy。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊progress",
+          "action": "我直接说了，这还用想？，progress，我刚整理了一下笔记：我最怀疑Hannoy；wowo自称共情者！你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊wowo",
+          "action": "我的士兵技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊progress",
+          "action": "这还用想？，我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊wowo",
+          "action": "我不太确定，我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊progress",
+          "action": "我直接说了，我的笔记里记了几件事：我最怀疑Hannoy；wowo自称共情者。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊wowo",
+          "action": "我不太确定，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。你看了吗？他的投票明显不对劲。你觉得呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊when？",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Hannoy确实值得重点观察，你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊kiod",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊when？",
+          "action": "来，我们对对信息。我的调查员技能告诉我一些事情：查到progress是琥珀王。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊kiod",
+          "action": "我直接说了，我不太信Hannoy。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊when？",
+          "action": "来，我们对对信息。我的调查员技能告诉我一些事情：查到progress是琥珀王。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊kiod",
+          "action": "我敢肯定，我不太信Hannoy！他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "你好Hannoy，我是士兵。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看Hannoy这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "我新手不太懂，你有没有注意到Hannoy和when？的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "我觉得吧，hannoy你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "我不太信Hannoy。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "理性分析的话，综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "你好when？，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "这还用想？，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "我的天，我注意到Hannoy的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "明摆着的事，综合观察下来，Hannoy的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "我的天，对比了几个人的发言，Hannoy是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "我直接说了，对比了几个人的发言，Hannoy是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Hannoy', 'Youmi', 'wowo', '琥珀王', 'kiod', 'when？', 'progress']",
+          "action": "Hannoy: 客观来说，现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前琥珀王自称洗衣妇，progress自称士兵，Youmi自称镇长，而投票记录显示。这些线索综合来看，我的我会重点观察Youmi。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Hannoy', 'Youmi', 'wowo', '琥珀王', 'kiod', 'when？', 'progress']",
+          "action": "Youmi: 大家好，我是镇长。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察Hannoy。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['Hannoy', 'Youmi', 'wowo', '琥珀王', 'kiod', 'when？', 'progress']",
+          "action": "wowo: 共情者报数：邪恶数1！Youmi(自称镇长)，琥珀王(自称?)这个1意味着至少有一个邪恶就在这两个位置！我建议今天就从他们中间出一个！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Hannoy', 'Youmi', 'wowo', '琥珀王', 'kiod', 'when？', 'progress']",
+          "action": "琥珀王: 我跟你们说啊，我是洗衣妇。说一个我的观察：Hannoy和琥珀王在私聊阶段有过接触，之后Hannoy的公聊口径突然变了——这像是串过供的样子。你们不觉得奇怪吗啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['Hannoy', 'Youmi', 'wowo', '琥珀王', 'kiod', 'when？', 'progress']",
+          "action": "kiod: 我是调查员！我查出progress/琥珀王是男爵——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Hannoy', 'Youmi', 'wowo', '琥珀王', 'kiod', 'when？', 'progress']",
+          "action": "when？: 根据我的记录：Youmi自称镇长；琥珀王自称洗衣妇；kiod自称调查员。大家怎么看！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Hannoy', 'Youmi', 'wowo', '琥珀王', 'kiod', 'when？', 'progress']",
+          "action": "progress: 我新手不太懂，我是士兵，我有个重大发现：我是士兵，昨晚恶魔刀了我但我没死！说明我确实是士兵。有我活着在，邪恶就永远少一刀。兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "提名琥珀王",
+          "action": "我提名琥珀王。理由如下：第一，他的声明某人有问题；第二，显示他的投票异常；第三，琥珀王自称洗衣妇，progress自称士兵，Youmi自称镇长，kiod自称调查员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "被Hannoy提名",
+          "action": "我懒得辩解了。Hannoy想处决我？可以。但我死了之后，请大家务必反推一下——为什么Hannoy这么急着要我的命？这对谁有好处？答案显而易见。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "提名progress",
+          "action": "我提名progress。理由如下：第一，他的声明某人有问题；第二，Hannoy投了琥珀王，Youmi投了琥珀王，kiod投了琥珀王显示他的投票异常；第三，Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵里面有矛盾指向他。请大家投票处决啊。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "被Youmi提名",
+          "action": "怎么说呢……，有意思，Youmi说我有问题——那我想问问Youmi：你自己的身份是什么？你凭什么来指控我？如果你自己都说不清楚自己是谁，那你对我的指控就是诽谤。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "提名Hannoy",
+          "action": "我提名Hannoy。理由如下：第一，他的声明某人有问题；第二，Hannoy投了琥珀王，Youmi投了琥珀王，kiod投了琥珀王，wowo投了progress显示他的投票异常；第三，wowo自称共情者，Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "被when？提名",
+          "action": "大家想一想：如果我是邪恶，我会这么被动地等着被处决吗？我如果真是坏人，我早就编一套完美说辞了。正因为我是好人，我才觉得委屈——被冤枉的感觉你们懂吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "提名Youmi",
+          "action": "我提名Youmi。理由如下：第一，他的声明某人有问题；第二，Hannoy投了琥珀王，Youmi投了琥珀王，kiod投了琥珀王，wowo投了progress显示他的投票异常；第三，wowo自称共情者，Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "被wowo提名",
+          "action": "我是镇长！镇长活着才有用——只有3人存活时我能直接带来胜利。处决我是最差的选择！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "Youmi被处决",
+          "action": "处决Youmi",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "恶魔杀人",
+          "action": "杀害kiod",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "综合现有信息，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的洗衣妇声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Youmi，Hannoy投了琥珀王，Hannoy投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "你有没有注意到progress和progress的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "琥珀王，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我跟你们说啊，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "今天就到这。我们的共识是：琥珀王是第一嫌疑人。明天根据处决结果再调整策略。如果琥珀王是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得progress的问题很大。when？投了Youmi，琥珀王投了Hannoy，琥珀王投了Youmi你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "明摆着的事，我的笔记里记了几件事：我最怀疑wowo（昨天记的：琥珀王自称洗衣妇；kiod自称调查员）！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "这个事情是这样的，我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "别绕弯子，我越来越觉得wowo有问题！理由是：他的声明是洗衣妇，但他的琥珀王投了Hannoy，琥珀王投了Youmi，when？！投了Youmi完全不符合这个身份的行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊when？",
+          "action": "我的天，你有没有注意到progress和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊琥珀王",
+          "action": "来，我们对对信息！我的管家技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合琥珀王投了Hannoy，琥珀王投了Youmi，when？投了Youmi来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "目标锁定：progress。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "我新手不太懂，今晚刀wowo，白天的公聊目标也是wowo。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "我不太确定，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "排练一下明天的公聊剧本。我先说：'我是洗衣妇，我查到progress有问题。'然后你接：'巧了，我也在怀疑progress，因为progress投了Youmi，琥珀王投了Hannoy，琥珀王投了Youmi。'注意你的语气要像临时发现而不是商量好的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "排练一下明天的公聊剧本。我先说：'我是士兵，我查到琥珀王有问题。'然后你接：'巧了，我也在怀疑琥珀王，因为琥珀王投了Hannoy，琥珀王投了Youmi，progress投了Youmi。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "从逻辑上看，琥珀王，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "我新手不太懂，我复盘了一下琥珀王的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的progress投了Youmi，Hannoy投了琥珀王，Hannoy投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "大家怎么看，我的士兵技能虽然没有直接查到铁证，但我的直觉告诉我琥珀王不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "客观来说，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的progress投了Youmi，Hannoy投了琥珀王，Hannoy投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得琥珀王的问题很大。Hannoy投了琥珀王，Hannoy投了Youmi，progress投了Youmi你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "琥珀王，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "我直接说了，你刚才提到琥珀王，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "综合现有信息，我越来越觉得琥珀王有问题。理由是：他的声明是身份不明，但他的wowo投了progress，wowo投了Hannoy，wowo投了Youmi，Hannoy投了琥珀王完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "我的笔记里记了几件事：我最怀疑progress；我最怀疑when？（昨天记的：wowo自称共情者；Youmi自称镇长）！结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "综合现有信息，客观来说，观察了一下琥珀王对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "这还用想？。，我越来越觉得when？。有问题！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊wowo",
+          "action": "我敢肯定，wowo，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊when？",
+          "action": "我直接说了，when？，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊wowo",
+          "action": "我忍你很久了wowo！你的发言从头到尾都是漏洞：第一，你的共情者声明前后不一致；第二，你的wowo投了progress，wowo投了Hannoy，wowo投了Youmi，when？！投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊when？",
+          "action": "我直接说了，我忍你很久了when？！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？投了Youmi，wowo投了progress，wowo投了Hannoy，wowo投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊wowo",
+          "action": "我直接说了，wowo，我现在公开质疑你！如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊when？",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊progress",
+          "action": "wowo，你的士兵声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说士兵的时候和现在的说法有出入，你能解释一下吗？。第三，你的progress投了Youmi，when？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊when？",
+          "action": "你有没有注意到琥珀王和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊progress",
+          "action": "我们来盘一下目前的局势！wowo自称共情者，Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，wowo的投票轨迹跟他的声明对不上！我的结论是wowo至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊when？",
+          "action": "可能是我理解错了，我跟你透露一个事：琥珀王跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊progress",
+          "action": "我的笔记里记了几件事：我最怀疑wowo（昨天记的：琥珀王自称洗衣妇；kiod自称调查员）！结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊when？",
+          "action": "可能是我理解错了，你有没有注意到琥珀王和Hannoy的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Hannoy', 'wowo', '琥珀王', 'when？', 'progress']",
+          "action": "Hannoy: 客观来说，我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于昨晚的行动，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己。琥珀王，你有什么想说的吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Hannoy', 'wowo', '琥珀王', 'when？', 'progress']",
+          "action": "Youmi(已死亡): 死者的话最客观。我回顾了整个游戏过程，Hannoy的嫌疑最大。他的声明是Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['Hannoy', 'wowo', '琥珀王', 'when？', 'progress']",
+          "action": "wowo: 共情者报数：邪恶数1！Youmi(自称镇长)，琥珀王(自称洗衣妇)这个1意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Hannoy', 'wowo', '琥珀王', 'when？', 'progress']",
+          "action": "琥珀王: 我的笔记已经记了好几页progress的可疑行为了。某人。大家说说，这些够不够处决他？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['Hannoy', 'wowo', '琥珀王', 'when？', 'progress']",
+          "action": "kiod(已死亡): 死者的话最客观。我回顾了整个游戏过程，琥珀王的嫌疑最大。他的声明是Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Hannoy', 'wowo', '琥珀王', 'when？', 'progress']",
+          "action": "when？: 我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于某个投票的动机，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己。wowo，你有什么想说的吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Hannoy', 'wowo', '琥珀王', 'when？', 'progress']",
+          "action": "progress: 琥珀王自称洗衣妇，但投票处决过Hannoy/Youmi，行为对不上哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "提名wowo",
+          "action": "我提名wowo。理由如下：第一，他的声明某人有问题；第二，Hannoy投了琥珀王，Youmi投了琥珀王，kiod投了琥珀王，wowo投了progress显示他的投票异常；第三，Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "被Hannoy提名",
+          "action": "我是共情者，我旁边邪恶数为1！处决我的话好人就失去了每晚的邪恶探测——这正中邪恶下怀！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "wowo被处决",
+          "action": "处决wowo",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "恶魔杀人",
+          "action": "杀害when？",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "综合现有信息，我记一下今天的重点：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "你有没有注意到progress和progress的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "今天就到这。我们的共识是：琥珀王是第一嫌疑人。明天根据处决结果再调整策略。如果琥珀王是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我觉得吧，我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "我觉得吧，排练一下明天的公聊剧本。我先说：'我是洗衣妇，我查到progress有问题。'然后你接：'巧了，我也在怀疑progress，因为progress投了Youmi，progress投了wowo，琥珀王投了Hannoy，琥珀王投了Youmi。'注意你的语气要像临时发现而不是商量好的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服琥珀王投Hannoy，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服progress投Hannoy，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "真的假的？！，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "你有没有注意到琥珀王和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "我记一下今天的重点：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "可能是我理解错了，可能是我理解错了，我复盘了一下琥珀王的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "今天就到这。我们的共识是：琥珀王是第一嫌疑人。明天根据处决结果再调整策略。如果琥珀王是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Hannoy",
+          "action": "大家怎么看，我的士兵技能虽然没有直接查到铁证，但我的直觉告诉我琥珀王不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊progress",
+          "action": "理性分析的话，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Hannoy', '琥珀王', 'progress']",
+          "action": "Hannoy: 从逻辑上看，大家好，我是陌客。我来分析一下目前的局势：暂无特殊信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑琥珀王。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Hannoy', '琥珀王', 'progress']",
+          "action": "Youmi(已死亡): 这个事情是这样的，死者的话最客观。我回顾了整个游戏过程，Hannoy的嫌疑最大。他的声明是Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵，Hannoy自称陌客，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['Hannoy', '琥珀王', 'progress']",
+          "action": "wowo(已死亡): 死者的话最客观！我回顾了整个游戏过程，when？的嫌疑最大！他的声明是Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵，Hannoy自称陌客，但他的行为完全对不上！活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Hannoy', '琥珀王', 'progress']",
+          "action": "琥珀王: 我本来想再观察一轮，但progress的发言实在太离谱了。你说你是?，可你的Hannoy投了琥珀王，Youmi投了琥珀王，kiod投了琥珀王，wowo投了progress完全不符合你的身份。我来给大家捋一捋：第一，progress的声明有问题；第二，他的投票记录暴露了他；第三，。三点证据链闭合了，没什么好犹豫的啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['Hannoy', '琥珀王', 'progress']",
+          "action": "kiod(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑琥珀王，理由是我观察到Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵，Hannoy自称陌客里面的矛盾点和Hannoy投了琥珀王，Youmi投了琥珀王，kiod投了琥珀王，wowo投了progress的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Hannoy', '琥珀王', 'progress']",
+          "action": "when？(已死亡): 我敢肯定，死者的话最客观！我回顾了整个游戏过程，wowo的嫌疑最大！他的声明是Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵，Hannoy自称陌客，但他的行为完全对不上！活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Hannoy', '琥珀王', 'progress']",
+          "action": "progress: 琥珀王自称洗衣妇，但投票处决过Hannoy/Youmi，行为对不上呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "提名琥珀王",
+          "action": "我提名琥珀王。理由如下：第一，他的声明某人有问题；第二，Hannoy投了琥珀王，Youmi投了琥珀王，kiod投了琥珀王，wowo投了progress显示他的投票异常；第三，Hannoy自称陌客里面有矛盾指向他。请大家投票处决哈。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "被Hannoy提名",
+          "action": "大家别被Hannoy带偏了！Hannoy的指控完全站不住脚——他没有拿出任何实锤证据，你想想，全靠推测。这个游戏不是靠感觉就能定罪的好吗？请大家理性投票。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "琥珀王被处决",
+          "action": "处决琥珀王",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "good_win",
+  "survivors": "Hannoy, progress",
+  "players": [
+    "Hannoy",
+    "Youmi",
+    "wowo",
+    "琥珀王",
+    "kiod",
+    "when？",
+    "progress"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "wowo": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 0
+        }
+      ],
+      "kiod": [
+        {
+          "key": "investigator",
+          "text": "progress 和 琥珀王 中有一人是 男爵",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "wowo": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 1
+        }
+      ],
+      "kiod": [
+        {
+          "key": "investigator",
+          "text": "progress 和 琥珀王 中有一人是 男爵",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "wowo": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 2
+        }
+      ],
+      "kiod": [
+        {
+          "key": "investigator",
+          "text": "progress 和 琥珀王 中有一人是 男爵",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "progress🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "真的假的？！，伪装方案：我洗衣妇，你士兵。图书管理员、洗衣妇、士兵里面我优先选前面的，因为信息位身份更有威慑力。你辅助我咬人就行——我主攻，你补刀。剩下图书管理员留着备用。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "我想问问，我思考了一下局势：说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我觉得吧，制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Hannoy是某个角色。我配合说我也觉得Hannoy符合那个角色——两个独立信息位交叉验证同一结论，好人必信呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "目前分析下来，Hannoy是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "今晚刀Hannoy，白天的公聊目标也是Hannoy。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "确认攻击目标：Hannoy。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在里面的定位是信息位，威胁最大。今天集中火力搞他。",
+        "seq": 6
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "目标锁定：progress。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+        "seq": 7
+      },
+      {
+        "speaker": "progress",
+        "text": "我新手不太懂，今晚刀wowo，白天的公聊目标也是wowo。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+        "seq": 9
+      },
+      {
+        "speaker": "progress",
+        "text": "我不太确定，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑吧。",
+        "seq": 10
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "排练一下明天的公聊剧本。我先说：'我是洗衣妇，我查到progress有问题。'然后你接：'巧了，我也在怀疑progress，因为progress投了Youmi，琥珀王投了Hannoy，琥珀王投了Youmi。'注意你的语气要像临时发现而不是商量好的呢。",
+        "seq": 11
+      },
+      {
+        "speaker": "progress",
+        "text": "排练一下明天的公聊剧本。我先说：'我是士兵，我查到琥珀王有问题。'然后你接：'巧了，我也在怀疑琥珀王，因为琥珀王投了Hannoy，琥珀王投了Youmi，progress投了Youmi。",
+        "seq": 12
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我觉得吧，排练一下明天的公聊剧本。我先说：'我是洗衣妇，我查到progress有问题。'然后你接：'巧了，我也在怀疑progress，因为progress投了Youmi，progress投了wowo，琥珀王投了Hannoy，琥珀王投了Youmi。'注意你的语气要像临时发现而不是商量好的哦。",
+        "seq": 13
+      },
+      {
+        "speaker": "progress",
+        "text": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服琥珀王投Hannoy，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了呢。",
+        "seq": 14
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服progress投Hannoy，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了呢。",
+        "seq": 15
+      },
+      {
+        "speaker": "progress",
+        "text": "大家怎么看，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+        "seq": 16
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "真的假的？！，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+        "seq": 17
+      },
+      {
+        "speaker": "progress",
+        "text": "决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号呢。",
+        "seq": 18
+      }
+    ],
+    "Hannoy🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "嗨Hannoy，我是洗衣妇。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "基于已公开的信息，综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我盘了一下目前的线索：加上琥珀王自称洗衣妇里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑去公聊推动投票哦。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "基于已公开的信息，我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "这个事情是这样的，我们来构建一个完整的推理链：你镇民的角度看Hannoy有问题，我洗衣妇分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，我不太信Youmi。他的洗衣妇声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 6
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 7
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的洗衣妇声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Youmi，Hannoy投了琥珀王，Hannoy投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "你有没有注意到progress和progress的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 9
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "琥珀王，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我跟你们说啊，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 11
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "今天就到这。我们的共识是：琥珀王是第一嫌疑人。明天根据处决结果再调整策略。如果琥珀王是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 12
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 13
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，我记一下今天的重点：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。明天继续跟进，有新情况随时找我。",
+        "seq": 14
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "你有没有注意到progress和progress的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 15
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "今天就到这。我们的共识是：琥珀王是第一嫌疑人。明天根据处决结果再调整策略。如果琥珀王是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 16
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我觉得吧，我的洗衣妇技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢呢。",
+        "seq": 17
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 18
+      }
+    ],
+    "kiod🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "kiod，想跟你对一下信息。我洗衣妇这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "kiod",
+        "text": "大家怎么看，我在想Hannoy的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看Hannoy有问题，我洗衣妇分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 3
+      },
+      {
+        "speaker": "kiod",
+        "text": "我新手不太懂，我不太确定，我越来越觉得Hannoy有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我盘了一下目前的线索：加上琥珀王自称洗衣妇里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑去公聊推动投票呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "kiod",
+        "text": "你刚才提到我盘了一下目前的线索：加上琥珀王自称洗衣妇里面的疑点，指向Hannoy的嫌疑最大。我们可以拿这套逻辑，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Hannoy的可疑程度比想象中更高哦。",
+        "seq": 6
+      }
+    ],
+    "when？🔄wowo": [
+      {
+        "speaker": "wowo",
+        "text": "我敢肯定，明摆着的事，你好when？，我是共情者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，我注意到Hannoy的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "这还用想？，来，我们对对信息！我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居Youmi、琥珀王中有坏人！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，对比了几个人的发言，Hannoy是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "text": "这还用想？，你刚才提到别绕弯子，对比了几个人的发言，Hannoy是最违和的！他的关注点全在自证清白上，而不是在分析局势上—，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Hannoy的可疑程度比想象中更高！",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，综合观察下来，Hannoy的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+        "seq": 6
+      },
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，wowo，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "wowo",
+        "text": "我直接说了，when？，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 8
+      },
+      {
+        "speaker": "when？",
+        "text": "我忍你很久了wowo！你的发言从头到尾都是漏洞：第一，你的共情者声明前后不一致；第二，你的wowo投了progress，wowo投了Hannoy，wowo投了Youmi，when？！投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！",
+        "seq": 9
+      },
+      {
+        "speaker": "wowo",
+        "text": "我直接说了，我忍你很久了when？！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的when？投了Youmi，wowo投了progress，wowo投了Hannoy，wowo投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的！",
+        "seq": 10
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，wowo，我现在公开质疑你！如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 11
+      },
+      {
+        "speaker": "wowo",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破！",
+        "seq": 12
+      }
+    ],
+    "kiod🔄wowo": [
+      {
+        "speaker": "wowo",
+        "text": "这还用想？，刚才你说的你的发言，我也想聊聊这个话题！我的看法是Hannoy确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "kiod",
+        "text": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审啊哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "观察了一下Hannoy对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 3
+      },
+      {
+        "speaker": "kiod",
+        "text": "大家怎么看，观察了一下Hannoy对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "text": "我在想Hannoy的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的笔记里记了几件事：我最怀疑Hannoy。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "progress🔄wowo": [
+      {
+        "speaker": "wowo",
+        "text": "我直接说了，这还用想？，progress，我刚整理了一下笔记：我最怀疑Hannoy；wowo自称共情者！你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "我的士兵技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "这还用想？，我越来越觉得Hannoy有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "我不太确定，我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "text": "我直接说了，我的笔记里记了几件事：我最怀疑Hannoy；wowo自称共情者。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "我不太确定，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。你看了吗？他的投票明显不对劲。你觉得呢吧。",
+        "seq": 6
+      }
+    ],
+    "kiod🔄when？": [
+      {
+        "speaker": "kiod",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Hannoy确实值得重点观察，你觉得呢啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "来，我们对对信息。我的调查员技能告诉我一些事情：查到progress是琥珀王。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，我不太信Hannoy。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "来，我们对对信息。我的调查员技能告诉我一些事情：查到progress是琥珀王。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "我敢肯定，我不太信Hannoy！他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄progress": [
+      {
+        "speaker": "progress",
+        "text": "你好Hannoy，我是士兵。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看Hannoy这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "我新手不太懂，你有没有注意到Hannoy和when？的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Youmi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "从逻辑上看，琥珀王，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "progress",
+        "text": "我新手不太懂，我复盘了一下琥珀王的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 8
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的progress投了Youmi，Hannoy投了琥珀王，Hannoy投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "progress",
+        "text": "大家怎么看，我的士兵技能虽然没有直接查到铁证，但我的直觉告诉我琥珀王不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 10
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "客观来说，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的progress投了Youmi，Hannoy投了琥珀王，Hannoy投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "progress",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得琥珀王的问题很大。Hannoy投了琥珀王，Hannoy投了Youmi，progress投了Youmi你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 12
+      },
+      {
+        "speaker": "progress",
+        "text": "你有没有注意到琥珀王和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 13
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我记一下今天的重点：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。明天继续跟进，有新情况随时找我。",
+        "seq": 14
+      },
+      {
+        "speaker": "progress",
+        "text": "可能是我理解错了，可能是我理解错了，我复盘了一下琥珀王的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 15
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "今天就到这。我们的共识是：琥珀王是第一嫌疑人。明天根据处决结果再调整策略。如果琥珀王是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 16
+      },
+      {
+        "speaker": "progress",
+        "text": "大家怎么看，我的士兵技能虽然没有直接查到铁证，但我的直觉告诉我琥珀王不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 17
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "理性分析的话，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 18
+      }
+    ],
+    "Hannoy🔄Youmi": [
+      {
+        "speaker": "Youmi",
+        "text": "我觉得吧，hannoy你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我注意到Youmi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "对比了几个人的发言，Youmi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我不太信Hannoy。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "理性分析的话，综合观察下来，Youmi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄when？": [
+      {
+        "speaker": "Youmi",
+        "text": "你好when？，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "这还用想？，我虽然没有查验技能，但我的逻辑告诉我Hannoy有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的天，我注意到Hannoy的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，综合观察下来，Hannoy的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的天，对比了几个人的发言，Hannoy是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，对比了几个人的发言，Hannoy是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+        "seq": 6
+      }
+    ],
+    "when？🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得progress的问题很大。when？投了Youmi，琥珀王投了Hannoy，琥珀王投了Youmi你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，我的笔记里记了几件事：我最怀疑wowo（昨天记的：琥珀王自称洗衣妇；kiod自称调查员）！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "这个事情是这样的，我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，我越来越觉得wowo有问题！理由是：他的声明是洗衣妇，但他的琥珀王投了Hannoy，琥珀王投了Youmi，when？！投了Youmi完全不符合这个身份的行为模式！",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我的天，你有没有注意到progress和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "来，我们对对信息！我的管家技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合琥珀王投了Hannoy，琥珀王投了Youmi，when？投了Youmi来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄wowo": [
+      {
+        "speaker": "Hannoy",
+        "text": "琥珀王，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "我直接说了，你刚才提到琥珀王，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明progress的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，我越来越觉得琥珀王有问题。理由是：他的声明是身份不明，但他的wowo投了progress，wowo投了Hannoy，wowo投了Youmi，Hannoy投了琥珀王完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "我的笔记里记了几件事：我最怀疑progress；我最怀疑when？（昨天记的：wowo自称共情者；Youmi自称镇长）！结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，客观来说，观察了一下琥珀王对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "这还用想？。，我越来越觉得when？。有问题！",
+        "seq": 6
+      }
+    ],
+    "progress🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "wowo，你的士兵声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说士兵的时候和现在的说法有出入，你能解释一下吗？。第三，你的progress投了Youmi，when？。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "你有没有注意到琥珀王和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我们来盘一下目前的局势！wowo自称共情者，Youmi自称镇长，琥珀王自称洗衣妇，kiod自称调查员，progress自称士兵里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，wowo的投票轨迹跟他的声明对不上！我的结论是wowo至少需要被好好审一审！",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "可能是我理解错了，我跟你透露一个事：琥珀王跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我的笔记里记了几件事：我最怀疑wowo（昨天记的：琥珀王自称洗衣妇；kiod自称调查员）！结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "可能是我理解错了，你有没有注意到琥珀王和Hannoy的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 6
+      }
+    ]
+  },
+  "_used_pub_1": [
+    "我是{bluff}，我有个重大发现：{fake_info}兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。",
+    "共情者报数：邪恶数{e}！{neighbor_info}这个{e}意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我是{bluff}。说一个我的观察：{target}和{other}在私聊阶段有过接触，之后{target}的公聊口径突然变了——这像是串过供的样子。你们不觉得奇怪吗？",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "根据我的记录：{my_note}。大家怎么看？"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Hannoy",
+        "target": "琥珀王",
+        "day": 1
+      },
+      {
+        "voter": "Youmi",
+        "target": "琥珀王",
+        "day": 1
+      },
+      {
+        "voter": "kiod",
+        "target": "琥珀王",
+        "day": 1
+      },
+      {
+        "voter": "wowo",
+        "target": "progress",
+        "day": 1
+      },
+      {
+        "voter": "kiod",
+        "target": "progress",
+        "day": 1
+      },
+      {
+        "voter": "Youmi",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "wowo",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "Hannoy",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "wowo",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "kiod",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "when？",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "progress",
+        "target": "Youmi",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "Hannoy",
+        "target": "wowo",
+        "day": 2
+      },
+      {
+        "voter": "琥珀王",
+        "target": "wowo",
+        "day": 2
+      },
+      {
+        "voter": "progress",
+        "target": "wowo",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "Hannoy",
+        "target": "琥珀王",
+        "day": 3
+      }
+    ]
+  },
+  "_used_pub_2": [
+    "共情者报数：邪恶数{e}！{neighbor_info}这个{e}意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。大家说说，这些够不够处决他？"
+  ],
+  "_used_pub_3": [
+    "我本来想再观察一轮，但{target}的发言实在太离谱了。你说你是{claim}，可你的{vote_str}完全不符合你的身份。我来给大家捋一捋：第一，{target}的声明有问题；第二，他的投票记录暴露了他；第三，{contradict_str}。三点证据链闭合了，没什么好犹豫的。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。"
+  ],
+  "ended_at": "2026-06-20T16:51:47.138546"
+}

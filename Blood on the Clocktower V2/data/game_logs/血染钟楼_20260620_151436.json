@@ -1,0 +1,2048 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T15:14:03.186144",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "欧拉函数",
+          "context": "私聊云面包",
+          "action": "你好云面包，我是管家。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊欧拉函数",
+          "action": "大家怎么看，我越来越觉得good name有问题。理由是：他的声明是管家，但他的暂无投票完全不符合这个身份的行为模式。一个真正的管家不会这样投票。你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊云面包",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊欧拉函数",
+          "action": "我们来盘一下目前的局势。欧拉函数自称管家里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，good name的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊云面包",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊欧拉函数",
+          "action": "我不太确定，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊wowo",
+          "action": "这个事情是这样的，这个事情是这样的，wowo，我刚整理了一下笔记：我最怀疑云面包；欧拉函数自称管家；云面包自称送葬者。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊欧拉函数",
+          "action": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊wowo",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊欧拉函数",
+          "action": "我不太确定，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了good name和Youmi，都是好的。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊wowo",
+          "action": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊欧拉函数",
+          "action": "我的笔记里记了几件事：我最怀疑云面包。结合你的信息来看，你觉得我是不是多疑了？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "good name，我刚整理了一下笔记：我最怀疑云面包；欧拉函数自称管家；云面包自称送葬者。你那边有什么发现？。对了还有啊，我觉得我们要多观察几轮",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我的天，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊wowo",
+          "action": "大家怎么看，你好wowo，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊云面包",
+          "action": "我越来越觉得云面包有问题。理由是：他的声明是送葬者，但他的暂无投票完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊wowo",
+          "action": "我的笔记里记了几件事：欧拉函数自称管家；我最怀疑good name；云面包自称送葬者。结合你的信息来看，你觉得我是不是多疑了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊云面包",
+          "action": "来，我们对对信息。我的占卜师技能告诉我一些事情：我查了good name和Youmi，都是好的。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊wowo",
+          "action": "可能是我理解错了，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊云面包",
+          "action": "我越来越觉得云面包有问题。理由是：他的声明是送葬者，但他的暂无投票完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊good name",
+          "action": "我想问问，good name，我刚整理了一下笔记：欧拉函数自称管家；我最怀疑good name；云面包自称送葬者。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊云面包",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作好。你找信息，我最后开枪。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊good name",
+          "action": "我的笔记里记了几件事：欧拉函数自称管家；我最怀疑good name；云面包自称送葬者。结合你的信息来看，你觉得我是不是多疑了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊云面包",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊good name",
+          "action": "我新手不太懂，我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊云面包",
+          "action": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊Run",
+          "action": "理性分析的话，理性分析的话，你好Run，我是厨师。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看云面包这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊猪头鹰",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊Run",
+          "action": "综合现有信息，我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊猪头鹰",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊Run",
+          "action": "基于已公开的信息，你有没有注意到云面包和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊猪头鹰",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊wowo",
+          "action": "嗨wowo，我是厨师。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊猪头鹰",
+          "action": "我们来盘一下目前的局势。云面包自称送葬者，猪头鹰自称厨师里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊wowo",
+          "action": "理性分析的话，客观来说，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊猪头鹰",
+          "action": "我想问问，我的笔记里记了几件事：我最怀疑云面包；云面包自称送葬者；猪头鹰自称厨师。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊wowo",
+          "action": "理性分析的话，客观来说，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊猪头鹰",
+          "action": "大家怎么看，我越来越觉得云面包有问题。理由是：他的声明是厨师，但他的暂无投票完全不符合这个身份的行为模式。一个真正的厨师不会这样投票。你分析一下是不是这个理呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊good name",
+          "action": "客观来说，理性分析的话，嘿good name，我是厨师。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊猪头鹰",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊good name",
+          "action": "我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊猪头鹰",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊good name",
+          "action": "综合现有信息，我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊猪头鹰",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Youmi",
+          "action": "Youmi，我刚整理了一下笔记：猪头鹰自称厨师；我最怀疑云面包。你那边有什么发现啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Run",
+          "action": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Youmi",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Run",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Youmi",
+          "action": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Run",
+          "action": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', '欧拉函数', '猪头鹰', 'Youmi', 'Run']",
+          "action": "云面包: 大家好，我是送葬者。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察good name。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', '欧拉函数', '猪头鹰', 'Youmi', 'Run']",
+          "action": "good name: 根据我的记录：我最怀疑云面包；猪头鹰自称厨师；云面包自称送葬者。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', '欧拉函数', '猪头鹰', 'Youmi', 'Run']",
+          "action": "wowo: 我是占卜师，昨晚查验了good name和Youmi，都不是恶魔。排除了两个好人我建议先从good name开始盘——如果他是好人翻出来，那Youmi就是铁邪恶吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', '欧拉函数', '猪头鹰', 'Youmi', 'Run']",
+          "action": "欧拉函数: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前云面包自称送葬者，wowo自称占卜师，而投票记录显示。这些线索综合来看，我的我会重点观察云面包。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', '欧拉函数', '猪头鹰', 'Youmi', 'Run']",
+          "action": "猪头鹰: 我是陌客。我目前还没有完全确定的结论，但云面包的发言让我非常不舒服——他一直在刻意模仿好人的说话方式，但有些细节露馅了。大家多观察他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', '欧拉函数', '猪头鹰', 'Youmi', 'Run']",
+          "action": "Youmi: 我站僧侣这个立场说话可能要得罪人，但我不在乎——猪头鹰的问题太明显了！僧侣的技能让我知道恶魔的目标是云面包附近的人——这说明云面包大概率是好人被盯上了，那他的对立面猪头鹰就非常可疑！如果有谁有不同意见，请拿出实锤证据来反驳我！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', '欧拉函数', '猪头鹰', 'Youmi', 'Run']",
+          "action": "Run: 大家好，我是士兵。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察猪头鹰。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "提名欧拉函数",
+          "action": "我提名欧拉函数——理由很充分：欧拉函数的发言和投票处处都是破绽，暂无记录说明他有问题。我拿我的身份担保，欧拉函数绝对不是好人。该投票了。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "被猪头鹰提名",
+          "action": "其实吧，我是管家，虽然能力有限但我始终站在好人这边。猪头鹰的信息和推理明显有漏洞——大家仔细想想，他说的那些真的站得住脚吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "欧拉函数被处决",
+          "action": "处决欧拉函数",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "猪头鹰",
+          "context": "恶魔自杀",
+          "action": "自杀传位给Youmi",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "明摆着的事，你好wowo，我是僧侣！想跟你聊聊对局势的看法！云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面我注意到你报了镇民——说实话我也在关注同样的方向！你怎么看猪头鹰这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "我越来越觉得猪头鹰有问题。理由是：他的声明是僧侣，但他的Youmi投了欧拉函数完全不符合这个身份的行为模式。一个真正的僧侣不会这样投票。你分析一下是不是这个理啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Run的问题很大。Youmi投了欧拉函数你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "来，我们对对信息。我的占卜师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Youmi投了欧拉函数来分析，重点嫌疑人应该已经很明显了吧吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "我复盘了一下Run的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "大家怎么看，我们来盘一下目前的局势。云面包自称送葬者，猪头鹰自称厨师，wowo自称占卜师，Run自称士兵，Youmi自称僧侣里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊云面包",
+          "action": "对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Youmi",
+          "action": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合Youmi投了欧拉函数，云面包投了欧拉函数来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊云面包",
+          "action": "有人盯上我们了！按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了！我则跳出来说其实我才是僧侣，我之前没说是因为在收集信息！身份对换，重新洗牌！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Youmi",
+          "action": "我们来盘一下目前的局势。欧拉函数自称管家，云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，猪头鹰的投票轨迹跟他的声明对不上。我的结论是猪头鹰至少需要被好好审一审啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊云面包",
+          "action": "情况不对，Run开始反击了！我们需要立刻转移焦点——你跳出来说Run更可疑，我配合你！理由就说Run的投票记录不对——云面包投了欧拉函数，Youmi投了欧拉函数里面他投的票全是跟风！记住：最好的防守就是进攻！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Youmi",
+          "action": "我的笔记里记了几件事：我最怀疑猪头鹰；云面包自称送葬者（昨天记的：我最怀疑good name；云面包自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊good name",
+          "action": "别绕弯子，good name，想跟你对一下信息。我僧侣这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Youmi",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：Youmi投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊good name",
+          "action": "你有没有注意到Run和云面包的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Youmi",
+          "action": "我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的Youmi投了欧拉函数完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊good name",
+          "action": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我Run不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Youmi",
+          "action": "我们来盘一下目前的局势。猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "我不太确定，good name你好，我是占卜师。第一天信息有限，但我注意到一些细节——云面包自称送葬者，猪头鹰自称厨师，wowo自称占卜师，Run自称士兵，Youmi自称僧侣里面有些人的声明不太自然。你同感吗？哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "我跟你们说啊，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作好。你找信息，我最后开枪哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "我想问问，我的笔记里记了几件事：我最怀疑猪头鹰；我最怀疑云面包；wowo自称占卜师（昨天记的：云面包自称送葬者；猪头鹰自称厨师）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "真的假的？！，我的天，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "我不太确定，我的笔记里记了几件事：我最怀疑云面包；wowo自称占卜师；Youmi自称僧侣（昨天记的：云面包自称送葬者；猪头鹰自称厨师）。结合你的信息来看，你觉得我是不是多疑了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作好。你找信息，我最后开枪。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊云面包",
+          "action": "我不太确定，云面包，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊wowo",
+          "action": "听我分析完再做决定：如果猪头鹰是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投猪头鹰的风险是可控的，收益却是巨大的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊云面包",
+          "action": "我想问问，我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的云面包投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊wowo",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投猪头鹰。理由我再说一遍：欧拉函数自称管家，云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵和云面包投了欧拉函数交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊云面包",
+          "action": "我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的云面包投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊wowo",
+          "action": "我不太确定，今天的投票策略：我们统一投猪头鹰。我负责去说服其他人，你负责观察那些不愿意投猪头鹰的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Run",
+          "action": "可能是我理解错了，大家怎么看，猪头鹰，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊云面包",
+          "action": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：云面包投了欧拉函数，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。 你的信息我记住了。我来保你，你专心验人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Run",
+          "action": "大家怎么看，我越来越觉得猪头鹰有问题。理由是：他的声明是士兵，但他的Run投了欧拉函数，云面包投了欧拉函数完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊云面包",
+          "action": "我越来越觉得猪头鹰有问题。理由是：他的声明是送葬者，但他的云面包投了欧拉函数，Run投了欧拉函数完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？ 你的信息我记住了。我来保你，你专心验人啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊Run",
+          "action": "我们来盘一下目前的局势。云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，猪头鹰的投票轨迹跟他的声明对不上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊云面包",
+          "action": "我的笔记里记了几件事：我最怀疑猪头鹰（昨天记的：wowo自称占卜师；猪头鹰自称陌客）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊good name",
+          "action": "good name你好，我是士兵。第一天信息有限，但我注意到一些细节——猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵里面有些人的声明不太自然。你同感吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Run",
+          "action": "我的笔记里记了几件事：我最怀疑猪头鹰；我最怀疑云面包；wowo自称占卜师；Run自称士兵（昨天记的：猪头鹰自称厨师；云面包自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊good name",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Run",
+          "action": "真的假的？！，我们来盘一下目前的局势。猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审。 合作好。你找信息，我最后开枪。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊good name",
+          "action": "我的天，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Run",
+          "action": "我觉得吧，我越来越觉得云面包有问题。理由是：他的声明是士兵，但他的Run投了欧拉函数完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？ 合作好。你找信息，我最后开枪。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', 'Youmi', 'Run']",
+          "action": "云面包: 根据我的记录：我最怀疑猪头鹰；云面包自称送葬者（昨天记的：我最怀疑good name；云面包自称送葬者）。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', 'Youmi', 'Run']",
+          "action": "good name: 现在是公聊时间，我分享一下我的推理：暂无特殊信息。目前猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵，而投票记录显示云面包投了欧拉函数，猪头鹰投了欧拉函数，Youmi投了欧拉函数，Run投了欧拉函数。这些线索综合来看，我的基于以上，我怀疑云面包。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', 'Youmi', 'Run']",
+          "action": "wowo: 占卜师有重要发现！Run和欧拉函数——都不是恶魔。我的查验不会骗人，大家信我的判断。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', 'Youmi', 'Run']",
+          "action": "欧拉函数(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑云面包，理由是我观察到欧拉函数自称管家，云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面的矛盾点和云面包投了欧拉函数，猪头鹰投了欧拉函数，Youmi投了欧拉函数，Run投了欧拉函数的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', 'Youmi', 'Run']",
+          "action": "猪头鹰(已死亡): 死者的话最客观。我回顾了整个游戏过程，Run的嫌疑最大。他的声明是猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', 'Youmi', 'Run']",
+          "action": "Youmi: Run，你别装了！你刚才说你是?，那你怎么解释你的投票？云面包投了欧拉函数，猪头鹰投了欧拉函数，Youmi投了欧拉函数，Run投了欧拉函数完全不是?该有的行为模式！你编故事之前能不能先对对台词？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['云面包', 'good name', 'wowo', 'Youmi', 'Run']",
+          "action": "Run: 大家好，我是士兵。我来分析一下目前的局势：暂无特殊信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑猪头鹰。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "提名good name",
+          "action": "其实吧，我提名good name。根据我的观察云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵，Youmi自称僧侣，good name的信息和别人对不上这是铁证。请大家投票。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被Youmi提名",
+          "action": "其实吧，我知道被怀疑的感觉不好受，但我真的是好人。我建议今天先出别人——如果明天我还活着，你们随时可以再提我。但今天处决我绝对是浪费一次宝贵的机会。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "good name被处决",
+          "action": "处决good name",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "Youmi",
+          "context": "恶魔杀人",
+          "action": "杀害云面包",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，wowo投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "你觉得今天应该出谁？我还没完全决定，但我倾向于Run——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "我不太确定，云面包，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "我注意到你一直在观察Run！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，wowo投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "聊得有收获！明天继续沟通——我们两个人信息共享比单打独斗强多了！今天先按这个方向走，有变化我通知你！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Run",
+          "action": "云面包，你的士兵声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说士兵的时候和现在的说法有出入，你能解释一下吗？第三，你的Run投了欧拉函数，wowo投了good name为什么会这样投？请正面回答，不要转移话题吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊wowo",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：wowo投了good name，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Run",
+          "action": "我越来越觉得云面包有问题。理由是：他的声明是士兵，但他的Run投了欧拉函数，wowo投了good name完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊wowo",
+          "action": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：wowo投了good name，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Run",
+          "action": "我的笔记里记了几件事：我最怀疑云面包（昨天记的：wowo自称占卜师；Youmi自称僧侣）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊wowo",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：wowo投了good name，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Youmi",
+          "action": "我觉得吧，我忍你很久了猪头鹰。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，Run投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Run",
+          "action": "对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Youmi",
+          "action": "猪头鹰，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Run",
+          "action": "被怀疑了，别慌！我教你反制：你先发制人去质疑Run——说他士兵的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！我们利用这个窗口期重新掌握主动权！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Youmi",
+          "action": "我忍你很久了猪头鹰。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，Run投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。 你的信息我记住了。我来保你，你专心验人啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Run",
+          "action": "他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['wowo', 'Youmi', 'Run']",
+          "action": "云面包(已死亡): 我是送葬者，昨天被处决的是士兵。处决错了……我建议大家复盘一下投票——那些带头投他的人里必然有邪恶在推波助澜。特别是云面包投了欧拉函数，猪头鹰投了欧拉函数，Youmi投了欧拉函数，Run投了欧拉函数里面跟票最快的那几个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['wowo', 'Youmi', 'Run']",
+          "action": "good name(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑云面包，理由是我观察到猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵里面的矛盾点和云面包投了欧拉函数，猪头鹰投了欧拉函数，Youmi投了欧拉函数，Run投了欧拉函数的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['wowo', 'Youmi', 'Run']",
+          "action": "wowo: 我不太确定，占卜师有重要发现！云面包和Youmi——有恶魔！这两人必须处决一个。我建议从云面包开始处决我的查验不会骗人，大家信我的判断。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['wowo', 'Youmi', 'Run']",
+          "action": "欧拉函数(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑云面包，理由是我观察到欧拉函数自称管家，云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面的矛盾点和云面包投了欧拉函数，猪头鹰投了欧拉函数，Youmi投了欧拉函数，Run投了欧拉函数的异常。活着的兄弟们，帮我报仇啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['wowo', 'Youmi', 'Run']",
+          "action": "猪头鹰(已死亡): 死者的话最客观。我回顾了整个游戏过程，Run的嫌疑最大。他的声明是猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['wowo', 'Youmi', 'Run']",
+          "action": "Youmi: 别绕弯子，我本来想再观察一轮，但Run的发言实在太离谱了。你说你是?，可你的云面包投了欧拉函数，猪头鹰投了欧拉函数，Youmi投了欧拉函数，Run投了欧拉函数完全不符合你的身份。我来给大家捋一捋：第一，Run的声明有问题；第二，他的投票记录暴露了他；第三，。三点证据链闭合了，没什么好犹豫的！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['wowo', 'Youmi', 'Run']",
+          "action": "Run: 大家好，我是士兵。我来分析一下目前的局势：暂无特殊信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑猪头鹰。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "提名wowo",
+          "action": "我提名wowo。wowo自称占卜师但?这个声明和其他人提供的信息对不上；他的投票记录good name非常反常——好人不该这样投票这是铁证。请大家投票。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "被Youmi提名",
+          "action": "大家冷静！我是占卜师，我查了云面包和Youmi，查出了恶魔！这就是为什么我敢肯定{nominator}在胡说！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "wowo被处决",
+          "action": "处决wowo",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "Youmi, Run",
+  "players": [
+    "云面包",
+    "good name",
+    "wowo",
+    "欧拉函数",
+    "猪头鹰",
+    "Youmi",
+    "Run"
+  ],
+  "private_chat_history": {
+    "云面包🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "云面包",
+        "text": "你好云面包，我是管家。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "云面包",
+        "listener": "欧拉函数",
+        "text": "大家怎么看，我越来越觉得good name有问题。理由是：他的声明是管家，但他的暂无投票完全不符合这个身份的行为模式。一个真正的管家不会这样投票。你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "云面包",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+        "seq": 3
+      },
+      {
+        "speaker": "云面包",
+        "listener": "欧拉函数",
+        "text": "我们来盘一下目前的局势。欧拉函数自称管家里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，good name的投票轨迹跟他的声明对不上。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "云面包",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "云面包",
+        "listener": "欧拉函数",
+        "text": "我不太确定，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "wowo🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "wowo",
+        "text": "这个事情是这样的，这个事情是这样的，wowo，我刚整理了一下笔记：我最怀疑云面包；欧拉函数自称管家；云面包自称送葬者。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "listener": "欧拉函数",
+        "text": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "wowo",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "listener": "欧拉函数",
+        "text": "我不太确定，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了good name和Youmi，都是好的。你觉得这意味着什么？。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "wowo",
+        "text": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "listener": "欧拉函数",
+        "text": "我的笔记里记了几件事：我最怀疑云面包。结合你的信息来看，你觉得我是不是多疑了？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 6
+      }
+    ],
+    "good name🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "good name，我刚整理了一下笔记：我最怀疑云面包；欧拉函数自称管家；云面包自称送葬者。你那边有什么发现？。对了还有啊，我觉得我们要多观察几轮",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "我的天，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了。",
+        "seq": 6
+      }
+    ],
+    "wowo🔄云面包": [
+      {
+        "speaker": "云面包",
+        "listener": "wowo",
+        "text": "大家怎么看，你好wowo，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "listener": "云面包",
+        "text": "我越来越觉得云面包有问题。理由是：他的声明是送葬者，但他的暂无投票完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "listener": "wowo",
+        "text": "我的笔记里记了几件事：欧拉函数自称管家；我最怀疑good name；云面包自称送葬者。结合你的信息来看，你觉得我是不是多疑了吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "listener": "云面包",
+        "text": "来，我们对对信息。我的占卜师技能告诉我一些事情：我查了good name和Youmi，都是好的。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "listener": "wowo",
+        "text": "可能是我理解错了，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "listener": "云面包",
+        "text": "我越来越觉得云面包有问题。理由是：他的声明是送葬者，但他的暂无投票完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理哦。",
+        "seq": 6
+      },
+      {
+        "speaker": "wowo",
+        "listener": "云面包",
+        "text": "我不太确定，云面包，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+        "seq": 7
+      },
+      {
+        "speaker": "云面包",
+        "listener": "wowo",
+        "text": "听我分析完再做决定：如果猪头鹰是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投猪头鹰的风险是可控的，收益却是巨大的哦。",
+        "seq": 8
+      },
+      {
+        "speaker": "wowo",
+        "listener": "云面包",
+        "text": "我想问问，我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的云面包投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "云面包",
+        "listener": "wowo",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投猪头鹰。理由我再说一遍：欧拉函数自称管家，云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵和云面包投了欧拉函数交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 10
+      },
+      {
+        "speaker": "wowo",
+        "listener": "云面包",
+        "text": "我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的云面包投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "云面包",
+        "listener": "wowo",
+        "text": "我不太确定，今天的投票策略：我们统一投猪头鹰。我负责去说服其他人，你负责观察那些不愿意投猪头鹰的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+        "seq": 12
+      }
+    ],
+    "good name🔄云面包": [
+      {
+        "speaker": "云面包",
+        "listener": "good name",
+        "text": "我想问问，good name，我刚整理了一下笔记：欧拉函数自称管家；我最怀疑good name；云面包自称送葬者。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "云面包",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作好。你找信息，我最后开枪。",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "listener": "good name",
+        "text": "我的笔记里记了几件事：欧拉函数自称管家；我最怀疑good name；云面包自称送葬者。结合你的信息来看，你觉得我是不是多疑了啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "云面包",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "listener": "good name",
+        "text": "我新手不太懂，我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "云面包",
+        "text": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+        "seq": 6
+      }
+    ],
+    "Run🔄猪头鹰": [
+      {
+        "speaker": "猪头鹰",
+        "listener": "Run",
+        "text": "理性分析的话，理性分析的话，你好Run，我是厨师。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看云面包这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "Run",
+        "listener": "猪头鹰",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "Run",
+        "text": "综合现有信息，我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 3
+      },
+      {
+        "speaker": "Run",
+        "listener": "猪头鹰",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "Run",
+        "text": "基于已公开的信息，你有没有注意到云面包和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 5
+      },
+      {
+        "speaker": "Run",
+        "listener": "猪头鹰",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊哦。",
+        "seq": 6
+      }
+    ],
+    "wowo🔄猪头鹰": [
+      {
+        "speaker": "猪头鹰",
+        "listener": "wowo",
+        "text": "嗨wowo，我是厨师。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "listener": "猪头鹰",
+        "text": "我们来盘一下目前的局势。云面包自称送葬者，猪头鹰自称厨师里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "wowo",
+        "text": "理性分析的话，客观来说，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "listener": "猪头鹰",
+        "text": "我想问问，我的笔记里记了几件事：我最怀疑云面包；云面包自称送葬者；猪头鹰自称厨师。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "wowo",
+        "text": "理性分析的话，客观来说，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "listener": "猪头鹰",
+        "text": "大家怎么看，我越来越觉得云面包有问题。理由是：他的声明是厨师，但他的暂无投票完全不符合这个身份的行为模式。一个真正的厨师不会这样投票。你分析一下是不是这个理呢。",
+        "seq": 6
+      }
+    ],
+    "good name🔄猪头鹰": [
+      {
+        "speaker": "猪头鹰",
+        "listener": "good name",
+        "text": "客观来说，理性分析的话，嘿good name，我是厨师。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "猪头鹰",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "good name",
+        "text": "我复盘了一下云面包的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "猪头鹰",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "good name",
+        "text": "综合现有信息，我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "猪头鹰",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 你的信息指向谁？如果和我怀疑的一致，我可以准备开枪了哦。",
+        "seq": 6
+      }
+    ],
+    "Run🔄Youmi": [
+      {
+        "speaker": "Run",
+        "listener": "Youmi",
+        "text": "Youmi，我刚整理了一下笔记：猪头鹰自称厨师；我最怀疑云面包。你那边有什么发现啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "Run",
+        "text": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我云面包不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "listener": "Youmi",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "Run",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得云面包的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "listener": "Youmi",
+        "text": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "Run",
+        "text": "我跟你透露一个事：云面包跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 6
+      },
+      {
+        "speaker": "Run",
+        "listener": "Youmi",
+        "text": "我觉得吧，我忍你很久了猪头鹰。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，Run投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+        "seq": 7
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "Run",
+        "text": "对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+        "seq": 8
+      },
+      {
+        "speaker": "Run",
+        "listener": "Youmi",
+        "text": "猪头鹰，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "Run",
+        "text": "被怀疑了，别慌！我教你反制：你先发制人去质疑Run——说他士兵的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！我们利用这个窗口期重新掌握主动权！",
+        "seq": 10
+      },
+      {
+        "speaker": "Run",
+        "listener": "Youmi",
+        "text": "我忍你很久了猪头鹰。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，Run投了欧拉函数完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。 你的信息我记住了。我来保你，你专心验人啊。",
+        "seq": 11
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "Run",
+        "text": "他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+        "seq": 12
+      }
+    ],
+    "Youmi🔄wowo": [
+      {
+        "speaker": "Youmi",
+        "listener": "wowo",
+        "text": "明摆着的事，你好wowo，我是僧侣！想跟你聊聊对局势的看法！云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面我注意到你报了镇民——说实话我也在关注同样的方向！你怎么看猪头鹰这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Youmi",
+        "text": "我越来越觉得猪头鹰有问题。理由是：他的声明是僧侣，但他的Youmi投了欧拉函数完全不符合这个身份的行为模式。一个真正的僧侣不会这样投票。你分析一下是不是这个理啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "wowo",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Run的问题很大。Youmi投了欧拉函数你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Youmi",
+        "text": "来，我们对对信息。我的占卜师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Youmi投了欧拉函数来分析，重点嫌疑人应该已经很明显了吧吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "wowo",
+        "text": "我复盘了一下Run的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Youmi",
+        "text": "大家怎么看，我们来盘一下目前的局势。云面包自称送葬者，猪头鹰自称厨师，wowo自称占卜师，Run自称士兵，Youmi自称僧侣里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上吧。",
+        "seq": 6
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Youmi",
+        "text": "我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，wowo投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "wowo",
+        "text": "你觉得今天应该出谁？我还没完全决定，但我倾向于Run——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+        "seq": 8
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Youmi",
+        "text": "我不太确定，云面包，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "wowo",
+        "text": "我注意到你一直在观察Run！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+        "seq": 10
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Youmi",
+        "text": "我忍你很久了云面包。你的发言从头到尾都是漏洞：第一，你的僧侣声明前后不一致；第二，你的Youmi投了欧拉函数，Youmi投了good name，wowo投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "wowo",
+        "text": "聊得有收获！明天继续沟通——我们两个人信息共享比单打独斗强多了！今天先按这个方向走，有变化我通知你！",
+        "seq": 12
+      }
+    ],
+    "Youmi🔄云面包": [
+      {
+        "speaker": "Youmi",
+        "listener": "云面包",
+        "text": "对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？。",
+        "seq": 1
+      },
+      {
+        "speaker": "云面包",
+        "listener": "Youmi",
+        "text": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合Youmi投了欧拉函数，云面包投了欧拉函数来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "云面包",
+        "text": "有人盯上我们了！按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了！我则跳出来说其实我才是僧侣，我之前没说是因为在收集信息！身份对换，重新洗牌！",
+        "seq": 3
+      },
+      {
+        "speaker": "云面包",
+        "listener": "Youmi",
+        "text": "我们来盘一下目前的局势。欧拉函数自称管家，云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，猪头鹰的投票轨迹跟他的声明对不上。我的结论是猪头鹰至少需要被好好审一审啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "云面包",
+        "text": "情况不对，Run开始反击了！我们需要立刻转移焦点——你跳出来说Run更可疑，我配合你！理由就说Run的投票记录不对——云面包投了欧拉函数，Youmi投了欧拉函数里面他投的票全是跟风！记住：最好的防守就是进攻！",
+        "seq": 5
+      },
+      {
+        "speaker": "云面包",
+        "listener": "Youmi",
+        "text": "我的笔记里记了几件事：我最怀疑猪头鹰；云面包自称送葬者（昨天记的：我最怀疑good name；云面包自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄good name": [
+      {
+        "speaker": "Youmi",
+        "listener": "good name",
+        "text": "别绕弯子，good name，想跟你对一下信息。我僧侣这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "Youmi",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：Youmi投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "good name",
+        "text": "你有没有注意到Run和云面包的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "Youmi",
+        "text": "我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的Youmi投了欧拉函数完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "listener": "good name",
+        "text": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我Run不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "Youmi",
+        "text": "我们来盘一下目前的局势。猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审哦。",
+        "seq": 6
+      }
+    ],
+    "good name🔄wowo": [
+      {
+        "speaker": "wowo",
+        "listener": "good name",
+        "text": "我不太确定，good name你好，我是占卜师。第一天信息有限，但我注意到一些细节——云面包自称送葬者，猪头鹰自称厨师，wowo自称占卜师，Run自称士兵，Youmi自称僧侣里面有些人的声明不太自然。你同感吗？哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "wowo",
+        "text": "我跟你们说啊，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作好。你找信息，我最后开枪哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "listener": "good name",
+        "text": "我想问问，我的笔记里记了几件事：我最怀疑猪头鹰；我最怀疑云面包；wowo自称占卜师（昨天记的：云面包自称送葬者；猪头鹰自称厨师）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "wowo",
+        "text": "真的假的？！，我的天，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "listener": "good name",
+        "text": "我不太确定，我的笔记里记了几件事：我最怀疑云面包；wowo自称占卜师；Youmi自称僧侣（昨天记的：云面包自称送葬者；猪头鹰自称厨师）。结合你的信息来看，你觉得我是不是多疑了哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "wowo",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作好。你找信息，我最后开枪。",
+        "seq": 6
+      }
+    ],
+    "Run🔄云面包": [
+      {
+        "speaker": "云面包",
+        "listener": "Run",
+        "text": "可能是我理解错了，大家怎么看，猪头鹰，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "Run",
+        "listener": "云面包",
+        "text": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：云面包投了欧拉函数，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。 你的信息我记住了。我来保你，你专心验人。",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "listener": "Run",
+        "text": "大家怎么看，我越来越觉得猪头鹰有问题。理由是：他的声明是士兵，但他的Run投了欧拉函数，云面包投了欧拉函数完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Run",
+        "listener": "云面包",
+        "text": "我越来越觉得猪头鹰有问题。理由是：他的声明是送葬者，但他的云面包投了欧拉函数，Run投了欧拉函数完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？ 你的信息我记住了。我来保你，你专心验人啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "listener": "Run",
+        "text": "我们来盘一下目前的局势。云面包自称送葬者，wowo自称占卜师，猪头鹰自称陌客，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，猪头鹰的投票轨迹跟他的声明对不上。",
+        "seq": 5
+      },
+      {
+        "speaker": "Run",
+        "listener": "云面包",
+        "text": "我的笔记里记了几件事：我最怀疑猪头鹰（昨天记的：wowo自称占卜师；猪头鹰自称陌客）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "Run🔄good name": [
+      {
+        "speaker": "Run",
+        "listener": "good name",
+        "text": "good name你好，我是士兵。第一天信息有限，但我注意到一些细节——猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵里面有些人的声明不太自然。你同感吗呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "Run",
+        "text": "我的笔记里记了几件事：我最怀疑猪头鹰；我最怀疑云面包；wowo自称占卜师；Run自称士兵（昨天记的：猪头鹰自称厨师；云面包自称送葬者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "listener": "good name",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "Run",
+        "text": "真的假的？！，我们来盘一下目前的局势。猪头鹰自称厨师，云面包自称送葬者，wowo自称占卜师，Run自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审。 合作好。你找信息，我最后开枪。",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "listener": "good name",
+        "text": "我的天，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "Run",
+        "text": "我觉得吧，我越来越觉得云面包有问题。理由是：他的声明是士兵，但他的Run投了欧拉函数完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？ 合作好。你找信息，我最后开枪。",
+        "seq": 6
+      }
+    ],
+    "Run🔄wowo": [
+      {
+        "speaker": "wowo",
+        "listener": "Run",
+        "text": "云面包，你的士兵声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说士兵的时候和现在的说法有出入，你能解释一下吗？第三，你的Run投了欧拉函数，wowo投了good name为什么会这样投？请正面回答，不要转移话题吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "Run",
+        "listener": "wowo",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：wowo投了good name，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Run",
+        "text": "我越来越觉得云面包有问题。理由是：他的声明是士兵，但他的Run投了欧拉函数，wowo投了good name完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 3
+      },
+      {
+        "speaker": "Run",
+        "listener": "wowo",
+        "text": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：wowo投了good name，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "listener": "Run",
+        "text": "我的笔记里记了几件事：我最怀疑云面包（昨天记的：wowo自称占卜师；Youmi自称僧侣）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "Run",
+        "listener": "wowo",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我猪头鹰有问题。理由：wowo投了good name，Run投了欧拉函数里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦呢。",
+        "seq": 6
+      }
+    ]
+  },
+  "_used_pub_1": [
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "云面包",
+        "target": "欧拉函数",
+        "day": 1
+      },
+      {
+        "voter": "猪头鹰",
+        "target": "欧拉函数",
+        "day": 1
+      },
+      {
+        "voter": "Youmi",
+        "target": "欧拉函数",
+        "day": 1
+      },
+      {
+        "voter": "Run",
+        "target": "欧拉函数",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "云面包",
+        "target": "good name",
+        "day": 2
+      },
+      {
+        "voter": "wowo",
+        "target": "good name",
+        "day": 2
+      },
+      {
+        "voter": "Youmi",
+        "target": "good name",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "Youmi",
+        "target": "wowo",
+        "day": 3
+      },
+      {
+        "voter": "Run",
+        "target": "wowo",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "猪头鹰",
+        "target": "欧拉函数",
+        "result": "executed",
+        "vote_count": 4,
+        "voters": [
+          "云面包",
+          "猪头鹰",
+          "Youmi",
+          "Run"
+        ]
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "Youmi",
+        "target": "good name",
+        "result": "executed",
+        "vote_count": 3,
+        "voters": [
+          "云面包",
+          "wowo",
+          "Youmi"
+        ]
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "Youmi",
+        "target": "wowo",
+        "result": "executed",
+        "vote_count": 2,
+        "voters": [
+          "Youmi",
+          "Run"
+        ]
+      }
+    ]
+  },
+  "_used_pub_2": [
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "根据我的记录：{my_note}。大家怎么看？",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。",
+    "{target}，你别装了。你刚才说你是{claim}，那你怎么解释你的投票？{vote_str}完全不是{claim}该有的行为模式。你编故事之前能不能先对对台词？"
+  ],
+  "_used_pub_3": [
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。",
+    "我本来想再观察一轮，但{target}的发言实在太离谱了。你说你是{claim}，可你的{vote_str}完全不符合你的身份。我来给大家捋一捋：第一，{target}的声明有问题；第二，他的投票记录暴露了他；第三，{contradict_str}。三点证据链闭合了，没什么好犹豫的。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。"
+  ],
+  "ended_at": "2026-06-20T15:14:36.194212"
+}

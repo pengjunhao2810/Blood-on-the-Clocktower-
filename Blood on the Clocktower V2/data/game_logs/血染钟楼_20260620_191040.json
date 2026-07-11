@@ -1,0 +1,2097 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T19:10:40.234810",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "困困",
+          "context": "私聊琥珀王",
+          "action": "我觉得吧，你好琥珀王，我是守鸦人。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊困困",
+          "action": "我敢肯定，我越来越觉得wowo有问题！理由是：他的声明是守鸦人，但他的完全不符合这个身份的行为模式！一个真正的守鸦人不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊琥珀王",
+          "action": "我的天，我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊困困",
+          "action": "来，我们对对信息！我的士兵技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊琥珀王",
+          "action": "观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊困困",
+          "action": "我直接说了，观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊丘皮卡",
+          "action": "我的天，丘皮卡，我刚整理了一下笔记：我最怀疑wowo；困困自称守鸦人。你那边有什么发现呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊困困",
+          "action": "我复盘了一下wowo的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊丘皮卡",
+          "action": "我们来盘一下目前的局势。困困自称守鸦人里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊困困",
+          "action": "我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊丘皮卡",
+          "action": "我的天，我的笔记里记了几件事：我最怀疑wowo；困困自称守鸦人。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊困困",
+          "action": "你有没有注意到wowo和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "我跟你们说啊，wowo你好，我是守鸦人。第一天信息有限，但我注意到一些细节——困困自称守鸦人里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "你刚才提到说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。你看了吗？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "别绕弯子，你有没有注意到困困和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "我越来越觉得wowo有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理啊吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "这还用想？，我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Takai&xingfei",
+          "action": "我敢肯定，刚才你说的你的发言，我也想聊聊这个话题！我的看法是wowo确实值得重点观察，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊澳大利亚",
+          "action": "我想问问，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Takai&xingfei",
+          "action": "我越来越觉得wowo有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊澳大利亚",
+          "action": "我越来越觉得wowo有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Takai&xingfei",
+          "action": "这还用想？，我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊澳大利亚",
+          "action": "我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "我直接说了，这还用想？，琥珀王你好，我是镇长！第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然！你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "我的笔记里记了几件事：困困自称守鸦人；我最怀疑wowo；澳大利亚自称镇长！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "别绕弯子，我的笔记里记了几件事：我最怀疑wowo；澳大利亚自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "我直接说了，我们来盘一下目前的局势！困困自称守鸦人，澳大利亚自称镇长里面有几个矛盾点特别值得关注！第一，；第二，wowo的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "我敢肯定，你刚才提到我直接说了，我们来盘一下目前的局势！困困自称守鸦人，澳大利亚自称镇长里面有几个矛盾点特别值得关注！第，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "我直接说了，我在想wowo的行为能不能用镇长来解释——他自称是镇长，但如果是真镇长，应该会镇长应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊丘皮卡",
+          "action": "你好丘皮卡，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊澳大利亚",
+          "action": "理性分析的话，我跟你透露一个事：wowo跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊丘皮卡",
+          "action": "我们来盘一下目前的局势。澳大利亚自称镇长里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊澳大利亚",
+          "action": "综合现有信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得wowo的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊丘皮卡",
+          "action": "观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊澳大利亚",
+          "action": "理性分析的话，我跟你透露一个事：wowo跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊Hannoy",
+          "action": "Hannoy，想跟你对一下信息。我酒鬼这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊丘皮卡",
+          "action": "对比了几个人的发言，wowo是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊丘皮卡",
+          "action": "综合观察下来，wowo的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊Hannoy",
+          "action": "客观来说，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得wowo的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊丘皮卡",
+          "action": "综合现有信息，我盘了一下wowo的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Takai&xingfei",
+          "action": "Takai&xingfei你好，我是僧侣。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Hannoy",
+          "action": "我想问问，观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Takai&xingfei",
+          "action": "综合现有信息，客观来说，观察wowo的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Hannoy",
+          "action": "可能是我理解错了，大家怎么看，你刚才提到综合现有信息，客观来说，观察wowo的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Takai&xingfei",
+          "action": "我注意到wowo的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Hannoy",
+          "action": "可能是我理解错了，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了琥珀王和澳大利亚，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "从逻辑上看，客观来说，刚才你说的你的发言，我也想聊聊这个话题。我的看法是wowo确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我敢肯定，别绕弯子，你刚才提到从逻辑上看，客观来说，刚才你说的你的发言，我也想聊聊这个话题！我的看法是wowo确实值得重点观察，你，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我wowo有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊琥珀王",
+          "action": "我不太信wowo。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Hannoy",
+          "action": "观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Takai&xingfei",
+          "action": "嘿Takai&xingfei，我是圣徒！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊wowo",
+          "action": "我的笔记里记了几件事：我最怀疑wowo；Hannoy自称僧侣；wowo自称圣徒。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Takai&xingfei",
+          "action": "我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊wowo",
+          "action": "我新手不太懂，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了琥珀王和澳大利亚，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Takai&xingfei",
+          "action": "我敢肯定，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊wowo",
+          "action": "我在想wowo的行为能不能用圣徒来解释——他自称是圣徒，但如果是真圣徒，应该会圣徒应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Takai&xingfei', 'Hannoy', '丘皮卡', '澳大利亚']",
+          "action": "wowo: 别绕弯子，我是圣徒，我还在收集信息。我从困困的发言中嗅到了谎言的味道——他太急于证明自己了，真正的好人不需要反复强调。但目前初步判断，困困是让我最不安的一个——他的声明和都在敲警钟。我不急着下定论，但大家盯紧他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Takai&xingfei', 'Hannoy', '丘皮卡', '澳大利亚']",
+          "action": "困困: 大家好，我是守鸦人。我来分析一下目前的局势：暂时没有关键信息。。本局预期没有外来者，但已经有1个人自称外来者（wowo）了——这个数字对不上，说明有人在冒充！我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察wowo。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Takai&xingfei', 'Hannoy', '丘皮卡', '澳大利亚']",
+          "action": "琥珀王: 明摆着的事，士兵在此。我不需要拐弯抹角——wowo的可疑点太明显了：身份跳法是否合理，发言是否含有有效信息，是否回避关键问题。我对wowo有怀疑。谁要是保wowo，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Takai&xingfei', 'Hannoy', '丘皮卡', '澳大利亚']",
+          "action": "Takai&xingfei: 占卜师有重要发现！琥珀王和澳大利亚——都不是恶魔。我的查验不会骗人，大家信我的判断。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Takai&xingfei', 'Hannoy', '丘皮卡', '澳大利亚']",
+          "action": "Hannoy: 我来盘一下目前的局面。暂时没有关键信息。wowo自称圣徒，困困自称守鸦人，。。本局预期没有外来者，但已经有1个人自称外来者（wowo）了——这个数字对不上，说明有人在冒充！综合这些，我倾向wowo有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Takai&xingfei', 'Hannoy', '丘皮卡', '澳大利亚']",
+          "action": "丘皮卡: 我才是镇长。澳大利亚冒充我，无非是想在决赛圈拿到关键一票。但真正的镇长有我这一票就够了——等只剩三人时大家自然知道谁真谁假。澳大利亚，你敢等到那一步吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Takai&xingfei', 'Hannoy', '丘皮卡', '澳大利亚']",
+          "action": "澳大利亚: 镇长归票时间：综合wowo自称圣徒，困困自称守鸦人和，wowo是今天的最佳处决目标。理由：身份跳法是否合理，发言是否含有有效信息，是否回避关键问题。我随时可以自证（三人存活时邪恶输），请大家相信我这次归票！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "提名Hannoy",
+          "action": "我提名Hannoy——理由很充分：Hannoy一直在转移焦点不敢正面回答质疑。我拿我的身份担保，Hannoy绝对不是好人。该投票了。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "被wowo提名",
+          "action": "我是僧侣，每晚能保护一个人不被恶魔杀。wowo要处决我，等于帮恶魔开了一条血路哈。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "提名Takai&xingfei",
+          "action": "我提名Takai&xingfei。理由如下：第一，他的声明某人有问题；第二，琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy显示他的投票异常；第三，困困自称守鸦人，澳大利亚自称镇长，wowo自称圣徒里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "被琥珀王提名",
+          "action": "大家冷静！我是占卜师，我查了琥珀王和澳大利亚，正在缩小范围，我还有用吧。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "Takai&xingfei被处决",
+          "action": "处决Takai&xingfei",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "wowo",
+          "context": "恶魔杀人",
+          "action": "杀害丘皮卡",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "这个事情是这样的，hannoy，我刚整理了一下笔记：我最怀疑琥珀王（昨天记的：困困自称守鸦人；wowo自称圣徒）。你那边有什么发现吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "客观来说，我虽然没有查验技能，但我的逻辑告诉我丘皮卡有问题。理由：困困投了Takai&xingfei，Hannoy投了Takai&xingfei里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "我越来越觉得琥珀王有问题。理由是：他的声明是身份不明，但他的Hannoy投了Takai&xingfei，困困投了Takai&xingfei完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "我注意到丘皮卡的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Hannoy",
+          "action": "我的天，我的笔记里记了几件事：我最怀疑琥珀王（昨天记的：困困自称守鸦人；wowo自称圣徒）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊困困",
+          "action": "我的笔记里记了几件事：我最怀疑丘皮卡（昨天记的：wowo自称圣徒；困困自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "这个事情是这样的，琥珀王，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "你有没有注意到Takai&xingfei和澳大利亚的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的圣徒声明前后不一致；第二，你的困困投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "这还用想？，我直接说了，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得Takai&xingfei的问题很大！困困投了Takai&xingfei你看了吗？他的投票明显不对劲！你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "琥珀王，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "我复盘了一下Takai&xingfei的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊琥珀王",
+          "action": "这个事情是这样的，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei，困困投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊困困",
+          "action": "别绕弯子，我忍你很久了wowo！你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的困困投了Takai&xingfei，琥珀王投了Hannoy，琥珀王投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊琥珀王",
+          "action": "真的假的？！，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei，困困投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊困困",
+          "action": "我直接说了，wowo，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊琥珀王",
+          "action": "琥珀王，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局哦吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊困困",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "我直接说了，我忍你很久了wowo。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Takai&xingfei！理由我再说一遍：困困自称守鸦人，澳大利亚自称镇长，wowo自称圣徒和琥珀王投了Hannoy，琥珀王投了Takai&xingfei交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "明摆着的事，明摆着的事，wowo，我现在公开质疑你！如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "这还用想？。，这还用想？。，听我分析完再做决定：如果Takai&xingfei是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊琥珀王",
+          "action": "我忍你很久了wowo！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊澳大利亚",
+          "action": "我直接说了，我直接说了，今天的投票策略：我们统一投Takai&xingfei！我负责去说服其他人，你负责观察那些不愿意投Takai&xingfei的人——他们可能就是我们要找的下一批目标！记住：邪恶方的最大弱点就是他们不敢投自己的队友！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊wowo",
+          "action": "这还用想？，别绕弯子，你好wowo，我是镇长！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊澳大利亚",
+          "action": "明摆着的事，我直接说了，我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊wowo",
+          "action": "我越来越觉得Takai&xingfei有问题！理由是：他的声明是圣徒，但他的完全不符合这个身份的行为模式！一个真正的圣徒不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊澳大利亚",
+          "action": "明摆着的事，别绕弯子，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊wowo",
+          "action": "来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊澳大利亚",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "我直接说了，刚才你说的你的发言，我也想聊聊这个话题！我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "从逻辑上看，对比了几个人的发言，丘皮卡是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "观察丘皮卡的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊Hannoy",
+          "action": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊澳大利亚",
+          "action": "综合观察下来，丘皮卡的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "理性分析的话，wowo，你的圣徒声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说圣徒的时候和现在的说法有出入，你能解释一下吗？第三，你的Hannoy投了Takai&xingfei为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "我们来盘一下目前的局势。Hannoy自称僧侣，wowo自称圣徒，困困自称守鸦人里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "明摆着的事，你有没有注意到困困和困困的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊wowo",
+          "action": "综合现有信息，综合现有信息，我越来越觉得wowo有问题。理由是：他的声明是圣徒，但他的Hannoy投了Takai&xingfei完全不符合这个身份的行为模式。一个真正的圣徒不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Hannoy",
+          "action": "这还用想？，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Hannoy', '澳大利亚']",
+          "action": "wowo: 我的笔记已经记了好几页Takai&xingfei的可疑行为了。某人。连续两天了，我的圣徒信息都指向困困——一个人可以被冤枉一次，但不会被连续误判两次！！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Hannoy', '澳大利亚']",
+          "action": "困困: 我的天，现在是公聊时间，我分享一下我的推理：暂无特殊信息。目前wowo自称圣徒，而投票记录显示琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei。Takai&xingfei已死亡，丘皮卡已死亡，Takai&xingfei已死亡。本局预期没有外来者，但已经有1个人自称外来者（wowo）了——这个数字对不上，说明有人在冒充！这些线索综合来看，我的基于以上，我怀疑琥珀王。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Hannoy', '澳大利亚']",
+          "action": "琥珀王: 明摆着的事，士兵在此。我不需要拐弯抹角——wowo的可疑点太明显了：死者身份与之前发言是否匹配，谁曾力保或死踩死者，死亡结果对谁最有利。我对Takai&xingfei有怀疑。谁要是保wowo，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Hannoy', '澳大利亚']",
+          "action": "Takai&xingfei(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Hannoy，理由是我观察到Hannoy自称僧侣，wowo自称圣徒，困困自称守鸦人里面的矛盾点和琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Hannoy', '澳大利亚']",
+          "action": "Hannoy: 客观来说，我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于某个身份的声明，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己。丘皮卡，你有什么想说的吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Hannoy', '澳大利亚']",
+          "action": "丘皮卡(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑琥珀王，理由是我观察到澳大利亚自称镇长，wowo自称圣徒，困困自称守鸦人里面的矛盾点和琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['wowo', '困困', '琥珀王', 'Hannoy', '澳大利亚']",
+          "action": "澳大利亚: 我是镇长！当前存活玩家中，wowo自称圣徒，困困自称守鸦人里有几个信息点值得关注：！我对Takai&xingfei有怀疑！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "提名琥珀王",
+          "action": "我提名琥珀王。理由如下：第一，他的声明某人有问题；第二，琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei显示他的投票异常；第三，困困自称守鸦人，wowo自称圣徒，澳大利亚自称镇长里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "被困困提名",
+          "action": "我是士兵，恶魔杀不了我！我可以一直活到决赛圈帮好人投票——困困急着除掉我，恰恰证明他在帮邪恶做事！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "琥珀王被处决",
+          "action": "处决琥珀王",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "wowo",
+          "context": "恶魔杀人",
+          "action": "杀害Hannoy",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "困困",
+          "context": "私聊澳大利亚",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是琥珀王确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊困困",
+          "action": "明摆着的事，我在想Takai&xingfei的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真守鸦人，应该会守鸦人应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊澳大利亚",
+          "action": "你刚才提到明摆着的事，我在想Takai&xingfei的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明琥珀王的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊困困",
+          "action": "我越来越觉得Takai&xingfei有问题！理由是：他的声明是守鸦人，但他的困困投了Takai&xingfei，困困投了琥珀王，澳大利亚投了琥珀王完全不符合这个身份的行为模式！一个真正的守鸦人不会这样投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊澳大利亚",
+          "action": "我的笔记里记了几件事：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。其实吧，结合你的信息来看，你觉得我是不是多疑了？。对了还有啊，这事儿我得捋一捋，感觉没那么简单",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊困困",
+          "action": "这还用想？，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合困困投了Takai&xingfei，困困投了琥珀王，澳大利亚投了琥珀王来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "真的假的？！，今天就到这。我们的共识是：wowo是第一嫌疑人。明天根据处决结果再调整策略。如果wowo是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "你有没有注意到Takai&xingfei和澳大利亚的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "我记一下今天的重点：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。让我想想，明天继续跟进，有新情况随时找我。对了另外呢，不知道大家注意到没有，他的发言有几个地方很奇怪",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "我跟你透露一个事：Takai&xingfei跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "我的天，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破哦哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "别绕弯子，我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊wowo",
+          "action": "明摆着的事，分头行动：我盯着Takai&xingfei的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Takai&xingfei。如果他翻出是好人，我们就从保过他的人里继续盘。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊澳大利亚",
+          "action": "我敢肯定，别绕弯子，我注意到你一直在观察困困！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊wowo",
+          "action": "这还用想？。，别绕弯子，今天的投票策略：我们统一投Takai&xingfei。我负责去说服其他人，你负责观察那些不愿意投Takai&xingfei的人——他们可能就是我们要找的下一批目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊澳大利亚",
+          "action": "我直接说了，这还用想？，你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰！我个人目前最怀疑困困！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "私聊wowo",
+          "action": "我敢肯定，这还用想？，分头行动：我盯着Takai&xingfei的发言找漏洞，你去跟其他人沟通统一票型！今天的目标很明确——出Takai&xingfei！如果他翻出是好人，我们就从保过他的人里继续盘！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊澳大利亚",
+          "action": "聊得有收获。明天继续沟通——我们两个人信息共享比单打独斗强多了。今天先按这个方向走，有变化我通知你。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['wowo', '困困', '澳大利亚']",
+          "action": "wowo: 别绕弯子，我的笔记已经记了好几页困困的可疑行为了。某人。连续两天了，我的圣徒信息都指向困困——一个人可以被冤枉一次，但不会被连续误判两次！。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['wowo', '困困', '澳大利亚']",
+          "action": "困困: 我觉得吧，我来盘一下目前的局面。暂无特殊信息。澳大利亚自称镇长，琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei。Takai&xingfei已死亡，丘皮卡已死亡，琥珀王已死亡。综合这些，我倾向wowo有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['wowo', '困困', '澳大利亚']",
+          "action": "琥珀王(已死亡): 死者的话最客观。我回顾了整个游戏过程，困困的嫌疑最大。他的声明是澳大利亚自称镇长，wowo自称圣徒，困困自称守鸦人，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['wowo', '困困', '澳大利亚']",
+          "action": "Takai&xingfei(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Hannoy，理由是我观察到Hannoy自称僧侣，wowo自称圣徒，困困自称守鸦人，澳大利亚自称镇长里面的矛盾点和琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['wowo', '困困', '澳大利亚']",
+          "action": "Hannoy(已死亡): 综合现有信息，死者的话最客观。我回顾了整个游戏过程，丘皮卡的嫌疑最大。他的声明是wowo自称圣徒，困困自称守鸦人，澳大利亚自称镇长，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "公聊环节, 存活: ['wowo', '困困', '澳大利亚']",
+          "action": "丘皮卡(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑琥珀王，理由是我观察到澳大利亚自称镇长，wowo自称圣徒，困困自称守鸦人里面的矛盾点和琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "澳大利亚",
+          "context": "公聊环节, 存活: ['wowo', '困困', '澳大利亚']",
+          "action": "澳大利亚: 我敢肯定，我是镇长。当前存活玩家中，里有几个信息点值得关注：。我对Takai&xingfei有怀疑。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "提名困困",
+          "action": "怎么说呢……，提名困困。困困自称守鸦人但?这个声明和其他人提供的信息对不上；他的投票记录Takai&xingfei/琥珀王非常反常——好人不该这样投票；Takai&xingfei已死亡；丘皮卡已死亡我不需要再多说了，证据摆在这里。谁反对可以站出来对质。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "被wowo提名",
+          "action": "我是守鸦人，我的身份经得起验证。wowo的指控有几点站不住脚：首先，他说的问题并不存在；其次，琥珀王投了Hannoy，Takai&xingfei投了Hannoy，丘皮卡投了Hannoy，困困投了Takai&xingfei显示我一直在支持好人；最后，wowo自己的镇民声明本身就值得怀疑。与其在我身上浪费处决机会，不如去盘琥珀王，他才是更需要被查的人哦。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "困困被处决",
+          "action": "处决困困",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "wowo, 澳大利亚",
+  "players": [
+    "wowo",
+    "困困",
+    "琥珀王",
+    "Takai&xingfei",
+    "Hannoy",
+    "丘皮卡",
+    "澳大利亚"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "Takai&xingfei": [
+        {
+          "key": "seer",
+          "text": "查验 ['琥珀王', '澳大利亚']，无恶魔",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "丘皮卡": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        }
+      ],
+      "Takai&xingfei": [
+        {
+          "key": "seer",
+          "text": "查验 ['琥珀王', '澳大利亚']，无恶魔",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "Hannoy": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        }
+      ],
+      "Takai&xingfei": [
+        {
+          "key": "seer",
+          "text": "查验 ['琥珀王', '澳大利亚']，无恶魔",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "困困🔄琥珀王": [
+      {
+        "speaker": "困困",
+        "text": "我觉得吧，你好琥珀王，我是守鸦人。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我敢肯定，我越来越觉得wowo有问题！理由是：他的声明是守鸦人，但他的完全不符合这个身份的行为模式！一个真正的守鸦人不会这样投票！你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "我的天，我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "来，我们对对信息！我的士兵技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我直接说了，观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "这个事情是这样的，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei，困困投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "别绕弯子，我忍你很久了wowo！你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的困困投了Takai&xingfei，琥珀王投了Hannoy，琥珀王投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "真的假的？！，我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei，困困投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我直接说了，wowo，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "text": "琥珀王，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局哦吧。",
+        "seq": 11
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "丘皮卡🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "我的天，丘皮卡，我刚整理了一下笔记：我最怀疑wowo；困困自称守鸦人。你那边有什么发现呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "我复盘了一下wowo的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "我们来盘一下目前的局势。困困自称守鸦人里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我的天，我的笔记里记了几件事：我最怀疑wowo；困困自称守鸦人。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "你有没有注意到wowo和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 6
+      }
+    ],
+    "wowo🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "我跟你们说啊，wowo你好，我是守鸦人。第一天信息有限，但我注意到一些细节——困困自称守鸦人里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "你刚才提到说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。你看了吗？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "别绕弯子，你有没有注意到困困和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我越来越觉得wowo有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理啊吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "这还用想？，我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "这个事情是这样的，琥珀王，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "wowo",
+        "text": "你有没有注意到Takai&xingfei和澳大利亚的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的圣徒声明前后不一致；第二，你的困困投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "wowo",
+        "text": "这还用想？，我直接说了，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得Takai&xingfei的问题很大！困困投了Takai&xingfei你看了吗？他的投票明显不对劲！你觉得呢！",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "text": "琥珀王，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+        "seq": 11
+      },
+      {
+        "speaker": "wowo",
+        "text": "我复盘了一下Takai&xingfei的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 12
+      },
+      {
+        "speaker": "困困",
+        "text": "真的假的？！，今天就到这。我们的共识是：wowo是第一嫌疑人。明天根据处决结果再调整策略。如果wowo是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标哦。",
+        "seq": 13
+      },
+      {
+        "speaker": "wowo",
+        "text": "你有没有注意到Takai&xingfei和澳大利亚的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 14
+      },
+      {
+        "speaker": "困困",
+        "text": "我记一下今天的重点：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。让我想想，明天继续跟进，有新情况随时找我。对了另外呢，不知道大家注意到没有，他的发言有几个地方很奇怪",
+        "seq": 15
+      },
+      {
+        "speaker": "wowo",
+        "text": "我跟你透露一个事：Takai&xingfei跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 16
+      },
+      {
+        "speaker": "困困",
+        "text": "我的天，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破哦哦。",
+        "seq": 17
+      },
+      {
+        "speaker": "wowo",
+        "text": "别绕弯子，我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 18
+      }
+    ],
+    "Takai&xingfei🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "我敢肯定，刚才你说的你的发言，我也想聊聊这个话题！我的看法是wowo确实值得重点观察，你觉得呢！",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我越来越觉得wowo有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理！",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我越来越觉得wowo有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "这还用想？，我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 6
+      }
+    ],
+    "澳大利亚🔄琥珀王": [
+      {
+        "speaker": "澳大利亚",
+        "text": "我直接说了，这还用想？，琥珀王你好，我是镇长！第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然！你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我的笔记里记了几件事：困困自称守鸦人；我最怀疑wowo；澳大利亚自称镇长！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "别绕弯子，我的笔记里记了几件事：我最怀疑wowo；澳大利亚自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我直接说了，我们来盘一下目前的局势！困困自称守鸦人，澳大利亚自称镇长里面有几个矛盾点特别值得关注！第一，；第二，wowo的投票轨迹跟他的声明对不上！",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我敢肯定，你刚才提到我直接说了，我们来盘一下目前的局势！困困自称守鸦人，澳大利亚自称镇长里面有几个矛盾点特别值得关注！第，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高！",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我直接说了，我在想wowo的行为能不能用镇长来解释——他自称是镇长，但如果是真镇长，应该会镇长应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 6
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我直接说了，我忍你很久了wowo。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Takai&xingfei！理由我再说一遍：困困自称守鸦人，澳大利亚自称镇长，wowo自称圣徒和琥珀王投了Hannoy，琥珀王投了Takai&xingfei交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 8
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "明摆着的事，明摆着的事，wowo，我现在公开质疑你！如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 9
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "这还用想？。，这还用想？。，听我分析完再做决定：如果Takai&xingfei是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。",
+        "seq": 10
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我忍你很久了wowo！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的琥珀王投了Hannoy，琥珀王投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我直接说了，我直接说了，今天的投票策略：我们统一投Takai&xingfei！我负责去说服其他人，你负责观察那些不愿意投Takai&xingfei的人——他们可能就是我们要找的下一批目标！记住：邪恶方的最大弱点就是他们不敢投自己的队友！",
+        "seq": 12
+      }
+    ],
+    "丘皮卡🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "你好丘皮卡，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "理性分析的话，我跟你透露一个事：wowo跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我们来盘一下目前的局势。澳大利亚自称镇长里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "综合现有信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得wowo的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 5
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "理性分析的话，我跟你透露一个事：wowo跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄丘皮卡": [
+      {
+        "speaker": "丘皮卡",
+        "text": "Hannoy，想跟你对一下信息。我酒鬼这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "对比了几个人的发言，wowo是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "基于已公开的信息，我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合观察下来，wowo的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 4
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "客观来说，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得wowo的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，我盘了一下wowo的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄Takai&xingfei": [
+      {
+        "speaker": "Hannoy",
+        "text": "Takai&xingfei你好，我是僧侣。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，客观来说，观察wowo的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "可能是我理解错了，大家怎么看，你刚才提到综合现有信息，客观来说，观察wowo的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高。",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我注意到wowo的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "可能是我理解错了，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了琥珀王和澳大利亚，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄琥珀王": [
+      {
+        "speaker": "Hannoy",
+        "text": "从逻辑上看，客观来说，刚才你说的你的发言，我也想聊聊这个话题。我的看法是wowo确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我敢肯定，别绕弯子，你刚才提到从逻辑上看，客观来说，刚才你说的你的发言，我也想聊聊这个话题！我的看法是wowo确实值得重点观察，你，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明wowo的可疑程度比想象中更高！",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我wowo有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我在想wowo的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗！",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我不太信wowo。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "观察了一下wowo对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄wowo": [
+      {
+        "speaker": "wowo",
+        "text": "嘿Takai&xingfei，我是圣徒！场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理！你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的笔记里记了几件事：我最怀疑wowo；Hannoy自称僧侣；wowo自称圣徒。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我新手不太懂，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了琥珀王和澳大利亚，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "text": "我敢肯定，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我在想wowo的行为能不能用圣徒来解释——他自称是圣徒，但如果是真圣徒，应该会圣徒应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "这个事情是这样的，hannoy，我刚整理了一下笔记：我最怀疑琥珀王（昨天记的：困困自称守鸦人；wowo自称圣徒）。你那边有什么发现吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "客观来说，我虽然没有查验技能，但我的逻辑告诉我丘皮卡有问题。理由：困困投了Takai&xingfei，Hannoy投了Takai&xingfei里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "我越来越觉得琥珀王有问题。理由是：他的声明是身份不明，但他的Hannoy投了Takai&xingfei，困困投了Takai&xingfei完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我注意到丘皮卡的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我的天，我的笔记里记了几件事：我最怀疑琥珀王（昨天记的：困困自称守鸦人；wowo自称圣徒）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我的笔记里记了几件事：我最怀疑丘皮卡（昨天记的：wowo自称圣徒；困困自称守鸦人）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "wowo🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "这还用想？，别绕弯子，你好wowo，我是镇长！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "明摆着的事，我直接说了，我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我越来越觉得Takai&xingfei有问题！理由是：他的声明是圣徒，但他的完全不符合这个身份的行为模式！一个真正的圣徒不会这样投票！你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "明摆着的事，别绕弯子，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 6
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "明摆着的事，分头行动：我盯着Takai&xingfei的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Takai&xingfei。如果他翻出是好人，我们就从保过他的人里继续盘。",
+        "seq": 7
+      },
+      {
+        "speaker": "wowo",
+        "text": "我敢肯定，别绕弯子，我注意到你一直在观察困困！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+        "seq": 8
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "这还用想？。，别绕弯子，今天的投票策略：我们统一投Takai&xingfei。我负责去说服其他人，你负责观察那些不愿意投Takai&xingfei的人——他们可能就是我们要找的下一批目标。",
+        "seq": 9
+      },
+      {
+        "speaker": "wowo",
+        "text": "我直接说了，这还用想？，你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰！我个人目前最怀疑困困！",
+        "seq": 10
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我敢肯定，这还用想？，分头行动：我盯着Takai&xingfei的发言找漏洞，你去跟其他人沟通统一票型！今天的目标很明确——出Takai&xingfei！如果他翻出是好人，我们就从保过他的人里继续盘！",
+        "seq": 11
+      },
+      {
+        "speaker": "wowo",
+        "text": "聊得有收获。明天继续沟通——我们两个人信息共享比单打独斗强多了。今天先按这个方向走，有变化我通知你。",
+        "seq": 12
+      }
+    ],
+    "Hannoy🔄澳大利亚": [
+      {
+        "speaker": "澳大利亚",
+        "text": "我直接说了，刚才你说的你的发言，我也想聊聊这个话题！我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "从逻辑上看，对比了几个人的发言，丘皮卡是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "观察丘皮卡的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 4
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合观察下来，丘皮卡的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄wowo": [
+      {
+        "speaker": "Hannoy",
+        "text": "理性分析的话，wowo，你的圣徒声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说圣徒的时候和现在的说法有出入，你能解释一下吗？第三，你的Hannoy投了Takai&xingfei为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我们来盘一下目前的局势。Hannoy自称僧侣，wowo自称圣徒，困困自称守鸦人里面有几个矛盾点特别值得关注。第一，；第二，wowo的投票轨迹跟他的声明对不上。我的结论是wowo至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "明摆着的事，你有没有注意到困困和困困的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，综合现有信息，我越来越觉得wowo有问题。理由是：他的声明是圣徒，但他的Hannoy投了Takai&xingfei完全不符合这个身份的行为模式。一个真正的圣徒不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "这还用想？，我的圣徒技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 6
+      }
+    ],
+    "困困🔄澳大利亚": [
+      {
+        "speaker": "困困",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是琥珀王确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "明摆着的事，我在想Takai&xingfei的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真守鸦人，应该会守鸦人应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "你刚才提到明摆着的事，我在想Takai&xingfei的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明琥珀王的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "我越来越觉得Takai&xingfei有问题！理由是：他的声明是守鸦人，但他的困困投了Takai&xingfei，困困投了琥珀王，澳大利亚投了琥珀王完全不符合这个身份的行为模式！一个真正的守鸦人不会这样投票！",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我的笔记里记了几件事：我最怀疑琥珀王（昨天记的：我最怀疑琥珀王）。其实吧，结合你的信息来看，你觉得我是不是多疑了？。对了还有啊，这事儿我得捋一捋，感觉没那么简单",
+        "seq": 5
+      },
+      {
+        "speaker": "澳大利亚",
+        "text": "这还用想？，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合困困投了Takai&xingfei，困困投了琥珀王，澳大利亚投了琥珀王来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。{drunk_warning}",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我是{bluff}，我还在收集信息。{fake_info}但目前初步判断，{target}是让我最不安的一个——他的声明和{vote_str}都在敲警钟。我不急着下定论，但大家盯紧他。{baron_tip}",
+    "士兵在此。我不需要拐弯抹角——{target}的可疑点太明显了：{stage_evidence}。{info_or_opinion}。谁要是保{target}，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。",
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "镇长归票时间：综合{claim_str}和{vote_str}，{target}是今天的最佳处决目标。理由：{stage_evidence}。我随时可以自证（三人存活时邪恶输），请大家相信我这次归票。{outsider_hint}"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "琥珀王",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "Takai&xingfei",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "丘皮卡",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "Takai&xingfei",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "Takai&xingfei",
+        "day": 1
+      },
+      {
+        "voter": "Hannoy",
+        "target": "Takai&xingfei",
+        "day": 1
+      },
+      {
+        "voter": "丘皮卡",
+        "target": "Takai&xingfei",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "wowo",
+        "target": "琥珀王",
+        "day": 2
+      },
+      {
+        "voter": "困困",
+        "target": "琥珀王",
+        "day": 2
+      },
+      {
+        "voter": "澳大利亚",
+        "target": "琥珀王",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "wowo",
+        "target": "困困",
+        "day": 3
+      },
+      {
+        "voter": "澳大利亚",
+        "target": "困困",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "wowo",
+        "target": "Hannoy",
+        "result": "failed"
+      },
+      {
+        "nominator": "琥珀王",
+        "target": "Takai&xingfei",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "困困",
+        "target": "琥珀王",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "wowo",
+        "target": "困困",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。{fake_info}大家说说，这些够不够处决他？{baron_tip}",
+    "我是镇长。当前存活玩家中，{claim_str}里有几个信息点值得关注：{contradict_str}。{info_or_opinion}。我提议今天出{target}——如果错了，我负全责。所有人都跟我的票走，不要分散。{outsider_hint}",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。{outsider_hint}这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "士兵在此。我不需要拐弯抹角——{target}的可疑点太明显了：{stage_evidence}。{info_or_opinion}。谁要是保{target}，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。{fake_info}大家说说，这些够不够处决他？{baron_tip}",
+    "我是镇长。当前存活玩家中，{claim_str}里有几个信息点值得关注：{contradict_str}。{info_or_opinion}。我提议今天出{target}——如果错了，我负全责。所有人都跟我的票走，不要分散。{outsider_hint}"
+  ],
+  "ended_at": "2026-06-20T19:10:40.402357"
+}

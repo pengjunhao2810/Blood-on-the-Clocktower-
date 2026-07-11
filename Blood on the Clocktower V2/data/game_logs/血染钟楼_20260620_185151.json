@@ -1,0 +1,2134 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T18:51:51.342869",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": [
+        {
+          "agent": "瑜瑜",
+          "context": "投毒者选择目标",
+          "action": "对香辣鸡腿堡下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Takai&xingfei",
+          "action": "我觉得吧，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊欧拉函数",
+          "action": "这还用想？。，我直接说了，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居欧拉函数、瑜瑜中有坏人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Takai&xingfei",
+          "action": "我的笔记里记了几件事：我最怀疑Takai&xingfei。这个，结合你的信息来看，你觉得我是不是多疑了？。对了再补充一点，但说真的，现在下结论确实有点早",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊欧拉函数",
+          "action": "我越来越觉得瑜瑜有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Takai&xingfei",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊欧拉函数",
+          "action": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，瑜瑜的投票轨迹跟他的声明对不上。我的结论是瑜瑜至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "good name你好，我是图书管理员。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "你有没有注意到Takai&xingfei和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我跟你们说啊，这个事情是这样的，来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看Takai&xingfei有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我们来盘一下目前的局势。欧拉函数自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我盘了一下目前的线索：加上欧拉函数自称图书管理员里面的疑点，指向Takai&xingfei的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊香辣鸡腿堡",
+          "action": "香辣鸡腿堡，我刚整理了一下笔记：我最怀疑Takai&xingfei。你那边有什么发现呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊欧拉函数",
+          "action": "我的天，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊香辣鸡腿堡",
+          "action": "真的假的？！，你刚才提到我的天，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊欧拉函数",
+          "action": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊香辣鸡腿堡",
+          "action": "这个事情是这样的，我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊欧拉函数",
+          "action": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊瑜瑜",
+          "action": "瑜瑜你好，我是洗衣妇。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊when？",
+          "action": "明摆着的事，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我Takai&xingfei不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊瑜瑜",
+          "action": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊when？",
+          "action": "我直接说了，我盘了一下目前的线索：加上when？自称洗衣妇里面的疑点，指向Takai&xingfei的嫌疑最大。我们可以拿这套逻辑去公聊推动投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊瑜瑜",
+          "action": "这个事情是这样的，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢啊啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊when？",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看Takai&xingfei有问题，我管家分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "你好Youmi，我是洗衣妇。首夜得知你是占卜师——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享。如果你不认，我需要去排查信息干扰来源。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "真的假的？！，我觉得吧，我们来盘一下目前的局势。when？自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "我的天，你刚才提到真的假的？！，我觉得吧，我们来盘一下目前的局势。when？自称洗衣妇里面有几个矛盾点特别值得关注。第，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "我觉得吧，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了香辣鸡腿堡和when？，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Youmi",
+          "action": "我觉得吧，出问题了：Youmi和欧拉函数都不承认占卜师这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？如果是投毒者，我的信息就可能被污染了——必须优先排查啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊when？",
+          "action": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "香辣鸡腿堡，我刚整理了一下笔记：我最怀疑Takai&xingfei；when？自称洗衣妇；when？自称酒鬼。你那边有什么发现哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我的笔记里记了几件事：我最怀疑Takai&xingfei；when？自称洗衣妇；when？自称酒鬼。结合你的信息来看，你觉得我是不是多疑了吧啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "我的天，我的笔记里记了几件事：我最怀疑Takai&xingfei；我最怀疑when？。结合你的信息来看，你觉得我是不是多疑了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我是洗衣妇。Youmi和欧拉函数两人均不认我得知的镇民占卜师，怀疑首夜被投毒者下毒导致信息失真。你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验Youmi、欧拉函数身份哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "我觉得吧，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我觉得吧，刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我直接说了，我在想瑜瑜的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "你刚才提到我直接说了，我在想瑜瑜的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "别绕弯子，观察了一下瑜瑜对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "你刚才提到观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明瑜瑜的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Takai&xingfei",
+          "action": "Takai&xingfei，想跟你对一下信息。我镇长这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊good name",
+          "action": "我的笔记里记了几件事：我最怀疑瑜瑜。结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Takai&xingfei",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看Takai&xingfei有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊good name",
+          "action": "明摆着的事，我在想瑜瑜的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Takai&xingfei",
+          "action": "我新手不太懂，我盘了一下目前的线索：加上欧拉函数自称图书管理员里面的疑点，指向Takai&xingfei的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊good name",
+          "action": "我越来越觉得瑜瑜有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "大家怎么看，大家怎么看，伪装方案：我镇长，你管家。镇长、陌客、管家里面我优先选前面的，因为信息位身份更有威慑力。你辅助我咬人就行——我主攻，你补刀。剩下陌客留着备用。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "别绕弯子，盘一下剩余玩家！when？自称洗衣妇告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会！我们可以在他们开口之前先把when？定义成'邪恶方'，等于提前占领了好人的心智！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Takai&xingfei是某个角色。我配合说我也觉得Takai&xingfei符合那个角色——两个独立信息位交叉验证同一结论，好人必信。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "别绕弯子，我敢肯定，制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了when？！是某个角色！！我配合说我也觉得when？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "可能是我理解错了，确认攻击目标：Takai&xingfei。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在欧拉函数自称图书管理员里面的定位是信息位，威胁最大。今天集中火力搞他。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "今晚刀when？，白天的公聊目标也是when？！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊瑜瑜",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊Youmi",
+          "action": "我敢肯定，我直接说了，我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊瑜瑜",
+          "action": "你刚才提到我敢肯定，我直接说了，我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊Youmi",
+          "action": "我盘了一下目前的线索：加上when？自称洗衣妇里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊瑜瑜",
+          "action": "我觉得吧，我的笔记里记了几件事：when？自称洗衣妇；我最怀疑Takai&xingfei；when？自称酒鬼。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊Youmi",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'Youmi', 'good name', '香辣鸡腿堡', 'when？', '欧拉函数']",
+          "action": "Takai&xingfei: 我是共情者！昨晚我左右邪恶数为1，欧拉函数(自称?)，瑜瑜(自称?)。如果1大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'Youmi', 'good name', '香辣鸡腿堡', 'when？', '欧拉函数']",
+          "action": "瑜瑜: 大家注意when？的发言——他自称?，但这不是明摆着在撒谎吗？我从Takai&xingfei的发言中嗅到了谎言的味道——他太急于证明自己了，真正的好人不需要反复强调！我建议今天直接出when？，错了算我的！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'Youmi', 'good name', '香辣鸡腿堡', 'when？', '欧拉函数']",
+          "action": "Youmi: 我是占卜师，昨晚查验了香辣鸡腿堡和when？，都不是恶魔。排除了两个好人我建议先从香辣鸡腿堡开始盘——如果他是好人翻出来，那when？就是铁邪恶。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'Youmi', 'good name', '香辣鸡腿堡', 'when？', '欧拉函数']",
+          "action": "good name: 我是镇长。我严重怀疑Takai&xingfei——他的发言逻辑前后矛盾，明显在编故事。说一个我的观察：Takai&xingfei和欧拉函数在私聊阶段有过接触，之后Takai&xingfei的公聊口径突然变了——这像是串过供的样子。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'Youmi', 'good name', '香辣鸡腿堡', 'when？', '欧拉函数']",
+          "action": "香辣鸡腿堡: 我是士兵，恶魔刀不死我。我来说句直白的：when？有问题。when？自称洗衣妇，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长里他的声明站不住脚——我对when？有怀疑。我不怕刀，所以我敢直接点名。今天出when？，我担保他不是好人呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'Youmi', 'good name', '香辣鸡腿堡', 'when？', '欧拉函数']",
+          "action": "when？: 我跟你们说啊，洗衣妇报信息：我查到Youmi是占卜师，本人已认领。Takai&xingfei自称共情者，他的信息范围应该包含good name——这跟我的分析可以交叉验证。这意味着我们有了一条干净的信息链。大家集中精力盘其他人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'Youmi', 'good name', '香辣鸡腿堡', 'when？', '欧拉函数']",
+          "action": "欧拉函数: 我是图书管理员。本局没有外来者——所有人声称自己是镇民的话是正常的。如果有人跳外来者，他一定在撒谎。大家对照一下：目前有几个人跳了外来者？如果数量不对，说明要么有人冒充镇民，要么有男爵在场呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "提名when？",
+          "action": "我提名when？。理由如下：第一，我感觉，他的声明某人有问题；第二，显示他的投票异常；第三，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵，欧拉函数自称图书管理员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "被Takai&xingfei提名",
+          "action": "我是洗衣妇！washerwoman:('Youmi', '欧拉函数', '占卜师')处决我这条信息链就断了。Takai&xingfei的目的就是销毁证据！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "when？被处决",
+          "action": "处决when？",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "瑜瑜",
+          "context": "投毒者选择目标",
+          "action": "对good name下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "恶魔杀人",
+          "action": "杀害Youmi",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "瑜瑜",
+          "context": "私聊香辣鸡腿堡",
+          "action": "这还用想？，香辣鸡腿堡，想跟你对一下信息。我管家这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊瑜瑜",
+          "action": "我的笔记里记了几件事：我最怀疑when？（昨天记的：Youmi自称占卜师；good name自称镇长）。结合你的信息来看，你觉得我是不是多疑了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊瑜瑜",
+          "action": "我在想欧拉函数的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊香辣鸡腿堡",
+          "action": "你有没有注意到when？和good name的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊瑜瑜",
+          "action": "我的天，观察了一下欧拉函数对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊Takai&xingfei",
+          "action": "别绕弯子，我敢肯定，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊瑜瑜",
+          "action": "我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊Takai&xingfei",
+          "action": "别绕弯子，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊瑜瑜",
+          "action": "来，我们对对信息。我的共情者技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊Takai&xingfei",
+          "action": "别绕弯子，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得when？！的问题很大！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊瑜瑜",
+          "action": "这还用想？，我越来越觉得欧拉函数有问题。理由是：他的声明是身份不明，但他的瑜瑜投了when？，Takai&xingfei投了when？完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "今晚刀Takai&xingfei，白天的公聊目标也是Takai&xingfei。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "我想问问，确认攻击目标：when？。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从瑜瑜投了when？。看他投票有明显倾向；第三他在欧拉函数自称图书管理员，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵里面的定位是信息位，威胁最大啊啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "大家怎么看，排练一下明天的公聊剧本。我先说：'我是镇长，我查到欧拉函数有问题。'然后你接：'巧了，我也在怀疑欧拉函数，因为瑜瑜投了when？。'注意你的语气要像临时发现而不是商量好的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "排练一下明天的公聊剧本！我先说：'我是管家，我查到Takai&xingfei有问题！'然后你接：'巧了，我也在怀疑Takai&xingfei，因为瑜瑜投了when？！'注意你的语气要像临时发现而不是商量好的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "大家怎么看，可能是我理解错了，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Takai&xingfei",
+          "action": "这个事情是这样的，我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的共情者声明前后不一致；第二，你的Takai&xingfei投了when？，欧拉函数投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊欧拉函数",
+          "action": "我直接说了，欧拉函数，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Takai&xingfei",
+          "action": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊欧拉函数",
+          "action": "我忍你很久了欧拉函数！。你的发言从头到尾都是漏洞：第一，你的图书管理员声明前后不一致；第二，你的欧拉函数投了when？。！！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Takai&xingfei",
+          "action": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊欧拉函数",
+          "action": "别绕弯子，我记一下今天的重点：我最怀疑when？；我最怀疑欧拉函数（昨天记的：我最怀疑瑜瑜）。明天继续跟进，有新情况随时找我！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的香辣鸡腿堡投了when？，欧拉函数投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊欧拉函数",
+          "action": "我的天，我忍你很久了欧拉函数。你的发言从头到尾都是漏洞：第一，你的图书管理员声明前后不一致；第二，你的欧拉函数投了when？，香辣鸡腿堡投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊香辣鸡腿堡",
+          "action": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊欧拉函数",
+          "action": "这个事情是这样的，欧拉函数，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的香辣鸡腿堡投了when？，欧拉函数投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊欧拉函数",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Takai&xingfei。理由我再说一遍：欧拉函数自称图书管理员，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵和欧拉函数投了when？交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得欧拉函数的问题很大。欧拉函数投了when？你看了吗？他的投票明显不对劲。你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "听我分析完再做决定：如果Takai&xingfei是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Takai&xingfei的风险是可控的，收益却是巨大的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我跟你透露一个事：欧拉函数跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Takai&xingfei。理由我再说一遍：欧拉函数自称图书管理员，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵和欧拉函数投了when？交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "别绕弯子，我忍你很久了欧拉函数！你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的香辣鸡腿堡投了when？！，Takai&xingfei投了when？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "欧拉函数，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "欧拉函数，我现在公开质疑你。如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我忍你很久了欧拉函数。你的发言从头到尾都是漏洞：第一，你的共情者声明前后不一致；第二，你的Takai&xingfei投了when？，香辣鸡腿堡投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "欧拉函数，我现在公开质疑你。如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "好的，信息对完了。让我想想，保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'good name', '香辣鸡腿堡', '欧拉函数']",
+          "action": "Takai&xingfei: 我敢肯定，我是共情者！昨晚我左右邪恶数为1，欧拉函数(自称图书管理员)，瑜瑜(自称?)。如果1大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'good name', '香辣鸡腿堡', '欧拉函数']",
+          "action": "瑜瑜: when？自称?，但发言和这个身份不符！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'good name', '香辣鸡腿堡', '欧拉函数']",
+          "action": "Youmi(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑when？，理由是我观察到when？自称洗衣妇，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵里面的矛盾点和Takai&xingfei投了when？，瑜瑜投了when？，香辣鸡腿堡投了when？，欧拉函数投了when？的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'good name', '香辣鸡腿堡', '欧拉函数']",
+          "action": "good name: 我新手不太懂，各位，看看欧拉函数的表演。欧拉函数自称图书管理员，Takai&xingfei自称共情者，Youmi自称占卜师，香辣鸡腿堡自称士兵，瑜瑜自称管家里就欧拉函数的声明最假。连续两天了，我的镇长信息都指向Takai&xingfei——一个人可以被冤枉一次，但不会被连续误判两次！哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'good name', '香辣鸡腿堡', '欧拉函数']",
+          "action": "香辣鸡腿堡: 我没那么多弯弯绕绕——欧拉函数就是有问题，when？自称洗衣妇，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，欧拉函数自称图书管理员里面的矛盾已经够了。Takai&xingfei投了when？，瑜瑜投了when？，香辣鸡腿堡投了when？，欧拉函数投了when？投票记录也是铁证。我是士兵，死了也是为好人挡一刀，但欧拉函数今天必须出局。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'good name', '香辣鸡腿堡', '欧拉函数']",
+          "action": "when？(已死亡): 死者的话最客观。我回顾了整个游戏过程，瑜瑜的嫌疑最大。他的声明是when？自称洗衣妇，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '瑜瑜', 'good name', '香辣鸡腿堡', '欧拉函数']",
+          "action": "欧拉函数: 这个事情是这样的，图书管理员报信息：本局没有外来者——所有人声称自己是镇民的话是正常的。如果有人跳外来者，他一定在撒谎。我建议大家都报一下自己的身份类别（镇民/外来者），我们来核对总数。数量对不上就是有问题的信号啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "提名Takai&xingfei",
+          "action": "我提名Takai&xingfei。理由如下：第一，他的声明某人有问题；第二，Takai&xingfei投了when？，瑜瑜投了when？，香辣鸡腿堡投了when？，欧拉函数投了when？显示他的投票异常；第三，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵，欧拉函数自称图书管理员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "被欧拉函数提名",
+          "action": "嗯……，我是共情者，我旁边邪恶数为1！处决我的话好人就失去了每晚的邪恶探测——这正中邪恶下怀！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "Takai&xingfei被处决",
+          "action": "处决Takai&xingfei",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "瑜瑜",
+          "context": "投毒者选择目标",
+          "action": "对good name下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "恶魔杀人",
+          "action": "杀害欧拉函数",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊瑜瑜",
+          "action": "这个事情是这样的，瑜瑜，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊瑜瑜",
+          "action": "我觉得吧，我忍你很久了瑜瑜。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的瑜瑜投了when？，瑜瑜投了Takai&xingfei，香辣鸡腿堡投了when？，香辣鸡腿堡投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊香辣鸡腿堡",
+          "action": "这还用想？，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊瑜瑜",
+          "action": "我跟你们说啊，瑜瑜，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊香辣鸡腿堡",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得when？的问题很大！香辣鸡腿堡投了when？，香辣鸡腿堡投了Takai&xingfei，瑜瑜投了when？，瑜瑜投了Takai&xingfei你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊good name",
+          "action": "真的假的？！，瑜瑜，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我跟你透露一个事：欧拉函数跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊good name",
+          "action": "这个事情是这样的，我的笔记里记了几件事：我最怀疑欧拉函数（昨天记的：我最怀疑欧拉函数；Takai&xingfei自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊good name",
+          "action": "我跟你们说啊，观察了一下瑜瑜对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊香辣鸡腿堡",
+          "action": "可能是我理解错了，我的镇长技能虽然没有直接查到铁证，但我的直觉告诉我欧拉函数不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "可能是我理解错了，我新手不太懂，最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服欧拉函数投香辣鸡腿堡，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "我直接说了，最后一轮了！现在场上还有某人个人，我们需要明确票型！你负责说服good name投香辣鸡腿堡，我去搞定某人！如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "我想问问，我新手不太懂，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊good name",
+          "action": "决赛圈策略：我们不能再互相私聊了，容易被盯上！所有交流通过公聊暗示进行！我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整！记住这些暗号！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊瑜瑜",
+          "action": "我新手不太懂，最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服欧拉函数投香辣鸡腿堡，我去搞定某人吧吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['瑜瑜', 'good name', '香辣鸡腿堡']",
+          "action": "Takai&xingfei(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑欧拉函数，理由是我观察到Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵，欧拉函数自称图书管理员里面的矛盾点和Takai&xingfei投了when？，瑜瑜投了when？，香辣鸡腿堡投了when？，欧拉函数投了when？的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['瑜瑜', 'good name', '香辣鸡腿堡']",
+          "action": "瑜瑜: when？自称?，但发言和这个身份不符！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['瑜瑜', 'good name', '香辣鸡腿堡']",
+          "action": "Youmi(已死亡): 死者的话最客观。我回顾了整个游戏过程，when？的嫌疑最大。他的声明是when？自称洗衣妇，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['瑜瑜', 'good name', '香辣鸡腿堡']",
+          "action": "good name: 我本来想再观察一轮，但欧拉函数的发言实在太离谱了。你说你是?，可你的Takai&xingfei投了when？，瑜瑜投了when？，香辣鸡腿堡投了when？，欧拉函数投了when？完全不符合你的身份。我来给大家捋一捋：第一，欧拉函数的声明有问题；第二，他的投票记录暴露了他；第三，。三点证据链闭合了，没什么好犹豫的。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['瑜瑜', 'good name', '香辣鸡腿堡']",
+          "action": "香辣鸡腿堡: 士兵在此。我不需要拐弯抹角——瑜瑜的可疑点太明显了：死者身份与之前发言是否匹配，谁曾力保或死踩死者，死亡结果对谁最有利。我对欧拉函数有怀疑。谁要是保瑜瑜，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['瑜瑜', 'good name', '香辣鸡腿堡']",
+          "action": "when？(已死亡): 死者的话最客观。我回顾了整个游戏过程，瑜瑜的嫌疑最大。他的声明是when？自称洗衣妇，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['瑜瑜', 'good name', '香辣鸡腿堡']",
+          "action": "欧拉函数(已死亡): 死者的话最客观。我回顾了整个游戏过程，Takai&xingfei的嫌疑最大。他的声明是Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵，欧拉函数自称图书管理员，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "提名瑜瑜",
+          "action": "我觉得应该换一个目标，瑜瑜不像是坏人。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "被good name提名",
+          "action": "大家别被good name带偏了！good name的指控完全站不住脚——他没有拿出任何实锤证据，全靠推测。这个游戏不是靠感觉就能定罪的好吗？请大家理性投票。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "瑜瑜被处决",
+          "action": "处决瑜瑜",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "good name, 香辣鸡腿堡",
+  "players": [
+    "Takai&xingfei",
+    "瑜瑜",
+    "Youmi",
+    "good name",
+    "香辣鸡腿堡",
+    "when？",
+    "欧拉函数"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "Takai&xingfei": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 0
+        }
+      ],
+      "Youmi": [
+        {
+          "key": "seer",
+          "text": "查验 ['香辣鸡腿堡', 'when？']，无恶魔",
+          "day": 0
+        }
+      ],
+      "when？": [
+        {
+          "key": "washerwoman",
+          "text": "Youmi 和 欧拉函数 中有一人是 占卜师",
+          "day": 0
+        }
+      ],
+      "欧拉函数": [
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "Youmi": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        },
+        {
+          "key": "seer",
+          "text": "查验 ['香辣鸡腿堡', 'when？']，无恶魔",
+          "day": 1
+        }
+      ],
+      "Takai&xingfei": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 1
+        }
+      ],
+      "when？": [
+        {
+          "key": "washerwoman",
+          "text": "Youmi 和 欧拉函数 中有一人是 占卜师",
+          "day": 1
+        }
+      ],
+      "欧拉函数": [
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "欧拉函数": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        },
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 2
+        }
+      ],
+      "Takai&xingfei": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 2
+        }
+      ],
+      "Youmi": [
+        {
+          "key": "seer",
+          "text": "查验 ['香辣鸡腿堡', 'when？']，无恶魔",
+          "day": 2
+        }
+      ],
+      "when？": [
+        {
+          "key": "washerwoman",
+          "text": "Youmi 和 欧拉函数 中有一人是 占卜师",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "Takai&xingfei🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "text": "我觉得吧，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "这还用想？。，我直接说了，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居欧拉函数、瑜瑜中有坏人。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我的笔记里记了几件事：我最怀疑Takai&xingfei。这个，结合你的信息来看，你觉得我是不是多疑了？。对了再补充一点，但说真的，现在下结论确实有点早",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我越来越觉得瑜瑜有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，瑜瑜的投票轨迹跟他的声明对不上。我的结论是瑜瑜至少需要被好好审一审。",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "这个事情是这样的，我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的共情者声明前后不一致；第二，你的Takai&xingfei投了when？，欧拉函数投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我直接说了，欧拉函数，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我忍你很久了欧拉函数！。你的发言从头到尾都是漏洞：第一，你的图书管理员声明前后不一致；第二，你的欧拉函数投了when？。！！",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+        "seq": 11
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "别绕弯子，我记一下今天的重点：我最怀疑when？；我最怀疑欧拉函数（昨天记的：我最怀疑瑜瑜）。明天继续跟进，有新情况随时找我！",
+        "seq": 12
+      }
+    ],
+    "good name🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "text": "good name你好，我是图书管理员。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "你有没有注意到Takai&xingfei和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我跟你们说啊，这个事情是这样的，来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看Takai&xingfei有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我们来盘一下目前的局势。欧拉函数自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "我盘了一下目前的线索：加上欧拉函数自称图书管理员里面的疑点，指向Takai&xingfei的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Takai&xingfei。理由我再说一遍：欧拉函数自称图书管理员，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵和欧拉函数投了when？交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多哦。",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得欧拉函数的问题很大。欧拉函数投了when？你看了吗？他的投票明显不对劲。你觉得呢啊。",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "听我分析完再做决定：如果Takai&xingfei是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Takai&xingfei的风险是可控的，收益却是巨大的哦。",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "text": "我跟你透露一个事：欧拉函数跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽吧。",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Takai&xingfei。理由我再说一遍：欧拉函数自称图书管理员，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵和欧拉函数投了when？交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多吧。",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "text": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧啊。",
+        "seq": 12
+      }
+    ],
+    "欧拉函数🔄香辣鸡腿堡": [
+      {
+        "speaker": "欧拉函数",
+        "text": "香辣鸡腿堡，我刚整理了一下笔记：我最怀疑Takai&xingfei。你那边有什么发现呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的天，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "真的假的？！，你刚才提到我的天，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高哦。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "这个事情是这样的，我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的香辣鸡腿堡投了when？，欧拉函数投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的天，我忍你很久了欧拉函数。你的发言从头到尾都是漏洞：第一，你的图书管理员声明前后不一致；第二，你的欧拉函数投了when？，香辣鸡腿堡投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的图书管理员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这个事情是这样的，欧拉函数，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的香辣鸡腿堡投了when？，欧拉函数投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的吧。",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "when？🔄瑜瑜": [
+      {
+        "speaker": "when？",
+        "text": "瑜瑜你好，我是洗衣妇。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "明摆着的事，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我Takai&xingfei不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我直接说了，我盘了一下目前的线索：加上when？自称洗衣妇里面的疑点，指向Takai&xingfei的嫌疑最大。我们可以拿这套逻辑去公聊推动投票！",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "这个事情是这样的，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢啊啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看Takai&xingfei有问题，我管家分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "你好Youmi，我是洗衣妇。首夜得知你是占卜师——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享。如果你不认，我需要去排查信息干扰来源。",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "text": "真的假的？！，我觉得吧，我们来盘一下目前的局势。when？自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我的天，你刚才提到真的假的？！，我觉得吧，我们来盘一下目前的局势。when？自称洗衣妇里面有几个矛盾点特别值得关注。第，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我觉得吧，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了香辣鸡腿堡和when？，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我觉得吧，出问题了：Youmi和欧拉函数都不承认占卜师这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？如果是投毒者，我的信息就可能被污染了——必须优先排查啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "Youmi",
+        "text": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+        "seq": 6
+      }
+    ],
+    "when？🔄香辣鸡腿堡": [
+      {
+        "speaker": "when？",
+        "text": "香辣鸡腿堡，我刚整理了一下笔记：我最怀疑Takai&xingfei；when？自称洗衣妇；when？自称酒鬼。你那边有什么发现哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "我的笔记里记了几件事：我最怀疑Takai&xingfei；when？自称洗衣妇；when？自称酒鬼。结合你的信息来看，你觉得我是不是多疑了吧啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的天，我的笔记里记了几件事：我最怀疑Takai&xingfei；我最怀疑when？。结合你的信息来看，你觉得我是不是多疑了吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我是洗衣妇。Youmi和欧拉函数两人均不认我得知的镇民占卜师，怀疑首夜被投毒者下毒导致信息失真。你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验Youmi、欧拉函数身份哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我觉得吧，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我觉得吧，刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我直接说了，我在想瑜瑜的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "你刚才提到我直接说了，我在想瑜瑜的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "别绕弯子，观察了一下瑜瑜对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "你刚才提到观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明瑜瑜的可疑程度比想象中更高！",
+        "seq": 6
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "别绕弯子，我忍你很久了欧拉函数！你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的香辣鸡腿堡投了when？！，Takai&xingfei投了when？！",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "欧拉函数，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "欧拉函数，我现在公开质疑你。如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我忍你很久了欧拉函数。你的发言从头到尾都是漏洞：第一，你的共情者声明前后不一致；第二，你的Takai&xingfei投了when？，香辣鸡腿堡投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 10
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "欧拉函数，我现在公开质疑你。如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "好的，信息对完了。让我想想，保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破呢。",
+        "seq": 12
+      }
+    ],
+    "Takai&xingfei🔄good name": [
+      {
+        "speaker": "good name",
+        "text": "Takai&xingfei，想跟你对一下信息。我镇长这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的笔记里记了几件事：我最怀疑瑜瑜。结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看Takai&xingfei有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "明摆着的事，我在想瑜瑜的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "text": "我新手不太懂，我盘了一下目前的线索：加上欧拉函数自称图书管理员里面的疑点，指向Takai&xingfei的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我越来越觉得瑜瑜有问题！理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理！",
+        "seq": 6
+      }
+    ],
+    "good name🔄瑜瑜": [
+      {
+        "speaker": "good name",
+        "text": "大家怎么看，大家怎么看，伪装方案：我镇长，你管家。镇长、陌客、管家里面我优先选前面的，因为信息位身份更有威慑力。你辅助我咬人就行——我主攻，你补刀。剩下陌客留着备用。",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "别绕弯子，盘一下剩余玩家！when？自称洗衣妇告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会！我们可以在他们开口之前先把when？定义成'邪恶方'，等于提前占领了好人的心智！",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "text": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了Takai&xingfei是某个角色。我配合说我也觉得Takai&xingfei符合那个角色——两个独立信息位交叉验证同一结论，好人必信。",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "别绕弯子，我敢肯定，制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了when？！是某个角色！！我配合说我也觉得when？！",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "text": "可能是我理解错了，确认攻击目标：Takai&xingfei。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从看他投票有明显倾向；第三他在欧拉函数自称图书管理员里面的定位是信息位，威胁最大。今天集中火力搞他。",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "今晚刀when？，白天的公聊目标也是when？！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+        "seq": 6
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "今晚刀Takai&xingfei，白天的公聊目标也是Takai&xingfei。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局！",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "text": "我想问问，确认攻击目标：when？。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从瑜瑜投了when？。看他投票有明显倾向；第三他在欧拉函数自称图书管理员，Takai&xingfei自称共情者，Youmi自称占卜师，good name自称镇长，香辣鸡腿堡自称士兵里面的定位是信息位，威胁最大啊啊。",
+        "seq": 8
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "text": "大家怎么看，排练一下明天的公聊剧本。我先说：'我是镇长，我查到欧拉函数有问题。'然后你接：'巧了，我也在怀疑欧拉函数，因为瑜瑜投了when？。'注意你的语气要像临时发现而不是商量好的。",
+        "seq": 10
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "排练一下明天的公聊剧本！我先说：'我是管家，我查到Takai&xingfei有问题！'然后你接：'巧了，我也在怀疑Takai&xingfei，因为瑜瑜投了when？！'注意你的语气要像临时发现而不是商量好的！",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "text": "大家怎么看，可能是我理解错了，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+        "seq": 12
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+        "seq": 13
+      },
+      {
+        "speaker": "good name",
+        "text": "可能是我理解错了，我新手不太懂，最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服欧拉函数投香辣鸡腿堡，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了。",
+        "seq": 14
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我直接说了，最后一轮了！现在场上还有某人个人，我们需要明确票型！你负责说服good name投香辣鸡腿堡，我去搞定某人！如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了！",
+        "seq": 15
+      },
+      {
+        "speaker": "good name",
+        "text": "我想问问，我新手不太懂，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+        "seq": 16
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "决赛圈策略：我们不能再互相私聊了，容易被盯上！所有交流通过公聊暗示进行！我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整！记住这些暗号！",
+        "seq": 17
+      },
+      {
+        "speaker": "good name",
+        "text": "我新手不太懂，最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服欧拉函数投香辣鸡腿堡，我去搞定某人吧吧。",
+        "seq": 18
+      }
+    ],
+    "Youmi🔄瑜瑜": [
+      {
+        "speaker": "Youmi",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我敢肯定，我直接说了，我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "你刚才提到我敢肯定，我直接说了，我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我盘了一下目前的线索：加上when？自称洗衣妇里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票！",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我觉得吧，我的笔记里记了几件事：when？自称洗衣妇；我最怀疑Takai&xingfei；when？自称酒鬼。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+        "seq": 6
+      }
+    ],
+    "瑜瑜🔄香辣鸡腿堡": [
+      {
+        "speaker": "瑜瑜",
+        "text": "这还用想？，香辣鸡腿堡，想跟你对一下信息。我管家这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的笔记里记了几件事：我最怀疑when？（昨天记的：Youmi自称占卜师；good name自称镇长）。结合你的信息来看，你觉得我是不是多疑了吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我在想欧拉函数的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "你有没有注意到when？和good name的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的天，观察了一下欧拉函数对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这个事情是这样的，瑜瑜，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 8
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我觉得吧，我忍你很久了瑜瑜。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的瑜瑜投了when？，瑜瑜投了Takai&xingfei，香辣鸡腿堡投了when？，香辣鸡腿堡投了Takai&xingfei完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "这还用想？，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 10
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你们说啊，瑜瑜，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局哦。",
+        "seq": 11
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得when？的问题很大！香辣鸡腿堡投了when？，香辣鸡腿堡投了Takai&xingfei，瑜瑜投了when？，瑜瑜投了Takai&xingfei你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 12
+      }
+    ],
+    "Takai&xingfei🔄瑜瑜": [
+      {
+        "speaker": "瑜瑜",
+        "text": "别绕弯子，我敢肯定，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗！",
+        "seq": 2
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "别绕弯子，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "来，我们对对信息。我的共情者技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+        "seq": 4
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "别绕弯子，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得when？！的问题很大！",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "这还用想？，我越来越觉得欧拉函数有问题。理由是：他的声明是身份不明，但他的瑜瑜投了when？，Takai&xingfei投了when？完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理！",
+        "seq": 6
+      }
+    ],
+    "good name🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "真的假的？！，瑜瑜，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "我跟你透露一个事：欧拉函数跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这个事情是这样的，我的笔记里记了几件事：我最怀疑欧拉函数（昨天记的：我最怀疑欧拉函数；Takai&xingfei自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我复盘了一下欧拉函数的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你们说啊，观察了一下瑜瑜对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "可能是我理解错了，我的镇长技能虽然没有直接查到铁证，但我的直觉告诉我欧拉函数不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的呢呢。",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "洗衣妇报信息：我查到{target}是{ww_role}，本人已认领。{cross_ref}这意味着我们有了一条干净的信息链。大家集中精力盘其他人。",
+    "我是占卜师，昨晚查验了{chosen0}和{chosen1}，{result}。{demon_verdict}我建议先从{chosen0}开始盘——如果他是好人翻出来，那{chosen1}就是铁邪恶。",
+    "我是士兵，恶魔刀不死我。我来说句直白的：{target}有问题。{claim_str}里他的声明站不住脚——{info_or_opinion}。我不怕刀，所以我敢直接点名。今天出{target}，我担保他不是好人。",
+    "我是图书管理员。{lib_info}大家对照一下：目前有几个人跳了外来者？如果数量不对，说明要么有人冒充镇民，要么有男爵在场。",
+    "我是共情者！昨晚我左右邪恶数为{e}，{neighbor_info}。如果{e}大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰。",
+    "大家注意{target}的发言——他自称{claim}，但{accusation}这不是明摆着在撒谎吗？{fake_info}我建议今天直接出{target}，错了算我的。{baron_tip}",
+    "我是{bluff}。{fake_info}说一个我的观察：{target}和{other}在私聊阶段有过接触，之后{target}的公聊口径突然变了——这像是串过供的样子。你们不觉得奇怪吗？{baron_tip}"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "when？",
+        "day": 1
+      },
+      {
+        "voter": "瑜瑜",
+        "target": "when？",
+        "day": 1
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "when？",
+        "day": 1
+      },
+      {
+        "voter": "欧拉函数",
+        "target": "when？",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "瑜瑜",
+        "target": "Takai&xingfei",
+        "day": 2
+      },
+      {
+        "voter": "good name",
+        "target": "Takai&xingfei",
+        "day": 2
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "Takai&xingfei",
+        "day": 2
+      },
+      {
+        "voter": "欧拉函数",
+        "target": "Takai&xingfei",
+        "day": 2
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "Takai&xingfei",
+        "target": "when？",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "欧拉函数",
+        "target": "Takai&xingfei",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "good name",
+        "target": "瑜瑜",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我没那么多弯弯绕绕——{target}就是有问题，{claim_str}里面的矛盾已经够了。{vote_str}投票记录也是铁证。我是士兵，死了也是为好人挡一刀，但{target}今天必须出局。",
+    "图书管理员报信息：{lib_info}我建议大家都报一下自己的身份类别（镇民/外来者），我们来核对总数。数量对不上就是有问题的信号。",
+    "我是共情者！昨晚我左右邪恶数为{e}，{neighbor_info}。如果{e}大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰。",
+    "各位，看看{target}的表演。{claim_str}里就{target}的声明最假。{fake_info}大家动动脑子：一个真{claim}会像他这样发言吗？不会。所以结论只有一个——{target}在撒谎，而且撒得很拙劣。{baron_tip}"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "士兵在此。我不需要拐弯抹角——{target}的可疑点太明显了：{stage_evidence}。{info_or_opinion}。谁要是保{target}，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。",
+    "我本来想再观察一轮，但{target}的发言实在太离谱了。你说你是{claim}，可你的{vote_str}完全不符合你的身份。我来给大家捋一捋：第一，{target}的声明有问题；第二，他的投票记录暴露了他；第三，{contradict_str}。三点证据链闭合了，没什么好犹豫的。{baron_tip}"
+  ],
+  "ended_at": "2026-06-20T18:51:51.584202"
+}

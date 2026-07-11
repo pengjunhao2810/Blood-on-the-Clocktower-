@@ -1,0 +1,2044 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T15:48:38.900259",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "kiod",
+          "context": "私聊云面包",
+          "action": "嗨云面包，我是调查员。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊kiod",
+          "action": "我们来盘一下目前的局势！。kiod自称调查员里面有几个矛盾点特别值得关注！。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上！。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊云面包",
+          "action": "明摆着的事，我敢肯定，我跟你透露一个事：则夷则跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊kiod",
+          "action": "我直接说了，我越来越觉得则夷则有问题！理由是：他的声明是调查员，但他的暂无投票完全不符合这个身份的行为模式！一个真正的调查员不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊云面包",
+          "action": "我直接说了，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得则夷则的问题很大！暂无投票你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊kiod",
+          "action": "出问题了：progress和则夷则都不承认贞洁者这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "角色分配完毕：我调查员，你守鸦人！剩下的剩下厨师留着备用！核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "从逻辑上看，我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "我思考了一下局势：暂无投票说明好人的票型开始分散了！这是好事——他们的共识在瓦解！我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "目前分析下来，则夷则是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从暂无投票看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "今晚刀则夷则，白天的公聊目标也是则夷则。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "综合现有信息，目标锁定：则夷则。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "嘿progress，我是调查员。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "别绕弯子，别绕弯子，你有没有注意到则夷则和则夷则的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "明摆着的事，我的调查员技能虽然没有直接查到铁证，但我的直觉告诉我则夷则不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊云面包",
+          "action": "你好云面包，我是调查员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊任",
+          "action": "我敢肯定，我的笔记里记了几件事：我最怀疑则夷则；云面包自称酒鬼；任自称调查员！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊云面包",
+          "action": "我越来越觉得则夷则有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊任",
+          "action": "来，我们对对信息！我的洗衣妇技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊云面包",
+          "action": "从逻辑上看，我的笔记里记了几件事：我最怀疑则夷则；任自称调查员。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊任",
+          "action": "我直接说了，我的笔记里记了几件事：云面包自称酒鬼；任自称调查员；kiod自称调查员！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊琥珀王",
+          "action": "琥珀王你好，我是调查员。第一天信息有限，但我注意到一些细节——任自称调查员里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊任",
+          "action": "我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我则夷则不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊琥珀王",
+          "action": "理性分析的话，我们来盘一下目前的局势。任自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊任",
+          "action": "你有没有注意到任和则夷则的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊琥珀王",
+          "action": "基于已公开的信息，来，我们对对信息。我的调查员技能告诉我一些事情：查到琥珀王是云面包。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊任",
+          "action": "被怀疑了，别慌。我教你反制：你先发制人去质疑任——说他调查员的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊则夷则",
+          "action": "则夷则，我刚整理了一下笔记：我最怀疑则夷则；任自称调查员。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊任",
+          "action": "明摆着的事，来，我们对对信息！我的送葬者技能告诉我一些事情：我是送葬者，暂无信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊则夷则",
+          "action": "来，我们对对信息。我的调查员技能告诉我一些事情：查到琥珀王是云面包。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊任",
+          "action": "我们来盘一下目前的局势。则夷则自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊则夷则",
+          "action": "我们来盘一下目前的局势。任自称调查员，则夷则自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊任",
+          "action": "我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊琥珀王",
+          "action": "你好琥珀王，我是洗衣妇！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊云面包",
+          "action": "我跟你透露一个事：任跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊琥珀王",
+          "action": "别绕弯子，我越来越觉得kiod有问题！！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！！一个真正的身份不明不会这样投票！！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊云面包",
+          "action": "理性分析的话，从逻辑上看，有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊琥珀王",
+          "action": "别绕弯子，我们来盘一下目前的局势！kiod自称调查员，云面包自称酒鬼，任自称调查员里面有几个矛盾点特别值得关注！第一，任和kiod都自称调查员；第二，kiod的投票轨迹跟他的声明对不上！我的结论是kiod至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊云面包",
+          "action": "综合现有信息，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊progress",
+          "action": "我敢肯定，progress，我刚整理了一下笔记：我最怀疑云面包；则夷则自称送葬者。你那边有什么发现！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊则夷则",
+          "action": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊progress",
+          "action": "我的笔记里记了几件事：我最怀疑云面包；则夷则自称送葬者！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊则夷则",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊progress",
+          "action": "我们来盘一下目前的局势。则夷则自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊则夷则",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊瑜瑜",
+          "action": "别绕弯子，瑜瑜，我刚整理了一下笔记：我最怀疑云面包；则夷则自称送葬者！你那边有什么发现！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊则夷则",
+          "action": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊瑜瑜",
+          "action": "这还用想？，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊则夷则",
+          "action": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊瑜瑜",
+          "action": "我的笔记里记了几件事：我最怀疑云面包；则夷则自称送葬者。结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊则夷则",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊瑜瑜",
+          "action": "我的天，瑜瑜你好，我是贞洁者。第一天信息有限，但我注意到一些细节——kiod自称调查员里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊progress",
+          "action": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊瑜瑜",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊progress",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊瑜瑜",
+          "action": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊progress",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['则夷则', '云面包', '琥珀王', 'kiod', '任', '瑜瑜', 'progress']",
+          "action": "则夷则: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前，而投票记录显示。这些线索综合来看，我的我会重点观察云面包。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['则夷则', '云面包', '琥珀王', 'kiod', '任', '瑜瑜', 'progress']",
+          "action": "云面包: 我直接说了，我是洗衣妇，我确认progress是贞洁者金水！progress本人已认领身份，信息链清晰！建议今天从外置位盘，progress暂排好人！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['则夷则', '云面包', '琥珀王', 'kiod', '任', '瑜瑜', 'progress']",
+          "action": "琥珀王: 基于已公开的信息，我说句不好听的：现在保任的人，要么是瞎，要么就是他的同伙。投票记录是死的，不会撒谎。今天出任，谁反对谁就有问题。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['则夷则', '云面包', '琥珀王', 'kiod', '任', '瑜瑜', 'progress']",
+          "action": "kiod: 我敢肯定，我倒不是要直接锤死云面包，但我建议大家对比一下云面包和云面包的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['则夷则', '云面包', '琥珀王', 'kiod', '任', '瑜瑜', 'progress']",
+          "action": "任: 我是调查员！我查出琥珀王/云面包是红唇女郎——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['则夷则', '云面包', '琥珀王', 'kiod', '任', '瑜瑜', 'progress']",
+          "action": "瑜瑜: 根据我的记录：progress自称贞洁者；云面包自称洗衣妇；任自称调查员。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['则夷则', '云面包', '琥珀王', 'kiod', '任', '瑜瑜', 'progress']",
+          "action": "progress: 大家好，我是贞洁者。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察kiod哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "提名云面包",
+          "action": "我提名云面包。理由如下：第一，他的声明某人有问题；第二，暂无记录显示他的投票异常；第三，则夷则自称送葬者，progress自称贞洁者，云面包自称洗衣妇，任自称调查员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "被瑜瑜提名",
+          "action": "怎么说呢……，我是洗衣妇！washerwoman:('progress', '则夷则', '贞洁者')处决我这条信息链就断了。瑜瑜的目的就是销毁证据！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "云面包被处决",
+          "action": "处决云面包",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "kiod",
+          "context": "恶魔杀人",
+          "action": "杀害任",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "基于已公开的信息，今晚刀kiod，白天的公聊目标也是kiod。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "目标锁定：云面包！我负责带节奏，你负责编证据！具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "排练一下明天的公聊剧本。我先说：'我是守鸦人，我查到kiod有问题。'然后你接：'巧了，我也在怀疑kiod，因为kiod投了云面包。'注意你的语气要像临时发现而不是商量好的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "排练一下明天的公聊剧本！。我先说：'我是调查员，我查到云面包有问题！。'然后你接：'巧了，我也在怀疑云面包，因为kiod投了云面包！。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊kiod",
+          "action": "基于已公开的信息，理性分析的话，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊琥珀王",
+          "action": "模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊瑜瑜",
+          "action": "从逻辑上看，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊琥珀王",
+          "action": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：瑜瑜投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊瑜瑜",
+          "action": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：瑜瑜投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊瑜瑜",
+          "action": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：瑜瑜投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "从逻辑上看，理性分析的话，情况不对，kiod开始反击了。我们需要立刻转移焦点——你跳出来说则夷则更可疑，我配合你。理由就说则夷则的投票记录不对——progress投了云面包里面他投的票全是跟风。记住：最好的防守就是进攻。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：progress投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "被怀疑了，别慌。我教你反制：你先发制人去质疑kiod——说他贞洁者的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：progress投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：progress投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊kiod",
+          "action": "别绕弯子，任，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？。第三，你的kiod投了云面包，则夷则投了云面包为什么会这样投？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊则夷则",
+          "action": "他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊kiod",
+          "action": "我越来越觉得任有问题。理由是：他的声明是身份不明，但他的kiod投了云面包，则夷则投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊则夷则",
+          "action": "情况不对，云面包开始反击了。我们需要立刻转移焦点——你跳出来说琥珀王更可疑，我配合你。理由就说琥珀王的投票记录不对——则夷则投了云面包，kiod投了云面包里面他投的票全是跟风。记住：最好的防守就是进攻。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊kiod",
+          "action": "我直接说了，我的笔记里记了几件事：我最怀疑任（昨天记的：我最怀疑云面包；则夷则自称送葬者）。结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊则夷则",
+          "action": "我直接说了，对方在盘我们的逻辑漏洞了！告诉你一个技巧：把水搅浑的最好方式就是反问！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊瑜瑜",
+          "action": "我敢肯定，任，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊则夷则",
+          "action": "我忍你很久了则夷则。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的则夷则投了云面包，瑜瑜投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊瑜瑜",
+          "action": "我忍你很久了任。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的瑜瑜投了云面包，则夷则投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊则夷则",
+          "action": "可能是我理解错了，则夷则，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊瑜瑜",
+          "action": "这还用想？，任，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊则夷则",
+          "action": "我想问问，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊progress",
+          "action": "这还用想？，我忍你很久了任。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的progress投了云面包，则夷则投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊则夷则",
+          "action": "我跟你们说啊，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的则夷则投了云面包，progress投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊progress",
+          "action": "任，我现在公开质疑你！如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊则夷则",
+          "action": "kiod，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊progress",
+          "action": "我直接说了，我忍你很久了任！你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的progress投了云面包，则夷则投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊则夷则",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "kiod，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "明摆着的事，被怀疑了，别慌！我教你反制：你先发制人去质疑云面包——说他贞洁者的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "我觉得吧，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的kiod投了云面包，progress投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "这还用想？，有人盯上我们了！按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了！我则跳出来说其实我才是调查员，我之前没说是因为在收集信息！身份对换，重新洗牌！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "真的假的？！，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了云面包，progress投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "别绕弯子，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['则夷则', '琥珀王', 'kiod', '瑜瑜', 'progress']",
+          "action": "则夷则: 别绕弯子，根据我的记录：我最怀疑任（昨天记的：我最怀疑云面包；则夷则自称送葬者）。大家怎么看！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['则夷则', '琥珀王', 'kiod', '瑜瑜', 'progress']",
+          "action": "云面包(已死亡): 明摆着的事，我已经是个死人了，我的判断应该更有参考价值！我死前最怀疑kiod，理由是我观察到kiod自称调查员，云面包自称酒鬼，任自称调查员，progress自称贞洁者里面的矛盾点和则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包的异常！活着的兄弟们，帮我报仇！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['则夷则', '琥珀王', 'kiod', '瑜瑜', 'progress']",
+          "action": "琥珀王: kiod自称调查员，但投票处决过云面包，行为对不上！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['则夷则', '琥珀王', 'kiod', '瑜瑜', 'progress']",
+          "action": "kiod: 这还用想？，各位，看看云面包的表演。云面包自称洗衣妇，任自称调查员，progress自称贞洁者，琥珀王自称守鸦人里就云面包的声明最假。大家动动脑子：一个真?会像他这样发言吗？不会。所以结论只有一个——云面包在撒谎，而且撒得很拙劣。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['则夷则', '琥珀王', 'kiod', '瑜瑜', 'progress']",
+          "action": "任(已死亡): 客观来说，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑云面包，理由是我观察到任自称调查员，则夷则自称送葬者，云面包自称洗衣妇，progress自称贞洁者里面的矛盾点和则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['则夷则', '琥珀王', 'kiod', '瑜瑜', 'progress']",
+          "action": "瑜瑜: 大家好，我是士兵。我来分析一下目前的局势：暂无特殊信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑则夷则。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['则夷则', '琥珀王', 'kiod', '瑜瑜', 'progress']",
+          "action": "progress: 我怀疑我们中间有人在冒充身份。我提议一个方案：每个人轮流说出自己第一天晚上的行动细节。真正的信息位一定能说出具体操作，假信息位只能泛泛而谈。kiod敢接这个挑战吗？不敢的话——你知道你是什么情况吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "提名则夷则",
+          "action": "我提名则夷则。理由如下：第一，他的声明某人有问题；第二，则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包显示他的投票异常；第三，progress自称贞洁者，云面包自称洗衣妇，任自称调查员，瑜瑜自称士兵里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "被progress提名",
+          "action": "大家想一想：如果我是邪恶，我会这么被动地等着被处决吗？我如果真是坏人，我早就编一套完美说辞了。正因为我是好人，我才觉得委屈——被冤枉的感觉你们懂吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "则夷则被处决",
+          "action": "处决则夷则",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "kiod",
+          "context": "恶魔杀人",
+          "action": "杀害琥珀王",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "kiod",
+          "context": "私聊瑜瑜",
+          "action": "明摆着的事，对方在盘我们的逻辑漏洞了！！告诉你一个技巧：把水搅浑的最好方式就是反问！！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊kiod",
+          "action": "可能是我理解错了，我不太确定，来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合kiod投了云面包，kiod投了则夷则，瑜瑜投了云面包，瑜瑜投了则夷则来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊瑜瑜",
+          "action": "情况不对，云面包开始反击了！。我们需要立刻转移焦点——你跳出来说progress更可疑，我配合你！。理由就说progress的投票记录不对——瑜瑜投了云面包，瑜瑜投了则夷则，kiod投了云面包，kiod投了则夷则里面他投的票全是跟风！。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊kiod",
+          "action": "我想问问，我越来越觉得则夷则有问题。理由是：他的声明是身份不明，但他的kiod投了云面包，kiod投了则夷则，瑜瑜投了云面包，瑜瑜投了则夷则完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊瑜瑜",
+          "action": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊kiod",
+          "action": "我想问问，我们来盘一下目前的局势。progress自称贞洁者，云面包自称洗衣妇，任自称调查员，瑜瑜自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "有人盯上我们了！按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了！我则跳出来说其实我才是调查员，我之前没说是因为在收集信息！身份对换，重新洗牌！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "今天就到这。我们的共识是：kiod是第一嫌疑人。明天根据处决结果再调整策略。如果kiod是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "被怀疑了，别慌！我教你反制：你先发制人去质疑云面包——说他贞洁者的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "这个事情是这样的，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。对了再补充一点，不过他也有可能是好人，这个可能性不能排除",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "明摆着的事，情况不对，云面包开始反击了。我们需要立刻转移焦点——你跳出来说瑜瑜更可疑，我配合你。理由就说瑜瑜的投票记录不对——progress投了云面包，progress投了则夷则，kiod投了云面包，kiod投了则夷则里面他投的票全是跟风！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "我记一下今天的重点：我最怀疑kiod（昨天记的：我最怀疑kiod；瑜瑜自称士兵）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊progress",
+          "action": "我想问问，则夷则，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊瑜瑜",
+          "action": "kiod，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊progress",
+          "action": "我忍你很久了则夷则。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的progress投了云面包，progress投了则夷则，瑜瑜投了云面包，瑜瑜投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊瑜瑜",
+          "action": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的瑜瑜投了云面包，瑜瑜投了则夷则，progress投了云面包，progress投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "私聊progress",
+          "action": "则夷则，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊瑜瑜",
+          "action": "今天就到这。我们的共识是：kiod是第一嫌疑人。明天根据处决结果再调整策略。如果kiod是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['kiod', '瑜瑜', 'progress']",
+          "action": "则夷则(已死亡): 明摆着的事，我是送葬者，昨天被处决的是洗衣妇！处决错了……我建议大家复盘一下投票——那些带头投他的人里必然有邪恶在推波助澜！特别是则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包里面跟票最快的那几个！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['kiod', '瑜瑜', 'progress']",
+          "action": "云面包(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑kiod，理由是我观察到kiod自称调查员，云面包自称酒鬼，任自称调查员，progress自称贞洁者，瑜瑜自称士兵里面的矛盾点和则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['kiod', '瑜瑜', 'progress']",
+          "action": "琥珀王(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑kiod，理由是我观察到云面包自称洗衣妇，任自称调查员，progress自称贞洁者，琥珀王自称守鸦人，kiod自称调查员里面的矛盾点和则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['kiod', '瑜瑜', 'progress']",
+          "action": "kiod: 我直接说了，各位，看看云面包的表演！琥珀王自称守鸦人，瑜瑜自称士兵，则夷则自称送葬者里就云面包的声明最假！大家动动脑子：一个真?会像他这样发言吗？不会！所以结论只有一个——云面包在撒谎，而且撒得很拙劣！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['kiod', '瑜瑜', 'progress']",
+          "action": "任(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑云面包，理由是我观察到任自称调查员，则夷则自称送葬者，云面包自称洗衣妇，progress自称贞洁者，瑜瑜自称士兵里面的矛盾点和则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "公聊环节, 存活: ['kiod', '瑜瑜', 'progress']",
+          "action": "瑜瑜: 我怀疑我们中间有人在冒充身份。我提议一个方案：每个人轮流说出自己第一天晚上的行动细节。真正的信息位一定能说出具体操作，假信息位只能泛泛而谈。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['kiod', '瑜瑜', 'progress']",
+          "action": "progress: 现在是公聊时间，我分享一下我的推理：暂无特殊信息。目前瑜瑜自称士兵，则夷则自称送葬者，而投票记录显示则夷则投了云面包，kiod投了云面包，任投了云面包，瑜瑜投了云面包。这些线索综合来看，我的基于以上，我怀疑kiod。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "提名瑜瑜",
+          "action": "提名瑜瑜。瑜瑜自称士兵但士兵这个声明和其他人提供的信息对不上；他的投票记录云面包/则夷则非常反常——好人不该这样投票我不需要再多说了，证据摆在这里。谁反对可以站出来对质吧。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "瑜瑜",
+          "context": "被kiod提名",
+          "action": "我是士兵，说实话，恶魔杀不了我！我可以一直活到决赛圈帮好人投票——kiod急着除掉我，恰恰证明他在帮邪恶做事！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "瑜瑜被处决",
+          "action": "处决瑜瑜",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "kiod, progress",
+  "players": [
+    "则夷则",
+    "云面包",
+    "琥珀王",
+    "kiod",
+    "任",
+    "瑜瑜",
+    "progress"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "云面包": [
+        {
+          "key": "washerwoman",
+          "text": "progress 和 则夷则 中有一人是 贞洁者",
+          "day": 0
+        }
+      ],
+      "任": [
+        {
+          "key": "investigator",
+          "text": "琥珀王 和 云面包 中有一人是 红唇女郎",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "则夷则": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 洗衣妇",
+          "day": 1
+        }
+      ],
+      "云面包": [
+        {
+          "key": "washerwoman",
+          "text": "progress 和 则夷则 中有一人是 贞洁者",
+          "day": 1
+        }
+      ],
+      "任": [
+        {
+          "key": "investigator",
+          "text": "琥珀王 和 云面包 中有一人是 红唇女郎",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "则夷则": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 洗衣妇",
+          "day": 2
+        }
+      ],
+      "云面包": [
+        {
+          "key": "washerwoman",
+          "text": "progress 和 则夷则 中有一人是 贞洁者",
+          "day": 2
+        }
+      ],
+      "任": [
+        {
+          "key": "investigator",
+          "text": "琥珀王 和 云面包 中有一人是 红唇女郎",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "kiod🔄云面包": [
+      {
+        "speaker": "kiod",
+        "text": "嗨云面包，我是调查员。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "云面包",
+        "text": "我们来盘一下目前的局势！。kiod自称调查员里面有几个矛盾点特别值得关注！。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上！。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "明摆着的事，我敢肯定，我跟你透露一个事：则夷则跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 3
+      },
+      {
+        "speaker": "云面包",
+        "text": "我直接说了，我越来越觉得则夷则有问题！理由是：他的声明是调查员，但他的暂无投票完全不符合这个身份的行为模式！一个真正的调查员不会这样投票！你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "我直接说了，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得则夷则的问题很大！暂无投票你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "云面包",
+        "text": "出问题了：progress和则夷则都不承认贞洁者这个身份。要么我是酒鬼，要么首夜被投毒者下毒。你是调查员，你查到的爪牙是谁？。",
+        "seq": 6
+      }
+    ],
+    "kiod🔄琥珀王": [
+      {
+        "speaker": "kiod",
+        "text": "角色分配完毕：我调查员，你守鸦人！剩下的剩下厨师留着备用！核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧！",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "从逻辑上看，我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "我思考了一下局势：暂无投票说明好人的票型开始分散了！这是好事——他们的共识在瓦解！我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏！",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "目前分析下来，则夷则是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从暂无投票看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "今晚刀则夷则，白天的公聊目标也是则夷则。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "综合现有信息，目标锁定：则夷则。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+        "seq": 6
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "基于已公开的信息，今晚刀kiod，白天的公聊目标也是kiod。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "kiod",
+        "text": "目标锁定：云面包！我负责带节奏，你负责编证据！具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果！",
+        "seq": 8
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "排练一下明天的公聊剧本。我先说：'我是守鸦人，我查到kiod有问题。'然后你接：'巧了，我也在怀疑kiod，因为kiod投了云面包。'注意你的语气要像临时发现而不是商量好的。",
+        "seq": 9
+      },
+      {
+        "speaker": "kiod",
+        "text": "排练一下明天的公聊剧本！。我先说：'我是调查员，我查到云面包有问题！。'然后你接：'巧了，我也在怀疑云面包，因为kiod投了云面包！。",
+        "seq": 10
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "基于已公开的信息，理性分析的话，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+        "seq": 11
+      },
+      {
+        "speaker": "kiod",
+        "text": "模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+        "seq": 12
+      }
+    ],
+    "kiod🔄progress": [
+      {
+        "speaker": "kiod",
+        "text": "嘿progress，我是调查员。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "别绕弯子，别绕弯子，你有没有注意到则夷则和则夷则的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "明摆着的事，我的调查员技能虽然没有直接查到铁证，但我的直觉告诉我则夷则不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 6
+      },
+      {
+        "speaker": "progress",
+        "text": "kiod，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "kiod",
+        "text": "明摆着的事，被怀疑了，别慌！我教你反制：你先发制人去质疑云面包——说他贞洁者的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+        "seq": 8
+      },
+      {
+        "speaker": "progress",
+        "text": "我觉得吧，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的kiod投了云面包，progress投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "kiod",
+        "text": "这还用想？，有人盯上我们了！按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了！我则跳出来说其实我才是调查员，我之前没说是因为在收集信息！身份对换，重新洗牌！",
+        "seq": 10
+      },
+      {
+        "speaker": "progress",
+        "text": "真的假的？！，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了云面包，progress投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "kiod",
+        "text": "别绕弯子，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 12
+      },
+      {
+        "speaker": "kiod",
+        "text": "有人盯上我们了！按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了！我则跳出来说其实我才是调查员，我之前没说是因为在收集信息！身份对换，重新洗牌！",
+        "seq": 13
+      },
+      {
+        "speaker": "progress",
+        "text": "今天就到这。我们的共识是：kiod是第一嫌疑人。明天根据处决结果再调整策略。如果kiod是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 14
+      },
+      {
+        "speaker": "kiod",
+        "text": "被怀疑了，别慌！我教你反制：你先发制人去质疑云面包——说他贞洁者的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+        "seq": 15
+      },
+      {
+        "speaker": "progress",
+        "text": "这个事情是这样的，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。对了再补充一点，不过他也有可能是好人，这个可能性不能排除",
+        "seq": 16
+      },
+      {
+        "speaker": "kiod",
+        "text": "明摆着的事，情况不对，云面包开始反击了。我们需要立刻转移焦点——你跳出来说瑜瑜更可疑，我配合你。理由就说瑜瑜的投票记录不对——progress投了云面包，progress投了则夷则，kiod投了云面包，kiod投了则夷则里面他投的票全是跟风！",
+        "seq": 17
+      },
+      {
+        "speaker": "progress",
+        "text": "我记一下今天的重点：我最怀疑kiod（昨天记的：我最怀疑kiod；瑜瑜自称士兵）。明天继续跟进，有新情况随时找我。",
+        "seq": 18
+      }
+    ],
+    "云面包🔄任": [
+      {
+        "speaker": "任",
+        "text": "你好云面包，我是调查员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "云面包",
+        "text": "我敢肯定，我的笔记里记了几件事：我最怀疑则夷则；云面包自称酒鬼；任自称调查员！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "我越来越觉得则夷则有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "云面包",
+        "text": "来，我们对对信息！我的洗衣妇技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "从逻辑上看，我的笔记里记了几件事：我最怀疑则夷则；任自称调查员。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "云面包",
+        "text": "我直接说了，我的笔记里记了几件事：云面包自称酒鬼；任自称调查员；kiod自称调查员！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "任🔄琥珀王": [
+      {
+        "speaker": "任",
+        "text": "琥珀王你好，我是调查员。第一天信息有限，但我注意到一些细节——任自称调查员里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我则夷则不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "理性分析的话，我们来盘一下目前的局势。任自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "你有没有注意到任和则夷则的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "基于已公开的信息，来，我们对对信息。我的调查员技能告诉我一些事情：查到琥珀王是云面包。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "被怀疑了，别慌。我教你反制：你先发制人去质疑任——说他调查员的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+        "seq": 6
+      }
+    ],
+    "任🔄则夷则": [
+      {
+        "speaker": "任",
+        "text": "则夷则，我刚整理了一下笔记：我最怀疑则夷则；任自称调查员。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "则夷则",
+        "text": "明摆着的事，来，我们对对信息！我的送葬者技能告诉我一些事情：我是送葬者，暂无信息！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "来，我们对对信息。我的调查员技能告诉我一些事情：查到琥珀王是云面包。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我们来盘一下目前的局势。则夷则自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上。我的结论是云面包至少需要被好好审一审！",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "我们来盘一下目前的局势。任自称调查员，则夷则自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我越来越觉得云面包有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      }
+    ],
+    "云面包🔄琥珀王": [
+      {
+        "speaker": "云面包",
+        "text": "你好琥珀王，我是洗衣妇！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我跟你透露一个事：任跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "text": "别绕弯子，我越来越觉得kiod有问题！！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！！一个真正的身份不明不会这样投票！！",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "理性分析的话，从逻辑上看，有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "text": "别绕弯子，我们来盘一下目前的局势！kiod自称调查员，云面包自称酒鬼，任自称调查员里面有几个矛盾点特别值得关注！第一，任和kiod都自称调查员；第二，kiod的投票轨迹跟他的声明对不上！我的结论是kiod至少需要被好好审一审！",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "综合现有信息，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 6
+      }
+    ],
+    "progress🔄则夷则": [
+      {
+        "speaker": "则夷则",
+        "text": "我敢肯定，progress，我刚整理了一下笔记：我最怀疑云面包；则夷则自称送葬者。你那边有什么发现！",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我的笔记里记了几件事：我最怀疑云面包；则夷则自称送葬者！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我们来盘一下目前的局势。则夷则自称送葬者里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，云面包的投票轨迹跟他的声明对不上！",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+        "seq": 6
+      },
+      {
+        "speaker": "则夷则",
+        "text": "这还用想？，我忍你很久了任。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的progress投了云面包，则夷则投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "progress",
+        "text": "我跟你们说啊，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的则夷则投了云面包，progress投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "则夷则",
+        "text": "任，我现在公开质疑你！如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 9
+      },
+      {
+        "speaker": "progress",
+        "text": "kiod，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+        "seq": 10
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我直接说了，我忍你很久了任！你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的progress投了云面包，则夷则投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "progress",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "则夷则🔄瑜瑜": [
+      {
+        "speaker": "则夷则",
+        "text": "别绕弯子，瑜瑜，我刚整理了一下笔记：我最怀疑云面包；则夷则自称送葬者！你那边有什么发现！",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "text": "这还用想？，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我新手不太懂，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我的笔记里记了几件事：我最怀疑云面包；则夷则自称送葬者。结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+        "seq": 6
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我敢肯定，任，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+        "seq": 7
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我忍你很久了则夷则。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的则夷则投了云面包，瑜瑜投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+        "seq": 8
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我忍你很久了任。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的瑜瑜投了云面包，则夷则投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "可能是我理解错了，则夷则，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "则夷则",
+        "text": "这还用想？，任，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我想问问，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "progress🔄瑜瑜": [
+      {
+        "speaker": "progress",
+        "text": "我的天，瑜瑜你好，我是贞洁者。第一天信息有限，但我注意到一些细节——kiod自称调查员里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "真的假的？！，我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票哦。",
+        "seq": 6
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我想问问，则夷则，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+        "seq": 7
+      },
+      {
+        "speaker": "progress",
+        "text": "kiod，我现在公开质疑你。如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我忍你很久了则夷则。你的发言从头到尾都是漏洞：第一，你的贞洁者声明前后不一致；第二，你的progress投了云面包，progress投了则夷则，瑜瑜投了云面包，瑜瑜投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "progress",
+        "text": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的士兵声明前后不一致；第二，你的瑜瑜投了云面包，瑜瑜投了则夷则，progress投了云面包，progress投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "则夷则，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "progress",
+        "text": "今天就到这。我们的共识是：kiod是第一嫌疑人。明天根据处决结果再调整策略。如果kiod是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 12
+      }
+    ],
+    "琥珀王🔄瑜瑜": [
+      {
+        "speaker": "琥珀王",
+        "text": "从逻辑上看，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我云面包有问题。理由：瑜瑜投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：瑜瑜投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我则夷则有问题。理由：瑜瑜投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+        "seq": 6
+      }
+    ],
+    "progress🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "text": "从逻辑上看，理性分析的话，情况不对，kiod开始反击了。我们需要立刻转移焦点——你跳出来说则夷则更可疑，我配合你。理由就说则夷则的投票记录不对——progress投了云面包里面他投的票全是跟风。记住：最好的防守就是进攻。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：progress投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "被怀疑了，别慌。我教你反制：你先发制人去质疑kiod——说他贞洁者的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：progress投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我kiod有问题。理由：progress投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      }
+    ],
+    "kiod🔄则夷则": [
+      {
+        "speaker": "则夷则",
+        "text": "别绕弯子，任，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？。第三，你的kiod投了云面包，则夷则投了云面包为什么会这样投？！",
+        "seq": 1
+      },
+      {
+        "speaker": "kiod",
+        "text": "他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我越来越觉得任有问题。理由是：他的声明是身份不明，但他的kiod投了云面包，则夷则投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "kiod",
+        "text": "情况不对，云面包开始反击了。我们需要立刻转移焦点——你跳出来说琥珀王更可疑，我配合你。理由就说琥珀王的投票记录不对——则夷则投了云面包，kiod投了云面包里面他投的票全是跟风。记住：最好的防守就是进攻。",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我直接说了，我的笔记里记了几件事：我最怀疑任（昨天记的：我最怀疑云面包；则夷则自称送葬者）。结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 5
+      },
+      {
+        "speaker": "kiod",
+        "text": "我直接说了，对方在盘我们的逻辑漏洞了！告诉你一个技巧：把水搅浑的最好方式就是反问！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？！",
+        "seq": 6
+      }
+    ],
+    "kiod🔄瑜瑜": [
+      {
+        "speaker": "kiod",
+        "text": "明摆着的事，对方在盘我们的逻辑漏洞了！！告诉你一个技巧：把水搅浑的最好方式就是反问！！不管对方质疑你什么，你就反问'那你觉得谁是邪恶？！",
+        "seq": 1
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "可能是我理解错了，我不太确定，来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合kiod投了云面包，kiod投了则夷则，瑜瑜投了云面包，瑜瑜投了则夷则来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "情况不对，云面包开始反击了！。我们需要立刻转移焦点——你跳出来说progress更可疑，我配合你！。理由就说progress的投票记录不对——瑜瑜投了云面包，瑜瑜投了则夷则，kiod投了云面包，kiod投了则夷则里面他投的票全是跟风！。",
+        "seq": 3
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我想问问，我越来越觉得则夷则有问题。理由是：他的声明是身份不明，但他的kiod投了云面包，kiod投了则夷则，瑜瑜投了云面包，瑜瑜投了则夷则完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理呢吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 5
+      },
+      {
+        "speaker": "瑜瑜",
+        "text": "我想问问，我们来盘一下目前的局势。progress自称贞洁者，云面包自称洗衣妇，任自称调查员，瑜瑜自称士兵里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，则夷则的投票轨迹跟他的声明对不上吧。",
+        "seq": 6
+      }
+    ]
+  },
+  "_used_pub_1": [
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "根据我的记录：{my_note}。大家怎么看？",
+    "我是洗衣妇，我确认{target}是{ww_role}金水。{target}本人已认领身份，信息链清晰。建议今天从外置位盘，{target}暂排好人。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我倒不是要直接锤死{target}，但我建议大家对比一下{target}和{other}的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+    "我说句不好听的：现在保{target}的人，要么是瞎，要么就是他的同伙。{vote_str}投票记录是死的，不会撒谎。今天出{target}，谁反对谁就有问题。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "则夷则",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "kiod",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "任",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "瑜瑜",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "progress",
+        "target": "云面包",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "琥珀王",
+        "target": "则夷则",
+        "day": 2
+      },
+      {
+        "voter": "kiod",
+        "target": "则夷则",
+        "day": 2
+      },
+      {
+        "voter": "瑜瑜",
+        "target": "则夷则",
+        "day": 2
+      },
+      {
+        "voter": "progress",
+        "target": "则夷则",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "kiod",
+        "target": "瑜瑜",
+        "day": 3
+      },
+      {
+        "voter": "progress",
+        "target": "瑜瑜",
+        "day": 3
+      }
+    ]
+  },
+  "_used_pub_2": [
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "根据我的记录：{my_note}。大家怎么看？",
+    "各位，看看{target}的表演。{claim_str}里就{target}的声明最假。大家动动脑子：一个真{claim}会像他这样发言吗？不会。所以结论只有一个——{target}在撒谎，而且撒得很拙劣。"
+  ],
+  "_used_pub_3": [
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "各位，看看{target}的表演。{claim_str}里就{target}的声明最假。大家动动脑子：一个真{claim}会像他这样发言吗？不会。所以结论只有一个——{target}在撒谎，而且撒得很拙劣。"
+  ],
+  "ended_at": "2026-06-20T15:48:39.306470"
+}

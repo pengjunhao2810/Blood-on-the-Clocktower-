@@ -1,0 +1,4237 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-21T08:49:54.984786",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "私聊Rujie Shi",
+          "action": "客观来说，理性分析的话，方案收到。我占卜师配合你图书管理员。建议我们同步一下编的细节——比如我查到的具体时间、方式，免得被人盘出逻辑漏洞。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊when？",
+          "action": "你看这个局势：好人的信息越多他们就吵得越厉害。这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Rujie Shi",
+          "action": "基于已公开的信息，我们来构建一个完整的推理链：你图书管理员的角度看wowo有问题，我占卜师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊when？",
+          "action": "盘一下剩余玩家！告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会！我们可以在他们开口之前先把wowo定义成'邪恶方'，等于提前占领了好人的心智！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "你好大6，我是占卜师。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看wowo这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "我不太确定，对比了几个人的发言，Rujie Shi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "理性分析的话，我盘了一下目前的线索：加上when？自称占卜师里面的疑点，指向wowo的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "我想问问，我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Rujie Shi",
+          "action": "Rujie Shi，我刚整理了一下笔记：我最怀疑Rujie Shi。让我想想，你那边有什么发现？。对了还有啊，我觉得我们要多观察几轮",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊困困",
+          "action": "这还用想？。，我直接说了，wowo的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑wowo！。一个真正的身份不明不应该有这种表现！。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Rujie Shi",
+          "action": "注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊困困",
+          "action": "明摆着的事，别绕弯子，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得wowo的问题很大！你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊吃鱼的猫",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Rujie Shi确实值得重点观察，你觉得呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊困困",
+          "action": "我觉得吧，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居大6、香辣鸡腿堡中有坏人。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊吃鱼的猫",
+          "action": "这个事情是这样的，我觉得吧，你刚才提到我觉得吧，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居大6、香辣鸡腿堡中有坏，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊困困",
+          "action": "我在想Rujie Shi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "综合现有信息，你好kiod，我是洗衣妇。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "我觉得吧，观察Rujie Shi的发言轨迹：他被第一次问到时给出了洗衣妇相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "客观来说，理性分析的话，注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "我觉得吧，我的天，我虽然没有查验技能，但我的逻辑告诉我Rujie Shi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Youmi",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Rujie Shi确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊progress",
+          "action": "来，我们对对信息！我的送葬者技能告诉我一些事情：我是送葬者，暂无信息！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Youmi",
+          "action": "综合现有信息，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道香辣鸡腿堡或困困之中有圣徒。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊progress",
+          "action": "注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了！如果是真身份不明，应该每次都能给出同样的细节才对！这种信息密度递减的模式值得警惕！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊吃鱼的猫",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。怎么说呢，我的看法是Rujie Shi确实值得重点观察，你觉得呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊Star",
+          "action": "我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊吃鱼的猫",
+          "action": "这个事情是这样的，我的天，你刚才提到我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊Star",
+          "action": "这个事情是这样的，注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我的天，香辣鸡腿堡，我刚整理了一下笔记：我最怀疑Rujie Shi。你那边有什么发现吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "这还用想？，这还用想？，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "真的假的？！，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "wowo，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "Youmi你好，我是厨师。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "我敢肯定，你刚才提到Youmi你好，我是厨师。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "你刚才提到我敢肯定，你刚才提到Youmi你好，我是厨师。第一天信息有限，但我注意到一些细节——里面有些人的声明，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "我们来盘一下目前的局势！Youmi自称送葬者，wowo自称厨师里面有几个矛盾点特别值得关注！第一，；第二，Rujie Shi的投票轨迹跟他的声明对不上！我的结论是Rujie Shi至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊香辣鸡腿堡",
+          "action": "你好香辣鸡腿堡，我是厨师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊wowo",
+          "action": "wowo的发言和行为对不上——他说自己是厨师，但我观察到他我最怀疑wowo；wowo自称厨师！一个真正的厨师不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊香辣鸡腿堡",
+          "action": "注意Youmi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊wowo",
+          "action": "我复盘了wowo的全部公聊发言，发现几个具体矛盾：第一，他先说自己是厨师，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了Youmi；第三，里他的投票和厨师身份的利益取向完全不符！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊戒色大师",
+          "action": "我不太确定，戒色大师，我刚整理了一下笔记：when？自称占卜师；我最怀疑Rujie Shi。你那边有什么发现哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊大6",
+          "action": "综合观察下来，Rujie Shi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊戒色大师",
+          "action": "我不太确定，我虽然没有查验技能，但我的逻辑告诉我Rujie Shi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊大6",
+          "action": "对比了几个人的发言，Rujie Shi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Rujie Shi确实值得重点观察，你觉得呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "我觉得吧，我盘了一下Rujie Shi的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "我跟你们说啊，我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Rujie Shi: 我是占卜师，我还在收集信息。我的占卜结果出来了：Star是邪恶的！。昨晚我清清楚楚查到了恶魔的气息。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "wowo: 从逻辑上看，我是厨师，首夜信息显示相邻邪恶对数为1。这意味着我的邻居Rujie Shi、Star中有至少一对邪恶相邻。我注意到Rujie Shi也报了占卜师身份——两个信息位的结果如果能对上，就能锁定范围了。大家可以参考这个信息来排坑。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Star: 镇长归票时间：综合Rujie Shi自称占卜师，wowo自称厨师和，Rujie Shi是今天的最佳处决目标。理由：身份跳法是否合理，发言是否含有有效信息，是否回避关键问题。我随时可以自证（三人存活时邪恶输），请大家相信我这次归票。按人数计算，本局应该有2个外来者，但现在只有0个人认领——还有2个外来者没有报身份，或者有人在隐瞒。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Youmi: 我来盘一下目前的局面！暂时没有关键信息！wowo自称厨师，Rujie Shi自称占卜师，！！按人数计算，本局应该有2个外来者，但现在只有0个人认领——还有2个外来者没有报身份，或者有人在隐瞒！本局12人场标准配置2个外来者，目前0人认领！如果数字对不上，可能有人隐藏身份或有男爵！综合这些，我倾向Rujie Shi有问题——当然我也欢迎不同意见的讨论！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "大6: 大家好，我是陌客。我来分析一下目前的局势：暂时没有关键信息。按人数计算，本局应该有2个外来者，但现在只有0个人认领——还有2个外来者没有报身份，或者有人在隐瞒呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "吃鱼的猫: 我是共情者！昨晚我左右邪恶数为1，大6(自称陌客)，香辣鸡腿堡(自称?)。如果1大于0，我们今天就一定要从这两个邻居开始盘！大家结合他们今天的发言和来交叉验证——不是凭感觉，是凭数据。提醒一句：大6是陌客，陌客被查验会错误显示为邪恶。如果占卜师/调查员查到他身上，那个「恶魔反应」需要打折扣——不能当铁证用。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "香辣鸡腿堡: 我站守鸦人这个立场说话可能要得罪人，但我不在乎——Youmi的问题太明显了。我严重怀疑吃鱼的猫——他的发言逻辑前后矛盾，明显在编故事。如果有谁有不同意见，请拿出实锤证据来反驳我。本局应该有4个外来者，但只有1个人认领。Star一直不报身份，很可能就是隐藏的外来者或者更糟——邪恶在冒充镇民。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "困困: 真的假的？！，首夜信息已确认：香辣鸡腿堡是调查员。这是实打实的查验结果，不是猜测。Rujie Shi自称占卜师，他的信息范围应该包含wowo——这跟我的分析可以交叉验证。请大家看清局势。陌客的机制需要大家记住：大6被任何信息位查验时，说书人都会谎报他为邪恶。如果你看到大6被「查出来」，别急着下定论——被查出来才是正常的。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "kiod: 这个事情是这样的，现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前progress自称洗衣妇，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，而投票记录显示。。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。这些线索综合来看，我的我会重点观察Youmi。希望大家也分享一下自己的观点吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "progress: 公聊同步：我的首夜查验香辣鸡腿堡是圣徒已确认。我注意到Youmi也报了送葬者身份——两个信息位的结果如果能对上，就能锁定范围了。这是我的金水，请大家不要浪费处决机会在他身上。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "戒色大师: 这个事情是这样的，分享一下我的观察：暂时没有关键信息。Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者里面有几个点值得注意。。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。我会重点观察Youmi。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'wowo', 'Star', 'Youmi', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "when？: 我不太喜欢带节奏，但这个Youmi我实在忍不下去了——他的每一个发言都在编。昨晚我查验了吃鱼的猫和Youmi——有恶魔反应！这两人必须处决一个，我建议先动吃鱼的猫。Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者里面的矛盾点他自己都圆不上，你们真的看不出来吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "提名吃鱼的猫",
+          "action": "提名吃鱼的猫。吃鱼的猫自称共情者但共情者这个声明和其他人提供的信息对不上；吃鱼的猫自称共情者我不需要再多说了，证据摆在这里。谁反对可以站出来对质。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "被Rujie Shi提名",
+          "action": "哎，我是共情者，我旁边邪恶数为1！处决我的话好人就失去了每晚的邪恶探测——这正中邪恶下怀！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "提名Rujie Shi",
+          "action": "我提名Rujie Shi。理由：第一，讲真，他的某人声明与对不上；第二，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫里面他投的票和全场趋势不一致；第三，progress自称洗衣妇，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "被kiod提名",
+          "action": "我是占卜师。kiod编了一大堆理由想让大家信服，但你仔细看就会发现全站不住脚：他说的第一点不存在、第二点是曲解、第三点是假设。全是空中楼阁。真正该被查的是Youmi，大家注意观察他的反应。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "提名wowo",
+          "action": "我提名wowo。理由：第一，他的某人声明与对不上；第二，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫里面他投的票和全场趋势不一致；第三，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "被困困提名",
+          "action": "我是厨师！chef:1nominator急着处决一个信息位，这不合逻辑！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "提名Youmi",
+          "action": "我直接说吧，我提名Youmi。理由：第一，他的某人声明与对不上；第二，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo里面他投的票和全场趋势不一致；第三，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "被戒色大师提名",
+          "action": "我是送葬者，我的身份经得起验证。戒色大师的指控有几点站不住脚：首先，他说的问题并不存在；其次，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo显示我一直在支持好人；最后，戒色大师自己的厨师声明本身就值得怀疑。与其在我身上浪费处决机会，不如去盘Rujie Shi，他才是更需要被查的人。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "Youmi被处决",
+          "action": "处决Youmi",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "Rujie Shi",
+          "context": "恶魔杀人",
+          "action": "杀害wowo",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "私聊Rujie Shi",
+          "action": "我跟你们说啊，这个事情是这样的，香辣鸡腿堡，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Star",
+          "action": "明摆着的事，我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Rujie Shi",
+          "action": "我的笔记里记了几件事：我最怀疑香辣鸡腿堡；我最怀疑吃鱼的猫（昨天记的：Rujie Shi自称占卜师；wowo自称厨师）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Star",
+          "action": "这还用想？，我复盘了wowo的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了when？；第三，Star投了Youmi，Rujie Shi投了吃鱼的猫，Rujie Shi投了wowo，Rujie Shi投了Youmi里他的投票和身份不明身份的利益取向完全不符！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊吃鱼的猫",
+          "action": "注意吃鱼的猫的回应模式：第一次被质疑共情者声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真共情者，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊Star",
+          "action": "真的假的？！，来，我们对对信息。我的共情者技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Star投了Youmi，吃鱼的猫投了Youmi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊吃鱼的猫",
+          "action": "吃鱼的猫，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊Star",
+          "action": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了Youmi，吃鱼的猫投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊困困",
+          "action": "困困，想跟你对一下信息！我守鸦人这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助！你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我的笔记里记了几件事：我最怀疑Rujie Shi（昨天记的：吃鱼的猫自称共情者；我最怀疑Youmi）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊困困",
+          "action": "我敢肯定，我复盘了wowo的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了戒色大师；第三，困困投了Youmi，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi里他的投票和身份不明身份的利益取向完全不符。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，困困投了Youmi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "我敢肯定，他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你占卜师的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "基于已公开的信息，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "别绕弯子，有人盯上我们了！。按B计划：你主动承认自己是占卜师但信息有误——就说你第一天看错了！。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息！。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "基于已公开的信息，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你守鸦人的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊kiod",
+          "action": "困困，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊吃鱼的猫",
+          "action": "注意Rujie Shi的回应模式：第一次被质疑共情者声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真共情者，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "私聊kiod",
+          "action": "我的天，我们来盘一下目前的局势。Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者里面有几个矛盾点特别值得关注。第一，；第二，困困的投票轨迹跟他的声明对不上。我的结论是困困至少需要被好好审一审吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊吃鱼的猫",
+          "action": "我在想Rujie Shi的行为能不能用共情者来解释——他自称是共情者，但如果是真共情者，应该会共情者应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Rujie Shi",
+          "action": "Rujie Shi，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊progress",
+          "action": "别绕弯子，困困，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？。为什么？。Rujie Shi投了吃鱼的猫，Rujie Shi投了wowo，Rujie Shi投了Youmi里面你的投票是怎么考虑的？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Rujie Shi",
+          "action": "综合现有信息，我的笔记里记了几件事：我最怀疑Youmi（昨天记的：大6自称陌客；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊progress",
+          "action": "困困的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑wowo；我最怀疑困困（昨天记的：我最怀疑wowo）！一个真正的身份不明不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合kiod投了Youmi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "综合观察下来，Rujie Shi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊kiod",
+          "action": "kiod，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊progress",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Rujie Shi。理由我再说一遍：progress自称洗衣妇，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者和kiod投了Youmi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊戒色大师",
+          "action": "综合观察下来，when？的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊大6",
+          "action": "注意Rujie Shi的回应模式：第一次被质疑陌客声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真陌客，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊戒色大师",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：when？自称占卜师，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者和大6投了Youmi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊大6",
+          "action": "我觉得吧，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的大6投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "我不太确定，我们来盘一下目前的局势。when？。自称占卜师，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者里面有几个矛盾点特别值得关注。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "基于已公开的信息，我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是陌客，但Rujie Shi和when？都自称占卜师；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了Rujie Shi；第三，大6投了Youmi，when？投了吃鱼的猫，when？投了wowo里他的投票和陌客身份的利益取向完全不符。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的占卜师声明前后不一致；第二，你的when？投了吃鱼的猫，when？投了wowo，大6投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "基于已公开的信息，大6，我直接问你几个问题：你自称陌客，那你的技能结果具体是什么？为什么Rujie Shi和when？都自称占卜师？大6投了Youmi，when？投了吃鱼的猫，when？投了wowo里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊困困",
+          "action": "大6，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的困困投了Youmi为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊戒色大师",
+          "action": "这个事情是这样的，注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊困困",
+          "action": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的困困投了Youmi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊戒色大师",
+          "action": "我觉得吧，你刚才提到我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的困困投了Youmi完全不符合这个身份的行为，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Rujie Shi: 我直接点名困困。你是?？。但你的发言里漏洞太多——困困，你解释一下为什么Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "wowo(已死亡): 基于已公开的信息，死者的话最客观。我回顾了整个游戏过程，Youmi的嫌疑最大。他的声明是wowo自称厨师，Youmi自称厨师，Rujie Shi自称占卜师，大6自称陌客，吃鱼的猫自称共情者，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Star: 大家好，我是镇长。我来整合一下当前的信息：Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者。Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。我的建议是今天集中处决吃鱼的猫，理由：第一，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者中他的声明和谁对不上；第二，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo里面他的投票趋势和全场不同；第三，死者身份与之前发言是否匹配，谁曾力保或死踩死者，死亡结果对谁最有利。请各位统一票型。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Youmi(已死亡): 死者的话最客观！我回顾了整个游戏过程，Rujie Shi的嫌疑最大！他的声明是Youmi自称送葬者，wowo自称厨师，Rujie Shi自称占卜师，大6自称陌客，吃鱼的猫自称共情者，但他的行为完全对不上！活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "大6: 大家怎么看，我来盘一下目前的局面。暂无特殊信息。when？自称占卜师，Rujie Shi自称占卜师，wowo自称厨师，吃鱼的猫自称共情者，Star自称镇长，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo。Youmi已死亡，wowo已死亡，Youmi已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。综合这些，我倾向when？有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "吃鱼的猫: 我是共情者！昨晚我左右邪恶数为2，大6(自称陌客)，香辣鸡腿堡(自称?)。如果2大于0，我们今天就一定要从这两个邻居开始盘！大家结合他们今天的发言和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo来交叉验证——不是凭感觉，是凭数据。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "香辣鸡腿堡: 这还用想？。，我就问吃鱼的猫一句：你敢不敢发毒誓说自己是好人？。不敢对吧？。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "困困: 调查员有重要发现：kiod是调查员。这是我首夜查验的铁证。Rujie Shi自称占卜师，他的信息范围应该包含Star——这跟我的分析可以交叉验证。建议今天直接出kiod。场上有个陌客大6——大家别忘了，陌客被占卜师查验会显示为恶魔，被调查员查验会显示为爪牙。所以指向大6的查验结果要排除这个干扰。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "kiod: 我怀疑我们中间有人在冒充身份。我提议一个方案：每个人轮流说出自己第一天晚上的行动细节。真正的信息位一定能说出具体操作，假信息位只能泛泛而谈。Rujie Shi敢接这个挑战吗？不敢的话——你知道你是什么情况。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "progress: 理性分析的话，我是洗衣妇，我确认香辣鸡腿堡是圣徒金水。香辣鸡腿堡本人已认领身份，信息链清晰。对了，Youmi是送葬者，他掌握的信息跟我查到的范围可能有重叠部分，建议大家对一下。建议今天从外置位盘，香辣鸡腿堡暂排好人。对了，本局有男爵在场，意味着有酒鬼存在——信息位的查验结果可能不完全准确，大家交叉验证时要留容错空间。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "戒色大师: 我跟你们说啊，分享一下我的观察：暂无特殊信息。Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长，progress自称洗衣妇里面有几个点值得注意。Youmi已死亡，wowo已死亡，Youmi已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。基于以上，我怀疑大6。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Rujie Shi', 'Star', '大6', '吃鱼的猫', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "when？: 从逻辑上看，我是占卜师，我有个重大发现：跟昨天一样，我的占卜师查到的结果还是指向吃鱼的猫——这不是巧合，而是铁证！昨天被处决的Youmi大家还记得吧？我的占卜结果出来了：吃鱼的猫是邪恶的！昨晚我清清楚楚查到了恶魔的气息。兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "提名Rujie Shi",
+          "action": "我提名Rujie Shi。理由：第一，他的某人声明与when？和Rujie Shi都自称占卜师对不上；第二，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo里面他投的票和全场趋势不一致；第三，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "被戒色大师提名",
+          "action": "我是占卜师。戒色大师编了一大堆理由想让大家信服，但你仔细看就会发现全站不住脚：他说的第一点不存在、第二点是曲解、第三点是假设。全是空中楼阁。真正该被查的是困困，大家注意观察他的反应。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "Rujie Shi被处决",
+          "action": "处决Rujie Shi",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "恶魔杀人",
+          "action": "杀害吃鱼的猫",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "Star，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，kiod投了Youmi，kiod投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "Star的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑Star（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "真的假的？！，我们来盘一下目前的局势。Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长，progress自称洗衣妇里面有几个矛盾点特别值得关注。第一，when？和Rujie Shi都自称占卜师；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "别绕弯子，你有没有注意到Star和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我的笔记里记了几件事：我最怀疑Rujie Shi（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！。但我信得过你，我觉得Star的问题很大！。kiod投了Youmi，kiod投了Rujie Shi，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi你看了吗？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊when？",
+          "action": "我觉得吧，star，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊kiod",
+          "action": "我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但Rujie Shi和when？都自称占卜师；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了戒色大师；第三，kiod投了Youmi，kiod投了Rujie Shi，when？投了吃鱼的猫，when？投了wowo里他的投票和身份不明身份的利益取向完全不符。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊when？",
+          "action": "来，我们对对信息。我的圣徒技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了吃鱼的猫，when？投了wowo，kiod投了Youmi，kiod投了Rujie Shi来分析，重点嫌疑人应该已经很明显了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊kiod",
+          "action": "综合现有信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大6的问题很大。kiod投了Youmi，kiod投了Rujie Shi，when？投了吃鱼的猫，when？投了wowo你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊when？",
+          "action": "注意Star的回应模式：第一次被质疑占卜师声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真占卜师，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊kiod",
+          "action": "从逻辑上看，大6，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？为什么when？和Rujie Shi都自称占卜师？kiod投了Youmi，kiod投了Rujie Shi，when？投了吃鱼的猫，when？投了wowo里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "这个事情是这样的，注意大6的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Rujie Shi。理由我再说一遍：Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师和戒色大师投了Rujie Shi，kiod投了Youmi，kiod投了Rujie Shi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多啊哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了Youmi，kiod投了Rujie Shi，戒色大师投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "我的天，我觉得吧，听我分析完再做决定：如果Rujie Shi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Rujie Shi的风险是可控的，收益却是巨大的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "真的假的？！，大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊戒色大师",
+          "action": "我觉得吧，我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的戒色大师投了Rujie Shi，困困投了Youmi，困困投了Rujie Shi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊困困",
+          "action": "你刚才提到我觉得吧，我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的戒色大师投了Ruj，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊戒色大师",
+          "action": "听我分析完再做决定：如果Rujie Shi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Rujie Shi的风险是可控的，收益却是巨大的吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊困困",
+          "action": "大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊戒色大师",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Rujie Shi。理由我再说一遍：Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长，progress自称洗衣妇和戒色大师投了Rujie Shi，困困投了Youmi，困困投了Rujie Shi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊困困",
+          "action": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的困困投了Youmi，困困投了Rujie Shi，戒色大师投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊progress",
+          "action": "这个事情是这样的，progress，我刚整理了一下笔记：我最怀疑Rujie Shi（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。你那边有什么发现哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊困困",
+          "action": "综合现有信息，你刚才提到这个事情是这样的，progress，我刚整理了一下笔记：我最怀疑Rujie Shi（昨天记的：Sta，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明kiod的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊progress",
+          "action": "你刚才提到综合现有信息，你刚才提到这个事情是这样的，progress，我刚整理了一下笔记：我最怀疑Rujie ，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊困困",
+          "action": "从逻辑上看，注意kiod的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊progress",
+          "action": "我跟你们说啊，我的天，注意Rujie Shi的回应模式：第一次被质疑洗衣妇声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真洗衣妇，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊困困",
+          "action": "我们来盘一下目前的局势。Youmi自称送葬者，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长里面有几个矛盾点特别值得关注。第一，when？和Rujie Shi都自称占卜师；第二，kiod的投票轨迹跟他的声明对不上。我的结论是kiod至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "Star，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "我在想大6的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "这个事情是这样的，我的笔记里记了几件事：我最怀疑Rujie Shi（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "我的笔记里记了几件事：我最怀疑吃鱼的猫（昨天记的：我最怀疑香辣鸡腿堡；我最怀疑吃鱼的猫）。结合你的信息来看，你觉得我是不是多疑了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "真的假的？！，我在想Star的行为能不能用镇长来解释——他自称是镇长，但如果是真镇长，应该会镇长应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "这个事情是这样的，注意大6的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "明摆着的事，这还用想？！，star，我直接问你几个问题：你自称镇长，那你的技能结果具体是什么？！为什么when？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "你刚才提到明摆着的事，这还用想？！，star，我直接问你几个问题：你自称镇长，那你的技能结果具体是什么？！为什，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我的天，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，Star投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "这个事情是这样的，大6，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "明摆着的事，别绕弯子，他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你送葬者的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我刚想到一个方向：大6的身份不明声明和香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，when？投了吃鱼的猫，when？投了wowo放在一起看很有问题。明天聊到这个话题时你可以顺着这个方向说，算是我俩各自的观察互相验证了。某人某人",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "我直接说了，被怀疑了，别慌！我教你反制：你先发制人去质疑Star——说他占卜师的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "目标锁定：大6。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。某人某人",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "别绕弯子，情况不对，Star开始反击了。我们需要立刻转移焦点——你跳出来说困困更可疑，我配合你。理由就说困困的投票记录不对——when？投了吃鱼的猫，when？投了wowo，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi里面他投的票全是跟风。记住：最好的防守就是进攻。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "理性分析的话，刚才我在想，如果有人在公聊问起我们的送葬者身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊戒色大师",
+          "action": "基于已公开的信息，嗨戒色大师，我是送葬者。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊when？",
+          "action": "我的天，我的笔记里记了几件事：我最怀疑大6；when？自称送葬者（昨天记的：吃鱼的猫自称共情者；progress自称洗衣妇）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊戒色大师",
+          "action": "你有没有注意到大6和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊when？",
+          "action": "这个事情是这样的，我觉得吧，来，我们对对信息。我的管家技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了吃鱼的猫，when？投了wowo，戒色大师投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊戒色大师",
+          "action": "理性分析的话，我跟你透露一个事：大6跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊when？",
+          "action": "你刚才提到理性分析的话，我跟你透露一个事：大6跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "kiod，你的陌客声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说陌客的时候和现在的说法有出入，你能解释一下吗？第三，你的大6投了Youmi，progress投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "我盘了一下when？的时间线：他先说自己是洗衣妇，但在被质疑后又改口说'可能看错了'。一个真正的洗衣妇不可能看错自己的技能结果——他在临时编词呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "理性分析的话，我的笔记里记了几件事：我最怀疑kiod（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "大家怎么看，我注意到when？的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "客观来说，来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合大6投了Youmi，progress投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "我对when？的洗衣妇声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——when？和Rujie Shi都自称占卜师。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Star",
+          "action": "综合现有信息，kiod，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊progress",
+          "action": "我觉得吧，这个事情是这样的，我越来越觉得吃鱼的猫有问题。理由是：他的声明是洗衣妇，但他的progress投了Rujie Shi，Star投了Youmi完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Star",
+          "action": "综合现有信息，我越来越觉得kiod有问题。理由是：他的声明是镇长，但他的Star投了Youmi，progress投了Rujie Shi完全不符合这个身份的行为模式。一个真正的镇长不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊progress",
+          "action": "来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合progress投了Rujie Shi，Star投了Youmi来分析，重点嫌疑人应该已经很明显了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Star",
+          "action": "我在想kiod的行为能不能用镇长来解释——他自称是镇长，但如果是真镇长，应该会镇长应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊progress",
+          "action": "我跟你们说啊，我们来盘一下目前的局势。Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师里面有几个矛盾点特别值得关注。第一，；第二，吃鱼的猫的投票轨迹跟他的声明对不上。我的结论是吃鱼的猫至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Rujie Shi(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑困困，理由是我观察到Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "wowo(已死亡): 死者的话最客观。我回顾了整个游戏过程，Youmi的嫌疑最大。他的声明是wowo自称厨师，Youmi自称厨师，Rujie Shi自称占卜师，大6自称陌客，吃鱼的猫自称共情者，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Star: 我是镇长。当前存活玩家中，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师里有几个信息点值得关注：。我对吃鱼的猫有怀疑。我提议今天出大6——如果错了，我负全责。所有人都跟我的票走，不要分散。按人数计算，本局应该有2个外来者，但现在只有0个人认领——还有2个外来者没有报身份，或者有人在隐瞒呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Youmi(已死亡): 死者的话最客观。我回顾了整个游戏过程，Rujie Shi的嫌疑最大。他的声明是Youmi自称送葬者，wowo自称厨师，Rujie Shi自称占卜师，大6自称陌客，吃鱼的猫自称共情者，但他的行为完全对不上。活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "大6: 我新手不太懂，大家好，我是陌客。我来分析一下目前的局势：暂无特殊信息。Youmi已死亡，wowo已死亡，Rujie Shi已死亡哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "吃鱼的猫(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑困困，理由是我观察到Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "香辣鸡腿堡: 我是守鸦人，我有个重大发现：我严重怀疑戒色大师——他的发言逻辑前后矛盾，明显在编故事！兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬！本局应该有4个外来者，但只有1个人认领！kiod一直不报身份，很可能就是隐藏的外来者或者更糟——邪恶在冒充镇民！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "困困: 我是调查员！我查出kiod是调查员——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。吃鱼的猫自称共情者，他的信息范围应该包含香辣鸡腿堡——这跟我的分析可以交叉验证。提醒大家：男爵在场意味着好人有酒鬼，任何一个信息位的结论都有可能因为酒鬼出错。如果遇到信息矛盾，先排查酒鬼干扰再做结论。提醒一句：大6是陌客，陌客被查验会错误显示为邪恶。如果占卜师/调查员查到他身上，那个「恶魔反应」需要打折扣——不能当铁证用。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "kiod: 根据我的记录：Star自称镇长；大6自称陌客；香辣鸡腿堡自称守鸦人；困困自称调查员（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。Youmi已死亡，wowo已死亡，Rujie Shi已死亡。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "progress: 客观来说，洗衣妇报信息：我查到香辣鸡腿堡是圣徒，本人已认领。我注意到吃鱼的猫也报了共情者身份——两个信息位的结果如果能对上，就能锁定范围了。这意味着我们有了一条干净的信息链。大家集中精力盘其他人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "戒色大师: 分享一下我的观察：暂无特殊信息。Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，大6自称陌客，香辣鸡腿堡自称守鸦人里面有几个点值得注意。Youmi已死亡，wowo已死亡，Rujie Shi已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。基于以上，我怀疑大6。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['Star', '大6', '香辣鸡腿堡', '困困', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "when？: 大6，你别装了。你刚才说你是?，那你怎么解释你的投票？Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo完全不是?该有的行为模式。你编故事之前能不能先对对台词？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "提名Star",
+          "action": "其实吧，我提名Star。理由：第一，他的某人声明与对不上；第二，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo里面他投的票和全场趋势不一致；第三，Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，大6自称陌客中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "被大6提名",
+          "action": "其实吧，我是镇长！镇长活着才有用——只有3人存活时我能直接带来胜利。处决我是最差的选择！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "Star被处决",
+          "action": "处决Star",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 4,
+      "phase": "night_4",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "恶魔杀人",
+          "action": "杀害困困",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 4,
+      "phase": "day_4",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "理性分析的话，明天你可以在公聊先聊点别的，别上来就直奔大6——太刻意了。等两三个人发言之后你再自然提起'其实我观察大6很久了'，这样看起来更真实。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你送葬者的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "刚才我在想，如果有人在公聊问起我们的送葬者身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "这还用想？！，被怀疑了，别慌！我教你反制：你先发制人去质疑Star——说他占卜师的身份信息跟别人对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊香辣鸡腿堡",
+          "action": "从逻辑上看，基于已公开的信息，最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服大6投kiod，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊when？",
+          "action": "情况不对，Star开始反击了！我们需要立刻转移焦点——你跳出来说大6更可疑，我配合你！理由就说大6的投票记录不对——when？投了吃鱼的猫，when？投了wowo，when？投了Star，香辣鸡腿堡投了吃鱼的猫里面他投的票全是跟风！记住：最好的防守就是进攻！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊progress",
+          "action": "我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是洗衣妇，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了香辣鸡腿堡；第三，progress投了Rujie Shi，progress投了Star，when？投了吃鱼的猫，when？投了wowo里他的投票和洗衣妇身份的利益取向完全不符。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊when？",
+          "action": "综合现有信息，你刚才提到我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是洗衣妇，但；第二，当有人质疑他的时候，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明kiod的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊progress",
+          "action": "基于已公开的信息，我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我大6不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊when？",
+          "action": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了吃鱼的猫，when？投了wowo，when？投了Star，progress投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊progress",
+          "action": "大6的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑大6（昨天记的：香辣鸡腿堡自称守鸦人；困困自称调查员）。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊when？",
+          "action": "我们来盘一下目前的局势。progress自称洗衣妇，when？自称占卜师，Star自称镇长，大6自称陌客，香辣鸡腿堡自称守鸦人，困困自称调查员里面有几个矛盾点特别值得关注。第一，；第二，kiod的投票轨迹跟他的声明对不上。我的结论是kiod至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "我跟你透露一个事：大6跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "我不太确定，我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的占卜师声明前后不一致；第二，你的when？。投了吃鱼的猫，when？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "客观来说，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大6的问题很大。大6投了Youmi，大6投了Star，when？投了吃鱼的猫，when？投了wowo你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "大家怎么看，我想问问，今天就到这。我们的共识是：when？是第一嫌疑人。明天根据处决结果再调整策略。如果when？是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大6",
+          "action": "理性分析的话，综合现有信息，你有没有注意到大6和戒色大师的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊when？",
+          "action": "我想问问，我记一下今天的重点：我最怀疑when？（昨天记的：我最怀疑when？；Star自称镇长）。明天继续跟进，有新情况随时找我呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的大6投了Youmi，大6投了Star，progress投了Rujie Shi，progress投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "我想问问，when？，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "基于已公开的信息，kiod，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的洗衣妇声明前后不一致；第二，你的progress投了Rujie Shi，progress投了Star，大6投了Youmi，大6投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大6",
+          "action": "kiod，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊progress",
+          "action": "大家怎么看，今天就到这。我们的共识是：when？是第一嫌疑人。明天根据处决结果再调整策略。如果when？是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊香辣鸡腿堡",
+          "action": "kiod，你的守鸦人声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说守鸦人的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，progress投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊progress",
+          "action": "别绕弯子，star的发言和行为对不上——他说自己是洗衣妇，但我观察到他我最怀疑Star（昨天记的：Star自称镇长；大6自称陌客）！一个真正的洗衣妇不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊香辣鸡腿堡",
+          "action": "注意kiod的回应模式：第一次被质疑守鸦人声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真守鸦人，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊progress",
+          "action": "这还用想？，明摆着的事，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊香辣鸡腿堡",
+          "action": "基于已公开的信息，你刚才提到这还用想？，明摆着的事，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明kiod的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊progress",
+          "action": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大6",
+          "action": "别绕弯子，你有没有注意到Star和progress的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊香辣鸡腿堡",
+          "action": "注意when？。的回应模式：第一次被质疑守鸦人声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真守鸦人，应该每次都能给出同样的细节才对。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大6",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得Star的问题很大！大6投了Youmi，大6投了Star，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大家怎么看，我的笔记里记了几件事：我最怀疑when？（昨天记的：我最怀疑when？；Star自称镇长）。结合你的信息来看，你觉得我是不是多疑了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大6",
+          "action": "我敢肯定，star，我直接问你几个问题：你自称陌客，那你的技能结果具体是什么？为什么？大6投了Youmi，大6投了Star，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi里面你的投票是怎么考虑的？请具体回答，不要绕开！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我新手不太懂，你刚才提到我敢肯定，star，我直接问你几个问题：你自称陌客，那你的技能结果具体是什么？。为什么？。大6投了You，这一点我也注意到了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "我的天，大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破吧吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "我记一下今天的重点：我最怀疑大6（昨天记的：香辣鸡腿堡自称守鸦人；困困自称调查员）。明天继续跟进，有新情况随时找我呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "这个事情是这样的，今天就到这。我们的共识是：戒色大师是第一嫌疑人。明天根据处决结果再调整策略。如果戒色大师是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "今天就到这。我们的共识是：大6是第一嫌疑人。明天根据处决结果再调整策略。如果大6是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "我的天，我记一下今天的重点：我最怀疑Rujie Shi；我最怀疑戒色大师（昨天记的：香辣鸡腿堡自称守鸦人；困困自称调查员）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Rujie Shi(已死亡): 死者的话最客观。我回顾了整个游戏过程，困困的嫌疑最大。他的声明是大6自称陌客，吃鱼的猫自称共情者，Star自称镇长，progress自称洗衣妇，when？自称占卜师，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "wowo(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Youmi，理由是我观察到Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Star(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑吃鱼的猫，理由是我观察到吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，Star自称镇长，大6自称陌客里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "Youmi(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑wowo，理由是我观察到Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "大6: 我想问问，我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于某个身份的声明，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "吃鱼的猫(已死亡): 真的假的？！，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑困困，理由是我观察到Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，大6自称陌客里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "香辣鸡腿堡: 我就问when？一句：你敢不敢发毒誓说自己是好人？不敢对吧？因为你心里清楚你编的东西经不起推敲。投票吧，别浪费时间了。本局应该有4个外来者，但只有1个人认领。kiod一直不报身份，很可能就是隐藏的外来者或者更糟——邪恶在冒充镇民。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "困困(已死亡): 死者的话最客观。我回顾了整个游戏过程，Rujie Shi的嫌疑最大。他的声明是progress自称洗衣妇，when？自称占卜师，Star自称镇长，大6自称陌客，香辣鸡腿堡自称守鸦人，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "kiod: 根据我的记录：我最怀疑Rujie Shi；我最怀疑戒色大师（昨天记的：香辣鸡腿堡自称守鸦人；困困自称调查员）。Youmi已死亡，wowo已死亡，Rujie Shi已死亡。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "progress: 洗衣妇报信息：我查到香辣鸡腿堡是圣徒，本人已认领。对了，香辣鸡腿堡是守鸦人，他掌握的信息跟我查到的范围可能有重叠部分，建议大家对一下。这意味着我们有了一条干净的信息链。大家集中精力盘其他人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "戒色大师: 大家好，我是管家。我来分析一下目前的局势：暂无特殊信息。Youmi已死亡，wowo已死亡，Rujie Shi已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑大6。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', 'progress', '戒色大师', 'when？']",
+          "action": "when？: 我的笔记已经记了好几页大6的可疑行为了。某人。昨天被处决的Star大家还记得吧？作为送葬者我查到了关键信息：被处决者的真实身份是好人——那些带头投他的人里一定有邪恶在推波助澜。大家说说，这些够不够处决他？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "提名progress",
+          "action": "其实吧，提名progress。progress自称洗衣妇但?这个声明和其他人提供的信息对不上；他的投票记录Rujie Shi/Star非常反常——好人不该这样投票；Youmi已死亡；wowo已死亡我不需要再多说了，证据摆在这里。谁反对可以站出来对质。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "被when？提名",
+          "action": "我是洗衣妇！washerwoman:('香辣鸡腿堡', '困困', '圣徒')处决我这条信息链就断了。when？的目的就是销毁证据！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "progress被处决",
+          "action": "处决progress",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 5,
+      "phase": "night_5",
+      "actions": [
+        {
+          "agent": "when？",
+          "context": "恶魔自杀",
+          "action": "自杀传位给香辣鸡腿堡",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 5,
+      "phase": "day_5",
+      "actions": [
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "好的，信息对完了。其实吧，保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "今天就到这。我们的共识是：大6是第一嫌疑人。明天根据处决结果再调整策略。如果大6是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "我记一下今天的重点：我最怀疑大6（昨天记的：我最怀疑大6）。明天继续跟进，有新情况随时找我吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "这个事情是这样的，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊kiod",
+          "action": "真的假的？！，今天就到这。我们的共识是：大6是第一嫌疑人。明天根据处决结果再调整策略。如果大6是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊戒色大师",
+          "action": "我记一下今天的重点：我最怀疑progress（昨天记的：我最怀疑Rujie Shi；我最怀疑戒色大师）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大6，你的守鸦人声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说守鸦人的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress为什么会这样投？请正面回答，不要转移话题呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊戒色大师",
+          "action": "明摆着的事，我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我在想大6的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真守鸦人，应该会守鸦人应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊戒色大师",
+          "action": "我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我跟你们说啊，来，我们对对信息。我的管家技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress来分析，重点嫌疑人应该已经很明显了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊戒色大师",
+          "action": "明摆着的事，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得Star的问题很大！戒色大师投了Rujie Shi，戒色大师投了Star，戒色大师投了progress，香辣鸡腿堡投了吃鱼的猫你看了吗？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊大6",
+          "action": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的大6投了Youmi，大6投了Star，大6投了progress，戒色大师投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊戒色大师",
+          "action": "香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊大6",
+          "action": "大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊戒色大师",
+          "action": "我新手不太懂，今天就到这。我们的共识是：香辣鸡腿堡是第一嫌疑人。明天根据处决结果再调整策略。如果香辣鸡腿堡是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "私聊大6",
+          "action": "我记一下今天的重点：我最怀疑大6（昨天记的：我最怀疑大6）。明天继续跟进，有新情况随时找我哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊戒色大师",
+          "action": "可能是我理解错了，我想问问，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我不太确定，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大6",
+          "action": "Star，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？。为什么？。大6投了Youmi，大6投了Star，大6投了progress，香辣鸡腿堡投了吃鱼的猫里面你的投票是怎么考虑的？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我不太确定，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大6",
+          "action": "我敢肯定，你有没有注意到Star和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大家怎么看，我想问问，香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大6",
+          "action": "我复盘了Star的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了戒色大师；第三，大6投了Youmi，大6投了Star，大6投了progress，香辣鸡腿堡投了吃鱼的猫里他的投票和身份不明身份的利益取向完全不符。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "香辣鸡腿堡，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？。第三，你的kiod投了Youmi，kiod投了Rujie Shi，kiod投了Star，kiod投了progress为什么会这样投？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "我的天，我在想大6的行为能不能用陌客来解释——他自称是陌客，但如果是真陌客，应该会陌客应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "来，我们对对信息。我的陌客技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合kiod投了Youmi，kiod投了Rujie Shi，kiod投了Star，kiod投了progress来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "我越来越觉得大6有问题。理由是：他的声明是陌客，但他的大6投了Youmi，大6投了Star，大6投了progress，kiod投了Youmi完全不符合这个身份的行为模式。一个真正的陌客不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "我的笔记里记了几件事：我最怀疑when？（昨天记的：我最怀疑when？）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "你刚才提到我的笔记里记了几件事：我最怀疑when？（昨天记的：我最怀疑when？）。结合你的信息来看，你觉得我，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我的天，真的假的？！，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "Star的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑Star（昨天记的：我最怀疑Star）！一个真正的身份不明不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大6，我现在公开质疑你。如果你真是好人，请用你的圣徒技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "真的假的？！，我跟你们说啊，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "明摆着的事，我复盘了Star的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了大6；第三，kiod投了Youmi，kiod投了Rujie Shi，kiod投了Star，kiod投了progress里他的投票和身份不明身份的利益取向完全不符。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "Rujie Shi(已死亡): 死者的话最客观！我回顾了整个游戏过程，困困的嫌疑最大！他的声明是Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，大6自称陌客，但他的行为完全对不上！活着的各位，别让我的死白费！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "wowo(已死亡): 客观来说，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Youmi，理由是我观察到Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，大6自称陌客里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "Star(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑吃鱼的猫，理由是我观察到Star自称镇长，大6自称陌客，香辣鸡腿堡自称守鸦人，困困自称调查员，戒色大师自称管家里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "Youmi(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑wowo，理由是我观察到Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，大6自称陌客里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "大6: 我来盘一下目前的局面。暂无特殊信息。戒色大师自称管家，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo。Youmi已死亡，wowo已死亡，Rujie Shi已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。综合这些，我倾向香辣鸡腿堡有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "吃鱼的猫",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "吃鱼的猫(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑困困，理由是我观察到Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师，大6自称陌客里面的矛盾点和Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "香辣鸡腿堡: 各位，看看Star的表演！戒色大师自称管家里就Star的声明最假！连续两天了，我的守鸦人信息都指向戒色大师——一个人可以被冤枉一次，但不会被连续误判两次！！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "困困(已死亡): 死者的话最客观。我回顾了整个游戏过程，Rujie Shi的嫌疑最大。他的声明是Star自称镇长，大6自称陌客，香辣鸡腿堡自称守鸦人，困困自称调查员，戒色大师自称管家，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "kiod: 这个事情是这样的，大家好，我是圣徒。我来分析一下目前的局势：暂无特殊信息。Youmi已死亡，wowo已死亡，Rujie Shi已死亡。按人数计算，本局应该有2个外来者，但现在只有1个人认领——还有1个外来者没有报身份，或者有人在隐瞒。本局12人场标准配置2个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑progress。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "progress(已死亡): 死者的话最客观。我回顾了整个游戏过程，kiod的嫌疑最大。他的声明是戒色大师自称管家，kiod自称圣徒，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "戒色大师",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "戒色大师: 根据我的记录：我最怀疑大6；kiod自称圣徒（昨天记的：我最怀疑大6）。Youmi已死亡，wowo已死亡，Rujie Shi已死亡。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['大6', '香辣鸡腿堡', 'kiod', '戒色大师']",
+          "action": "when？(已死亡): 死者的话最客观。我回顾了整个游戏过程，大6的嫌疑最大。他的声明是戒色大师自称管家，kiod自称圣徒，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "提名香辣鸡腿堡",
+          "action": "我提名香辣鸡腿堡。理由：第一，说实话，他的某人声明与对不上；第二，Rujie Shi投了吃鱼的猫，香辣鸡腿堡投了吃鱼的猫，when？投了吃鱼的猫，Rujie Shi投了wowo里面他投的票和全场趋势不一致；第三，戒色大师自称管家，kiod自称圣徒中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "被大6提名",
+          "action": "我是守鸦人。大6指控我全靠推测，我感觉，没有一条是实锤。这个游戏靠证据说话，不是靠感觉定罪的。我建议好人今天先投Star，明天再盘我不迟。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "香辣鸡腿堡被处决",
+          "action": "处决香辣鸡腿堡",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "good_win",
+  "survivors": "大6, kiod, 戒色大师",
+  "players": [
+    "Rujie Shi",
+    "wowo",
+    "Star",
+    "Youmi",
+    "大6",
+    "吃鱼的猫",
+    "香辣鸡腿堡",
+    "困困",
+    "kiod",
+    "progress",
+    "戒色大师",
+    "when？"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "wowo": [
+        {
+          "key": "chef",
+          "text": "有 1 对相邻的邪恶玩家",
+          "day": 0
+        }
+      ],
+      "吃鱼的猫": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 0
+        }
+      ],
+      "困困": [
+        {
+          "key": "investigator",
+          "text": "香辣鸡腿堡 和 kiod 中有一人是 男爵",
+          "day": 0
+        }
+      ],
+      "progress": [
+        {
+          "key": "washerwoman",
+          "text": "香辣鸡腿堡 和 困困 中有一人是 圣徒",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "wowo": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        }
+      ],
+      "吃鱼的猫": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 2 个邪恶玩家",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "吃鱼的猫": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        },
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 2 个邪恶玩家",
+          "day": 2
+        }
+      ]
+    },
+    "day_3": {
+      "困困": [
+        {
+          "key": "night_kill",
+          "text": "第4晚被恶魔杀害",
+          "day": 3
+        }
+      ],
+      "吃鱼的猫": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 2 个邪恶玩家",
+          "day": 3
+        }
+      ]
+    },
+    "day_4": {
+      "when？": [
+        {
+          "key": "night_kill",
+          "text": "第5晚被恶魔杀害",
+          "day": 4
+        }
+      ],
+      "吃鱼的猫": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 2 个邪恶玩家",
+          "day": 4
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "Rujie Shi🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "客观来说，理性分析的话，方案收到。我占卜师配合你图书管理员。建议我们同步一下编的细节——比如我查到的具体时间、方式，免得被人盘出逻辑漏洞。",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "你看这个局势：好人的信息越多他们就吵得越厉害。这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "基于已公开的信息，我们来构建一个完整的推理链：你图书管理员的角度看wowo有问题，我占卜师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "盘一下剩余玩家！告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会！我们可以在他们开口之前先把wowo定义成'邪恶方'，等于提前占领了好人的心智！",
+        "seq": 4
+      }
+    ],
+    "when？🔄大6": [
+      {
+        "speaker": "when？",
+        "text": "你好大6，我是占卜师。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看wowo这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "我不太确定，对比了几个人的发言，Rujie Shi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "理性分析的话，我盘了一下目前的线索：加上when？自称占卜师里面的疑点，指向wowo的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "我想问问，我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "我不太确定，我们来盘一下目前的局势。when？。自称占卜师，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者里面有几个矛盾点特别值得关注。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "基于已公开的信息，我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是陌客，但Rujie Shi和when？都自称占卜师；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了Rujie Shi；第三，大6投了Youmi，when？投了吃鱼的猫，when？投了wowo里他的投票和陌客身份的利益取向完全不符。",
+        "seq": 6
+      },
+      {
+        "speaker": "大6",
+        "text": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的占卜师声明前后不一致；第二，你的when？投了吃鱼的猫，when？投了wowo，大6投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+        "seq": 7
+      },
+      {
+        "speaker": "when？",
+        "text": "基于已公开的信息，大6，我直接问你几个问题：你自称陌客，那你的技能结果具体是什么？为什么Rujie Shi和when？都自称占卜师？大6投了Youmi，when？投了吃鱼的猫，when？投了wowo里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+        "seq": 8
+      },
+      {
+        "speaker": "when？",
+        "text": "我跟你透露一个事：大6跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 9
+      },
+      {
+        "speaker": "大6",
+        "text": "我不太确定，我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的占卜师声明前后不一致；第二，你的when？。投了吃鱼的猫，when？。",
+        "seq": 10
+      },
+      {
+        "speaker": "when？",
+        "text": "客观来说，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大6的问题很大。大6投了Youmi，大6投了Star，when？投了吃鱼的猫，when？投了wowo你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 11
+      },
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，我想问问，今天就到这。我们的共识是：when？是第一嫌疑人。明天根据处决结果再调整策略。如果when？是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标哦。",
+        "seq": 12
+      },
+      {
+        "speaker": "when？",
+        "text": "理性分析的话，综合现有信息，你有没有注意到大6和戒色大师的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 13
+      },
+      {
+        "speaker": "大6",
+        "text": "我想问问，我记一下今天的重点：我最怀疑when？（昨天记的：我最怀疑when？；Star自称镇长）。明天继续跟进，有新情况随时找我呢哦。",
+        "seq": 14
+      }
+    ],
+    "Rujie Shi🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "Rujie Shi，我刚整理了一下笔记：我最怀疑Rujie Shi。让我想想，你那边有什么发现？。对了还有啊，我觉得我们要多观察几轮",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "这还用想？。，我直接说了，wowo的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑wowo！。一个真正的身份不明不应该有这种表现！。",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "明摆着的事，别绕弯子，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得wowo的问题很大！你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 4
+      }
+    ],
+    "吃鱼的猫🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Rujie Shi确实值得重点观察，你觉得呢哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "吃鱼的猫",
+        "text": "我觉得吧，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居大6、香辣鸡腿堡中有坏人。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "这个事情是这样的，我觉得吧，你刚才提到我觉得吧，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居大6、香辣鸡腿堡中有坏，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "吃鱼的猫",
+        "text": "我在想Rujie Shi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+        "seq": 4
+      }
+    ],
+    "kiod🔄progress": [
+      {
+        "speaker": "progress",
+        "text": "综合现有信息，你好kiod，我是洗衣妇。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "kiod",
+        "text": "我觉得吧，观察Rujie Shi的发言轨迹：他被第一次问到时给出了洗衣妇相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "客观来说，理性分析的话，注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 3
+      },
+      {
+        "speaker": "kiod",
+        "text": "我觉得吧，我的天，我虽然没有查验技能，但我的逻辑告诉我Rujie Shi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合kiod投了Youmi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "kiod",
+        "text": "综合观察下来，Rujie Shi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 6
+      },
+      {
+        "speaker": "progress",
+        "text": "kiod，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "kiod",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Rujie Shi。理由我再说一遍：progress自称洗衣妇，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者和kiod投了Youmi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多哦。",
+        "seq": 8
+      }
+    ],
+    "Youmi🔄progress": [
+      {
+        "speaker": "progress",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Rujie Shi确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "text": "来，我们对对信息！我的送葬者技能告诉我一些事情：我是送葬者，暂无信息！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "综合现有信息，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道香辣鸡腿堡或困困之中有圣徒。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "text": "注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了！如果是真身份不明，应该每次都能给出同样的细节才对！这种信息密度递减的模式值得警惕！",
+        "seq": 4
+      }
+    ],
+    "Star🔄吃鱼的猫": [
+      {
+        "speaker": "Star",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。怎么说呢，我的看法是Rujie Shi确实值得重点观察，你觉得呢哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "吃鱼的猫",
+        "text": "我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "这个事情是这样的，我的天，你刚才提到我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "吃鱼的猫",
+        "text": "这个事情是这样的，注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "text": "注意吃鱼的猫的回应模式：第一次被质疑共情者声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真共情者，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 5
+      },
+      {
+        "speaker": "吃鱼的猫",
+        "text": "真的假的？！，来，我们对对信息。我的共情者技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Star投了Youmi，吃鱼的猫投了Youmi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      },
+      {
+        "speaker": "Star",
+        "text": "吃鱼的猫，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "吃鱼的猫",
+        "text": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了Youmi，吃鱼的猫投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+        "seq": 8
+      }
+    ],
+    "Star🔄香辣鸡腿堡": [
+      {
+        "speaker": "Star",
+        "text": "我的天，香辣鸡腿堡，我刚整理了一下笔记：我最怀疑Rujie Shi。你那边有什么发现吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这还用想？，这还用想？，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "真的假的？！，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "wowo，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？为什么？里面你的投票是怎么考虑的？请具体回答，不要绕开！",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "明摆着的事，这还用想？！，star，我直接问你几个问题：你自称镇长，那你的技能结果具体是什么？！为什么when？！",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "你刚才提到明摆着的事，这还用想？！，star，我直接问你几个问题：你自称镇长，那你的技能结果具体是什么？！为什，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+        "seq": 6
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 7
+      },
+      {
+        "speaker": "Star",
+        "text": "我的天，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，Star投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 9
+      },
+      {
+        "speaker": "Star",
+        "text": "这个事情是这样的，大6，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      }
+    ],
+    "Youmi🔄wowo": [
+      {
+        "speaker": "wowo",
+        "text": "Youmi你好，我是厨师。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我敢肯定，你刚才提到Youmi你好，我是厨师。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "你刚才提到我敢肯定，你刚才提到Youmi你好，我是厨师。第一天信息有限，但我注意到一些细节——里面有些人的声明，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我们来盘一下目前的局势！Youmi自称送葬者，wowo自称厨师里面有几个矛盾点特别值得关注！第一，；第二，Rujie Shi的投票轨迹跟他的声明对不上！我的结论是Rujie Shi至少需要被好好审一审！",
+        "seq": 4
+      }
+    ],
+    "wowo🔄香辣鸡腿堡": [
+      {
+        "speaker": "wowo",
+        "text": "你好香辣鸡腿堡，我是厨师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "wowo的发言和行为对不上——他说自己是厨师，但我观察到他我最怀疑wowo；wowo自称厨师！一个真正的厨师不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "注意Youmi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我复盘了wowo的全部公聊发言，发现几个具体矛盾：第一，他先说自己是厨师，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了Youmi；第三，里他的投票和厨师身份的利益取向完全不符！",
+        "seq": 4
+      }
+    ],
+    "大6🔄戒色大师": [
+      {
+        "speaker": "大6",
+        "text": "我不太确定，戒色大师，我刚整理了一下笔记：when？自称占卜师；我最怀疑Rujie Shi。你那边有什么发现哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "综合观察下来，Rujie Shi的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "我不太确定，我虽然没有查验技能，但我的逻辑告诉我Rujie Shi有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "对比了几个人的发言，Rujie Shi是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "综合观察下来，when？的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "注意Rujie Shi的回应模式：第一次被质疑陌客声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真陌客，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 6
+      },
+      {
+        "speaker": "大6",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：when？自称占卜师，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者和大6投了Youmi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 7
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我觉得吧，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的大6投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢哦。",
+        "seq": 8
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的大6投了Youmi，大6投了Star，大6投了progress，戒色大师投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "大6",
+        "text": "香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "大6",
+        "text": "我新手不太懂，今天就到这。我们的共识是：香辣鸡腿堡是第一嫌疑人。明天根据处决结果再调整策略。如果香辣鸡腿堡是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 12
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我记一下今天的重点：我最怀疑大6（昨天记的：我最怀疑大6）。明天继续跟进，有新情况随时找我哦。",
+        "seq": 13
+      },
+      {
+        "speaker": "大6",
+        "text": "可能是我理解错了，我想问问，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破呢。",
+        "seq": 14
+      }
+    ],
+    "kiod🔄戒色大师": [
+      {
+        "speaker": "kiod",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是Rujie Shi确实值得重点观察，你觉得呢哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我觉得吧，我盘了一下Rujie Shi的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 3
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我跟你们说啊，我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "我注意到Rujie Shi的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "这个事情是这样的，注意大6的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 6
+      },
+      {
+        "speaker": "kiod",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Rujie Shi。理由我再说一遍：Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师和戒色大师投了Rujie Shi，kiod投了Youmi，kiod投了Rujie Shi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多啊哦。",
+        "seq": 7
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了Youmi，kiod投了Rujie Shi，戒色大师投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的天，我觉得吧，听我分析完再做决定：如果Rujie Shi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Rujie Shi的风险是可控的，收益却是巨大的哦。",
+        "seq": 9
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "真的假的？！，大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局吧。",
+        "seq": 10
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我的天，大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "kiod",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破吧吧。",
+        "seq": 12
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我记一下今天的重点：我最怀疑大6（昨天记的：香辣鸡腿堡自称守鸦人；困困自称调查员）。明天继续跟进，有新情况随时找我呢。",
+        "seq": 13
+      },
+      {
+        "speaker": "kiod",
+        "text": "这个事情是这样的，今天就到这。我们的共识是：戒色大师是第一嫌疑人。明天根据处决结果再调整策略。如果戒色大师是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 14
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "今天就到这。我们的共识是：大6是第一嫌疑人。明天根据处决结果再调整策略。如果大6是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 15
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的天，我记一下今天的重点：我最怀疑Rujie Shi；我最怀疑戒色大师（昨天记的：香辣鸡腿堡自称守鸦人；困困自称调查员）。明天继续跟进，有新情况随时找我。",
+        "seq": 16
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "好的，信息对完了。其实吧，保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 17
+      },
+      {
+        "speaker": "kiod",
+        "text": "今天就到这。我们的共识是：大6是第一嫌疑人。明天根据处决结果再调整策略。如果大6是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 18
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我记一下今天的重点：我最怀疑大6（昨天记的：我最怀疑大6）。明天继续跟进，有新情况随时找我吧。",
+        "seq": 19
+      },
+      {
+        "speaker": "kiod",
+        "text": "这个事情是这样的，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 20
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "真的假的？！，今天就到这。我们的共识是：大6是第一嫌疑人。明天根据处决结果再调整策略。如果大6是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 21
+      },
+      {
+        "speaker": "kiod",
+        "text": "我记一下今天的重点：我最怀疑progress（昨天记的：我最怀疑Rujie Shi；我最怀疑戒色大师）。明天继续跟进，有新情况随时找我。",
+        "seq": 22
+      }
+    ],
+    "Rujie Shi🔄Star": [
+      {
+        "speaker": "Star",
+        "text": "我跟你们说啊，这个事情是这样的，香辣鸡腿堡，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "明摆着的事，我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "我的笔记里记了几件事：我最怀疑香辣鸡腿堡；我最怀疑吃鱼的猫（昨天记的：Rujie Shi自称占卜师；wowo自称厨师）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "这还用想？，我复盘了wowo的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了when？；第三，Star投了Youmi，Rujie Shi投了吃鱼的猫，Rujie Shi投了wowo，Rujie Shi投了Youmi里他的投票和身份不明身份的利益取向完全不符！",
+        "seq": 4
+      }
+    ],
+    "困困🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "困困，想跟你对一下信息！我守鸦人这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助！你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "我的笔记里记了几件事：我最怀疑Rujie Shi（昨天记的：吃鱼的猫自称共情者；我最怀疑Youmi）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我敢肯定，我复盘了wowo的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了戒色大师；第三，困困投了Youmi，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi里他的投票和身份不明身份的利益取向完全不符。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，困困投了Youmi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      }
+    ],
+    "when？🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我敢肯定，他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你占卜师的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "基于已公开的信息，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "别绕弯子，有人盯上我们了！。按B计划：你主动承认自己是占卜师但信息有误——就说你第一天看错了！。我则跳出来说其实我才是守鸦人，我之前没说是因为在收集信息！。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "基于已公开的信息，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你守鸦人的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "明摆着的事，别绕弯子，他们的矛头对准我了！这样，你来'保护'我——在公聊说你相信我是好人，因为你送葬者的信息反过来印证了我的身份！这样一来，质疑我的人就是在质疑两个'信息位'，代价很高！",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "我刚想到一个方向：大6的身份不明声明和香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，when？投了吃鱼的猫，when？投了wowo放在一起看很有问题。明天聊到这个话题时你可以顺着这个方向说，算是我俩各自的观察互相验证了。某人某人",
+        "seq": 6
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我直接说了，被怀疑了，别慌！我教你反制：你先发制人去质疑Star——说他占卜师的身份信息跟别人对不上！好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论！",
+        "seq": 7
+      },
+      {
+        "speaker": "when？",
+        "text": "目标锁定：大6。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。某人某人",
+        "seq": 8
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "别绕弯子，情况不对，Star开始反击了。我们需要立刻转移焦点——你跳出来说困困更可疑，我配合你。理由就说困困的投票记录不对——when？投了吃鱼的猫，when？投了wowo，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi里面他投的票全是跟风。记住：最好的防守就是进攻。",
+        "seq": 9
+      },
+      {
+        "speaker": "when？",
+        "text": "理性分析的话，刚才我在想，如果有人在公聊问起我们的送葬者身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+        "seq": 10
+      },
+      {
+        "speaker": "when？",
+        "text": "理性分析的话，明天你可以在公聊先聊点别的，别上来就直奔大6——太刻意了。等两三个人发言之后你再自然提起'其实我观察大6很久了'，这样看起来更真实。",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你送葬者的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 12
+      },
+      {
+        "speaker": "when？",
+        "text": "刚才我在想，如果有人在公聊问起我们的送葬者身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+        "seq": 13
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这还用想？！，被怀疑了，别慌！我教你反制：你先发制人去质疑Star——说他占卜师的身份信息跟别人对不上！",
+        "seq": 14
+      },
+      {
+        "speaker": "when？",
+        "text": "从逻辑上看，基于已公开的信息，最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服大6投kiod，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了。",
+        "seq": 15
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "情况不对，Star开始反击了！我们需要立刻转移焦点——你跳出来说大6更可疑，我配合你！理由就说大6的投票记录不对——when？投了吃鱼的猫，when？投了wowo，when？投了Star，香辣鸡腿堡投了吃鱼的猫里面他投的票全是跟风！记住：最好的防守就是进攻！",
+        "seq": 16
+      }
+    ],
+    "kiod🔄吃鱼的猫": [
+      {
+        "speaker": "吃鱼的猫",
+        "text": "困困，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "kiod",
+        "text": "注意Rujie Shi的回应模式：第一次被质疑共情者声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真共情者，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 2
+      },
+      {
+        "speaker": "吃鱼的猫",
+        "text": "我的天，我们来盘一下目前的局势。Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者里面有几个矛盾点特别值得关注。第一，；第二，困困的投票轨迹跟他的声明对不上。我的结论是困困至少需要被好好审一审吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "kiod",
+        "text": "我在想Rujie Shi的行为能不能用共情者来解释——他自称是共情者，但如果是真共情者，应该会共情者应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗呢。",
+        "seq": 4
+      }
+    ],
+    "Rujie Shi🔄progress": [
+      {
+        "speaker": "progress",
+        "text": "Rujie Shi，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "别绕弯子，困困，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？。为什么？。Rujie Shi投了吃鱼的猫，Rujie Shi投了wowo，Rujie Shi投了Youmi里面你的投票是怎么考虑的？！",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "综合现有信息，我的笔记里记了几件事：我最怀疑Youmi（昨天记的：大6自称陌客；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "困困的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑wowo；我最怀疑困困（昨天记的：我最怀疑wowo）！一个真正的身份不明不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+        "seq": 4
+      }
+    ],
+    "困困🔄戒色大师": [
+      {
+        "speaker": "戒色大师",
+        "text": "大6，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的困困投了Youmi为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "这个事情是这样的，注意Rujie Shi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 2
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的困困投了Youmi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我觉得吧，你刚才提到我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的困困投了Youmi完全不符合这个身份的行为，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我觉得吧，我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的戒色大师投了Rujie Shi，困困投了Youmi，困困投了Rujie Shi完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "你刚才提到我觉得吧，我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的戒色大师投了Ruj，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "听我分析完再做决定：如果Rujie Shi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Rujie Shi的风险是可控的，收益却是巨大的吧。",
+        "seq": 7
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "大6，我现在公开质疑你。如果你真是好人，请用你的管家技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Rujie Shi。理由我再说一遍：Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长，progress自称洗衣妇和戒色大师投了Rujie Shi，困困投了Youmi，困困投了Rujie Shi交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的困困投了Youmi，困困投了Rujie Shi，戒色大师投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 10
+      }
+    ],
+    "kiod🔄香辣鸡腿堡": [
+      {
+        "speaker": "kiod",
+        "text": "Star，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，kiod投了Youmi，kiod投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "Star的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑Star（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "真的假的？！，我们来盘一下目前的局势。Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长，progress自称洗衣妇里面有几个矛盾点特别值得关注。第一，when？和Rujie Shi都自称占卜师；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审哦。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "别绕弯子，你有没有注意到Star和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的笔记里记了几件事：我最怀疑Rujie Shi（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！。但我信得过你，我觉得Star的问题很大！。kiod投了Youmi，kiod投了Rujie Shi，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi你看了吗？。",
+        "seq": 6
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的天，真的假的？！，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢呢。",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "Star的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑Star（昨天记的：我最怀疑Star）！一个真正的身份不明不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+        "seq": 8
+      },
+      {
+        "speaker": "kiod",
+        "text": "大6，我现在公开质疑你。如果你真是好人，请用你的圣徒技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 10
+      },
+      {
+        "speaker": "kiod",
+        "text": "真的假的？！，我跟你们说啊，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "明摆着的事，我复盘了Star的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了大6；第三，kiod投了Youmi，kiod投了Rujie Shi，kiod投了Star，kiod投了progress里他的投票和身份不明身份的利益取向完全不符。",
+        "seq": 12
+      }
+    ],
+    "kiod🔄when？": [
+      {
+        "speaker": "kiod",
+        "text": "我觉得吧，star，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但Rujie Shi和when？都自称占卜师；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了戒色大师；第三，kiod投了Youmi，kiod投了Rujie Shi，when？投了吃鱼的猫，when？投了wowo里他的投票和身份不明身份的利益取向完全不符。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "来，我们对对信息。我的圣徒技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了吃鱼的猫，when？投了wowo，kiod投了Youmi，kiod投了Rujie Shi来分析，重点嫌疑人应该已经很明显了呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "综合现有信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大6的问题很大。kiod投了Youmi，kiod投了Rujie Shi，when？投了吃鱼的猫，when？投了wowo你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "注意Star的回应模式：第一次被质疑占卜师声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真占卜师，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "从逻辑上看，大6，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？为什么when？和Rujie Shi都自称占卜师？kiod投了Youmi，kiod投了Rujie Shi，when？投了吃鱼的猫，when？投了wowo里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+        "seq": 6
+      }
+    ],
+    "progress🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "这个事情是这样的，progress，我刚整理了一下笔记：我最怀疑Rujie Shi（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。你那边有什么发现哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "综合现有信息，你刚才提到这个事情是这样的，progress，我刚整理了一下笔记：我最怀疑Rujie Shi（昨天记的：Sta，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明kiod的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "你刚才提到综合现有信息，你刚才提到这个事情是这样的，progress，我刚整理了一下笔记：我最怀疑Rujie ，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "从逻辑上看，注意kiod的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我跟你们说啊，我的天，注意Rujie Shi的回应模式：第一次被质疑洗衣妇声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真洗衣妇，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "我们来盘一下目前的局势。Youmi自称送葬者，Rujie Shi自称占卜师，wowo自称厨师，大6自称陌客，吃鱼的猫自称共情者，Star自称镇长里面有几个矛盾点特别值得关注。第一，when？和Rujie Shi都自称占卜师；第二，kiod的投票轨迹跟他的声明对不上。我的结论是kiod至少需要被好好审一审。",
+        "seq": 6
+      }
+    ],
+    "Star🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "Star，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "我在想大6的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "这个事情是这样的，我的笔记里记了几件事：我最怀疑Rujie Shi（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "我的笔记里记了几件事：我最怀疑吃鱼的猫（昨天记的：我最怀疑香辣鸡腿堡；我最怀疑吃鱼的猫）。结合你的信息来看，你觉得我是不是多疑了吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "真的假的？！，我在想Star的行为能不能用镇长来解释——他自称是镇长，但如果是真镇长，应该会镇长应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "这个事情是这样的，注意大6的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 6
+      }
+    ],
+    "when？🔄戒色大师": [
+      {
+        "speaker": "when？",
+        "text": "基于已公开的信息，嗨戒色大师，我是送葬者。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我的天，我的笔记里记了几件事：我最怀疑大6；when？自称送葬者（昨天记的：吃鱼的猫自称共情者；progress自称洗衣妇）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "你有没有注意到大6和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "这个事情是这样的，我觉得吧，来，我们对对信息。我的管家技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了吃鱼的猫，when？投了wowo，戒色大师投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "理性分析的话，我跟你透露一个事：大6跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "你刚才提到理性分析的话，我跟你透露一个事：大6跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+        "seq": 6
+      }
+    ],
+    "progress🔄大6": [
+      {
+        "speaker": "progress",
+        "text": "kiod，你的陌客声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说陌客的时候和现在的说法有出入，你能解释一下吗？第三，你的大6投了Youmi，progress投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "我盘了一下when？的时间线：他先说自己是洗衣妇，但在被质疑后又改口说'可能看错了'。一个真正的洗衣妇不可能看错自己的技能结果——他在临时编词呢啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "理性分析的话，我的笔记里记了几件事：我最怀疑kiod（昨天记的：Star自称镇长；吃鱼的猫自称共情者）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，我注意到when？的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "客观来说，来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合大6投了Youmi，progress投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "我对when？的洗衣妇声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——when？和Rujie Shi都自称占卜师。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论。",
+        "seq": 6
+      },
+      {
+        "speaker": "progress",
+        "text": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的陌客声明前后不一致；第二，你的大6投了Youmi，大6投了Star，progress投了Rujie Shi，progress投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "大6",
+        "text": "我想问问，when？，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局啊。",
+        "seq": 8
+      },
+      {
+        "speaker": "progress",
+        "text": "基于已公开的信息，kiod，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "大6",
+        "text": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的洗衣妇声明前后不一致；第二，你的progress投了Rujie Shi，progress投了Star，大6投了Youmi，大6投了Star完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢啊。",
+        "seq": 10
+      },
+      {
+        "speaker": "progress",
+        "text": "kiod，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，今天就到这。我们的共识是：when？是第一嫌疑人。明天根据处决结果再调整策略。如果when？是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 12
+      }
+    ],
+    "Star🔄progress": [
+      {
+        "speaker": "progress",
+        "text": "综合现有信息，kiod，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "我觉得吧，这个事情是这样的，我越来越觉得吃鱼的猫有问题。理由是：他的声明是洗衣妇，但他的progress投了Rujie Shi，Star投了Youmi完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "综合现有信息，我越来越觉得kiod有问题。理由是：他的声明是镇长，但他的Star投了Youmi，progress投了Rujie Shi完全不符合这个身份的行为模式。一个真正的镇长不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合progress投了Rujie Shi，Star投了Youmi来分析，重点嫌疑人应该已经很明显了啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "我在想kiod的行为能不能用镇长来解释——他自称是镇长，但如果是真镇长，应该会镇长应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我跟你们说啊，我们来盘一下目前的局势。Star自称镇长，吃鱼的猫自称共情者，progress自称洗衣妇，when？自称占卜师里面有几个矛盾点特别值得关注。第一，；第二，吃鱼的猫的投票轨迹跟他的声明对不上。我的结论是吃鱼的猫至少需要被好好审一审。",
+        "seq": 6
+      }
+    ],
+    "progress🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是洗衣妇，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了香辣鸡腿堡；第三，progress投了Rujie Shi，progress投了Star，when？投了吃鱼的猫，when？投了wowo里他的投票和洗衣妇身份的利益取向完全不符。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "综合现有信息，你刚才提到我复盘了大6的全部公聊发言，发现几个具体矛盾：第一，他先说自己是洗衣妇，但；第二，当有人质疑他的时候，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明kiod的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "基于已公开的信息，我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我大6不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合when？投了吃鱼的猫，when？投了wowo，when？投了Star，progress投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "大6的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑大6（昨天记的：香辣鸡腿堡自称守鸦人；困困自称调查员）。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "我们来盘一下目前的局势。progress自称洗衣妇，when？自称占卜师，Star自称镇长，大6自称陌客，香辣鸡腿堡自称守鸦人，困困自称调查员里面有几个矛盾点特别值得关注。第一，；第二，kiod的投票轨迹跟他的声明对不上。我的结论是kiod至少需要被好好审一审。",
+        "seq": 6
+      }
+    ],
+    "progress🔄香辣鸡腿堡": [
+      {
+        "speaker": "progress",
+        "text": "kiod，你的守鸦人声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说守鸦人的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，progress投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "别绕弯子，star的发言和行为对不上——他说自己是洗衣妇，但我观察到他我最怀疑Star（昨天记的：Star自称镇长；大6自称陌客）！一个真正的洗衣妇不应该有这种表现！我建议大家今天先排查他，如果他翻出是好人，我来背锅！",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "注意kiod的回应模式：第一次被质疑守鸦人声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真守鸦人，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这还用想？，明摆着的事，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "基于已公开的信息，你刚才提到这还用想？，明摆着的事，我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明kiod的可疑程度比想象中更高。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 6
+      }
+    ],
+    "大6🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "别绕弯子，你有没有注意到Star和progress的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "注意when？。的回应模式：第一次被质疑守鸦人声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真守鸦人，应该每次都能给出同样的细节才对。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得Star的问题很大！大6投了Youmi，大6投了Star，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，我的笔记里记了几件事：我最怀疑when？（昨天记的：我最怀疑when？；Star自称镇长）。结合你的信息来看，你觉得我是不是多疑了啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我敢肯定，star，我直接问你几个问题：你自称陌客，那你的技能结果具体是什么？为什么？大6投了Youmi，大6投了Star，香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi里面你的投票是怎么考虑的？请具体回答，不要绕开！",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "我新手不太懂，你刚才提到我敢肯定，star，我直接问你几个问题：你自称陌客，那你的技能结果具体是什么？。为什么？。大6投了You，这一点我也注意到了吧。",
+        "seq": 6
+      },
+      {
+        "speaker": "大6",
+        "text": "我不太确定，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "Star，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？。为什么？。大6投了Youmi，大6投了Star，大6投了progress，香辣鸡腿堡投了吃鱼的猫里面你的投票是怎么考虑的？。",
+        "seq": 8
+      },
+      {
+        "speaker": "大6",
+        "text": "我不太确定，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我敢肯定，你有没有注意到Star和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的！我怀疑他们是一伙的，互相打掩护！",
+        "seq": 10
+      },
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，我想问问，香辣鸡腿堡，我现在公开质疑你。如果你真是好人，请用你的陌客技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我复盘了Star的全部公聊发言，发现几个具体矛盾：第一，他先说自己是身份不明，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了戒色大师；第三，大6投了Youmi，大6投了Star，大6投了progress，香辣鸡腿堡投了吃鱼的猫里他的投票和身份不明身份的利益取向完全不符。",
+        "seq": 12
+      }
+    ],
+    "戒色大师🔄香辣鸡腿堡": [
+      {
+        "speaker": "戒色大师",
+        "text": "大6，你的守鸦人声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说守鸦人的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress为什么会这样投？请正面回答，不要转移话题呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "明摆着的事，我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 2
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我在想大6的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真守鸦人，应该会守鸦人应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的守鸦人技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 4
+      },
+      {
+        "speaker": "戒色大师",
+        "text": "我跟你们说啊，来，我们对对信息。我的管家技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合香辣鸡腿堡投了吃鱼的猫，香辣鸡腿堡投了Youmi，香辣鸡腿堡投了Star，香辣鸡腿堡投了progress来分析，重点嫌疑人应该已经很明显了哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "明摆着的事，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得Star的问题很大！戒色大师投了Rujie Shi，戒色大师投了Star，戒色大师投了progress，香辣鸡腿堡投了吃鱼的猫你看了吗？！",
+        "seq": 6
+      }
+    ],
+    "kiod🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "香辣鸡腿堡，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？。第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？。第三，你的kiod投了Youmi，kiod投了Rujie Shi，kiod投了Star，kiod投了progress为什么会这样投？。",
+        "seq": 1
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的天，我在想大6的行为能不能用陌客来解释——他自称是陌客，但如果是真陌客，应该会陌客应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "来，我们对对信息。我的陌客技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合kiod投了Youmi，kiod投了Rujie Shi，kiod投了Star，kiod投了progress来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "kiod",
+        "text": "我越来越觉得大6有问题。理由是：他的声明是陌客，但他的大6投了Youmi，大6投了Star，大6投了progress，kiod投了Youmi完全不符合这个身份的行为模式。一个真正的陌客不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "我的笔记里记了几件事：我最怀疑when？（昨天记的：我最怀疑when？）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "kiod",
+        "text": "你刚才提到我的笔记里记了几件事：我最怀疑when？（昨天记的：我最怀疑when？）。结合你的信息来看，你觉得我，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大6的可疑程度比想象中更高。",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "镇长归票时间：综合{claim_str}和{vote_str}，{target}是今天的最佳处决目标。理由：{stage_evidence}。我随时可以自证（三人存活时邪恶输），请大家相信我这次归票。{outsider_hint}",
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "公聊同步：我的首夜查验{target}是{ww_role}已确认。{cross_ref}这是我的金水，请大家不要浪费处决机会在他身上。{drunk_warning}",
+    "我不太喜欢带节奏，但这个{target}我实在忍不下去了——他的每一个发言都在编。{fake_info}{claim_str}里面的矛盾点他自己都圆不上，你们真的看不出来吗？{baron_tip}",
+    "我是共情者！昨晚我左右邪恶数为{e}，{neighbor_info}。如果{e}大于0，我们今天就一定要从这两个邻居开始盘！大家结合他们今天的发言和{vote_str}来交叉验证——不是凭感觉，是凭数据。{recluse_warning}",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "我站{bluff}这个立场说话可能要得罪人，但我不在乎——{target}的问题太明显了。{fake_info}如果有谁有不同意见，请拿出实锤证据来反驳我。{baron_tip}",
+    "我是{bluff}，我还在收集信息。{fake_info}但目前初步判断，{target}是让我最不安的一个——他的声明和{vote_str}都在敲警钟。我不急着下定论，但大家盯紧他。{baron_tip}",
+    "首夜信息已确认：{target}是{role}。这是实打实的查验结果，不是猜测。{cross_ref}请大家看清局势。{drunk_warning}{recluse_warning}",
+    "我是厨师，首夜信息显示相邻邪恶对数为{chef_val}。这意味着我的邻居{neighbor_list}中{chef_analysis}。{cross_ref}大家可以参考这个信息来排坑。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Rujie Shi",
+        "target": "吃鱼的猫",
+        "day": 1
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "吃鱼的猫",
+        "day": 1
+      },
+      {
+        "voter": "when？",
+        "target": "吃鱼的猫",
+        "day": 1
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "wowo",
+        "day": 1
+      },
+      {
+        "voter": "when？",
+        "target": "wowo",
+        "day": 1
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "Star",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "大6",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "吃鱼的猫",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "kiod",
+        "target": "Youmi",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "吃鱼的猫",
+        "target": "Rujie Shi",
+        "day": 2
+      },
+      {
+        "voter": "困困",
+        "target": "Rujie Shi",
+        "day": 2
+      },
+      {
+        "voter": "kiod",
+        "target": "Rujie Shi",
+        "day": 2
+      },
+      {
+        "voter": "progress",
+        "target": "Rujie Shi",
+        "day": 2
+      },
+      {
+        "voter": "戒色大师",
+        "target": "Rujie Shi",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "大6",
+        "target": "Star",
+        "day": 3
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "Star",
+        "day": 3
+      },
+      {
+        "voter": "困困",
+        "target": "Star",
+        "day": 3
+      },
+      {
+        "voter": "kiod",
+        "target": "Star",
+        "day": 3
+      },
+      {
+        "voter": "progress",
+        "target": "Star",
+        "day": 3
+      },
+      {
+        "voter": "戒色大师",
+        "target": "Star",
+        "day": 3
+      },
+      {
+        "voter": "when？",
+        "target": "Star",
+        "day": 3
+      }
+    ],
+    "day_4": [
+      {
+        "voter": "大6",
+        "target": "progress",
+        "day": 4
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "progress",
+        "day": 4
+      },
+      {
+        "voter": "kiod",
+        "target": "progress",
+        "day": 4
+      },
+      {
+        "voter": "戒色大师",
+        "target": "progress",
+        "day": 4
+      },
+      {
+        "voter": "when？",
+        "target": "progress",
+        "day": 4
+      }
+    ],
+    "day_5": [
+      {
+        "voter": "大6",
+        "target": "香辣鸡腿堡",
+        "day": 5
+      },
+      {
+        "voter": "kiod",
+        "target": "香辣鸡腿堡",
+        "day": 5
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "Rujie Shi",
+        "target": "吃鱼的猫",
+        "result": "failed"
+      },
+      {
+        "nominator": "kiod",
+        "target": "Rujie Shi",
+        "result": "failed"
+      },
+      {
+        "nominator": "困困",
+        "target": "wowo",
+        "result": "failed"
+      },
+      {
+        "nominator": "戒色大师",
+        "target": "Youmi",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "戒色大师",
+        "target": "Rujie Shi",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "大6",
+        "target": "Star",
+        "result": "executed"
+      }
+    ],
+    "day_4": [
+      {
+        "nominator": "when？",
+        "target": "progress",
+        "result": "executed"
+      }
+    ],
+    "day_5": [
+      {
+        "nominator": "大6",
+        "target": "香辣鸡腿堡",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我是{bluff}，我有个重大发现：{fake_info}兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。{baron_tip}",
+    "我是洗衣妇，我确认{target}是{ww_role}金水。{target}本人已认领身份，信息链清晰。{cross_ref}建议今天从外置位盘，{target}暂排好人。{drunk_warning}",
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "我是共情者！昨晚我左右邪恶数为{e}，{neighbor_info}。如果{e}大于0，我们今天就一定要从这两个邻居开始盘！大家结合他们今天的发言和{vote_str}来交叉验证——不是凭感觉，是凭数据。{recluse_warning}",
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。{baron_tip}",
+    "大家好，我是镇长。我来整合一下当前的信息：{claim_str}。{vote_str}。{expected_outsider_info}我的建议是今天集中处决{target}，理由：第一，{claim_str}中他的声明和谁对不上；第二，{vote_str}里面他的投票趋势和全场不同；第三，{stage_evidence}。请各位统一票型。{outsider_hint}",
+    "调查员有重要发现：{target}是{role}。这是我首夜查验的铁证。{cross_ref}建议今天直接出{target}。{drunk_warning}{recluse_warning}",
+    "我就问{target}一句：你敢不敢发毒誓说自己是好人？不敢对吧？因为你心里清楚你编的东西经不起推敲。投票吧，别浪费时间了。{baron_tip}"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_3": [
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。{cross_ref}{drunk_warning}{recluse_warning}",
+    "我是镇长。当前存活玩家中，{claim_str}里有几个信息点值得关注：{contradict_str}。{info_or_opinion}。我提议今天出{target}——如果错了，我负全责。所有人都跟我的票走，不要分散。{outsider_hint}",
+    "{target}，你别装了。你刚才说你是{claim}，那你怎么解释你的投票？{vote_str}完全不是{claim}该有的行为模式。你编故事之前能不能先对对台词？{baron_tip}",
+    "我是{bluff}，我有个重大发现：{fake_info}兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。{baron_tip}",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "洗衣妇报信息：我查到{target}是{ww_role}，本人已认领。{cross_ref}这意味着我们有了一条干净的信息链。大家集中精力盘其他人。{drunk_warning}",
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{outsider_hint}{expected_outsider_info}{opinion}。大家怎么看？",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？"
+  ],
+  "_evidence_pool_D4": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_4": [
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "洗衣妇报信息：我查到{target}是{ww_role}，本人已认领。{cross_ref}这意味着我们有了一条干净的信息链。大家集中精力盘其他人。{drunk_warning}",
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。{fake_info}大家说说，这些够不够处决他？{baron_tip}",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "我就问{target}一句：你敢不敢发毒誓说自己是好人？不敢对吧？因为你心里清楚你编的东西经不起推敲。投票吧，别浪费时间了。{baron_tip}"
+  ],
+  "_evidence_pool_D5": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_5": [
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "各位，看看{target}的表演。{claim_str}里就{target}的声明最假。{fake_info}大家动动脑子：一个真{claim}会像他这样发言吗？不会。所以结论只有一个——{target}在撒谎，而且撒得很拙劣。{baron_tip}",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。{outsider_hint}{expected_outsider_info}我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？"
+  ],
+  "ended_at": "2026-06-21T08:50:30.345424"
+}

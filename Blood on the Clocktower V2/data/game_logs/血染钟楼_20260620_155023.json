@@ -1,0 +1,2066 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T15:50:23.516905",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": [
+        {
+          "agent": "大美",
+          "context": "投毒者选择目标",
+          "action": "对Takai&xingfei下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "大美",
+          "context": "私聊Takai&xingfei",
+          "action": "收到分配。我共情者没问题，但我觉得剩下管家留着备用。如果你那边需要调整，我可以换身份。关键是你共情者要站住脚，我配合你。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大美",
+          "action": "我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Takai&xingfei",
+          "action": "我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大美",
+          "action": "我想问问，可能是我理解错了，困困跳了镇民，这是机会。你也跳镇民，制造身份对跳。对跳的精髓不是让人信你，而是让好人不信他。只要好人不敢完全信困困，我们的假信息就能趁虚而入吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Takai&xingfei",
+          "action": "今晚刀Takai&xingfei，白天的公聊目标也是Takai&xingfei。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大美",
+          "action": "目标锁定：困困。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊云面包",
+          "action": "我跟你们说啊，云面包，想跟你对一下信息。我守鸦人这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊大美",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊云面包",
+          "action": "我觉得吧，你有没有注意到Takai&xingfei和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊大美",
+          "action": "真的假的？！，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊云面包",
+          "action": "我跟你们说啊，我跟你透露一个事：Takai&xingfei跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊大美",
+          "action": "我跟你们说啊，我的笔记里记了几件事：我最怀疑Takai&xingfei。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊困困",
+          "action": "真的假的？！，嗨困困，我是守鸦人。其实吧，我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？。对了还有啊，这事儿我得捋一捋，感觉没那么简单",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大美",
+          "action": "这还用想？，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊困困",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Takai&xingfei的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大美",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊困困",
+          "action": "我复盘了一下Takai&xingfei的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大美",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊困困",
+          "action": "困困，我刚整理了一下笔记：我最怀疑Takai&xingfei。这个，你那边有什么发现？。对了另外呢，但说真的，现在下结论确实有点早",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊云面包",
+          "action": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊困困",
+          "action": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊云面包",
+          "action": "我敢肯定，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊困困",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊云面包",
+          "action": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊任",
+          "action": "你好任，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊云面包",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊任",
+          "action": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊云面包",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "私聊任",
+          "action": "我的笔记里记了几件事：我最怀疑Takai&xingfei；云面包自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊云面包",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "Takai&xingfei，我刚整理了一下笔记：大美自称守鸦人；我最怀疑Takai&xingfei；云面包自称送葬者！你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "可能是我理解错了，你有没有注意到困困和云面包的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊任",
+          "action": "我直接说了，你好任，我是调查员！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Run",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊任",
+          "action": "明摆着的事，来，我们对对信息。我的调查员技能告诉我一些事情：查到大美是任。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Run",
+          "action": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊任",
+          "action": "我们来盘一下目前的局势。Run自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Run",
+          "action": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "Star，我刚整理了一下笔记：我最怀疑Takai&xingfei；Run自称调查员。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "这还用想？，我的笔记里记了几件事：我最怀疑Takai&xingfei！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "这还用想？，我的笔记里记了几件事：我最怀疑Takai&xingfei；Run自称调查员。结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "这还用想？，我越来越觉得Takai&xingfei有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "别绕弯子，我越来越觉得Takai&xingfei有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "明摆着的事，我敢肯定，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Takai&xingfei",
+          "action": "Takai&xingfei你好，我是调查员。第一天信息有限，但我注意到一些细节——Run自称调查员里面有些人的声明不太自然。你同感吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Run",
+          "action": "我新手不太懂，可能是我理解错了，我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Takai&xingfei",
+          "action": "我们来盘一下目前的局势。Run自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Run",
+          "action": "大家怎么看，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Takai&xingfei",
+          "action": "来，我们对对信息！我的调查员技能告诉我一些事情：查到大美是任！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Run",
+          "action": "我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "你好任，我是占卜师！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "我直接说了，来，我们对对信息！我的占卜师技能告诉我一些事情：我查了任和Takai&xingfei，有恶魔！建议今天推任！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "这还用想？，来，我们对对信息！我的占卜师技能告诉我一些事情：我查了任和Takai&xingfei，有恶魔！建议今天推任！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', 'Run', '任', '云面包']",
+          "action": "Takai&xingfei: 有意思，Run也跳了调查员冒充我。如果你真是调查员，请回答我一个问题：你昨晚做了什么？说不出细节对不对？因为真调查员才有具体操作。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', 'Run', '任', '云面包']",
+          "action": "困困: 根据我的记录：大美自称守鸦人；我最怀疑Takai&xingfei；云面包自称送葬者。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', 'Run', '任', '云面包']",
+          "action": "大美: 我就问Takai&xingfei一句：你敢不敢发毒誓说自己是好人？不敢对吧？因为你心里清楚你编的东西经不起推敲。投票吧，别浪费时间了。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', 'Run', '任', '云面包']",
+          "action": "Star: 占卜师有重要发现！任和Takai&xingfei——有恶魔！这两人必须处决一个！我建议从任开始处决我的查验不会骗人，大家信我的判断！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', 'Run', '任', '云面包']",
+          "action": "Run: 我是调查员！我查出大美/任是投毒者——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', 'Run', '任', '云面包']",
+          "action": "任: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前云面包自称送葬者，Run自称调查员，Star自称占卜师，而投票记录显示。这些线索综合来看，我的我会重点观察Takai&xingfei。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', 'Run', '任', '云面包']",
+          "action": "云面包: 大家好，我是送葬者。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察Takai&xingfei。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "提名Star",
+          "action": "提名Star。根据我的观察大美自称守鸦人，Run自称调查员，云面包自称送葬者，Star的信息和别人对不上我不需要再多说了，证据摆在这里。谁反对可以站出来对质。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "被大美提名",
+          "action": "大家冷静！我是占卜师，我查了任和Takai&xingfei，查出了恶魔！这就是为什么我敢肯定{nominator}在胡说！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "提名云面包",
+          "action": "哎，提名云面包。云面包自称送葬者但送葬者这个声明和其他人提供的信息对不上我不需要再多说了，证据摆在这里。谁反对可以站出来对质。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "被Takai&xingfei提名",
+          "action": "请大家冷静。Takai&xingfei的指控有几个漏洞：第一，他说的证据根本不存在；第二，他自己的某人声明本身就疑点重重；第三，Takai&xingfei投了Star，任投了Star里他自己的投票也很奇怪。与其处决我，不如先查查Takai&xingfei自己呢。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "云面包被处决",
+          "action": "处决云面包",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "大美",
+          "context": "投毒者选择目标",
+          "action": "对Run下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "恶魔杀人",
+          "action": "杀害Run",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "任，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "听我分析完再做决定：如果Run是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Run的风险是可控的，收益却是巨大的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "我忍你很久了Run。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的任投了Star，任投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Run。理由我再说一遍：云面包自称送葬者，Run自称调查员，Star自称占卜师和任投了Star，任投了云面包交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "我直接说了，run，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "分头行动：我盯着Run的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Run。如果他翻出是好人，我们就从保过他的人里继续盘。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "明摆着的事，run，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "这还用想？。，我敢肯定，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：困困投了云面包里他的投票全是在跟风，没有一次是独立判断的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "这还用想？。，我们来盘一下目前的局势！。Star自称占卜师，Run自称调查员，云面包自称送葬者里面有几个矛盾点特别值得关注！。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "明摆着的事，我直接说了，我虽然没有查验技能，但我的逻辑告诉我大美有问题！理由：困困投了云面包里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "我的笔记里记了几件事：我最怀疑任；我最怀疑Run（昨天记的：我最怀疑Takai&xingfei；Star自称占卜师）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我大美有问题。理由：困困投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "这还用想？！，run，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？！第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "你有没有注意到大美和任的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "别绕弯子，这还用想？，来，我们对对信息。我的占卜师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Takai&xingfei投了Star来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我大美不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "这还用想？！，我越来越觉得Run有问题！理由是：他的声明是身份不明，但他的Takai&xingfei投了Star完全不符合这个身份的行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大美的问题很大。Takai&xingfei投了Star你看了吗？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "情况不对，大美开始反击了。我们需要立刻转移焦点——你跳出来说大美更可疑，我配合你。理由就说大美的投票记录不对——困困投了云面包，Takai&xingfei投了Star里面他投的票全是跟风哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "我敢肯定，大美，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我想问问，大家怎么看，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "我忍你很久了大美！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Takai&xingfei投了Star，困困投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我想问问，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "这还用想？，今天就到这。我们的共识是：大美是第一嫌疑人。明天根据处决结果再调整策略。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大美",
+          "action": "今晚刀大美，白天的公聊目标也是大美。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Takai&xingfei",
+          "action": "我的天，今晚刀Takai&xingfei，白天的公聊目标也是Takai&xingfei。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局啊哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大美",
+          "action": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Takai&xingfei",
+          "action": "我的天，这个事情是这样的，排练一下明天的公聊剧本。我先说：'我是守鸦人，我查到Takai&xingfei有问题。'然后你接：'巧了，我也在怀疑Takai&xingfei，因为Takai&xingfei投了Star，大美投了云面包。'注意你的语气要像临时发现而不是商量好的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大美",
+          "action": "排练一下明天的公聊剧本。我先说：'我是共情者，我查到大美有问题。'然后你接：'巧了，我也在怀疑大美，因为大美投了云面包，Takai&xingfei投了Star。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Takai&xingfei",
+          "action": "我觉得吧，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "大美，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的任投了Star，任投了云面包，困困投了云面包为什么会这样投？请正面回答，不要转移话题！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "真的假的？！，我的笔记里记了几件事：我最怀疑Run（昨天记的：Run自称调查员；Star自称占卜师）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "别绕弯子，我敢肯定，我越来越觉得大美有问题！理由是：他的声明是身份不明，但他的任投了Star，任投了云面包，困困投了云面包完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "我的天，我越来越觉得Run有问题。理由是：他的声明是身份不明，但他的困困投了云面包，任投了Star，任投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "明摆着的事，别绕弯子，我们来盘一下目前的局势。云面包自称送葬者，Run自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，大美的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合困困投了云面包，任投了Star，任投了云面包来分析，重点嫌疑人应该已经很明显了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊大美",
+          "action": "我觉得吧，我觉得吧，run，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊任",
+          "action": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊大美",
+          "action": "我跟你们说啊，我们来盘一下目前的局势。云面包自称送葬者，Run自称调查员，Star自称占卜师里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Run的投票轨迹跟他的声明对不上。我的结论是Run至少需要被好好审一审呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊任",
+          "action": "被怀疑了，别慌。我教你反制：你先发制人去质疑Takai&xingfei——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊大美",
+          "action": "真的假的？！，我的笔记里记了几件事：我最怀疑Run（昨天记的：Run自称调查员；Star自称占卜师）。结合你的信息来看，你觉得我是不是多疑了吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊任",
+          "action": "我的天，我的天，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', '任']",
+          "action": "Takai&xingfei: 场上出现了两个守鸦人。真的守鸦人一定能说出自己的确切信息，敢跟我对质细节吗？你不敢，因为你编不出来。投票处决大美，假的露馅后真的一目了然。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', '任']",
+          "action": "困困: 现在是公聊时间，我分享一下我的推理：暂无特殊信息。目前云面包自称送葬者，Run自称调查员，而投票记录显示Takai&xingfei投了Star，任投了Star，困困投了云面包，大美投了云面包。这些线索综合来看，我的基于以上，我怀疑大美。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', '任']",
+          "action": "大美: Takai&xingfei自称共情者，但投票处决过Star，行为对不上！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', '任']",
+          "action": "Star: 占卜师有重要发现！Takai&xingfei和Run——有恶魔！这两人必须处决一个。我建议从Takai&xingfei开始处决我的查验不会骗人，大家信我的判断。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', '任']",
+          "action": "Run(已死亡): 死者的话最客观。我回顾了整个游戏过程，任的嫌疑最大。他的声明是Run自称调查员，云面包自称送葬者，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', '任']",
+          "action": "任: 大家好，我是士兵。我来分析一下目前的局势：暂无特殊信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。基于以上，我怀疑Run哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', '大美', 'Star', '任']",
+          "action": "云面包(已死亡): 死者的话最客观。我回顾了整个游戏过程，大美的嫌疑最大。他的声明是云面包自称送葬者，Run自称调查员，任自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "提名任",
+          "action": "我提名任。任自称士兵但士兵这个声明和其他人提供的信息对不上；他的投票记录Star/云面包非常反常——好人不该这样投票这是铁证。请大家投票。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "被大美提名",
+          "action": "哎，我是士兵，恶魔杀不了我！我可以一直活到决赛圈帮好人投票——大美急着除掉我，恰恰证明他在帮邪恶做事！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "任被处决",
+          "action": "处决任",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "大美",
+          "context": "投毒者选择目标",
+          "action": "对Takai&xingfei下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "恶魔杀人",
+          "action": "杀害大美",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是共情者，我之前没说是因为在收集信息。身份对换，重新洗牌吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "我直接说了，run，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "情况不对，大美开始反击了。我们需要立刻转移焦点——你跳出来说困困更可疑，我配合你。理由就说困困的投票记录不对——Star投了任，Takai&xingfei投了Star里面他投的票全是跟风吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "明摆着的事，我忍你很久了Run。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Takai&xingfei投了Star，Star投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "我新手不太懂，被怀疑了，别慌。我教你反制：你先发制人去质疑大美——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "我记一下今天的重点：我最怀疑Run（昨天记的：我最怀疑任；我最怀疑Run）！明天继续跟进，有新情况随时找我！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "今天就到这！我们的共识是：大美是第一嫌疑人！明天根据处决结果再调整策略！如果大美是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "我记一下今天的重点：我最怀疑大美（昨天记的：我最怀疑Takai&xingfei；我最怀疑大美）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊困困",
+          "action": "我新手不太懂，情况不对，大美开始反击了。我们需要立刻转移焦点——你跳出来说Star更可疑，我配合你。理由就说Star的投票记录不对——困困投了云面包，困困投了任，Takai&xingfei投了Star里面他投的票全是跟风。记住：最好的防守就是进攻。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Takai&xingfei",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "我忍你很久了大美。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了任，困困投了云面包，困困投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "我直接说了，我忍你很久了Run。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的困困投了云面包，困困投了任，Star投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "大美，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "明摆着的事，run，我现在公开质疑你！如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Star",
+          "action": "我敢肯定，我忍你很久了大美！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了任，困困投了云面包，困困投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊困困",
+          "action": "我记一下今天的重点：我最怀疑Run（昨天记的：我最怀疑任；我最怀疑Run）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', 'Star']",
+          "action": "Takai&xingfei: 可能是我理解错了，我直接点名大美。你是?？。但你的发言里漏洞太多——大美，你解释一下为什么Takai&xingfei投了Star，任投了Star，困困投了云面包，大美投了云面包？。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', 'Star']",
+          "action": "困困: 现在是公聊时间，我分享一下我的推理：暂无特殊信息！目前云面包自称送葬者，任自称士兵，而投票记录显示Takai&xingfei投了Star，任投了Star，困困投了云面包，大美投了云面包！这些线索综合来看，我的基于以上，我怀疑大美！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', 'Star']",
+          "action": "大美(已死亡): 真的假的？！，死者的话最客观。我回顾了整个游戏过程，Takai&xingfei的嫌疑最大。他的声明是大美自称守鸦人，Run自称调查员，云面包自称送葬者，Takai&xingfei自称共情者，任自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', 'Star']",
+          "action": "Star: 占卜师有重要发现！Run和困困——都不是恶魔。我的查验不会骗人，大家信我的判断。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', 'Star']",
+          "action": "Run(已死亡): 我直接说了，死者的话最客观。我回顾了整个游戏过程，任的嫌疑最大。他的声明是Run自称调查员，云面包自称送葬者，任自称士兵，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', 'Star']",
+          "action": "任(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Run，理由是我观察到Run自称调查员，云面包自称送葬者，任自称士兵里面的矛盾点和Takai&xingfei投了Star，任投了Star，困困投了云面包，大美投了云面包的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "云面包",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '困困', 'Star']",
+          "action": "云面包(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑大美，理由是我观察到云面包自称送葬者，Run自称调查员，任自称士兵里面的矛盾点和Takai&xingfei投了Star，任投了Star，困困投了云面包，大美投了云面包的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "提名困困",
+          "action": "我提名困困。他的投票记录云面包/任非常反常——好人不该这样投票这是铁证。请大家投票。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "被Takai&xingfei提名",
+          "action": "其实吧，我是僧侣，每晚能保护一个人不被恶魔杀。Takai&xingfei要处决我，等于帮恶魔开了一条血路！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "困困被处决",
+          "action": "处决困困",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "Takai&xingfei, Star",
+  "players": [
+    "Takai&xingfei",
+    "困困",
+    "大美",
+    "Star",
+    "Run",
+    "任",
+    "云面包"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "Star": [
+        {
+          "key": "seer",
+          "text": "查验 ['任', 'Takai&xingfei']，发现恶魔",
+          "day": 0
+        }
+      ],
+      "Run": [
+        {
+          "key": "investigator",
+          "text": "大美 和 任 中有一人是 投毒者",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "Star": [
+        {
+          "key": "seer",
+          "text": "查验 ['Takai&xingfei', 'Run']，发现恶魔",
+          "day": 1
+        }
+      ],
+      "Run": [
+        {
+          "key": "investigator",
+          "text": "大美 和 任 中有一人是 投毒者",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "Star": [
+        {
+          "key": "seer",
+          "text": "查验 ['Run', '困困']，无恶魔",
+          "day": 2
+        }
+      ],
+      "Run": [
+        {
+          "key": "investigator",
+          "text": "大美 和 任 中有一人是 投毒者",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "Takai&xingfei🔄大美": [
+      {
+        "speaker": "大美",
+        "text": "收到分配。我共情者没问题，但我觉得剩下管家留着备用。如果你那边需要调整，我可以换身份。关键是你共情者要站住脚，我配合你。",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。",
+        "seq": 2
+      },
+      {
+        "speaker": "大美",
+        "text": "我思考了一下局势：暂无投票说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，可能是我理解错了，困困跳了镇民，这是机会。你也跳镇民，制造身份对跳。对跳的精髓不是让人信你，而是让好人不信他。只要好人不敢完全信困困，我们的假信息就能趁虚而入吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "大美",
+        "text": "今晚刀Takai&xingfei，白天的公聊目标也是Takai&xingfei。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "目标锁定：困困。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+        "seq": 6
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "今晚刀大美，白天的公聊目标也是大美。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局呢。",
+        "seq": 7
+      },
+      {
+        "speaker": "大美",
+        "text": "我的天，今晚刀Takai&xingfei，白天的公聊目标也是Takai&xingfei。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局啊哦。",
+        "seq": 8
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑啊。",
+        "seq": 9
+      },
+      {
+        "speaker": "大美",
+        "text": "我的天，这个事情是这样的，排练一下明天的公聊剧本。我先说：'我是守鸦人，我查到Takai&xingfei有问题。'然后你接：'巧了，我也在怀疑Takai&xingfei，因为Takai&xingfei投了Star，大美投了云面包。'注意你的语气要像临时发现而不是商量好的呢。",
+        "seq": 10
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "排练一下明天的公聊剧本。我先说：'我是共情者，我查到大美有问题。'然后你接：'巧了，我也在怀疑大美，因为大美投了云面包，Takai&xingfei投了Star。",
+        "seq": 11
+      },
+      {
+        "speaker": "大美",
+        "text": "我觉得吧，模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑吧。",
+        "seq": 12
+      }
+    ],
+    "云面包🔄大美": [
+      {
+        "speaker": "大美",
+        "text": "我跟你们说啊，云面包，想跟你对一下信息。我守鸦人这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "云面包",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "大美",
+        "text": "我觉得吧，你有没有注意到Takai&xingfei和Takai&xingfei的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "云面包",
+        "text": "真的假的？！，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "大美",
+        "text": "我跟你们说啊，我跟你透露一个事：Takai&xingfei跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "云面包",
+        "text": "我跟你们说啊，我的笔记里记了几件事：我最怀疑Takai&xingfei。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "困困🔄大美": [
+      {
+        "speaker": "大美",
+        "text": "真的假的？！，嗨困困，我是守鸦人。其实吧，我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？。对了还有啊，这事儿我得捋一捋，感觉没那么简单",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "这还用想？，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "大美",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Takai&xingfei的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 4
+      },
+      {
+        "speaker": "大美",
+        "text": "我复盘了一下Takai&xingfei的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 6
+      }
+    ],
+    "云面包🔄困困": [
+      {
+        "speaker": "云面包",
+        "text": "困困，我刚整理了一下笔记：我最怀疑Takai&xingfei。这个，你那边有什么发现？。对了另外呢，但说真的，现在下结论确实有点早",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "text": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我敢肯定，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 6
+      }
+    ],
+    "云面包🔄任": [
+      {
+        "speaker": "云面包",
+        "text": "你好任，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "任",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "云面包",
+        "text": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "任",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "云面包",
+        "text": "我的笔记里记了几件事：我最怀疑Takai&xingfei；云面包自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "任",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "Takai&xingfei，我刚整理了一下笔记：大美自称守鸦人；我最怀疑Takai&xingfei；云面包自称送葬者！你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我跟你透露一个事：困困跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "可能是我理解错了，你有没有注意到困困和云面包的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 6
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "情况不对，大美开始反击了。我们需要立刻转移焦点——你跳出来说大美更可疑，我配合你。理由就说大美的投票记录不对——困困投了云面包，Takai&xingfei投了Star里面他投的票全是跟风哦。",
+        "seq": 7
+      },
+      {
+        "speaker": "困困",
+        "text": "我敢肯定，大美，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+        "seq": 8
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，大家怎么看，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问啊。",
+        "seq": 9
+      },
+      {
+        "speaker": "困困",
+        "text": "我忍你很久了大美！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Takai&xingfei投了Star，困困投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高哦。",
+        "seq": 11
+      },
+      {
+        "speaker": "困困",
+        "text": "这还用想？，今天就到这。我们的共识是：大美是第一嫌疑人。明天根据处决结果再调整策略。",
+        "seq": 12
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高吧。",
+        "seq": 13
+      },
+      {
+        "speaker": "困困",
+        "text": "今天就到这！我们的共识是：大美是第一嫌疑人！明天根据处决结果再调整策略！如果大美是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标！",
+        "seq": 14
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？吧。",
+        "seq": 15
+      },
+      {
+        "speaker": "困困",
+        "text": "我记一下今天的重点：我最怀疑大美（昨天记的：我最怀疑Takai&xingfei；我最怀疑大美）。明天继续跟进，有新情况随时找我。",
+        "seq": 16
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我新手不太懂，情况不对，大美开始反击了。我们需要立刻转移焦点——你跳出来说Star更可疑，我配合你。理由就说Star的投票记录不对——困困投了云面包，困困投了任，Takai&xingfei投了Star里面他投的票全是跟风。记住：最好的防守就是进攻。",
+        "seq": 17
+      },
+      {
+        "speaker": "困困",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 18
+      }
+    ],
+    "Run🔄任": [
+      {
+        "speaker": "Run",
+        "text": "我直接说了，你好任，我是调查员！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "任",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "text": "明摆着的事，来，我们对对信息。我的调查员技能告诉我一些事情：查到大美是任。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "任",
+        "text": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "text": "我们来盘一下目前的局势。Run自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审！",
+        "seq": 5
+      },
+      {
+        "speaker": "任",
+        "text": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      }
+    ],
+    "Run🔄Star": [
+      {
+        "speaker": "Run",
+        "text": "Star，我刚整理了一下笔记：我最怀疑Takai&xingfei；Run自称调查员。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？，我的笔记里记了几件事：我最怀疑Takai&xingfei！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "text": "这还用想？，我的笔记里记了几件事：我最怀疑Takai&xingfei；Run自称调查员。结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？，我越来越觉得Takai&xingfei有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "text": "别绕弯子，我越来越觉得Takai&xingfei有问题！理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理！",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "明摆着的事，我敢肯定，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 6
+      }
+    ],
+    "Run🔄Takai&xingfei": [
+      {
+        "speaker": "Run",
+        "text": "Takai&xingfei你好，我是调查员。第一天信息有限，但我注意到一些细节——Run自称调查员里面有些人的声明不太自然。你同感吗！",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我新手不太懂，可能是我理解错了，我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我困困不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "text": "我们来盘一下目前的局势。Run自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "大家怎么看，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得困困的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "text": "来，我们对对信息！我的调查员技能告诉我一些事情：查到大美是任！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我复盘了一下困困的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 6
+      }
+    ],
+    "Star🔄任": [
+      {
+        "speaker": "Star",
+        "text": "你好任，我是占卜师！现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "任",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "我直接说了，来，我们对对信息！我的占卜师技能告诉我一些事情：我查了任和Takai&xingfei，有恶魔！建议今天推任！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "任",
+        "text": "这个事情是这样的，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？，来，我们对对信息！我的占卜师技能告诉我一些事情：我查了任和Takai&xingfei，有恶魔！建议今天推任！你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 5
+      },
+      {
+        "speaker": "任",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      },
+      {
+        "speaker": "Star",
+        "text": "任，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局！",
+        "seq": 7
+      },
+      {
+        "speaker": "任",
+        "text": "听我分析完再做决定：如果Run是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Run的风险是可控的，收益却是巨大的哦。",
+        "seq": 8
+      },
+      {
+        "speaker": "Star",
+        "text": "我忍你很久了Run。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的任投了Star，任投了云面包完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "任",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Run。理由我再说一遍：云面包自称送葬者，Run自称调查员，Star自称占卜师和任投了Star，任投了云面包交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 10
+      },
+      {
+        "speaker": "Star",
+        "text": "我直接说了，run，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "任",
+        "text": "分头行动：我盯着Run的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Run。如果他翻出是好人，我们就从保过他的人里继续盘。",
+        "seq": 12
+      }
+    ],
+    "Star🔄困困": [
+      {
+        "speaker": "Star",
+        "text": "明摆着的事，run，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "这还用想？。，我敢肯定，我虽然没有查验技能，但我的逻辑告诉我Takai&xingfei有问题。理由：困困投了云面包里他的投票全是在跟风，没有一次是独立判断的。",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？。，我们来盘一下目前的局势！。Star自称占卜师，Run自称调查员，云面包自称送葬者里面有几个矛盾点特别值得关注！。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "明摆着的事，我直接说了，我虽然没有查验技能，但我的逻辑告诉我大美有问题！理由：困困投了云面包里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "text": "我的笔记里记了几件事：我最怀疑任；我最怀疑Run（昨天记的：我最怀疑Takai&xingfei；Star自称占卜师）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我大美有问题。理由：困困投了云面包里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "我忍你很久了大美。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了任，困困投了云面包，困困投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "Star",
+        "text": "我直接说了，我忍你很久了Run。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的困困投了云面包，困困投了任，Star投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的！",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "大美，我现在公开质疑你。如果你真是好人，请用你的僧侣技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "Star",
+        "text": "明摆着的事，run，我现在公开质疑你！如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "text": "我敢肯定，我忍你很久了大美！你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了任，困困投了云面包，困困投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "Star",
+        "text": "我记一下今天的重点：我最怀疑Run（昨天记的：我最怀疑任；我最怀疑Run）。明天继续跟进，有新情况随时找我。",
+        "seq": 12
+      }
+    ],
+    "Star🔄Takai&xingfei": [
+      {
+        "speaker": "Star",
+        "text": "这还用想？！，run，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？！第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？！",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "你有没有注意到大美和任的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护哦。",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "text": "别绕弯子，这还用想？，来，我们对对信息。我的占卜师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Takai&xingfei投了Star来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我大美不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "text": "这还用想？！，我越来越觉得Run有问题！理由是：他的声明是身份不明，但他的Takai&xingfei投了Star完全不符合这个身份的行为模式！",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大美的问题很大。Takai&xingfei投了Star你看了吗？。",
+        "seq": 6
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是共情者，我之前没说是因为在收集信息。身份对换，重新洗牌吧。",
+        "seq": 7
+      },
+      {
+        "speaker": "Star",
+        "text": "我直接说了，run，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "情况不对，大美开始反击了。我们需要立刻转移焦点——你跳出来说困困更可疑，我配合你。理由就说困困的投票记录不对——Star投了任，Takai&xingfei投了Star里面他投的票全是跟风吧。",
+        "seq": 9
+      },
+      {
+        "speaker": "Star",
+        "text": "明摆着的事，我忍你很久了Run。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Takai&xingfei投了Star，Star投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我新手不太懂，被怀疑了，别慌。我教你反制：你先发制人去质疑大美——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权哦。",
+        "seq": 11
+      },
+      {
+        "speaker": "Star",
+        "text": "我记一下今天的重点：我最怀疑Run（昨天记的：我最怀疑任；我最怀疑Run）！明天继续跟进，有新情况随时找我！",
+        "seq": 12
+      }
+    ],
+    "任🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "大美，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的任投了Star，任投了云面包，困困投了云面包为什么会这样投？请正面回答，不要转移话题！",
+        "seq": 1
+      },
+      {
+        "speaker": "任",
+        "text": "真的假的？！，我的笔记里记了几件事：我最怀疑Run（昨天记的：Run自称调查员；Star自称占卜师）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "别绕弯子，我敢肯定，我越来越觉得大美有问题！理由是：他的声明是身份不明，但他的任投了Star，任投了云面包，困困投了云面包完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "任",
+        "text": "我的天，我越来越觉得Run有问题。理由是：他的声明是身份不明，但他的困困投了云面包，任投了Star，任投了云面包完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "明摆着的事，别绕弯子，我们来盘一下目前的局势。云面包自称送葬者，Run自称调查员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，大美的投票轨迹跟他的声明对不上！",
+        "seq": 5
+      },
+      {
+        "speaker": "任",
+        "text": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合困困投了云面包，任投了Star，任投了云面包来分析，重点嫌疑人应该已经很明显了啊。",
+        "seq": 6
+      }
+    ],
+    "任🔄大美": [
+      {
+        "speaker": "任",
+        "text": "我觉得吧，我觉得吧，run，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "大美",
+        "text": "他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "我跟你们说啊，我们来盘一下目前的局势。云面包自称送葬者，Run自称调查员，Star自称占卜师里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Run的投票轨迹跟他的声明对不上。我的结论是Run至少需要被好好审一审呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "大美",
+        "text": "被怀疑了，别慌。我教你反制：你先发制人去质疑Takai&xingfei——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "真的假的？！，我的笔记里记了几件事：我最怀疑Run（昨天记的：Run自称调查员；Star自称占卜师）。结合你的信息来看，你觉得我是不是多疑了吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "大美",
+        "text": "我的天，我的天，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问哦。",
+        "seq": 6
+      }
+    ]
+  },
+  "_used_pub_1": [
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我就问{target}一句：你敢不敢发毒誓说自己是好人？不敢对吧？因为你心里清楚你编的东西经不起推敲。投票吧，别浪费时间了。",
+    "根据我的记录：{my_note}。大家怎么看？",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "Star",
+        "day": 1
+      },
+      {
+        "voter": "任",
+        "target": "Star",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "大美",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "Run",
+        "target": "云面包",
+        "day": 1
+      },
+      {
+        "voter": "任",
+        "target": "云面包",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "困困",
+        "target": "任",
+        "day": 2
+      },
+      {
+        "voter": "大美",
+        "target": "任",
+        "day": 2
+      },
+      {
+        "voter": "Star",
+        "target": "任",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "困困",
+        "day": 3
+      }
+    ]
+  },
+  "_used_pub_2": [
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。"
+  ],
+  "_used_pub_3": [
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。",
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。"
+  ],
+  "ended_at": "2026-06-20T15:50:23.935257"
+}

@@ -1,0 +1,2071 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T17:06:42.099425",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "基于已公开的信息，youmi，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "大家怎么看，我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "理性分析的话，我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "你有没有注意到good name和mh的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "综合现有信息，我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "我新手不太懂，我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊good name",
+          "action": "你好good name，我是调查员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Hannoy",
+          "action": "这个事情是这样的，我注意到大吴吴的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊good name",
+          "action": "我们来盘一下目前的局势。Hannoy自称调查员里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Hannoy",
+          "action": "我觉得吧，对比了几个人的发言，大吴吴是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊good name",
+          "action": "理性分析的话，理性分析的话，来，我们对对信息。我的调查员技能告诉我一些事情：查到Rujie Shi是good name。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Hannoy",
+          "action": "这个事情是这样的，我不太信大吴吴。他的调查员声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了吧吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "理性分析的话，刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "客观来说，你有没有注意到good name和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "你刚才提到客观来说，你有没有注意到good name和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "综合现有信息，我们来构建一个完整的推理链：你镇民的角度看good name有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "客观来说，从逻辑上看，观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "我盘了一下目前的线索：加上里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊mh",
+          "action": "我新手不太懂，角色分配完毕：我送葬者，你镇长。剩下的剩下图书管理员留着备用。核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧。对外我们口径一致，对内我们再讨论真实目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Youmi",
+          "action": "客观来说，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让good name成为焦点。只要好人在good name身上浪费一轮处决，我们就赚了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊mh",
+          "action": "我想问问，可能是我理解错了，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让good name成为焦点呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Youmi",
+          "action": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了good name是某个角色。我配合说我也觉得good name符合那个角色——两个独立信息位交叉验证同一结论，好人必信。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊mh",
+          "action": "目标锁定：good name。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Youmi",
+          "action": "目标锁定：good name。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊欧拉函数",
+          "action": "可能是我理解错了，欧拉函数，想跟你对一下信息。我送葬者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Youmi",
+          "action": "客观来说，你刚才提到可能是我理解错了，欧拉函数，想跟你对一下信息。我送葬者这边有一些发现，但不完整——我觉得跟你合一下数，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊欧拉函数",
+          "action": "我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Youmi",
+          "action": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊欧拉函数",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Youmi",
+          "action": "客观来说，观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊mh",
+          "action": "mh，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊大吴吴",
+          "action": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊mh",
+          "action": "基于已公开的信息，我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊大吴吴",
+          "action": "我盘了一下目前的线索：加上里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊mh",
+          "action": "从逻辑上看，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊大吴吴",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看good name有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Rujie Shi",
+          "action": "你好Rujie Shi，我是共情者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊大吴吴",
+          "action": "我注意到good name的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Rujie Shi",
+          "action": "来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数0。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊大吴吴",
+          "action": "明摆着的事，我不太信good name！他的共情者声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Rujie Shi",
+          "action": "综合现有信息，你刚才提到明摆着的事，我不太信good name！他的共情者声明有问题——报身份的时候说得太流畅了，像是提前背，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊大吴吴",
+          "action": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "理性分析的话，刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "这个事情是这样的，综合观察下来，大吴吴的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我大吴吴有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "我们来盘一下目前的局势。大吴吴自称共情者里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我跟你们说啊，我虽然没有查验技能，但我的逻辑告诉我大吴吴有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我good name有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "别绕弯子，综合观察下来，good name的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "基于已公开的信息，理性分析的话，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了Hannoy和good name，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊good name",
+          "action": "good name你好，我是陌客。第一天信息有限，但我注意到一些细节——大吴吴自称共情者里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Rujie Shi",
+          "action": "我跟你们说啊，真的假的？！，综合观察下来，大吴吴的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊good name",
+          "action": "明摆着的事，对比了几个人的发言，good name是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Rujie Shi",
+          "action": "我的天，对比了几个人的发言，大吴吴是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊good name",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我good name有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Rujie Shi",
+          "action": "真的假的？！，我不太信大吴吴。他的陌客声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['good name', '大吴吴', 'Rujie Shi', 'Hannoy', 'mh', 'Youmi', '欧拉函数']",
+          "action": "good name: 根据我的记录：Hannoy自称调查员；我最怀疑大吴吴；Rujie Shi自称陌客。。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['good name', '大吴吴', 'Rujie Shi', 'Hannoy', 'mh', 'Youmi', '欧拉函数']",
+          "action": "大吴吴: 共情者报数：邪恶数0！good name(自称?)，Rujie Shi(自称?)这个0意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['good name', '大吴吴', 'Rujie Shi', 'Hannoy', 'mh', 'Youmi', '欧拉函数']",
+          "action": "Rujie Shi: 我来盘一下目前的局面。暂时没有关键信息。大吴吴自称共情者，。。综合这些，我倾向good name有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['good name', '大吴吴', 'Rujie Shi', 'Hannoy', 'mh', 'Youmi', '欧拉函数']",
+          "action": "Hannoy: 我是调查员！我查出Rujie Shi/good name是猎手——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "公聊环节, 存活: ['good name', '大吴吴', 'Rujie Shi', 'Hannoy', 'mh', 'Youmi', '欧拉函数']",
+          "action": "mh: 我不太喜欢带节奏，但这个good name我实在忍不下去了——他的每一个发言都在编。Hannoy自称调查员里面的矛盾点他自己都圆不上，你们真的看不出来吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['good name', '大吴吴', 'Rujie Shi', 'Hannoy', 'mh', 'Youmi', '欧拉函数']",
+          "action": "Youmi: 我新手不太懂，我是图书管理员。我目前还没有完全确定的结论，但good name的发言让我非常不舒服——他一直在刻意模仿好人的说话方式，但有些细节露馅了。大家多观察他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['good name', '大吴吴', 'Rujie Shi', 'Hannoy', 'mh', 'Youmi', '欧拉函数']",
+          "action": "欧拉函数: 客观来说，占卜师有重要发现！Hannoy和good name——都不是恶魔。我的查验不会骗人，大家信我的判断。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "提名good name",
+          "action": "我提名good name。理由如下：第一，他的声明某人有问题；第二，显示他的投票异常；第三，大吴吴自称共情者，Rujie Shi自称陌客，Hannoy自称调查员，Youmi自称图书管理员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被Rujie Shi提名",
+          "action": "我是管家，虽然能力有限但我始终站在好人这边。Rujie Shi的信息和推理明显有漏洞——大家仔细想想，他说的那些真的站得住脚吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "good name被处决",
+          "action": "处决good name",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "Youmi",
+          "context": "恶魔自杀",
+          "action": "自杀传位给mh",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "欧拉函数",
+          "context": "私聊mh",
+          "action": "综合现有信息，综合现有信息，你好mh，我是占卜师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊欧拉函数",
+          "action": "综合现有信息，我跟你透露一个事：大吴吴跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊mh",
+          "action": "我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的mh投了good name，欧拉函数投了good name完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊欧拉函数",
+          "action": "综合现有信息，我们来构建一个完整的推理链：你镇民的角度看Rujie Shi有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊mh",
+          "action": "综合现有信息，综合现有信息，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了Hannoy和good name，都是好的。你觉得这意味着什么？结合mh投了good name，欧拉函数投了good name来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊欧拉函数",
+          "action": "我盘了一下目前的线索：欧拉函数投了good name，mh投了good name加上Hannoy自称调查员，Youmi自称图书管理员，欧拉函数自称占卜师里面的疑点，指向Rujie Shi的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "大吴吴，我刚整理了一下笔记：我最怀疑大吴吴；欧拉函数自称占卜师；我最怀疑Rujie Shi（昨天记的：我最怀疑good name；Hannoy自称调查员）。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "你刚才提到大吴吴，我刚整理了一下笔记：我最怀疑大吴吴；欧拉函数自称占卜师；我最怀疑Rujie Shi（昨天记的，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "基于已公开的信息，你刚才提到你刚才提到大吴吴，我刚整理了一下笔记：我最怀疑大吴吴；欧拉函数自称占卜师；我最怀疑Rujie Shi，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "观察了一下Rujie Shi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "理性分析的话，我们来盘一下目前的局势。Hannoy自称调查员，Youmi自称图书管理员，欧拉函数自称占卜师里面有几个矛盾点特别值得关注。第一，；第二，Rujie Shi的投票轨迹跟他的声明对不上。我的结论是Rujie Shi至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "客观来说，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数0。你觉得这意味着什么？结合欧拉函数投了good name，大吴吴投了good name来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Rujie Shi投了good name，欧拉函数投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投大吴吴的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "Rujie Shi，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "别绕弯子，我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：大吴吴自称共情者，Rujie Shi自称陌客，Hannoy自称调查员，Youmi自称图书管理员和欧拉函数投了good name，Rujie Shi投了good name交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Rujie Shi",
+          "action": "基于已公开的信息，客观来说，我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Rujie Shi投了good name，欧拉函数投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊欧拉函数",
+          "action": "分头行动：我盯着大吴吴的发言找漏洞，你去跟其他人沟通统一票型！今天的目标很明确——出大吴吴！如果他翻出是好人，我们就从保过他的人里继续盘！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊大吴吴",
+          "action": "这还用想？，我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：大吴吴自称共情者，Rujie Shi自称陌客，Hannoy自称调查员，Youmi自称图书管理员和大吴吴投了good name，Rujie Shi投了good name交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Rujie Shi",
+          "action": "我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Rujie Shi投了good name，大吴吴投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊大吴吴",
+          "action": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Rujie Shi",
+          "action": "基于已公开的信息，rujie Shi，我现在公开质疑你。如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊大吴吴",
+          "action": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投大吴吴的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Rujie Shi",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Hannoy",
+          "action": "Hannoy，我刚整理了一下笔记：我最怀疑大吴吴（昨天记的：我最怀疑good name；Rujie Shi自称陌客）！你那边有什么发现！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Rujie Shi",
+          "action": "理性分析的话，理性分析的话，我们来盘一下目前的局势。Hannoy自称调查员，Youmi自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Hannoy",
+          "action": "我不太信大吴吴！他的调查员声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Rujie Shi",
+          "action": "客观来说，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "私聊Hannoy",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我大吴吴有问题！理由：Hannoy投了good name，Rujie Shi投了good name里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Rujie Shi",
+          "action": "我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的Rujie Shi投了good name，Hannoy投了good name完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Hannoy",
+          "action": "综合现有信息，hannoy你好，我是共情者。第一天信息有限，但我注意到一些细节——大吴吴自称共情者，Hannoy自称调查员，Youmi自称图书管理员里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大吴吴",
+          "action": "你刚才提到综合现有信息，hannoy你好，我是共情者。第一天信息有限，但我注意到一些细节——大吴吴自称共情者，，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Hannoy",
+          "action": "我们来盘一下目前的局势。大吴吴自称共情者，Hannoy自称调查员，Youmi自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大吴吴",
+          "action": "客观来说，我的笔记里记了几件事：我最怀疑大吴吴；大吴吴自称共情者；Hannoy自称共情者（昨天记的：我最怀疑good name；Hannoy自称调查员）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Hannoy",
+          "action": "我在想Hannoy的行为能不能用调查员来解释——他自称是调查员，但如果是真调查员，应该会调查员应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大吴吴",
+          "action": "客观来说，从逻辑上看，来，我们对对信息。我的调查员技能告诉我一些事情：查到Rujie Shi是good name。你觉得这意味着什么？结合大吴吴投了good name，Hannoy投了good name来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：Hannoy自称调查员，Youmi自称图书管理员，大吴吴自称共情者和mh投了good name，Hannoy投了good name交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "我的镇长技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。Hannoy投了good name，mh投了good name你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "从逻辑上看，听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，你有没有注意到Hannoy和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['大吴吴', 'Rujie Shi', 'Hannoy', 'mh', '欧拉函数']",
+          "action": "good name(已死亡): 死者的话最客观。我回顾了整个游戏过程，Hannoy的嫌疑最大。他的声明是Hannoy自称调查员，Rujie Shi自称陌客，Youmi自称图书管理员，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['大吴吴', 'Rujie Shi', 'Hannoy', 'mh', '欧拉函数']",
+          "action": "大吴吴: 我是共情者！昨晚我左右邪恶数为0，good name(自称?)，Rujie Shi(自称?)。如果0大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['大吴吴', 'Rujie Shi', 'Hannoy', 'mh', '欧拉函数']",
+          "action": "Rujie Shi: 现在是公聊时间，我分享一下我的推理：暂无特殊信息。目前Hannoy自称调查员，Youmi自称图书管理员，大吴吴自称共情者，而投票记录显示大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name。good name已死亡，Youmi已死亡，good name已死亡。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['大吴吴', 'Rujie Shi', 'Hannoy', 'mh', '欧拉函数']",
+          "action": "Hannoy: 我是调查员！我查出Rujie Shi/good name是猎手——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "公聊环节, 存活: ['大吴吴', 'Rujie Shi', 'Hannoy', 'mh', '欧拉函数']",
+          "action": "mh: 我直接点名Hannoy。你是?？但你的发言里漏洞太多——Hannoy，你解释一下为什么大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name？一个真正的?不会有这样的投票记录。你根本就是在编！大家看清楚，Hannoy的表演到这里就该结束了。今天必须出他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['大吴吴', 'Rujie Shi', 'Hannoy', 'mh', '欧拉函数']",
+          "action": "Youmi(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Hannoy，理由是我观察到Hannoy自称调查员，Youmi自称图书管理员，大吴吴自称共情者里面的矛盾点和大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name的异常。活着的兄弟们，帮我报仇啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['大吴吴', 'Rujie Shi', 'Hannoy', 'mh', '欧拉函数']",
+          "action": "欧拉函数: 我是占卜师，昨晚查验了Hannoy和good name，都不是恶魔。排除了两个好人我建议先从Hannoy开始盘——如果他是好人翻出来，那good name就是铁邪恶。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "提名Rujie Shi",
+          "action": "提名Rujie Shi。他的投票记录good name非常反常——好人不该这样投票；good name已死亡；Youmi已死亡我不需要再多说了，证据摆在这里。谁反对可以站出来对质哦。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "被mh提名",
+          "action": "大家想一想：如果我是邪恶，我会这么被动地等着被处决吗？我如果真是坏人，我早就编一套完美说辞了。正因为我是好人，我才觉得委屈——被冤枉的感觉你们懂吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "Rujie Shi被处决",
+          "action": "处决Rujie Shi",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "mh",
+          "context": "恶魔杀人",
+          "action": "杀害大吴吴",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "mh",
+          "context": "私聊欧拉函数",
+          "action": "基于已公开的信息，我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊mh",
+          "action": "综合现有信息，我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的mh投了good name，mh投了Rujie Shi，欧拉函数投了good name，欧拉函数投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊欧拉函数",
+          "action": "基于已公开的信息，我的镇长技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊mh",
+          "action": "理性分析的话，rujie Shi，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊欧拉函数",
+          "action": "基于已公开的信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。欧拉函数投了good name，欧拉函数投了Rujie Shi，mh投了good name，mh投了Rujie Shi你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊mh",
+          "action": "综合现有信息，客观来说，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，你有没有注意到Hannoy和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "今天就到这。我们的共识是：mh是第一嫌疑人。明天根据处决结果再调整策略。如果mh是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Hannoy",
+          "action": "我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊mh",
+          "action": "综合现有信息，我记一下今天的重点：我最怀疑mh（昨天记的：大吴吴自称共情者；Hannoy自称共情者）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊欧拉函数",
+          "action": "mh，你的占卜师声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说占卜师的时候和现在的说法有出入，你能解释一下吗？第三，你的欧拉函数投了good name，欧拉函数投了Rujie Shi，Hannoy投了good name，Hannoy投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Hannoy",
+          "action": "客观来说，我越来越觉得Rujie Shi有问题。理由是：他的声明是调查员，但他的Hannoy投了good name，Hannoy投了Rujie Shi，欧拉函数投了good name，欧拉函数投了Rujie Shi完全不符合这个身份的行为模式。一个真正的调查员不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊欧拉函数",
+          "action": "从逻辑上看，理性分析的话，你刚才提到客观来说，我越来越觉得Rujie Shi有问题。理由是：他的声明是调查员，但他的Hannoy投了go，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明mh的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Hannoy",
+          "action": "从逻辑上看，我在想Rujie Shi的行为能不能用调查员来解释——他自称是调查员，但如果是真调查员，应该会调查员应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊欧拉函数",
+          "action": "综合现有信息，来，我们对对信息。我的调查员技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合欧拉函数投了good name，欧拉函数投了Rujie Shi，Hannoy投了good name，Hannoy投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Hannoy",
+          "action": "来，我们对对信息。我的占卜师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Hannoy投了good name，Hannoy投了Rujie Shi，欧拉函数投了good name，欧拉函数投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['Hannoy', 'mh', '欧拉函数']",
+          "action": "good name(已死亡): 我跟你们说啊，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Hannoy，理由是我观察到Hannoy自称调查员，Rujie Shi自称陌客，Youmi自称图书管理员，大吴吴自称共情者，欧拉函数自称占卜师里面的矛盾点和大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name的异常。活着的兄弟们，帮我报仇吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['Hannoy', 'mh', '欧拉函数']",
+          "action": "大吴吴(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Hannoy，理由是我观察到Hannoy自称调查员，Youmi自称图书管理员，大吴吴自称共情者，欧拉函数自称占卜师里面的矛盾点和大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Rujie Shi",
+          "context": "公聊环节, 存活: ['Hannoy', 'mh', '欧拉函数']",
+          "action": "Rujie Shi(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑大吴吴，理由是我观察到Rujie Shi自称陌客，Hannoy自称调查员，Youmi自称图书管理员，大吴吴自称共情者，欧拉函数自称占卜师里面的矛盾点和大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['Hannoy', 'mh', '欧拉函数']",
+          "action": "Hannoy: 我是调查员！我查出Rujie Shi/good name是猎手——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "公聊环节, 存活: ['Hannoy', 'mh', '欧拉函数']",
+          "action": "mh: Hannoy，你别装了。你刚才说你是?，那你怎么解释你的投票？大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name完全不是?该有的行为模式。你编故事之前能不能先对对台词？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['Hannoy', 'mh', '欧拉函数']",
+          "action": "Youmi(已死亡): 死者的话最客观。我回顾了整个游戏过程，Hannoy的嫌疑最大。他的声明是Hannoy自称调查员，Youmi自称图书管理员，大吴吴自称共情者，欧拉函数自称占卜师，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['Hannoy', 'mh', '欧拉函数']",
+          "action": "欧拉函数: 占卜师有重要发现！大吴吴和Hannoy——都不是恶魔。我的查验不会骗人，大家信我的判断。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "提名Hannoy",
+          "action": "我提名Hannoy。理由如下：第一，你想想，他的声明某人有问题；第二，大吴吴投了good name，Rujie Shi投了good name，Hannoy投了good name，mh投了good name显示他的投票异常；第三，大吴吴自称共情者，Hannoy自称调查员，欧拉函数自称占卜师里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "被欧拉函数提名",
+          "action": "我是调查员！我查出Rujie Shi或good name之中有猎手——这才是真正的爪牙！欧拉函数急着处决我，就是因为怕我继续查出他的同伙！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "Hannoy被处决",
+          "action": "处决Hannoy",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "mh, 欧拉函数",
+  "players": [
+    "good name",
+    "大吴吴",
+    "Rujie Shi",
+    "Hannoy",
+    "mh",
+    "Youmi",
+    "欧拉函数"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "大吴吴": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 0 个邪恶玩家",
+          "day": 0
+        }
+      ],
+      "Hannoy": [
+        {
+          "key": "investigator",
+          "text": "Rujie Shi 和 good name 中有一人是 猎手",
+          "day": 0
+        }
+      ],
+      "欧拉函数": [
+        {
+          "key": "seer",
+          "text": "查验 ['Hannoy', 'good name']，无恶魔",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "大吴吴": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 0 个邪恶玩家",
+          "day": 1
+        }
+      ],
+      "Hannoy": [
+        {
+          "key": "investigator",
+          "text": "Rujie Shi 和 good name 中有一人是 猎手",
+          "day": 1
+        }
+      ],
+      "欧拉函数": [
+        {
+          "key": "seer",
+          "text": "查验 ['Hannoy', 'good name']，无恶魔",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "大吴吴": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 0 个邪恶玩家",
+          "day": 2
+        }
+      ],
+      "Hannoy": [
+        {
+          "key": "investigator",
+          "text": "Rujie Shi 和 good name 中有一人是 猎手",
+          "day": 2
+        }
+      ],
+      "欧拉函数": [
+        {
+          "key": "seer",
+          "text": "查验 ['大吴吴', 'Hannoy']，无恶魔",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "Hannoy🔄Youmi": [
+      {
+        "speaker": "Hannoy",
+        "text": "基于已公开的信息，youmi，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Youmi",
+        "text": "大家怎么看，我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "理性分析的话，我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "Youmi",
+        "text": "你有没有注意到good name和mh的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我新手不太懂，我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽哦。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄good name": [
+      {
+        "speaker": "Hannoy",
+        "text": "你好good name，我是调查员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "这个事情是这样的，我注意到大吴吴的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我们来盘一下目前的局势。Hannoy自称调查员里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我觉得吧，对比了几个人的发言，大吴吴是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "理性分析的话，理性分析的话，来，我们对对信息。我的调查员技能告诉我一些事情：查到Rujie Shi是good name。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "这个事情是这样的，我不太信大吴吴。他的调查员声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了吧吧。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄mh": [
+      {
+        "speaker": "Hannoy",
+        "text": "理性分析的话，刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "mh",
+        "text": "客观来说，你有没有注意到good name和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "你刚才提到客观来说，你有没有注意到good name和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "mh",
+        "text": "综合现有信息，我们来构建一个完整的推理链：你镇民的角度看good name有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "客观来说，从逻辑上看，观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "mh",
+        "text": "我盘了一下目前的线索：加上里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 6
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：Hannoy自称调查员，Youmi自称图书管理员，大吴吴自称共情者和mh投了good name，Hannoy投了good name交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 7
+      },
+      {
+        "speaker": "mh",
+        "text": "我的镇长技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 8
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的。",
+        "seq": 9
+      },
+      {
+        "speaker": "mh",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。Hannoy投了good name，mh投了good name你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 10
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "从逻辑上看，听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的。",
+        "seq": 11
+      },
+      {
+        "speaker": "mh",
+        "text": "基于已公开的信息，你有没有注意到Hannoy和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 12
+      },
+      {
+        "speaker": "mh",
+        "text": "基于已公开的信息，你有没有注意到Hannoy和欧拉函数的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 13
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 14
+      },
+      {
+        "speaker": "mh",
+        "text": "我跟你透露一个事：Hannoy跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 15
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "今天就到这。我们的共识是：mh是第一嫌疑人。明天根据处决结果再调整策略。如果mh是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 16
+      },
+      {
+        "speaker": "mh",
+        "text": "我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 17
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，我记一下今天的重点：我最怀疑mh（昨天记的：大吴吴自称共情者；Hannoy自称共情者）。明天继续跟进，有新情况随时找我。",
+        "seq": 18
+      }
+    ],
+    "Youmi🔄mh": [
+      {
+        "speaker": "Youmi",
+        "text": "我新手不太懂，角色分配完毕：我送葬者，你镇长。剩下的剩下图书管理员留着备用。核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧。对外我们口径一致，对内我们再讨论真实目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "mh",
+        "text": "客观来说，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让good name成为焦点。只要好人在good name身上浪费一轮处决，我们就赚了。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我想问问，可能是我理解错了，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让good name成为焦点呢吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "mh",
+        "text": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了good name是某个角色。我配合说我也觉得good name符合那个角色——两个独立信息位交叉验证同一结论，好人必信。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "目标锁定：good name。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "mh",
+        "text": "目标锁定：good name。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄欧拉函数": [
+      {
+        "speaker": "Youmi",
+        "text": "可能是我理解错了，欧拉函数，想跟你对一下信息。我送葬者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁吧。",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "客观来说，你刚才提到可能是我理解错了，欧拉函数，想跟你对一下信息。我送葬者这边有一些发现，但不完整——我觉得跟你合一下数，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我的送葬者技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "客观来说，观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "mh🔄大吴吴": [
+      {
+        "speaker": "大吴吴",
+        "text": "mh，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "mh",
+        "text": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "基于已公开的信息，我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "mh",
+        "text": "我盘了一下目前的线索：加上里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "从逻辑上看，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "mh",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看good name有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 6
+      }
+    ],
+    "Rujie Shi🔄大吴吴": [
+      {
+        "speaker": "大吴吴",
+        "text": "你好Rujie Shi，我是共情者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我注意到good name的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+        "seq": 2
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数0。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "明摆着的事，我不太信good name！他的共情者声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+        "seq": 4
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "综合现有信息，你刚才提到明摆着的事，我不太信good name！他的共情者声明有问题——报身份的时候说得太流畅了，像是提前背，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+        "seq": 5
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+        "seq": 6
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "这还用想？，我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：大吴吴自称共情者，Rujie Shi自称陌客，Hannoy自称调查员，Youmi自称图书管理员和大吴吴投了good name，Rujie Shi投了good name交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 7
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Rujie Shi投了good name，大吴吴投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的！",
+        "seq": 9
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "基于已公开的信息，rujie Shi，我现在公开质疑你。如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投大吴吴的风险是可控的，收益却是巨大的！",
+        "seq": 11
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "good name🔄大吴吴": [
+      {
+        "speaker": "大吴吴",
+        "text": "理性分析的话，刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "这个事情是这样的，综合观察下来，大吴吴的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 2
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "观察了一下good name对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我觉得吧，我虽然没有查验技能，但我的逻辑告诉我大吴吴有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我们来盘一下目前的局势。大吴吴自称共情者里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "我跟你们说啊，我虽然没有查验技能，但我的逻辑告诉我大吴吴有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票呢。",
+        "seq": 6
+      }
+    ],
+    "Rujie Shi🔄欧拉函数": [
+      {
+        "speaker": "Rujie Shi",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "别绕弯子，我虽然没有查验技能，但我的逻辑告诉我good name有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "别绕弯子，综合观察下来，good name的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "基于已公开的信息，理性分析的话，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了Hannoy和good name，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Rujie Shi投了good name，欧拉函数投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投大吴吴的风险是可控的，收益却是巨大的！",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "Rujie Shi，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "别绕弯子，我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：大吴吴自称共情者，Rujie Shi自称陌客，Hannoy自称调查员，Youmi自称图书管理员和欧拉函数投了good name，Rujie Shi投了good name交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "基于已公开的信息，客观来说，我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Rujie Shi投了good name，欧拉函数投了good name完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "分头行动：我盯着大吴吴的发言找漏洞，你去跟其他人沟通统一票型！今天的目标很明确——出大吴吴！如果他翻出是好人，我们就从保过他的人里继续盘！",
+        "seq": 12
+      }
+    ],
+    "Rujie Shi🔄good name": [
+      {
+        "speaker": "Rujie Shi",
+        "text": "good name你好，我是陌客。第一天信息有限，但我注意到一些细节——大吴吴自称共情者里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "我跟你们说啊，真的假的？！，综合观察下来，大吴吴的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "明摆着的事，对比了几个人的发言，good name是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我的天，对比了几个人的发言，大吴吴是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我good name有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "真的假的？！，我不太信大吴吴。他的陌客声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了呢。",
+        "seq": 6
+      }
+    ],
+    "mh🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "text": "综合现有信息，综合现有信息，你好mh，我是占卜师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "mh",
+        "text": "综合现有信息，我跟你透露一个事：大吴吴跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "我越来越觉得Rujie Shi有问题。理由是：他的声明是身份不明，但他的mh投了good name，欧拉函数投了good name完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "mh",
+        "text": "综合现有信息，我们来构建一个完整的推理链：你镇民的角度看Rujie Shi有问题，我镇长分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "综合现有信息，综合现有信息，来，我们对对信息。我的占卜师技能告诉我一些事情：我查了Hannoy和good name，都是好的。你觉得这意味着什么？结合mh投了good name，欧拉函数投了good name来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "mh",
+        "text": "我盘了一下目前的线索：欧拉函数投了good name，mh投了good name加上Hannoy自称调查员，Youmi自称图书管理员，欧拉函数自称占卜师里面的疑点，指向Rujie Shi的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 6
+      },
+      {
+        "speaker": "mh",
+        "text": "基于已公开的信息，我复盘了一下Hannoy的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 7
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "综合现有信息，我忍你很久了Rujie Shi。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的mh投了good name，mh投了Rujie Shi，欧拉函数投了good name，欧拉函数投了Rujie Shi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "mh",
+        "text": "基于已公开的信息，我的镇长技能虽然没有直接查到铁证，但我的直觉告诉我Hannoy不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 9
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "理性分析的话，rujie Shi，我现在公开质疑你。如果你真是好人，请用你的占卜师技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "mh",
+        "text": "基于已公开的信息，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Hannoy的问题很大。欧拉函数投了good name，欧拉函数投了Rujie Shi，mh投了good name，mh投了Rujie Shi你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 11
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "综合现有信息，客观来说，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "大吴吴🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "text": "大吴吴，我刚整理了一下笔记：我最怀疑大吴吴；欧拉函数自称占卜师；我最怀疑Rujie Shi（昨天记的：我最怀疑good name；Hannoy自称调查员）。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "你刚才提到大吴吴，我刚整理了一下笔记：我最怀疑大吴吴；欧拉函数自称占卜师；我最怀疑Rujie Shi（昨天记的，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "基于已公开的信息，你刚才提到你刚才提到大吴吴，我刚整理了一下笔记：我最怀疑大吴吴；欧拉函数自称占卜师；我最怀疑Rujie Shi，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Rujie Shi的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "观察了一下Rujie Shi对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "理性分析的话，我们来盘一下目前的局势。Hannoy自称调查员，Youmi自称图书管理员，欧拉函数自称占卜师里面有几个矛盾点特别值得关注。第一，；第二，Rujie Shi的投票轨迹跟他的声明对不上。我的结论是Rujie Shi至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "客观来说，来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数0。你觉得这意味着什么？结合欧拉函数投了good name，大吴吴投了good name来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄Rujie Shi": [
+      {
+        "speaker": "Rujie Shi",
+        "text": "Hannoy，我刚整理了一下笔记：我最怀疑大吴吴（昨天记的：我最怀疑good name；Rujie Shi自称陌客）！你那边有什么发现！",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "理性分析的话，理性分析的话，我们来盘一下目前的局势。Hannoy自称调查员，Youmi自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+        "seq": 2
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我不太信大吴吴！他的调查员声明有问题——报身份的时候说得太流畅了，像是提前背好的！真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了！",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "客观来说，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "Rujie Shi",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我大吴吴有问题！理由：Hannoy投了good name，Rujie Shi投了good name里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的Rujie Shi投了good name，Hannoy投了good name完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄大吴吴": [
+      {
+        "speaker": "大吴吴",
+        "text": "综合现有信息，hannoy你好，我是共情者。第一天信息有限，但我注意到一些细节——大吴吴自称共情者，Hannoy自称调查员，Youmi自称图书管理员里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "你刚才提到综合现有信息，hannoy你好，我是共情者。第一天信息有限，但我注意到一些细节——大吴吴自称共情者，，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我们来盘一下目前的局势。大吴吴自称共情者，Hannoy自称调查员，Youmi自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，Hannoy的投票轨迹跟他的声明对不上。我的结论是Hannoy至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "客观来说，我的笔记里记了几件事：我最怀疑大吴吴；大吴吴自称共情者；Hannoy自称共情者（昨天记的：我最怀疑good name；Hannoy自称调查员）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我在想Hannoy的行为能不能用调查员来解释——他自称是调查员，但如果是真调查员，应该会调查员应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "客观来说，从逻辑上看，来，我们对对信息。我的调查员技能告诉我一些事情：查到Rujie Shi是good name。你觉得这意味着什么？结合大吴吴投了good name，Hannoy投了good name来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄欧拉函数": [
+      {
+        "speaker": "Hannoy",
+        "text": "mh，你的占卜师声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说占卜师的时候和现在的说法有出入，你能解释一下吗？第三，你的欧拉函数投了good name，欧拉函数投了Rujie Shi，Hannoy投了good name，Hannoy投了Rujie Shi为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "客观来说，我越来越觉得Rujie Shi有问题。理由是：他的声明是调查员，但他的Hannoy投了good name，Hannoy投了Rujie Shi，欧拉函数投了good name，欧拉函数投了Rujie Shi完全不符合这个身份的行为模式。一个真正的调查员不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "从逻辑上看，理性分析的话，你刚才提到客观来说，我越来越觉得Rujie Shi有问题。理由是：他的声明是调查员，但他的Hannoy投了go，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明mh的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "从逻辑上看，我在想Rujie Shi的行为能不能用调查员来解释——他自称是调查员，但如果是真调查员，应该会调查员应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "综合现有信息，来，我们对对信息。我的调查员技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合欧拉函数投了good name，欧拉函数投了Rujie Shi，Hannoy投了good name，Hannoy投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "text": "来，我们对对信息。我的占卜师技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Hannoy投了good name，Hannoy投了Rujie Shi，欧拉函数投了good name，欧拉函数投了Rujie Shi来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "共情者报数：邪恶数{e}！{neighbor_info}这个{e}意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+    "我不太喜欢带节奏，但这个{target}我实在忍不下去了——他的每一个发言都在编。{claim_str}里面的矛盾点他自己都圆不上，你们真的看不出来吗？",
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。",
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "我是{bluff}。我目前还没有完全确定的结论，但{target}的发言让我非常不舒服——他一直在刻意模仿好人的说话方式，但有些细节露馅了。大家多观察他。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "大吴吴",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "Rujie Shi",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "Hannoy",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "mh",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "Youmi",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "欧拉函数",
+        "target": "good name",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "大吴吴",
+        "target": "Rujie Shi",
+        "day": 2
+      },
+      {
+        "voter": "Hannoy",
+        "target": "Rujie Shi",
+        "day": 2
+      },
+      {
+        "voter": "mh",
+        "target": "Rujie Shi",
+        "day": 2
+      },
+      {
+        "voter": "欧拉函数",
+        "target": "Rujie Shi",
+        "day": 2
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我是共情者！昨晚我左右邪恶数为{e}，{neighbor_info}。如果{e}大于0，我们今天就一定要从这两个邻居开始盘！大家看看他们今天的发言，谁在转移话题谁就在掩饰。",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "我是占卜师，昨晚查验了{chosen0}和{chosen1}，{result}。{demon_verdict}我建议先从{chosen0}开始盘——如果他是好人翻出来，那{chosen1}就是铁邪恶。",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "{target}，你别装了。你刚才说你是{claim}，那你怎么解释你的投票？{vote_str}完全不是{claim}该有的行为模式。你编故事之前能不能先对对台词？",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "占卜师有重要发现！{chosen0}和{chosen1}——{result}。{suggestion}我的查验不会骗人，大家信我的判断。"
+  ],
+  "ended_at": "2026-06-20T17:06:54.607385"
+}

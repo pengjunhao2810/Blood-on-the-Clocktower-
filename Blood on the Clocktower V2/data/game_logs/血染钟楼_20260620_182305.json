@@ -1,0 +1,2114 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T18:22:44.382084",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "大太阳",
+          "context": "私聊香辣鸡腿堡",
+          "action": "从逻辑上看，香辣鸡腿堡你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大太阳",
+          "action": "真的假的？！，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大吴吴的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊香辣鸡腿堡",
+          "action": "观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大太阳",
+          "action": "我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我大吴吴不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊香辣鸡腿堡",
+          "action": "从逻辑上看，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大太阳",
+          "action": "你有没有注意到大吴吴和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊Takai&xingfei",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大太阳",
+          "action": "大太阳，有件事需要直接确认：我首夜查到你是镇长，这是真的吗？我需要你的正面回答才能安排后续策略。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊Takai&xingfei",
+          "action": "理性分析的话，你刚才提到大太阳，有件事需要直接确认：我首夜查到你是镇长，这是真的吗？我需要你的正面回答才能安排后续策略。，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大太阳",
+          "action": "从逻辑上看，我的笔记里记了几件事：我最怀疑大吴吴。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊Takai&xingfei",
+          "action": "我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大太阳",
+          "action": "综合现有信息，观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊progress",
+          "action": "你好progress，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大太阳",
+          "action": "我觉得吧，这个事情是这样的，你刚才提到你好progress，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊progress",
+          "action": "我们来盘一下目前的局势。大太阳自称镇长，progress自称镇长里面有几个矛盾点特别值得关注。第一，progress和大太阳都自称镇长；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大太阳",
+          "action": "真的假的？！，我们来盘一下目前的局势。大太阳自称镇长，progress自称镇长里面有几个矛盾点特别值得关注。第一，progress和大太阳都自称镇长；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审吧啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "私聊progress",
+          "action": "我的笔记里记了几件事：我最怀疑大吴吴；大太阳自称镇长；progress自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大太阳",
+          "action": "真的假的？！，观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大吴吴",
+          "action": "大吴吴你好，我是共情者。第一天信息有限，但我注意到一些细节——大太阳自称镇长，progress自称镇长里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊progress",
+          "action": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大吴吴",
+          "action": "来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居大吴吴、kiod中有坏人。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊progress",
+          "action": "这还用想？，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得progress的问题很大！你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊大吴吴",
+          "action": "我的笔记里记了几件事：大太阳自称镇长；我最怀疑大吴吴；progress自称镇长；progress自称共情者。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊progress",
+          "action": "你有没有注意到progress和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊香辣鸡腿堡",
+          "action": "香辣鸡腿堡，我刚整理了一下笔记：大太阳自称镇长；我最怀疑大吴吴；progress自称镇长；progress自称共情者。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊progress",
+          "action": "我跟你透露一个事：大太阳跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊progress",
+          "action": "这个事情是这样的，我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊progress",
+          "action": "这个事情是这样的，你有没有注意到progress和大太阳的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "综合现有信息，大6你好，我是送葬者。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "可能是我理解错了，我越来越觉得大吴吴有问题。理由是：他的声明是送葬者，但他的完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "从逻辑上看，我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "你刚才提到从逻辑上看，我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "我的笔记里记了几件事：我最怀疑大吴吴；kiod自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "大家怎么看，我们来盘一下目前的局势。kiod自称送葬者里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "理性分析的话，客观来说，你好香辣鸡腿堡，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我们来盘一下目前的局势。kiod自称送葬者里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "我的天，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大太阳的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "这个事情是这样的，我跟你透露一个事：大太阳跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽哦啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Takai&xingfei",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊kiod",
+          "action": "你刚才提到刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Takai&xingfei",
+          "action": "从逻辑上看，你刚才提到你刚才提到刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？，这一，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊kiod",
+          "action": "客观来说，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Takai&xingfei",
+          "action": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊kiod",
+          "action": "我越来越觉得大吴吴有问题。理由是：他的声明是送葬者，但他的完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "你好大吴吴，我是洗衣妇。首夜得知你是镇长——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享。如果你不认，我需要去排查信息干扰来源。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "综合现有信息，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道大吴吴或大太阳之中有镇长。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "这还用想？，我盘了一下目前的线索：加上progress自称共情者，Takai&xingfei自称洗衣妇里面的疑点，指向progress的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "客观来说，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "这还用想？，我们来构建一个完整的推理链：你镇民的角度看progress有问题，我厨师分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊大吴吴",
+          "action": "大家怎么看，刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊大6",
+          "action": "这还用想？，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊大吴吴",
+          "action": "我想问问，来，我们对对信息。我的调查员技能告诉我一些事情：查到大吴吴是香辣鸡腿堡。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊大6",
+          "action": "我盘了一下目前的线索：加上progress自称共情者，Takai&xingfei自称洗衣妇里面的疑点，指向progress的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊大吴吴",
+          "action": "我的笔记里记了几件事：kiod自称送葬者；我最怀疑大吴吴。结合你的信息来看，你觉得我是不是多疑了吧呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊大6",
+          "action": "明摆着的事，我们来构建一个完整的推理链：你镇民的角度看progress有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['大吴吴', 'progress', 'kiod', '大6', '大太阳', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大吴吴: 明摆着的事，progress一直在装好人，但他的马脚已经露出来了：真正的好人被质疑时会拿出自己的信息来对质，progress只会反问——这是邪恶的标准操作。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['大吴吴', 'progress', 'kiod', '大6', '大太阳', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "progress: 我觉得吧，共情者报数：邪恶数1！大吴吴(自称?)，kiod(自称?)这个1意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['大吴吴', 'progress', 'kiod', '大6', '大太阳', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "kiod: 根据我的记录：我最怀疑大吴吴；kiod自称送葬者；我最怀疑progress。。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['大吴吴', 'progress', 'kiod', '大6', '大太阳', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大6: 我不太确定，我来盘一下目前的局面。我查到大吴吴/香辣鸡腿堡可能有红唇女郎的线索，但先私聊确认一下。kiod自称送葬者，。某人。综合这些，我倾向大吴吴/香辣鸡腿堡有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "公聊环节, 存活: ['大吴吴', 'progress', 'kiod', '大6', '大太阳', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大太阳: 我来理一下思路。progress自称镇长里面最让我不安的是progress——他的声明和有冲突。某人。我建议今天就投progress，有不同意见的可以私聊我讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['大吴吴', 'progress', 'kiod', '大6', '大太阳', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "香辣鸡腿堡: 我倒不是要直接锤死大太阳，但我建议大家对比一下大太阳和大太阳的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['大吴吴', 'progress', 'kiod', '大6', '大太阳', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "Takai&xingfei: 基于已公开的信息，洗衣妇报信息：我查到大太阳是镇长，本人已认领。这意味着我们有了一条干净的信息链。大家集中精力盘其他人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "提名progress",
+          "action": "我提名progress。理由如下：第一，他的声明某人有问题；第二，显示他的投票异常；第三，大太阳自称镇长，progress自称镇长里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "被大太阳提名",
+          "action": "我是共情者，我旁边邪恶数为1！处决我的话好人就失去了每晚的邪恶探测——这正中邪恶下怀！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "progress被处决",
+          "action": "处决progress",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "恶魔杀人",
+          "action": "杀害大太阳",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大6",
+          "action": "客观来说，你好大6，我是洗衣妇。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Takai&xingfei",
+          "action": "我不太确定，大家怎么看，我越来越觉得progress有问题。理由是：他的声明是洗衣妇，但他的大6投了progress完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大6",
+          "action": "我们来盘一下目前的局势。kiod自称送葬者，Takai&xingfei自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Takai&xingfei",
+          "action": "我们来盘一下目前的局势。kiod自称送葬者，Takai&xingfei自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，kiod的投票轨迹跟他的声明对不上。我的结论是kiod至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大6",
+          "action": "我的笔记里记了几件事：我最怀疑progress；Takai&xingfei自称洗衣妇；我最怀疑大太阳（昨天记的：Takai&xingfei自称洗衣妇；我最怀疑progress）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Takai&xingfei",
+          "action": "我的笔记里记了几件事：Takai&xingfei自称洗衣妇；我最怀疑progress；我最怀疑kiod（昨天记的：我最怀疑大吴吴；我最怀疑progress）。结合你的信息来看，你觉得我是不是多疑了吧哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "客观来说，理性分析的话，大吴吴，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了progress为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我跟你们说啊，我跟你们说啊，我跟你透露一个事：大吴吴跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我觉得吧，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我大吴吴不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合香辣鸡腿堡投了progress来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大吴吴的问题很大。香辣鸡腿堡投了progress你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "听我分析完再做决定：如果大太阳是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大太阳的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "我想听听你对kiod的看法！你觉得他可信吗？从我的视角看，他的洗衣妇声明有点问题——但我想知道你的判断！毕竟两个人看事情总比一个人全面！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投大太阳。理由我再说一遍：kiod自称送葬者，Takai&xingfei自称洗衣妇和交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "我注意到你一直在观察kiod！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "听我分析完再做决定：如果大太阳是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大太阳的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "跟你聊完我收获很大！今天就先到这里，后面有新的发现再交流！记住：如果kiod有什么异常举动，第一时间告诉我！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的大6投了progress，kiod投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "可能是我理解错了，kiod，我现在公开质疑你。如果你真是好人，请用你的调查员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "大6，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "大家怎么看，我不太确定，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的kiod投了progress，大6投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大6",
+          "action": "理性分析的话，大6，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊kiod",
+          "action": "我新手不太懂，我记一下今天的重点：Takai&xingfei自称洗衣妇；我最怀疑progress；我最怀疑kiod（昨天记的：我最怀疑大吴吴；我最怀疑progress）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大吴吴",
+          "action": "从逻辑上看，你好大吴吴，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊kiod",
+          "action": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大吴吴",
+          "action": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的kiod投了progress完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊kiod",
+          "action": "我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大吴吴",
+          "action": "综合现有信息，观察了一下大6对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊kiod",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得progress的问题很大！kiod投了progress你看了吗？他的投票明显不对劲！你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了progress，kiod投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "我跟你们说啊，你有没有注意到大太阳和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护哦啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "综合现有信息，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了progress，kiod投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "我觉得吧，我复盘了一下大太阳的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊香辣鸡腿堡",
+          "action": "客观来说，大6，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊kiod",
+          "action": "这个事情是这样的，我的天，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大太阳的问题很大。kiod投了progress，香辣鸡腿堡投了progress你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大吴吴",
+          "action": "伪装方案：我厨师，你厨师。管家、厨师、图书管理员里面我优先选前面的，因为信息位身份更有威慑力。你辅助我咬人就行——我主攻，你补刀。剩下管家留着备用。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊香辣鸡腿堡",
+          "action": "明摆着的事，我思考了一下局势：香辣鸡腿堡投了progress说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大吴吴",
+          "action": "我觉得吧，我跟你们说啊，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。大太阳自称镇长，kiod自称送葬者里面已经有人开始信我们的假信息了。接下来继续保持压力，让大太阳成为焦点。只要好人在大太阳身上浪费一轮处决，我们就赚了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我盘了一下目前的线索：香辣鸡腿堡投了progress加上progress自称共情者，Takai&xingfei自称洗衣妇，kiod自称送葬者里面的疑点，指向kiod的嫌疑最大！我们可以拿这套逻辑去公聊推动投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大吴吴",
+          "action": "我跟你们说啊，今晚刀大太阳，白天的公聊目标也是大太阳。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊香辣鸡腿堡",
+          "action": "今晚刀kiod，白天的公聊目标也是kiod！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['大吴吴', 'kiod', '大6', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大吴吴: 我站厨师这个立场说话可能要得罪人，但我不在乎——progress的问题太明显了！厨师结果显示有1对相邻邪恶——kiod和大6坐在一起不是巧合，他们很可能是搭档！如果有谁有不同意见，请拿出实锤证据来反驳我！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['大吴吴', 'kiod', '大6', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "progress(已死亡): 我跟你们说啊，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑大太阳，理由是我观察到大太阳自称镇长，progress自称镇长里面的矛盾点和kiod投了progress，大6投了progress，大太阳投了progress，香辣鸡腿堡投了progress的异常。活着的兄弟们，帮我报仇啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['大吴吴', 'kiod', '大6', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "kiod: 我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于某个投票的动机，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己。大6，你有什么想说的吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['大吴吴', 'kiod', '大6', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大6: 我是调查员！我查出大吴吴/香辣鸡腿堡是红唇女郎——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "公聊环节, 存活: ['大吴吴', 'kiod', '大6', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大太阳(已死亡): 死者的话最客观。我回顾了整个游戏过程，progress的嫌疑最大。他的声明是大太阳自称镇长，progress自称镇长，大6自称调查员，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['大吴吴', 'kiod', '大6', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "香辣鸡腿堡: 我直接点名大太阳。你是?？但你的发言里漏洞太多——大太阳，你解释一下为什么kiod投了progress，大6投了progress，大太阳投了progress，香辣鸡腿堡投了progress？一个真正的?不会有这样的投票记录。你根本就是在编！大家看清楚，大太阳的表演到这里就该结束了。今天必须出他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['大吴吴', 'kiod', '大6', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "Takai&xingfei: 公聊同步：我的首夜查验大太阳是镇长已确认。这是我的金水，请大家不要浪费处决机会在他身上。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "提名kiod",
+          "action": "我提名kiod。理由如下：第一，他的声明某人有问题；第二，kiod投了progress，大6投了progress，大太阳投了progress，香辣鸡腿堡投了progress显示他的投票异常；第三，kiod自称送葬者，Takai&xingfei自称洗衣妇，大6自称调查员里面有矛盾指向他。请大家投票处决哈。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "被大6提名",
+          "action": "请大家冷静。大6的指控有几个漏洞：第一，我感觉，他说的证据根本不存在；第二，他自己的某人声明本身就疑点重重；第三，kiod投了progress，大6投了progress，大太阳投了progress，香辣鸡腿堡投了progress里他自己的投票也很奇怪。与其处决我，不如先查查大6自己。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "kiod被处决",
+          "action": "处决kiod",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "恶魔杀人",
+          "action": "杀害大6",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "综合现有信息，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "我敢肯定，这还用想？，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "从逻辑上看，今天就到这。我们的共识是：大吴吴是第一嫌疑人。明天根据处决结果再调整策略。如果大吴吴是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "别绕弯子，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊大吴吴",
+          "action": "从逻辑上看，我记一下今天的重点：我最怀疑大太阳（昨天记的：我最怀疑大太阳；大6自称调查员）。明天继续跟进，有新情况随时找我。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Takai&xingfei",
+          "action": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我跟你们说啊，我跟你们说啊，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我大太阳不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod，Takai&xingfei投了kiod完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我觉得吧，真的假的？！，你有没有注意到大太阳和大吴吴的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "理性分析的话，大吴吴，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大太阳的问题很大。Takai&xingfei投了kiod，香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大吴吴",
+          "action": "我的天，确认攻击目标：大太阳。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从大吴吴投了kiod，香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod看他投票有明显倾向；第三他在大6自称调查员里面的定位是信息位，威胁最大。今天集中火力搞他吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我直接说了，今晚刀香辣鸡腿堡，白天的公聊目标也是香辣鸡腿堡！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大吴吴",
+          "action": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊香辣鸡腿堡",
+          "action": "明摆着的事，排练一下明天的公聊剧本！我先说：'我是厨师，我查到香辣鸡腿堡有问题！'然后你接：'巧了，我也在怀疑香辣鸡腿堡，因为香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod，大吴吴投了kiod！'注意你的语气要像临时发现而不是商量好的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊大吴吴",
+          "action": "排练一下明天的公聊剧本。我先说：'我是厨师，我查到大太阳有问题。'然后你接：'巧了，我也在怀疑大太阳，因为大吴吴投了kiod，香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod。'注意你的语气要像临时发现而不是商量好的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊香辣鸡腿堡",
+          "action": "明摆着的事，模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['大吴吴', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大吴吴: 明摆着的事，我不太喜欢带节奏，但这个progress我实在忍不下去了——他的每一个发言都在编！kiod自称送葬者，大6自称调查员，香辣鸡腿堡自称厨师里面的矛盾点他自己都圆不上，你们真的看不出来吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['大吴吴', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "progress(已死亡): 死者的话最客观。我回顾了整个游戏过程，大太阳的嫌疑最大。他的声明是大太阳自称镇长，progress自称镇长，大6自称调查员，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['大吴吴', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "kiod(已死亡): 客观来说，我是送葬者，昨天被处决的是共情者。处决错了……我建议大家复盘一下投票——那些带头投他的人里必然有邪恶在推波助澜。特别是kiod投了progress，大6投了progress，大太阳投了progress，香辣鸡腿堡投了progress里面跟票最快的那几个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['大吴吴', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大6(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑kiod，理由是我观察到Takai&xingfei自称洗衣妇，大6自称调查员，kiod自称送葬者里面的矛盾点和kiod投了progress，大6投了progress，大太阳投了progress，香辣鸡腿堡投了progress的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大太阳",
+          "context": "公聊环节, 存活: ['大吴吴', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "大太阳(已死亡): 死者的话最客观。我回顾了整个游戏过程，香辣鸡腿堡的嫌疑最大。他的声明是大太阳自称镇长，progress自称镇长，大6自称调查员，kiod自称送葬者，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['大吴吴', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "香辣鸡腿堡: 真的假的？！，我注意到一个细节：某人。让我想想，这跟大太阳的表现完全吻合——他就是有问题。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['大吴吴', '香辣鸡腿堡', 'Takai&xingfei']",
+          "action": "Takai&xingfei: 公聊同步：我的首夜查验大太阳是镇长已确认。这是我的金水，请大家不要浪费处决机会在他身上。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "提名大吴吴",
+          "action": "我提名大吴吴。理由如下：第一，他的声明某人有问题；第二，kiod投了progress，大6投了progress，大太阳投了progress，香辣鸡腿堡投了progress显示他的投票异常；第三，大6自称调查员，kiod自称送葬者里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "被Takai&xingfei提名",
+          "action": "哎，我承认我的发言确实不完美，但这正是我是好人的证明——邪恶会排练好每一句话，只有好人才会有瑕疵。Takai&xingfei恰恰是因为我发言不'完美'才指控我——这不就是欲加之罪吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "大吴吴被处决",
+          "action": "处决大吴吴",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "香辣鸡腿堡, Takai&xingfei",
+  "players": [
+    "大吴吴",
+    "progress",
+    "kiod",
+    "大6",
+    "大太阳",
+    "香辣鸡腿堡",
+    "Takai&xingfei"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "progress": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 0
+        }
+      ],
+      "大6": [
+        {
+          "key": "investigator",
+          "text": "大吴吴 和 香辣鸡腿堡 中有一人是 红唇女郎",
+          "day": 0
+        }
+      ],
+      "Takai&xingfei": [
+        {
+          "key": "washerwoman",
+          "text": "大吴吴 和 大太阳 中有一人是 镇长",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "大太阳": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        }
+      ],
+      "progress": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 1
+        }
+      ],
+      "kiod": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 共情者",
+          "day": 1
+        }
+      ],
+      "大6": [
+        {
+          "key": "investigator",
+          "text": "大吴吴 和 香辣鸡腿堡 中有一人是 红唇女郎",
+          "day": 1
+        }
+      ],
+      "Takai&xingfei": [
+        {
+          "key": "washerwoman",
+          "text": "大吴吴 和 大太阳 中有一人是 镇长",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "大6": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        },
+        {
+          "key": "investigator",
+          "text": "大吴吴 和 香辣鸡腿堡 中有一人是 红唇女郎",
+          "day": 2
+        }
+      ],
+      "progress": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 2
+        }
+      ],
+      "kiod": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 共情者",
+          "day": 2
+        }
+      ],
+      "Takai&xingfei": [
+        {
+          "key": "washerwoman",
+          "text": "大吴吴 和 大太阳 中有一人是 镇长",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "大太阳🔄香辣鸡腿堡": [
+      {
+        "speaker": "大太阳",
+        "text": "从逻辑上看，香辣鸡腿堡你好，我是镇长。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "真的假的？！，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大吴吴的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 2
+      },
+      {
+        "speaker": "大太阳",
+        "text": "观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我大吴吴不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "大太阳",
+        "text": "从逻辑上看，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "你有没有注意到大吴吴和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护哦。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄大太阳": [
+      {
+        "speaker": "大太阳",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "大太阳，有件事需要直接确认：我首夜查到你是镇长，这是真的吗？我需要你的正面回答才能安排后续策略。",
+        "seq": 2
+      },
+      {
+        "speaker": "大太阳",
+        "text": "理性分析的话，你刚才提到大太阳，有件事需要直接确认：我首夜查到你是镇长，这是真的吗？我需要你的正面回答才能安排后续策略。，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "从逻辑上看，我的笔记里记了几件事：我最怀疑大吴吴。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "大太阳",
+        "text": "我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "综合现有信息，观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "progress🔄大太阳": [
+      {
+        "speaker": "大太阳",
+        "text": "你好progress，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "progress",
+        "text": "我觉得吧，这个事情是这样的，你刚才提到你好progress，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "大太阳",
+        "text": "我们来盘一下目前的局势。大太阳自称镇长，progress自称镇长里面有几个矛盾点特别值得关注。第一，progress和大太阳都自称镇长；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "progress",
+        "text": "真的假的？！，我们来盘一下目前的局势。大太阳自称镇长，progress自称镇长里面有几个矛盾点特别值得关注。第一，progress和大太阳都自称镇长；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审吧啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "大太阳",
+        "text": "我的笔记里记了几件事：我最怀疑大吴吴；大太阳自称镇长；progress自称镇长。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "progress",
+        "text": "真的假的？！，观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "progress🔄大吴吴": [
+      {
+        "speaker": "progress",
+        "text": "大吴吴你好，我是共情者。第一天信息有限，但我注意到一些细节——大太阳自称镇长，progress自称镇长里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居大吴吴、kiod中有坏人。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "这还用想？，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得progress的问题很大！你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "我的笔记里记了几件事：大太阳自称镇长；我最怀疑大吴吴；progress自称镇长；progress自称共情者。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "你有没有注意到progress和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 6
+      }
+    ],
+    "progress🔄香辣鸡腿堡": [
+      {
+        "speaker": "progress",
+        "text": "香辣鸡腿堡，我刚整理了一下笔记：大太阳自称镇长；我最怀疑大吴吴；progress自称镇长；progress自称共情者。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你透露一个事：大太阳跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这个事情是这样的，我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这个事情是这样的，你有没有注意到progress和大太阳的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 6
+      }
+    ],
+    "kiod🔄大6": [
+      {
+        "speaker": "kiod",
+        "text": "综合现有信息，大6你好，我是送葬者。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "可能是我理解错了，我越来越觉得大吴吴有问题。理由是：他的声明是送葬者，但他的完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "从逻辑上看，我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "你刚才提到从逻辑上看，我越来越觉得大吴吴有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的笔记里记了几件事：我最怀疑大吴吴；kiod自称送葬者。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，我们来盘一下目前的局势。kiod自称送葬者里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上哦。",
+        "seq": 6
+      },
+      {
+        "speaker": "kiod",
+        "text": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的大6投了progress，kiod投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "大6",
+        "text": "可能是我理解错了，kiod，我现在公开质疑你。如果你真是好人，请用你的调查员技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 8
+      },
+      {
+        "speaker": "kiod",
+        "text": "大6，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 9
+      },
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，我不太确定，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的送葬者声明前后不一致；第二，你的kiod投了progress，大6投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+        "seq": 10
+      },
+      {
+        "speaker": "kiod",
+        "text": "理性分析的话，大6，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "大6",
+        "text": "我新手不太懂，我记一下今天的重点：Takai&xingfei自称洗衣妇；我最怀疑progress；我最怀疑kiod（昨天记的：我最怀疑大吴吴；我最怀疑progress）。明天继续跟进，有新情况随时找我。",
+        "seq": 12
+      }
+    ],
+    "kiod🔄香辣鸡腿堡": [
+      {
+        "speaker": "kiod",
+        "text": "理性分析的话，客观来说，你好香辣鸡腿堡，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "我们来盘一下目前的局势。kiod自称送葬者里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的天，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大太阳的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这个事情是这样的，我跟你透露一个事：大太阳跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽哦啊。",
+        "seq": 6
+      },
+      {
+        "speaker": "kiod",
+        "text": "我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了progress，kiod投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你们说啊，你有没有注意到大太阳和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护哦啊。",
+        "seq": 8
+      },
+      {
+        "speaker": "kiod",
+        "text": "综合现有信息，我忍你很久了大6。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了progress，kiod投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我觉得吧，我复盘了一下大太阳的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式吧哦。",
+        "seq": 10
+      },
+      {
+        "speaker": "kiod",
+        "text": "客观来说，大6，我现在公开质疑你。如果你真是好人，请用你的送葬者技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "这个事情是这样的，我的天，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大太阳的问题很大。kiod投了progress，香辣鸡腿堡投了progress你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 12
+      }
+    ],
+    "Takai&xingfei🔄kiod": [
+      {
+        "speaker": "kiod",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "你刚才提到刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "从逻辑上看，你刚才提到你刚才提到刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？，这一，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大吴吴的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "客观来说，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我越来越觉得大吴吴有问题。理由是：他的声明是送葬者，但他的完全不符合这个身份的行为模式。一个真正的送葬者不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄大吴吴": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "你好大吴吴，我是洗衣妇。首夜得知你是镇长——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享。如果你不认，我需要去排查信息干扰来源。",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "综合现有信息，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道大吴吴或大太阳之中有镇长。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "这还用想？，我盘了一下目前的线索：加上progress自称共情者，Takai&xingfei自称洗衣妇里面的疑点，指向progress的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "客观来说，我在想大吴吴的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "这还用想？，我们来构建一个完整的推理链：你镇民的角度看progress有问题，我厨师分析一下也得出同样结论！一个查验结论加上一个推理结论，在好人眼里就是双重证据！",
+        "seq": 6
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "听我分析完再做决定：如果大太阳是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大太阳的风险是可控的，收益却是巨大的。",
+        "seq": 7
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我想听听你对kiod的看法！你觉得他可信吗？从我的视角看，他的洗衣妇声明有点问题——但我想知道你的判断！毕竟两个人看事情总比一个人全面！",
+        "seq": 8
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投大太阳。理由我再说一遍：kiod自称送葬者，Takai&xingfei自称洗衣妇和交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 9
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我注意到你一直在观察kiod！你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认！",
+        "seq": 10
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "听我分析完再做决定：如果大太阳是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大太阳的风险是可控的，收益却是巨大的。",
+        "seq": 11
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "跟你聊完我收获很大！今天就先到这里，后面有新的发现再交流！记住：如果kiod有什么异常举动，第一时间告诉我！",
+        "seq": 12
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "综合现有信息，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 13
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我敢肯定，这还用想？，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 14
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "从逻辑上看，今天就到这。我们的共识是：大吴吴是第一嫌疑人。明天根据处决结果再调整策略。如果大吴吴是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标。",
+        "seq": 15
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "别绕弯子，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词！这本身就是最大的破绽！",
+        "seq": 16
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "从逻辑上看，我记一下今天的重点：我最怀疑大太阳（昨天记的：我最怀疑大太阳；大6自称调查员）。明天继续跟进，有新情况随时找我。",
+        "seq": 17
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答！好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 18
+      }
+    ],
+    "大6🔄大吴吴": [
+      {
+        "speaker": "大6",
+        "text": "大家怎么看，刚才你说的你的发言，我也想聊聊这个话题。我的看法是大吴吴确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "这还用想？，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "我想问问，来，我们对对信息。我的调查员技能告诉我一些事情：查到大吴吴是香辣鸡腿堡。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我盘了一下目前的线索：加上progress自称共情者，Takai&xingfei自称洗衣妇里面的疑点，指向progress的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "我的笔记里记了几件事：kiod自称送葬者；我最怀疑大吴吴。结合你的信息来看，你觉得我是不是多疑了吧呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "明摆着的事，我们来构建一个完整的推理链：你镇民的角度看progress有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄大6": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "客观来说，你好大6，我是洗衣妇。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "我不太确定，大家怎么看，我越来越觉得progress有问题。理由是：他的声明是洗衣妇，但他的大6投了progress完全不符合这个身份的行为模式。一个真正的洗衣妇不会这样投票。你分析一下是不是这个理呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我们来盘一下目前的局势。kiod自称送葬者，Takai&xingfei自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，大吴吴的投票轨迹跟他的声明对不上。我的结论是大吴吴至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "我们来盘一下目前的局势。kiod自称送葬者，Takai&xingfei自称洗衣妇里面有几个矛盾点特别值得关注。第一，；第二，kiod的投票轨迹跟他的声明对不上。我的结论是kiod至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的笔记里记了几件事：我最怀疑progress；Takai&xingfei自称洗衣妇；我最怀疑大太阳（昨天记的：Takai&xingfei自称洗衣妇；我最怀疑progress）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "我的笔记里记了几件事：Takai&xingfei自称洗衣妇；我最怀疑progress；我最怀疑kiod（昨天记的：我最怀疑大吴吴；我最怀疑progress）。结合你的信息来看，你觉得我是不是多疑了吧哦。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄香辣鸡腿堡": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "客观来说，理性分析的话，大吴吴，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的香辣鸡腿堡投了progress为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你们说啊，我跟你们说啊，我跟你透露一个事：大吴吴跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "观察了一下大吴吴对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我觉得吧，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我大吴吴不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "来，我们对对信息。我的洗衣妇技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合香辣鸡腿堡投了progress来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大吴吴的问题很大。香辣鸡腿堡投了progress你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 6
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你们说啊，我跟你们说啊，我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我大太阳不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+        "seq": 8
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我忍你很久了大吴吴。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod，Takai&xingfei投了kiod完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我觉得吧，真的假的？！，你有没有注意到大太阳和大吴吴的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 10
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "理性分析的话，大吴吴，我现在公开质疑你。如果你真是好人，请用你的洗衣妇技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得大太阳的问题很大。Takai&xingfei投了kiod，香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 12
+      }
+    ],
+    "kiod🔄大吴吴": [
+      {
+        "speaker": "kiod",
+        "text": "从逻辑上看，你好大吴吴，我是送葬者。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式！",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "我越来越觉得大6有问题。理由是：他的声明是身份不明，但他的kiod投了progress完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留！你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的！",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "综合现有信息，观察了一下大6对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇！但我信得过你，我觉得progress的问题很大！kiod投了progress你看了吗？他的投票明显不对劲！你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "大吴吴🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "伪装方案：我厨师，你厨师。管家、厨师、图书管理员里面我优先选前面的，因为信息位身份更有威慑力。你辅助我咬人就行——我主攻，你补刀。剩下管家留着备用。",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "明摆着的事，我思考了一下局势：香辣鸡腿堡投了progress说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我觉得吧，我跟你们说啊，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。大太阳自称镇长，kiod自称送葬者里面已经有人开始信我们的假信息了。接下来继续保持压力，让大太阳成为焦点。只要好人在大太阳身上浪费一轮处决，我们就赚了。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我盘了一下目前的线索：香辣鸡腿堡投了progress加上progress自称共情者，Takai&xingfei自称洗衣妇，kiod自称送葬者里面的疑点，指向kiod的嫌疑最大！我们可以拿这套逻辑去公聊推动投票！",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我跟你们说啊，今晚刀大太阳，白天的公聊目标也是大太阳。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "今晚刀kiod，白天的公聊目标也是kiod！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+        "seq": 6
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我的天，确认攻击目标：大太阳。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从大吴吴投了kiod，香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod看他投票有明显倾向；第三他在大6自称调查员里面的定位是信息位，威胁最大。今天集中火力搞他吧。",
+        "seq": 7
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "我直接说了，今晚刀香辣鸡腿堡，白天的公聊目标也是香辣鸡腿堡！我们双管齐下：晚上物理消灭，白天舆论消灭！即使他晚上不死，白天也要让他出局！",
+        "seq": 8
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+        "seq": 9
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "明摆着的事，排练一下明天的公聊剧本！我先说：'我是厨师，我查到香辣鸡腿堡有问题！'然后你接：'巧了，我也在怀疑香辣鸡腿堡，因为香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod，大吴吴投了kiod！'注意你的语气要像临时发现而不是商量好的！",
+        "seq": 10
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "排练一下明天的公聊剧本。我先说：'我是厨师，我查到大太阳有问题。'然后你接：'巧了，我也在怀疑大太阳，因为大吴吴投了kiod，香辣鸡腿堡投了progress，香辣鸡腿堡投了kiod。'注意你的语气要像临时发现而不是商量好的。",
+        "seq": 11
+      },
+      {
+        "speaker": "大吴吴",
+        "text": "明摆着的事，模拟一下被质疑时的应对！如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到！'自然带过，不要过度解释——越解释越可疑！",
+        "seq": 12
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "共情者报数：邪恶数{e}！{neighbor_info}这个{e}意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+    "我来理一下思路。{claim_str}里面最让我不安的是{target}——他的声明和{vote_str}有冲突。{info_or_opinion}。我建议今天就投{target}，有不同意见的可以私聊我讨论。",
+    "{target}一直在装好人，但他的马脚已经露出来了：{contradict_str}真正的好人被质疑时会拿出自己的信息来对质，{target}只会反问——这是邪恶的标准操作。{baron_tip}",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "我倒不是要直接锤死{target}，但我建议大家对比一下{target}和{other}的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。{baron_tip}",
+    "洗衣妇报信息：我查到{target}是{ww_role}，本人已认领。这意味着我们有了一条干净的信息链。大家集中精力盘其他人。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "kiod",
+        "target": "progress",
+        "day": 1
+      },
+      {
+        "voter": "大6",
+        "target": "progress",
+        "day": 1
+      },
+      {
+        "voter": "大太阳",
+        "target": "progress",
+        "day": 1
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "progress",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "大吴吴",
+        "target": "kiod",
+        "day": 2
+      },
+      {
+        "voter": "大6",
+        "target": "kiod",
+        "day": 2
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "kiod",
+        "day": 2
+      },
+      {
+        "voter": "Takai&xingfei",
+        "target": "kiod",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "大吴吴",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "大太阳",
+        "target": "progress",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "大6",
+        "target": "kiod",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "Takai&xingfei",
+        "target": "大吴吴",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。{baron_tip}",
+    "我站{bluff}这个立场说话可能要得罪人，但我不在乎——{target}的问题太明显了。{fake_info}如果有谁有不同意见，请拿出实锤证据来反驳我。{baron_tip}",
+    "公聊同步：我的首夜查验{target}是{ww_role}已确认。这是我的金水，请大家不要浪费处决机会在他身上。"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "我不太喜欢带节奏，但这个{target}我实在忍不下去了——他的每一个发言都在编。{claim_str}里面的矛盾点他自己都圆不上，你们真的看不出来吗？{baron_tip}",
+    "我注意到一个细节：{my_note}。这跟{target}的表现完全吻合——他就是有问题。{baron_tip}",
+    "公聊同步：我的首夜查验{target}是{ww_role}已确认。这是我的金水，请大家不要浪费处决机会在他身上。"
+  ],
+  "ended_at": "2026-06-20T18:23:05.983894"
+}

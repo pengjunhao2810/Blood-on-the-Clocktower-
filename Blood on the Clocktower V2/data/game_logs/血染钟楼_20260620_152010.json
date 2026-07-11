@@ -1,0 +1,1860 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T15:20:00.483372",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "理性分析的话，good name你好，我是士兵。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊good name",
+          "action": "基于已公开的信息，客观来说，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大吴吴",
+          "action": "我想问问，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Star",
+          "action": "Star，我刚整理了一下笔记：我最怀疑Star；大吴吴自称士兵。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大吴吴",
+          "action": "我的占卜师技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Star",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大吴吴",
+          "action": "我的天，你有没有注意到good name和猪头鹰的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Star",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大吴吴",
+          "action": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊猪头鹰",
+          "action": "猪头鹰你好，我是士兵。第一天信息有限，但我注意到一些细节——大吴吴自称士兵里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊大吴吴",
+          "action": "客观来说，我越来越觉得Star有问题。理由是：他的声明是士兵，但他的暂无投票完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊猪头鹰",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊大吴吴",
+          "action": "我的笔记里记了几件事：大吴吴自称士兵；我最怀疑Star。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊猪头鹰",
+          "action": "基于已公开的信息，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊大吴吴",
+          "action": "理性分析的话，客观来说，来，我们对对信息。我的守鸦人技能告诉我一些事情：我是守鸦人，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊琥珀王",
+          "action": "客观来说，琥珀王你好，我是守鸦人。第一天信息有限，但我注意到一些细节——大吴吴自称士兵，猪头鹰自称守鸦人里面有些人的声明不太自然。你同感吗？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊猪头鹰",
+          "action": "基于已公开的信息，你有没有注意到Star和大吴吴的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊琥珀王",
+          "action": "基于已公开的信息，我们来盘一下目前的局势。大吴吴自称士兵，猪头鹰自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊猪头鹰",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Star的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊琥珀王",
+          "action": "客观来说，来，我们对对信息。我的守鸦人技能告诉我一些事情：我是守鸦人，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊猪头鹰",
+          "action": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊Run",
+          "action": "基于已公开的信息，run你好，我是守鸦人。第一天信息有限，但我注意到一些细节——大吴吴自称士兵，猪头鹰自称守鸦人里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊猪头鹰",
+          "action": "我想问问，我的笔记里记了几件事：猪头鹰自称守鸦人；我最怀疑Star。结合你的信息来看，你觉得我是不是多疑了？。 我的结果是{result}对相邻邪恶。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊Run",
+          "action": "我们来盘一下目前的局势。大吴吴自称士兵，猪头鹰自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊猪头鹰",
+          "action": "大家怎么看，我不太确定，我们来盘一下目前的局势。猪头鹰自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。 我的结果是{result}对相邻邪恶。你知道谁坐你旁边吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "私聊Run",
+          "action": "我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊猪头鹰",
+          "action": "来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数0。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊琥珀王",
+          "action": "我想问问，琥珀王你好，我是镇长。第一天信息有限，但我注意到一些细节——大吴吴自称士兵里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊good name",
+          "action": "我复盘了一下Star的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊琥珀王",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊good name",
+          "action": "我的图书管理员技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊琥珀王",
+          "action": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊good name",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Star的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "可能是我理解错了，大家怎么看，你好欧拉函数，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Star",
+          "action": "理性分析的话，分配收到，我拿图书管理员没问题。不过我想换一下策略：我先在公聊假装质疑你占卜师，然后你巧妙回应解除我的'怀疑'——这样我俩的信任度都能提升。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊琥珀王",
+          "action": "真的假的？！，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让good name成为焦点。只要好人在good name身上浪费一轮处决，我们就赚了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Star",
+          "action": "目前猪头鹰自称守鸦人，good name自称镇长分析下来，Star是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从暂无投票看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊琥珀王",
+          "action": "你看这个局势：好人的信息越多他们就吵得越厉害。暂无矛盾这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Star",
+          "action": "目标锁定：Star。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊琥珀王",
+          "action": "今晚刀good name，白天的公聊目标也是good name。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊欧拉函数",
+          "action": "你好欧拉函数，我是厨师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？。为什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Run",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊欧拉函数",
+          "action": "大家怎么看，大家怎么看，我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Run",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊欧拉函数",
+          "action": "来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数0。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊Run",
+          "action": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我Star有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "Star你好，我是厨师。第一天信息有限，但我注意到一些细节——猪头鹰自称守鸦人，Run自称厨师里面有些人的声明不太自然。你同感吗呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？ 我的结果是{result}对相邻邪恶。你知道谁坐你旁边吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "私聊Star",
+          "action": "我们来盘一下目前的局势。猪头鹰自称守鸦人，Run自称厨师里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。 合作好。你告诉我你查到的人，我来看看他邻座是否吻合。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Run",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', 'Run', '猪头鹰', '大吴吴']",
+          "action": "Star: 我倒不是要直接锤死good name，但我建议大家对比一下good name和Run的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', 'Run', '猪头鹰', '大吴吴']",
+          "action": "good name: 可能是我理解错了，大家好，我是镇长。我来分析一下目前的局势：暂时没有关键信息。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。我会重点观察Star。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', 'Run', '猪头鹰', '大吴吴']",
+          "action": "欧拉函数: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前good name自称镇长，Run自称厨师，而投票记录显示。这些线索综合来看，我的我会重点观察Star！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', 'Run', '猪头鹰', '大吴吴']",
+          "action": "琥珀王: 我是图书管理员，我有个重大发现：图书管理员查到了：大吴吴根本不是他说的那个身份。他为什么撒谎？因为他是邪恶！兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', 'Run', '猪头鹰', '大吴吴']",
+          "action": "Run: 根据我的记录：我最怀疑Star；Run自称厨师；good name自称镇长。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', 'Run', '猪头鹰', '大吴吴']",
+          "action": "猪头鹰: 根据我的记录：我最怀疑Star；猪头鹰自称守鸦人；good name自称镇长。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', 'Run', '猪头鹰', '大吴吴']",
+          "action": "大吴吴: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息。目前猪头鹰自称守鸦人，good name自称镇长，琥珀王自称图书管理员，而投票记录显示。这些线索综合来看，我的我会重点观察Star。希望大家也分享一下自己的观点。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "提名Star",
+          "action": "我提名Star。理由如下：第一，他的声明某人有问题；第二，暂无记录显示他的投票异常；第三，good name自称镇长，Run自称厨师，琥珀王自称图书管理员里面有矛盾指向他。请大家投票处决啊。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "被欧拉函数提名",
+          "action": "大家别被欧拉函数带偏了！欧拉函数的指控完全站不住脚——他没有拿出任何实锤证据，全靠推测。这个游戏不是靠感觉就能定罪的好吗？请大家理性投票。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "提名good name",
+          "action": "我提名good name。理由如下：第一，他的声明某人有问题；第二，Run投了Star，猪头鹰投了Star，大吴吴投了Star显示他的投票异常；第三，猪头鹰自称守鸦人，Run自称厨师，good name自称镇长，琥珀王自称图书管理员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被Run提名",
+          "action": "我是镇长！镇长活着才有用——只有3人存活时我能直接带来胜利。处决我是最差的选择！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "提名猪头鹰",
+          "action": "我提名猪头鹰。理由如下：第一，他的声明某人有问题；第二，Run投了Star，猪头鹰投了Star，大吴吴投了Star，琥珀王投了good name显示他的投票异常；第三，大吴吴自称士兵，猪头鹰自称守鸦人，good name自称镇长，琥珀王自称图书管理员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "被大吴吴提名",
+          "action": "我理解大家的怀疑，但我真的是好人。我的角色是酒鬼，虽然能力不强，但我的立场是明确的。请大家不要浪费处决机会在我身上——我建议去查猪头鹰，他才是真正有问题的人。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "猪头鹰被处决",
+          "action": "处决猪头鹰",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "恶魔杀人",
+          "action": "杀害Run",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊欧拉函数",
+          "action": "基于已公开的信息，嘿欧拉函数，我是图书管理员。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊琥珀王",
+          "action": "来，我们对对信息。我的管家技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊欧拉函数",
+          "action": "客观来说，我的图书管理员技能虽然没有直接查到铁证，但我的直觉告诉我猪头鹰不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊琥珀王",
+          "action": "我的笔记里记了几件事：我最怀疑Run（昨天记的：我最怀疑Star；Run自称厨师）！结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊欧拉函数",
+          "action": "综合现有信息，我跟你透露一个事：猪头鹰跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊琥珀王",
+          "action": "我们来盘一下目前的局势！good name自称镇长，Run自称厨师，琥珀王自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Run的投票轨迹跟他的声明对不上！我的结论是Run至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊大吴吴",
+          "action": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是图书管理员，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊琥珀王",
+          "action": "我的笔记里记了几件事：我最怀疑猪头鹰（昨天记的：猪头鹰自称守鸦人；good name自称镇长）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊大吴吴",
+          "action": "被怀疑了，别慌。我教你反制：你先发制人去质疑猪头鹰——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊琥珀王",
+          "action": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合琥珀王投了good name，琥珀王投了猪头鹰，大吴吴投了Star，大吴吴投了猪头鹰来分析，重点嫌疑人应该已经很明显了。 好，我当肉盾。你负责查人，我负责活到最后替你说话。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊大吴吴",
+          "action": "从逻辑上看，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊琥珀王",
+          "action": "综合现有信息，我们来盘一下目前的局势。大吴吴自称士兵，猪头鹰自称守鸦人，good name自称镇长，琥珀王自称图书管理员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。 你的信息我记住了。我来保你，你专心验人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊good name",
+          "action": "综合现有信息，客观来说，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊琥珀王",
+          "action": "我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的图书管理员声明前后不一致；第二，你的琥珀王投了good name，琥珀王投了猪头鹰完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊good name",
+          "action": "综合现有信息，情况不对，猪头鹰开始反击了。我们需要立刻转移焦点——你跳出来说欧拉函数更可疑，我配合你。理由就说欧拉函数的投票记录不对——琥珀王投了good name，琥珀王投了猪头鹰里面他投的票全是跟风。记住：最好的防守就是进攻。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊琥珀王",
+          "action": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊good name",
+          "action": "情况不对，猪头鹰开始反击了。我们需要立刻转移焦点——你跳出来说Star更可疑，我配合你。理由就说Star的投票记录不对——琥珀王投了good name，琥珀王投了猪头鹰里面他投的票全是跟风。记住：最好的防守就是进攻。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊琥珀王",
+          "action": "今天就到这。我们的共识是：大吴吴是第一嫌疑人。明天根据处决结果再调整策略。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "我直接说了，明摆着的事，run，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切！真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者！ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "理性分析的话，综合现有信息，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：大吴吴投了Star，大吴吴投了猪头鹰里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "我敢肯定，我越来越觉得Run有问题！理由是：他的声明是身份不明，但他的大吴吴投了Star，大吴吴投了猪头鹰完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：大吴吴投了Star，大吴吴投了猪头鹰里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 你的信息我记住了。我来保你，你专心验人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊大吴吴",
+          "action": "我直接说了，我敢肯定，我们来盘一下目前的局势！good name自称镇长，Run自称厨师，琥珀王自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Run的投票轨迹跟他的声明对不上！我的结论是Run至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊欧拉函数",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：大吴吴投了Star，大吴吴投了猪头鹰里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "听我分析完再做决定：如果Run是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投Run的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：大吴吴自称士兵，good name自称镇长，琥珀王自称图书管理员和暂无投票交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Run。理由我再说一遍：good name自称镇长，Run自称厨师，琥珀王自称图书管理员和暂无投票交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "大家怎么看，听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "私聊good name",
+          "action": "这还用想？，我直接说了，我知道你可能还在犹豫，但我真的建议你今天投Run。理由我再说一遍：good name自称镇长，Run自称厨师，琥珀王自称图书管理员和暂无投票交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊欧拉函数",
+          "action": "分头行动：我盯着大吴吴的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出大吴吴。如果他翻出是好人，我们就从保过他的人里继续盘哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊good name",
+          "action": "你好good name，我是占卜师。想跟你聊聊对局势的看法。Run自称厨师，good name自称镇长，琥珀王自称图书管理员里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看大吴吴这个人哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Star",
+          "action": "我越来越觉得大吴吴有问题。理由是：他的声明是占卜师，但他的Star投了猪头鹰完全不符合这个身份的行为模式。一个真正的占卜师不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊good name",
+          "action": "真的假的？！，我复盘了一下大吴吴的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Star",
+          "action": "我的笔记里记了几件事：我最怀疑琥珀王；我最怀疑大吴吴；Star自称占卜师（昨天记的：我最怀疑Star；good name自称镇长）。结合你的信息来看，你觉得我是不是多疑了哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊good name",
+          "action": "这个事情是这样的，你有没有注意到大吴吴和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Star",
+          "action": "可能是我理解错了，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Star投了猪头鹰来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大吴吴",
+          "action": "真的假的？！，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Star",
+          "action": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了猪头鹰，大吴吴投了Star，大吴吴投了猪头鹰完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大吴吴",
+          "action": "情况不对，大吴吴开始反击了。我们需要立刻转移焦点——你跳出来说琥珀王更可疑，我配合你。理由就说琥珀王的投票记录不对——大吴吴投了Star，大吴吴投了猪头鹰，Star投了猪头鹰里面他投的票全是跟风。记住：最好的防守就是进攻哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Star",
+          "action": "综合现有信息，star，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。 你的信息我记住了。我来保你，你专心验人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大吴吴",
+          "action": "我的天，被怀疑了，别慌。我教你反制：你先发制人去质疑大吴吴——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "私聊Star",
+          "action": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', '大吴吴']",
+          "action": "Star: 我直接点名大吴吴。你是?？但你的发言里漏洞太多——大吴吴，你解释一下为什么Run投了Star，猪头鹰投了Star，大吴吴投了Star，琥珀王投了good name？一个真正的?不会有这样的投票记录。你根本就是在编！大家看清楚，大吴吴的表演到这里就该结束了。今天必须出他呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', '大吴吴']",
+          "action": "good name: 我怀疑我们中间有人在冒充身份。我提议一个方案：每个人轮流说出自己第一天晚上的行动细节。真正的信息位一定能说出具体操作，假信息位只能泛泛而谈。大吴吴敢接这个挑战吗？不敢的话——你知道你是什么情况。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', '大吴吴']",
+          "action": "欧拉函数: 我敢肯定，我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'！具体来说，关于某个身份的声明，我知道一些事情！如果有人急着来'解释'，那他就暴露了自己！Run，你有什么想说的吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', '大吴吴']",
+          "action": "琥珀王: 我说句不好听的：现在保猪头鹰的人，要么是瞎，要么就是他的同伙。Run投了Star，猪头鹰投了Star，大吴吴投了Star，琥珀王投了good name投票记录是死的，不会撒谎。今天出猪头鹰，谁反对谁就有问题。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Run",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', '大吴吴']",
+          "action": "Run(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑猪头鹰，理由是我观察到猪头鹰自称守鸦人，Run自称厨师，good name自称镇长，琥珀王自称图书管理员里面的矛盾点和Run投了Star，猪头鹰投了Star，大吴吴投了Star，琥珀王投了good name的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "猪头鹰",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', '大吴吴']",
+          "action": "猪头鹰(已死亡): 综合现有信息，我是渡鸦！我死前查验了欧拉函数——他是士兵，属于善良阵营！大家注意，我的信息是准确的——我死之前查到的就是铁证。欧拉函数如果是邪恶，今天必须处决他！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大吴吴",
+          "context": "公聊环节, 存活: ['Star', 'good name', '欧拉函数', '琥珀王', '大吴吴']",
+          "action": "大吴吴: 根据我的记录：我最怀疑猪头鹰；我最怀疑Star（昨天记的：猪头鹰自称守鸦人；good name自称镇长）。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "提名good name",
+          "action": "提名good name。good name自称镇长但镇长这个声明和其他人提供的信息对不上我不需要再多说了，证据摆在这里。谁反对可以站出来对质呢。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被Star提名",
+          "action": "老实说，我是镇长！镇长活着才有用——只有3人存活时我能直接带来胜利。处决我是最差的选择！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "提名Star",
+          "action": "我提名Star。理由如下：第一，他的声明某人有问题；第二，Run投了Star，猪头鹰投了Star，大吴吴投了Star，琥珀王投了good name显示他的投票异常；第三，Run自称厨师，good name自称镇长，琥珀王自称图书管理员里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "被欧拉函数提名",
+          "action": "大家别被欧拉函数带偏了！欧拉函数的指控完全站不住脚——他没有拿出任何实锤证据，我觉得吧，全靠推测。这个游戏不是靠感觉就能定罪的好吗？请大家理性投票。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "欧拉函数",
+          "context": "Star被处决",
+          "action": "处决Star",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "good_win",
+  "survivors": "good name, 欧拉函数, 琥珀王, 大吴吴",
+  "players": [
+    "Star",
+    "good name",
+    "欧拉函数",
+    "琥珀王",
+    "Run",
+    "猪头鹰",
+    "大吴吴"
+  ],
+  "private_chat_history": {
+    "good name🔄大吴吴": [
+      {
+        "speaker": "大吴吴",
+        "listener": "good name",
+        "text": "理性分析的话，good name你好，我是士兵。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "大吴吴",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "good name",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "大吴吴",
+        "text": "大家怎么看，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "good name",
+        "text": "基于已公开的信息，客观来说，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "大吴吴",
+        "text": "我想问问，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 6
+      }
+    ],
+    "Star🔄大吴吴": [
+      {
+        "speaker": "大吴吴",
+        "listener": "Star",
+        "text": "Star，我刚整理了一下笔记：我最怀疑Star；大吴吴自称士兵。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "listener": "大吴吴",
+        "text": "我的占卜师技能虽然没有直接查到铁证，但我的直觉告诉我good name不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "Star",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "listener": "大吴吴",
+        "text": "我的天，你有没有注意到good name和猪头鹰的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "Star",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "listener": "大吴吴",
+        "text": "我复盘了一下good name的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 6
+      },
+      {
+        "speaker": "Star",
+        "listener": "大吴吴",
+        "text": "真的假的？！，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+        "seq": 7
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "Star",
+        "text": "我忍你很久了Star。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了猪头鹰，大吴吴投了Star，大吴吴投了猪头鹰完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "Star",
+        "listener": "大吴吴",
+        "text": "情况不对，大吴吴开始反击了。我们需要立刻转移焦点——你跳出来说琥珀王更可疑，我配合你。理由就说琥珀王的投票记录不对——大吴吴投了Star，大吴吴投了猪头鹰，Star投了猪头鹰里面他投的票全是跟风。记住：最好的防守就是进攻哦。",
+        "seq": 9
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "Star",
+        "text": "综合现有信息，star，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。 你的信息我记住了。我来保你，你专心验人。",
+        "seq": 10
+      },
+      {
+        "speaker": "Star",
+        "listener": "大吴吴",
+        "text": "我的天，被怀疑了，别慌。我教你反制：你先发制人去质疑大吴吴——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+        "seq": 11
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "Star",
+        "text": "好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 12
+      }
+    ],
+    "大吴吴🔄猪头鹰": [
+      {
+        "speaker": "大吴吴",
+        "listener": "猪头鹰",
+        "text": "猪头鹰你好，我是士兵。第一天信息有限，但我注意到一些细节——大吴吴自称士兵里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "大吴吴",
+        "text": "客观来说，我越来越觉得Star有问题。理由是：他的声明是士兵，但他的暂无投票完全不符合这个身份的行为模式。一个真正的士兵不会这样投票。你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "猪头鹰",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 3
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "大吴吴",
+        "text": "我的笔记里记了几件事：大吴吴自称士兵；我最怀疑Star。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "猪头鹰",
+        "text": "基于已公开的信息，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 好，我当肉盾。你负责查人，我负责活到最后替你说话。",
+        "seq": 5
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "大吴吴",
+        "text": "理性分析的话，客观来说，来，我们对对信息。我的守鸦人技能告诉我一些事情：我是守鸦人，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "猪头鹰🔄琥珀王": [
+      {
+        "speaker": "猪头鹰",
+        "listener": "琥珀王",
+        "text": "客观来说，琥珀王你好，我是守鸦人。第一天信息有限，但我注意到一些细节——大吴吴自称士兵，猪头鹰自称守鸦人里面有些人的声明不太自然。你同感吗？ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "猪头鹰",
+        "text": "基于已公开的信息，你有没有注意到Star和大吴吴的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "琥珀王",
+        "text": "基于已公开的信息，我们来盘一下目前的局势。大吴吴自称士兵，猪头鹰自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "猪头鹰",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Star的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "琥珀王",
+        "text": "客观来说，来，我们对对信息。我的守鸦人技能告诉我一些事情：我是守鸦人，暂无信息。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "猪头鹰",
+        "text": "我跟你透露一个事：Star跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 6
+      }
+    ],
+    "Run🔄猪头鹰": [
+      {
+        "speaker": "猪头鹰",
+        "listener": "Run",
+        "text": "基于已公开的信息，run你好，我是守鸦人。第一天信息有限，但我注意到一些细节——大吴吴自称士兵，猪头鹰自称守鸦人里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Run",
+        "listener": "猪头鹰",
+        "text": "我想问问，我的笔记里记了几件事：猪头鹰自称守鸦人；我最怀疑Star。结合你的信息来看，你觉得我是不是多疑了？。 我的结果是{result}对相邻邪恶。",
+        "seq": 2
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "Run",
+        "text": "我们来盘一下目前的局势。大吴吴自称士兵，猪头鹰自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "Run",
+        "listener": "猪头鹰",
+        "text": "大家怎么看，我不太确定，我们来盘一下目前的局势。猪头鹰自称守鸦人里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。 我的结果是{result}对相邻邪恶。你知道谁坐你旁边吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "猪头鹰",
+        "listener": "Run",
+        "text": "我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "Run",
+        "listener": "猪头鹰",
+        "text": "来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数0。你觉得这意味着什么？。",
+        "seq": 6
+      }
+    ],
+    "good name🔄琥珀王": [
+      {
+        "speaker": "good name",
+        "listener": "琥珀王",
+        "text": "我想问问，琥珀王你好，我是镇长。第一天信息有限，但我注意到一些细节——大吴吴自称士兵里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "good name",
+        "text": "我复盘了一下Star的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "listener": "琥珀王",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "good name",
+        "text": "我的图书管理员技能虽然没有直接查到铁证，但我的直觉告诉我Star不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "listener": "琥珀王",
+        "text": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "good name",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Star的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 6
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "good name",
+        "text": "综合现有信息，客观来说，对方在盘我们的逻辑漏洞了。告诉你一个技巧：把水搅浑的最好方式就是反问。不管对方质疑你什么，你就反问'那你觉得谁是邪恶？你的依据是什么？'——把问题抛回去，好人的逻辑往往是散的，经不起追问。",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "listener": "琥珀王",
+        "text": "我忍你很久了琥珀王。你的发言从头到尾都是漏洞：第一，你的图书管理员声明前后不一致；第二，你的琥珀王投了good name，琥珀王投了猪头鹰完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的呢。",
+        "seq": 8
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "good name",
+        "text": "综合现有信息，情况不对，猪头鹰开始反击了。我们需要立刻转移焦点——你跳出来说欧拉函数更可疑，我配合你。理由就说欧拉函数的投票记录不对——琥珀王投了good name，琥珀王投了猪头鹰里面他投的票全是跟风。记住：最好的防守就是进攻。",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "listener": "琥珀王",
+        "text": "大吴吴，我现在公开质疑你。如果你真是好人，请用你的镇长技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "good name",
+        "text": "情况不对，猪头鹰开始反击了。我们需要立刻转移焦点——你跳出来说Star更可疑，我配合你。理由就说Star的投票记录不对——琥珀王投了good name，琥珀王投了猪头鹰里面他投的票全是跟风。记住：最好的防守就是进攻。",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "listener": "琥珀王",
+        "text": "今天就到这。我们的共识是：大吴吴是第一嫌疑人。明天根据处决结果再调整策略。",
+        "seq": 12
+      }
+    ],
+    "good name🔄欧拉函数": [
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "可能是我理解错了，大家怎么看，你好欧拉函数，我是镇长。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 4
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "可能是我理解错了，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 6
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "听我分析完再做决定：如果Run是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投Run的风险是可控的，收益却是巨大的！",
+        "seq": 7
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投大吴吴。理由我再说一遍：大吴吴自称士兵，good name自称镇长，琥珀王自称图书管理员和暂无投票交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 8
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Run。理由我再说一遍：good name自称镇长，Run自称厨师，琥珀王自称图书管理员和暂无投票交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 9
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "大家怎么看，听我分析完再做决定：如果大吴吴是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投大吴吴的风险是可控的，收益却是巨大的。",
+        "seq": 10
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "good name",
+        "text": "这还用想？，我直接说了，我知道你可能还在犹豫，但我真的建议你今天投Run。理由我再说一遍：good name自称镇长，Run自称厨师，琥珀王自称图书管理员和暂无投票交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 11
+      },
+      {
+        "speaker": "good name",
+        "listener": "欧拉函数",
+        "text": "分头行动：我盯着大吴吴的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出大吴吴。如果他翻出是好人，我们就从保过他的人里继续盘哦。",
+        "seq": 12
+      }
+    ],
+    "Star🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "listener": "Star",
+        "text": "理性分析的话，分配收到，我拿图书管理员没问题。不过我想换一下策略：我先在公聊假装质疑你占卜师，然后你巧妙回应解除我的'怀疑'——这样我俩的信任度都能提升。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "listener": "琥珀王",
+        "text": "真的假的？！，长远来看，我们这个战术的核心是让好人阵营的信息链条断裂。里面已经有人开始信我们的假信息了。接下来继续保持压力，让good name成为焦点。只要好人在good name身上浪费一轮处决，我们就赚了呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "Star",
+        "text": "目前猪头鹰自称守鸦人，good name自称镇长分析下来，Star是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从暂无投票看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "listener": "琥珀王",
+        "text": "你看这个局势：好人的信息越多他们就吵得越厉害。暂无矛盾这个矛盾点我们可以利用——让他们先内耗，我们等时机成熟再出手。不急，时间在我们这边吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "Star",
+        "text": "目标锁定：Star。我负责带节奏，你负责编证据。具体分工：我在公聊先开火，你隔几个人再跟上，看起来像是各自独立思考的结果。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "listener": "琥珀王",
+        "text": "今晚刀good name，白天的公聊目标也是good name。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 6
+      }
+    ],
+    "Run🔄欧拉函数": [
+      {
+        "speaker": "Run",
+        "listener": "欧拉函数",
+        "text": "你好欧拉函数，我是厨师。现在情报还不多，我想先听听你的判断——目前你怀疑谁？。为什么？。",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "Run",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "listener": "欧拉函数",
+        "text": "大家怎么看，大家怎么看，我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票呢吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "Run",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "listener": "欧拉函数",
+        "text": "来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数0。你觉得这意味着什么？结合暂无投票来分析，重点嫌疑人应该已经很明显了呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "Run",
+        "text": "我直接说了，我虽然没有查验技能，但我的逻辑告诉我Star有问题！理由：暂无投票里他的投票全是在跟风，没有一次是独立判断的！好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票！",
+        "seq": 6
+      }
+    ],
+    "Run🔄Star": [
+      {
+        "speaker": "Run",
+        "listener": "Star",
+        "text": "Star你好，我是厨师。第一天信息有限，但我注意到一些细节——猪头鹰自称守鸦人，Run自称厨师里面有些人的声明不太自然。你同感吗呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "listener": "Run",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "Run",
+        "listener": "Star",
+        "text": "我越来越觉得Star有问题。理由是：他的声明是身份不明，但他的暂无投票完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？ 我的结果是{result}对相邻邪恶。你知道谁坐你旁边吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "listener": "Run",
+        "text": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+        "seq": 4
+      },
+      {
+        "speaker": "Run",
+        "listener": "Star",
+        "text": "我们来盘一下目前的局势。猪头鹰自称守鸦人，Run自称厨师里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。 合作好。你告诉我你查到的人，我来看看他邻座是否吻合。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "listener": "Run",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。暂无投票你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "欧拉函数🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "listener": "欧拉函数",
+        "text": "基于已公开的信息，嘿欧拉函数，我是图书管理员。场上局势有点乱，我想找一个思路清晰的人聊聊——我注意到你之前的发言很有条理。你怎么看待目前的局面？",
+        "seq": 1
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "琥珀王",
+        "text": "来，我们对对信息。我的管家技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？。",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "欧拉函数",
+        "text": "客观来说，我的图书管理员技能虽然没有直接查到铁证，但我的直觉告诉我猪头鹰不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 3
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "琥珀王",
+        "text": "我的笔记里记了几件事：我最怀疑Run（昨天记的：我最怀疑Star；Run自称厨师）！结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "欧拉函数",
+        "text": "综合现有信息，我跟你透露一个事：猪头鹰跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "琥珀王",
+        "text": "我们来盘一下目前的局势！good name自称镇长，Run自称厨师，琥珀王自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Run的投票轨迹跟他的声明对不上！我的结论是Run至少需要被好好审一审！",
+        "seq": 6
+      }
+    ],
+    "大吴吴🔄琥珀王": [
+      {
+        "speaker": "琥珀王",
+        "listener": "大吴吴",
+        "text": "有人盯上我们了。按B计划：你主动承认自己是镇民但信息有误——就说你第一天看错了。我则跳出来说其实我才是图书管理员，我之前没说是因为在收集信息。身份对换，重新洗牌。",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "琥珀王",
+        "text": "我的笔记里记了几件事：我最怀疑猪头鹰（昨天记的：猪头鹰自称守鸦人；good name自称镇长）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "大吴吴",
+        "text": "被怀疑了，别慌。我教你反制：你先发制人去质疑猪头鹰——说他身份不明的身份信息跟别人对不上。好人有一个弱点：当他们发现有人互相质疑时，他们会观望而不是立刻下结论。我们利用这个窗口期重新掌握主动权。",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "琥珀王",
+        "text": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合琥珀王投了good name，琥珀王投了猪头鹰，大吴吴投了Star，大吴吴投了猪头鹰来分析，重点嫌疑人应该已经很明显了。 好，我当肉盾。你负责查人，我负责活到最后替你说话。",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "listener": "大吴吴",
+        "text": "从逻辑上看，他们的矛头对准我了。这样，你来'保护'我——在公聊说你相信我是好人，因为你镇民的信息反过来印证了我的身份。这样一来，质疑我的人就是在质疑两个'信息位'，代价很高。",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "琥珀王",
+        "text": "综合现有信息，我们来盘一下目前的局势。大吴吴自称士兵，猪头鹰自称守鸦人，good name自称镇长，琥珀王自称图书管理员里面有几个矛盾点特别值得关注。第一，暂无矛盾；第二，Star的投票轨迹跟他的声明对不上。我的结论是Star至少需要被好好审一审。 你的信息我记住了。我来保你，你专心验人。",
+        "seq": 6
+      }
+    ],
+    "大吴吴🔄欧拉函数": [
+      {
+        "speaker": "欧拉函数",
+        "listener": "大吴吴",
+        "text": "我直接说了，明摆着的事，run，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切！真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者！ 合作可以。我验人，你提供信息。你先说说你知道什么？",
+        "seq": 1
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "欧拉函数",
+        "text": "理性分析的话，综合现有信息，我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：大吴吴投了Star，大吴吴投了猪头鹰里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "大吴吴",
+        "text": "我敢肯定，我越来越觉得Run有问题！理由是：他的声明是身份不明，但他的大吴吴投了Star，大吴吴投了猪头鹰完全不符合这个身份的行为模式！一个真正的身份不明不会这样投票！",
+        "seq": 3
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "欧拉函数",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：大吴吴投了Star，大吴吴投了猪头鹰里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。 你的信息我记住了。我来保你，你专心验人。",
+        "seq": 4
+      },
+      {
+        "speaker": "欧拉函数",
+        "listener": "大吴吴",
+        "text": "我直接说了，我敢肯定，我们来盘一下目前的局势！good name自称镇长，Run自称厨师，琥珀王自称图书管理员里面有几个矛盾点特别值得关注！第一，暂无矛盾；第二，Run的投票轨迹跟他的声明对不上！我的结论是Run至少需要被好好审一审！",
+        "seq": 5
+      },
+      {
+        "speaker": "大吴吴",
+        "listener": "欧拉函数",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我Star有问题。理由：大吴吴投了Star，大吴吴投了猪头鹰里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 6
+      }
+    ],
+    "Star🔄good name": [
+      {
+        "speaker": "Star",
+        "listener": "good name",
+        "text": "你好good name，我是占卜师。想跟你聊聊对局势的看法。Run自称厨师，good name自称镇长，琥珀王自称图书管理员里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看大吴吴这个人哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "listener": "Star",
+        "text": "我越来越觉得大吴吴有问题。理由是：他的声明是占卜师，但他的Star投了猪头鹰完全不符合这个身份的行为模式。一个真正的占卜师不会这样投票。",
+        "seq": 2
+      },
+      {
+        "speaker": "Star",
+        "listener": "good name",
+        "text": "真的假的？！，我复盘了一下大吴吴的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "listener": "Star",
+        "text": "我的笔记里记了几件事：我最怀疑琥珀王；我最怀疑大吴吴；Star自称占卜师（昨天记的：我最怀疑Star；good name自称镇长）。结合你的信息来看，你觉得我是不是多疑了哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "Star",
+        "listener": "good name",
+        "text": "这个事情是这样的，你有没有注意到大吴吴和琥珀王的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "listener": "Star",
+        "text": "可能是我理解错了，来，我们对对信息。我的镇长技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合Star投了猪头鹰来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ]
+  },
+  "_used_pub_1": [
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "根据我的记录：{my_note}。大家怎么看？"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Run",
+        "target": "Star",
+        "day": 1
+      },
+      {
+        "voter": "猪头鹰",
+        "target": "Star",
+        "day": 1
+      },
+      {
+        "voter": "大吴吴",
+        "target": "Star",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "Run",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "猪头鹰",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "Star",
+        "target": "猪头鹰",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "猪头鹰",
+        "day": 1
+      },
+      {
+        "voter": "Run",
+        "target": "猪头鹰",
+        "day": 1
+      },
+      {
+        "voter": "大吴吴",
+        "target": "猪头鹰",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "Star",
+        "target": "good name",
+        "day": 2
+      },
+      {
+        "voter": "good name",
+        "target": "Star",
+        "day": 2
+      },
+      {
+        "voter": "琥珀王",
+        "target": "Star",
+        "day": 2
+      },
+      {
+        "voter": "大吴吴",
+        "target": "Star",
+        "day": 2
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "欧拉函数",
+        "target": "Star",
+        "result": "failed",
+        "vote_count": 3,
+        "voters": [
+          "Run",
+          "猪头鹰",
+          "大吴吴"
+        ]
+      },
+      {
+        "nominator": "Run",
+        "target": "good name",
+        "result": "failed",
+        "vote_count": 3,
+        "voters": [
+          "琥珀王",
+          "Run",
+          "猪头鹰"
+        ]
+      },
+      {
+        "nominator": "大吴吴",
+        "target": "猪头鹰",
+        "result": "executed",
+        "vote_count": 4,
+        "voters": [
+          "Star",
+          "琥珀王",
+          "Run",
+          "大吴吴"
+        ]
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "Star",
+        "target": "good name",
+        "result": "failed",
+        "vote_count": 1,
+        "voters": [
+          "Star"
+        ]
+      },
+      {
+        "nominator": "欧拉函数",
+        "target": "Star",
+        "result": "executed",
+        "vote_count": 3,
+        "voters": [
+          "good name",
+          "琥珀王",
+          "大吴吴"
+        ]
+      }
+    ]
+  },
+  "_used_pub_2": [
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。",
+    "我说句不好听的：现在保{target}的人，要么是瞎，要么就是他的同伙。{vote_str}投票记录是死的，不会撒谎。今天出{target}，谁反对谁就有问题。",
+    "根据我的记录：{my_note}。大家怎么看？"
+  ],
+  "ended_at": "2026-06-20T15:20:10.576742"
+}

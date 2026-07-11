@@ -1,0 +1,2167 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-21T09:13:05.662687",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "大6",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，hannoy，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大6",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我good name有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Hannoy",
+          "action": "基于已公开的信息，基于已公开的信息，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大6",
+          "action": "这个事情是这样的，观察good name的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Hannoy",
+          "action": "我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊大6",
+          "action": "我跟你们说啊，我对good name的身份不明声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊困困",
+          "action": "你好困困，我是图书管理员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大6",
+          "action": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊困困",
+          "action": "你刚才提到我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大6",
+          "action": "我盘了一下目前的线索：加上大6自称图书管理员里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊困困",
+          "action": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大6",
+          "action": "从逻辑上看，我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "从逻辑上看，刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "这还用想？！，我虽然没有查验技能，但我的逻辑告诉我丘皮卡有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "综合现有信息，我们来盘一下目前的局势。大6自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "对比了几个人的发言，丘皮卡是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊good name",
+          "action": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊大6",
+          "action": "明摆着的事，我注意到丘皮卡的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "你好wowo，我是猎手。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看good name这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "我在想good name的行为能不能用猎手来解释——他自称是猎手，但如果是真猎手，应该会猎手应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "理性分析的话，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "我敢肯定，我的笔记里记了几件事：Youmi自称猎手；我最怀疑good name！结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊wowo",
+          "action": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊Youmi",
+          "action": "我越来越觉得good name有问题！理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "收到分配。我厨师没问题，但我觉得剩下送葬者留着备用。如果你那边需要调整，我可以换身份。关键是你厨师要站住脚，我配合你。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "基于已公开的信息，盘一下剩余玩家。大6自称图书管理员告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会。我们可以在他们开口之前先把good name定义成'邪恶方'，等于提前占领了好人的心智。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "目前Youmi自称猎手分析下来，good name是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "我盘了一下目前的线索：加上大6自称图书管理员里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "你觉得good name怎么样？我观察了他好几轮，感觉他的身份不明身份很假。要不今天我们两个都在公聊点一下他，看看其他人的反应？如果多人附和我们，今天就可以冲他。某人某人",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "从逻辑上看，我刚想到一个方向：good name的身份不明声明和放在一起看很有问题。明天聊到这个话题时你可以顺着这个方向说，算是我俩各自的观察互相验证了。某人某人",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "嗨Hannoy，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "你有没有注意到good name和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "我跟你们说啊，综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊Hannoy",
+          "action": "综合现有信息，good name的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑good name；Youmi自称猎手。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊Youmi",
+          "action": "真的假的？！，我注意到good name的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人吧呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊wowo",
+          "action": "wowo，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊丘皮卡",
+          "action": "我们来盘一下目前的局势！Youmi自称猎手里面有几个矛盾点特别值得关注！第一，；第二，good name的投票轨迹跟他的声明对不上！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊wowo",
+          "action": "综合现有信息，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊丘皮卡",
+          "action": "你刚才提到综合现有信息，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，good name，这一点我也注意到了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊wowo",
+          "action": "基于已公开的信息，我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊丘皮卡",
+          "action": "明摆着的事，来，我们对对信息。我的调查员技能告诉我一些事情：查到Youmi是丘皮卡。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊Hannoy",
+          "action": "综合现有信息，hannoy你好，我是占卜师。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊丘皮卡",
+          "action": "这个事情是这样的，我盘了一下good name的时间线：他先说自己是占卜师，但在被质疑后又改口说'可能看错了'。一个真正的占卜师不可能看错自己的技能结果——他在临时编词啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊Hannoy",
+          "action": "客观来说，注意good name的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊丘皮卡",
+          "action": "我盘了一下good name的时间线：他先说自己是占卜师，但在被质疑后又改口说'可能看错了'。一个真正的占卜师不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊Hannoy",
+          "action": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "私聊丘皮卡",
+          "action": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊good name",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊丘皮卡",
+          "action": "明摆着的事，观察丘皮卡的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了！一个持续查验的信息位应该能持续产出新细节！如果第三轮还拿不出新信息，建议直接处决！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊good name",
+          "action": "基于已公开的信息，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊丘皮卡",
+          "action": "我对丘皮卡的身份不明声明持保留态度！理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——！建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "私聊good name",
+          "action": "来，我们对对信息。我的占卜师技能告诉我一些事情：我查了wowo和good name，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊丘皮卡",
+          "action": "综合观察下来，丘皮卡的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "我敢肯定，困困你好，我是调查员。第一天信息有限，但我注意到一些细节——Youmi自称猎手里面有些人的声明不太自然。你同感吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "基于已公开的信息，我复盘了good name的全部公聊发言，发现几个具体矛盾：第一，他先说自己是调查员，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了大6；第三，里他的投票和调查员身份的利益取向完全不符。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "别绕弯子，注意good name的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "基于已公开的信息，我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "我盘了一下目前的线索：加上大6自称图书管理员，wowo自称调查员里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['good name', '丘皮卡', 'Youmi', '困困', 'wowo', 'Hannoy', '大6']",
+          "action": "good name: 现在是公聊时间，我分享一下我的推理：暂时没有关键信息！目前大6自称图书管理员，而投票记录显示！！本局7人场标准配置0个外来者，目前0人认领！如果数字对不上，可能有人隐藏身份或有男爵！这些线索综合来看，我的我会重点观察丘皮卡！希望大家也分享一下自己的观点！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "公聊环节, 存活: ['good name', '丘皮卡', 'Youmi', '困困', 'wowo', 'Hannoy', '大6']",
+          "action": "丘皮卡: 我是占卜师，昨晚查验了wowo和good name，都不是恶魔。排除了两个好人我建议先从wowo开始盘——如果他是好人翻出来，那good name就是铁邪恶。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['good name', '丘皮卡', 'Youmi', '困困', 'wowo', 'Hannoy', '大6']",
+          "action": "Youmi: good name一直在装好人，但他的马脚已经露出来了：我严重怀疑丘皮卡——他的发言逻辑前后矛盾，明显在编故事。真正的好人被质疑时会拿出自己的信息来对质，good name只会反问——这是邪恶的标准操作。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['good name', '丘皮卡', 'Youmi', '困困', 'wowo', 'Hannoy', '大6']",
+          "action": "困困: 我是厨师。厨师结果显示有2对相邻邪恶——丘皮卡和大6坐在一起不是巧合，他们很可能是搭档。我倒不是要直接锤死good name，但我建议大家对比一下good name和丘皮卡的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['good name', '丘皮卡', 'Youmi', '困困', 'wowo', 'Hannoy', '大6']",
+          "action": "wowo: 首夜信息已确认：Youmi是调查员。这是实打实的查验结果，不是猜测。对了，丘皮卡是占卜师，他掌握的信息跟我查到的范围可能有重叠部分，建议大家对一下。请大家看清局势。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['good name', '丘皮卡', 'Youmi', '困困', 'wowo', 'Hannoy', '大6']",
+          "action": "Hannoy: 我来盘一下目前的局面。暂时没有关键信息。Youmi自称猎手，丘皮卡自称占卜师，困困自称厨师，。。本局7人场标准配置0个外来者，目前0人认领。如果数字对不上，可能有人隐藏身份或有男爵。综合这些，我倾向good name有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['good name', '丘皮卡', 'Youmi', '困困', 'wowo', 'Hannoy', '大6']",
+          "action": "大6: 图书管理员报告：本局没有外来者——所有人声称自己是镇民的话是正常的。如果有人跳外来者，他一定在撒谎。。这意味着场上有男爵的话就不存在酒鬼，所有信息位的查验结果都是准确的——如果有人对跳身份，必出一狼；如果有人自称外来者，可以直接标假。请大家自报一下身份类别（镇民或外来者），我来统计一下全场的外来者总数是否和预期一致。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "提名good name",
+          "action": "我提名good name。理由：第一，他的某人声明与对不上；第二，里面他投的票和全场趋势不一致；第三，Youmi自称猎手，丘皮卡自称占卜师，困困自称厨师中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被Hannoy提名",
+          "action": "怎么说呢……，我是贞洁者。我重申我的身份——我是好人阵营的贞洁者。Hannoy指控我，但理由完全是空泛的推测，没有任何实际行为能支撑他的结论。我的和大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师可以证明我的立场。如果要处决，我建议先查丘皮卡——他今天的发言才真正有问题。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "提名丘皮卡",
+          "action": "老实说，我提名丘皮卡。理由：第一，他的某人声明与对不上；第二，Youmi投了good name，困困投了good name里面他投的票和全场趋势不一致；第三，Youmi自称猎手，wowo自称调查员，丘皮卡自称占卜师，困困自称厨师中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "被wowo提名",
+          "action": "大家冷静！我是占卜师，我查了wowo和good name，正在缩小范围，我还有用！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "提名Youmi",
+          "action": "我提名Youmi。理由：第一，他的某人声明与对不上；第二，Youmi投了good name，困困投了good name，Youmi投了丘皮卡里面他投的票和全场趋势不一致；第三，丘皮卡自称占卜师，困困自称厨师中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "被丘皮卡提名",
+          "action": "我是猎手。丘皮卡编了一大堆理由想让大家信服，但你仔细看就会发现全站不住脚：他说的第一点不存在、第二点是曲解、第三点是假设。全是空中楼阁。真正该被查的是good name，大家注意观察他的反应。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "提名Hannoy",
+          "action": "我提名Hannoy。Hannoy的发言和投票处处都是破绽，Youmi投了good name，困困投了good name，Youmi投了丘皮卡，丘皮卡投了Youmi说明他有问题这是铁证。请大家投票。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "被困困提名",
+          "action": "我是僧侣，每晚能保护一个人不被恶魔杀。困困要处决我，等于帮恶魔开了一条血路！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "Hannoy被处决",
+          "action": "处决Hannoy",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "困困",
+          "context": "恶魔杀人",
+          "action": "杀害丘皮卡",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "困困",
+          "context": "私聊good name",
+          "action": "good name，想跟你对一下信息。我厨师这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊困困",
+          "action": "明摆着的事，我的笔记里记了几件事：我最怀疑Youmi（昨天记的：我最怀疑丘皮卡）！结合你的信息来看，你觉得我是不是多疑了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊good name",
+          "action": "客观来说，理性分析的话，我盘了一下目前的线索：good name投了Hannoy，困困投了good name，困困投了Hannoy加上大6自称图书管理员，wowo自称调查员，丘皮卡自称占卜师，困困自称厨师里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊困困",
+          "action": "明摆着的事，明摆着的事，我们来盘一下目前的局势！大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师里面有几个矛盾点特别值得关注！第一，；第二，Youmi的投票轨迹跟他的声明对不上！我的结论是Youmi至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊good name",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊困困",
+          "action": "我直接说了，别绕弯子，你刚才提到我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论！一，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "确认攻击目标：good name。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy，困困投了good name看他投票有明显倾向；第三他在大6自称图书管理员，wowo自称调查员，丘皮卡自称占卜师，困困自称厨师里面的定位是信息位，威胁最大。今天集中火力搞他。某人某人",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "今晚刀wowo，白天的公聊目标也是wowo。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。某人某人",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "刚才我在想，如果有人在公聊问起我们的厨师身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "排练一下明天的公聊剧本。我先说：'我是猎手，我查到wowo有问题。'然后你接：'巧了，我也在怀疑wowo，因为困困投了good name，困困投了Hannoy，Youmi投了good name，Youmi投了丘皮卡。'注意你的语气要像临时发现而不是商量好的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊Youmi",
+          "action": "明天你可以在公聊先聊点别的，别上来就直奔good name——太刻意了。等两三个人发言之后你再自然提起'其实我观察good name很久了'，这样看起来更真实。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊困困",
+          "action": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大6",
+          "action": "我想听听你对good name的看法。你觉得他可信吗？从我的视角看，他的图书管理员声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊困困",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Youmi。理由我再说一遍：大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师和困困投了good name，困困投了Hannoy，大6投了Hannoy交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大6",
+          "action": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑good name。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊困困",
+          "action": "理性分析的话，听我分析完再做决定：如果Youmi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Youmi的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大6",
+          "action": "基于已公开的信息，你觉得今天应该出谁？我还没完全决定，但我倾向于good name——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊困困",
+          "action": "分头行动：我盯着Youmi的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Youmi。如果他翻出是好人，我们就从保过他的人里继续盘。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊good name",
+          "action": "客观来说，嗨good name，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Youmi",
+          "action": "我越来越觉得Youmi有问题！理由是：他的声明是猎手，但他的Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy，good name投了Hannoy完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊good name",
+          "action": "综合现有信息，你有没有注意到wowo和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Youmi",
+          "action": "来，我们对对信息！我的贞洁者技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊good name",
+          "action": "从逻辑上看，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得wowo的问题很大。good name投了Hannoy，Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊Youmi",
+          "action": "这还用想？，注意Youmi的回应模式：第一次被质疑猎手声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真猎手，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊大6",
+          "action": "理性分析的话，你好大6，我是猎手。想跟你聊聊对局势的看法。Youmi自称猎手，丘皮卡自称占卜师，困困自称厨师里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看wowo这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Youmi",
+          "action": "综合现有信息，我在想Youmi的行为能不能用猎手来解释——他自称是猎手，但如果是真猎手，应该会猎手应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊大6",
+          "action": "客观来说，wowo，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？为什么？大6投了Hannoy，Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Youmi",
+          "action": "我越来越觉得Youmi有问题。理由是：他的声明是猎手，但他的Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy，大6投了Hannoy完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "私聊大6",
+          "action": "我跟你透露一个事：wowo跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊Youmi",
+          "action": "注意Youmi的回应模式：第一次被质疑猎手声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真猎手，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "good name，我刚整理了一下笔记：我最怀疑Youmi（昨天记的：丘皮卡自称占卜师；困困自称厨师）！你那边有什么发现！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "综合观察下来，Youmi的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "明摆着的事，我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的good name投了Hannoy，wowo投了Youmi，wowo投了Hannoy完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "我注意到Youmi的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "注意Youmi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了！如果是真身份不明，应该每次都能给出同样的细节才对！这种信息密度递减的模式值得警惕！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "别绕弯子，明摆着的事，对比了几个人的发言，Youmi是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊大6",
+          "action": "你好大6，我是调查员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊wowo",
+          "action": "客观来说，我们来盘一下目前的局势。大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师，Youmi自称猎手，wowo自称调查员里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊大6",
+          "action": "我敢肯定，你刚才提到客观来说，我们来盘一下目前的局势。大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师，Youmi自称，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊wowo",
+          "action": "基于已公开的信息，理性分析的话，我的笔记里记了几件事：我最怀疑Youmi；Youmi自称猎手；wowo自称调查员（昨天记的：丘皮卡自称占卜师；困困自称厨师）。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊大6",
+          "action": "我在想Youmi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "私聊wowo",
+          "action": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合wowo投了Youmi，wowo投了Hannoy，大6投了Hannoy来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['good name', 'Youmi', '困困', 'wowo', '大6']",
+          "action": "good name: 这还用想？，根据我的记录：我最怀疑Youmi；Youmi自称猎手（昨天记的：我最怀疑丘皮卡）。Hannoy已死亡，Hannoy已死亡，丘皮卡已死亡。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "公聊环节, 存活: ['good name', 'Youmi', '困困', 'wowo', '大6']",
+          "action": "丘皮卡(已死亡): 基于已公开的信息，死者的话最客观。我回顾了整个游戏过程，Youmi的嫌疑最大。他的声明是丘皮卡自称占卜师，困困自称厨师，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['good name', 'Youmi', '困困', 'wowo', '大6']",
+          "action": "Youmi: 理性分析的话，wowo自称?，但投票处决过Youmi/Hannoy，行为对不上！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['good name', 'Youmi', '困困', 'wowo', '大6']",
+          "action": "困困: 我注意到一个细节：某人。昨天被处决的Hannoy大家还记得吧？邪恶分布告诉我good name和大6有问题——相邻邪恶对数指向这对组合。这跟good name的表现完全吻合——他就是有问题。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['good name', 'Youmi', '困困', 'wowo', '大6']",
+          "action": "wowo: 我是调查员！！我查出Youmi是调查员——这就是爪牙！！证据确凿，今天必须处决他！！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['good name', 'Youmi', '困困', 'wowo', '大6']",
+          "action": "Hannoy(已死亡): 死者的话最客观。我回顾了整个游戏过程，Youmi的嫌疑最大。他的声明是Youmi自称猎手，丘皮卡自称占卜师，困困自称厨师，wowo自称调查员，但他的行为完全对不上。活着的各位，别让我的死白费呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['good name', 'Youmi', '困困', 'wowo', '大6']",
+          "action": "大6: 我是图书管理员。本局没有外来者——所有人声称自己是镇民的话是正常的。如果有人跳外来者，他一定在撒谎。。这意味着场上有男爵的话就不存在酒鬼，所有信息位的查验结果都是准确的——如果有人对跳身份，必出一狼；如果有人自称外来者，可以直接标假。希望大家报一下自己的身份，我来核对总数是否正常。如果外来者数量对不上，说明可能有男爵在场或者有人冒充。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "提名Youmi",
+          "action": "我提名Youmi。理由：第一，他的某人声明与对不上；第二，Youmi投了good name，困困投了good name，Youmi投了丘皮卡，丘皮卡投了Youmi里面他投的票和全场趋势不一致；第三，大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师，Youmi自称猎手，wowo自称调查员中他的定位有问题。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "被good name提名",
+          "action": "我是猎手，我清楚自己是好人。good name对我的指控经不起推敲——我一没有投票异常，二没有身份矛盾，全是good name单方面的猜测。一个真正的坏人会用这么空泛的理由指控我吗？我觉得good name自己才值得被查。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "Youmi被处决",
+          "action": "处决Youmi",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "困困",
+          "context": "恶魔杀人",
+          "action": "杀害大6",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "good name",
+          "context": "私聊困困",
+          "action": "我敢肯定，困困，我现在公开质疑你！如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊good name",
+          "action": "从逻辑上看，我注意到你一直在观察good name。你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊困困",
+          "action": "我忍你很久了困困！你的发言从头到尾都是漏洞：第一，你的厨师声明前后不一致；第二，你的困困投了good name，困困投了Hannoy，good name投了Hannoy，good name投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊good name",
+          "action": "从逻辑上看，你觉得今天应该出谁？我还没完全决定，但我倾向于wowo——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊困困",
+          "action": "我直接说了，困困，我现在公开质疑你！如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊good name",
+          "action": "好，先这样。记住今天的核心判断：wowo不能被放过。如果有人在保他，那保他的人也同样可疑——帮我盯着点。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "这还用想？。，我忍你很久了困困。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的wowo投了Youmi，wowo投了Hannoy，wowo投了Youmi，good name投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "我敢肯定，听我分析完再做决定：如果Youmi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Youmi的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "我忍你很久了困困。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的wowo投了Youmi，wowo投了Hannoy，wowo投了Youmi，good name投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Youmi。理由我再说一遍：wowo自称调查员，丘皮卡自称占卜师，困困自称厨师，大6自称图书管理员和good name投了Hannoy，good name投了Youmi，wowo投了Youmi，wowo投了Hannoy交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "私聊wowo",
+          "action": "我直接说了，困困，我现在公开质疑你！如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊good name",
+          "action": "分头行动：我盯着Youmi的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Youmi。如果他翻出是好人，我们就从保过他的人里继续盘。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投Youmi！理由我再说一遍：wowo自称调查员，丘皮卡自称占卜师，困困自称厨师，大6自称图书管理员和困困投了good name，困困投了Hannoy，wowo投了Youmi，wowo投了Hannoy交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "综合现有信息，基于已公开的信息，你有没有注意到wowo和good name的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "明摆着的事，听我分析完再做决定：如果Youmi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Youmi的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊wowo",
+          "action": "理性分析的话，wowo的发言和行为对不上——他说自己是调查员，但我观察到他我最怀疑good name；我最怀疑wowo（昨天记的：我最怀疑good name；Youmi自称猎手）。一个真正的调查员不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "私聊困困",
+          "action": "今天的投票策略：我们统一投Youmi！我负责去说服其他人，你负责观察那些不愿意投Youmi的人——他们可能就是我们要找的下一批目标！记住：邪恶方的最大弱点就是他们不敢投自己的队友！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "公聊环节, 存活: ['good name', '困困', 'wowo']",
+          "action": "good name: 我敢肯定，根据我的记录：我最怀疑Youmi（昨天记的：我最怀疑Youmi；Youmi自称猎手）。Hannoy已死亡，Hannoy已死亡，丘皮卡已死亡。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "丘皮卡",
+          "context": "公聊环节, 存活: ['good name', '困困', 'wowo']",
+          "action": "丘皮卡(已死亡): 死者的话最客观。我回顾了整个游戏过程，Youmi的嫌疑最大。他的声明是丘皮卡自称占卜师，困困自称厨师，wowo自称调查员，大6自称图书管理员，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Youmi",
+          "context": "公聊环节, 存活: ['good name', '困困', 'wowo']",
+          "action": "Youmi(已死亡): 从逻辑上看，死者的话最客观。我回顾了整个游戏过程，wowo的嫌疑最大。他的声明是Youmi自称猎手，丘皮卡自称占卜师，困困自称厨师，wowo自称调查员，大6自称图书管理员，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['good name', '困困', 'wowo']",
+          "action": "困困: 我直接点名wowo。你是?？但你的发言里漏洞太多——wowo，你解释一下为什么Youmi投了good name，困困投了good name，Youmi投了丘皮卡，丘皮卡投了Youmi？一个真正的?不会有这样的投票记录。你根本就是在编！大家看清楚，wowo的表演到这里就该结束了。今天必须出他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "wowo",
+          "context": "公聊环节, 存活: ['good name', '困困', 'wowo']",
+          "action": "wowo: 调查员有重要发现：good name是调查员。这是我首夜查验的铁证。困困自称厨师，他的信息范围应该包含good name——这跟我的分析可以交叉验证。建议今天直接出good name。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Hannoy",
+          "context": "公聊环节, 存活: ['good name', '困困', 'wowo']",
+          "action": "Hannoy(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑大6，理由是我观察到Youmi自称猎手，丘皮卡自称占卜师，困困自称厨师，wowo自称调查员，大6自称图书管理员里面的矛盾点和Youmi投了good name，困困投了good name，Youmi投了丘皮卡，丘皮卡投了Youmi的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大6",
+          "context": "公聊环节, 存活: ['good name', '困困', 'wowo']",
+          "action": "大6(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Youmi，理由是我观察到大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师，Youmi自称猎手，wowo自称调查员里面的矛盾点和Youmi投了good name，困困投了good name，Youmi投了丘皮卡，丘皮卡投了Youmi的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "提名good name",
+          "action": "我提名good name——理由很充分：他的投票记录Hannoy/Youmi非常反常——好人不该这样投票；Hannoy已死亡；丘皮卡已死亡。我拿我的身份担保，讲真，good name绝对不是好人。该投票了。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "good name",
+          "context": "被困困提名",
+          "action": "嗯……，我是贞洁者。我理解大家会怀疑我，但请看看事实：Youmi自称猎手，wowo自称调查员，大6自称图书管理员中我没有身份矛盾，Youmi投了good name，困困投了good name，Youmi投了丘皮卡，丘皮卡投了Youmi中我没有异常投票，困困对我的指控也不是基于实际行为而是感觉。我建议今天从Youmi开始排查——一个处决机会用在我身上太浪费了。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "good name被处决",
+          "action": "处决good name",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "困困, wowo",
+  "players": [
+    "good name",
+    "丘皮卡",
+    "Youmi",
+    "困困",
+    "wowo",
+    "Hannoy",
+    "大6"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "丘皮卡": [
+        {
+          "key": "seer",
+          "text": "查验 ['wowo', 'good name']，无恶魔",
+          "day": 0
+        }
+      ],
+      "wowo": [
+        {
+          "key": "investigator",
+          "text": "Youmi 和 丘皮卡 中有一人是 红唇女郎",
+          "day": 0
+        }
+      ],
+      "大6": [
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "丘皮卡": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        },
+        {
+          "key": "seer",
+          "text": "查验 ['wowo', 'good name']，无恶魔",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "大6": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        }
+      ],
+      "丘皮卡": [
+        {
+          "key": "seer",
+          "text": "查验 ['wowo', 'good name']，无恶魔",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "Hannoy🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "基于已公开的信息，hannoy，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我good name有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "基于已公开的信息，基于已公开的信息，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "这个事情是这样的，观察good name的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了。一个持续查验的信息位应该能持续产出新细节。如果第三轮还拿不出新信息，建议直接处决。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我跟你们说啊，我对good name的身份不明声明持保留态度。理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——。建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论。",
+        "seq": 6
+      }
+    ],
+    "困困🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "你好困困，我是图书管理员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "你刚才提到我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明good name的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我盘了一下目前的线索：加上大6自称图书管理员里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "从逻辑上看，我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "我想听听你对good name的看法。你觉得他可信吗？从我的视角看，他的图书管理员声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面。",
+        "seq": 7
+      },
+      {
+        "speaker": "大6",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Youmi。理由我再说一遍：大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师和困困投了good name，困困投了Hannoy，大6投了Hannoy交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑good name。",
+        "seq": 9
+      },
+      {
+        "speaker": "大6",
+        "text": "理性分析的话，听我分析完再做决定：如果Youmi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Youmi的风险是可控的，收益却是巨大的。",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "text": "基于已公开的信息，你觉得今天应该出谁？我还没完全决定，但我倾向于good name——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+        "seq": 11
+      },
+      {
+        "speaker": "大6",
+        "text": "分头行动：我盯着Youmi的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Youmi。如果他翻出是好人，我们就从保过他的人里继续盘。",
+        "seq": 12
+      }
+    ],
+    "good name🔄大6": [
+      {
+        "speaker": "大6",
+        "text": "从逻辑上看，刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "这还用想？！，我虽然没有查验技能，但我的逻辑告诉我丘皮卡有问题！理由：里他的投票全是在跟风，没有一次是独立判断的！",
+        "seq": 2
+      },
+      {
+        "speaker": "大6",
+        "text": "综合现有信息，我们来盘一下目前的局势。大6自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "对比了几个人的发言，丘皮卡是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 4
+      },
+      {
+        "speaker": "大6",
+        "text": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "明摆着的事，我注意到丘皮卡的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄wowo": [
+      {
+        "speaker": "Youmi",
+        "text": "你好wowo，我是猎手。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看good name这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "我在想good name的行为能不能用猎手来解释——他自称是猎手，但如果是真猎手，应该会猎手应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "理性分析的话，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得good name的问题很大。你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "我敢肯定，我的笔记里记了几件事：Youmi自称猎手；我最怀疑good name！结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我跟你透露一个事：good name跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "我越来越觉得good name有问题！理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！你分析一下是不是这个理！",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄困困": [
+      {
+        "speaker": "Youmi",
+        "text": "收到分配。我厨师没问题，但我觉得剩下送葬者留着备用。如果你那边需要调整，我可以换身份。关键是你厨师要站住脚，我配合你。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "基于已公开的信息，盘一下剩余玩家。大6自称图书管理员告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会。我们可以在他们开口之前先把good name定义成'邪恶方'，等于提前占领了好人的心智。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "目前Youmi自称猎手分析下来，good name是最佳攻击点。我们集中火力咬他，理由有三：第一，他报的身份是身份不明，这个身份很容易被质疑；第二，从看他的投票有异常；第三，咬他风险最小——即使他翻出是好人，我们也只是排除了一个选项。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我盘了一下目前的线索：加上大6自称图书管理员里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "你觉得good name怎么样？我观察了他好几轮，感觉他的身份不明身份很假。要不今天我们两个都在公聊点一下他，看看其他人的反应？如果多人附和我们，今天就可以冲他。某人某人",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "从逻辑上看，我刚想到一个方向：good name的身份不明声明和放在一起看很有问题。明天聊到这个话题时你可以顺着这个方向说，算是我俩各自的观察互相验证了。某人某人",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "确认攻击目标：good name。理由有三：第一他claim了身份不明，这身份容易被质疑；第二从Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy，困困投了good name看他投票有明显倾向；第三他在大6自称图书管理员，wowo自称调查员，丘皮卡自称占卜师，困困自称厨师里面的定位是信息位，威胁最大。今天集中火力搞他。某人某人",
+        "seq": 7
+      },
+      {
+        "speaker": "Youmi",
+        "text": "今晚刀wowo，白天的公聊目标也是wowo。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。某人某人",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "刚才我在想，如果有人在公聊问起我们的厨师身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上。",
+        "seq": 9
+      },
+      {
+        "speaker": "Youmi",
+        "text": "排练一下明天的公聊剧本。我先说：'我是猎手，我查到wowo有问题。'然后你接：'巧了，我也在怀疑wowo，因为困困投了good name，困困投了Hannoy，Youmi投了good name，Youmi投了丘皮卡。'注意你的语气要像临时发现而不是商量好的。",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "text": "明天你可以在公聊先聊点别的，别上来就直奔good name——太刻意了。等两三个人发言之后你再自然提起'其实我观察good name很久了'，这样看起来更真实。",
+        "seq": 11
+      },
+      {
+        "speaker": "Youmi",
+        "text": "模拟一下被质疑时的应对。如果有人说'你们两个怎么同时怀疑同一个人'，你回答：'因为狐狸尾巴露出来了，谁都能看到。'自然带过，不要过度解释——越解释越可疑。",
+        "seq": 12
+      }
+    ],
+    "Hannoy🔄Youmi": [
+      {
+        "speaker": "Youmi",
+        "text": "嗨Hannoy，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同。",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "你有没有注意到good name和wowo的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我跟你们说啊，综合观察下来，good name的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "综合现有信息，good name的发言和行为对不上——他说自己是身份不明，但我观察到他我最怀疑good name；Youmi自称猎手。一个真正的身份不明不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "真的假的？！，我注意到good name的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人吧呢。",
+        "seq": 6
+      }
+    ],
+    "wowo🔄丘皮卡": [
+      {
+        "speaker": "丘皮卡",
+        "text": "wowo，我刚整理了一下笔记：我最怀疑good name。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "wowo",
+        "text": "我们来盘一下目前的局势！Youmi自称猎手里面有几个矛盾点特别值得关注！第一，；第二，good name的投票轨迹跟他的声明对不上！",
+        "seq": 2
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "综合现有信息，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，good name的投票轨迹跟他的声明对不上。我的结论是good name至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "wowo",
+        "text": "你刚才提到综合现有信息，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，good name，这一点我也注意到了！",
+        "seq": 4
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "基于已公开的信息，我的笔记里记了几件事：我最怀疑good name。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "wowo",
+        "text": "明摆着的事，来，我们对对信息。我的调查员技能告诉我一些事情：查到Youmi是丘皮卡。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ],
+    "Hannoy🔄丘皮卡": [
+      {
+        "speaker": "丘皮卡",
+        "text": "综合现有信息，hannoy你好，我是占卜师。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "这个事情是这样的，我盘了一下good name的时间线：他先说自己是占卜师，但在被质疑后又改口说'可能看错了'。一个真正的占卜师不可能看错自己的技能结果——他在临时编词啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "客观来说，注意good name的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 3
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "我盘了一下good name的时间线：他先说自己是占卜师，但在被质疑后又改口说'可能看错了'。一个真正的占卜师不可能看错自己的技能结果——他在临时编词。",
+        "seq": 4
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "Hannoy",
+        "text": "对比了几个人的发言，good name是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同呢。",
+        "seq": 6
+      }
+    ],
+    "good name🔄丘皮卡": [
+      {
+        "speaker": "丘皮卡",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是good name确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "明摆着的事，观察丘皮卡的发言轨迹：他被第一次问到时给出了身份不明相关的解释，第二次追问具体动作时回答变笼统了！一个持续查验的信息位应该能持续产出新细节！如果第三轮还拿不出新信息，建议直接处决！",
+        "seq": 2
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "基于已公开的信息，我在想good name的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我对丘皮卡的身份不明声明持保留态度！理由很具体：他的信息输出缺少一个真正信息位该有的犹豫和核实过程——！建议今天重点关注他的发言，明天如果有新信息能交叉验证再下结论！",
+        "seq": 4
+      },
+      {
+        "speaker": "丘皮卡",
+        "text": "来，我们对对信息。我的占卜师技能告诉我一些事情：我查了wowo和good name，都是好的。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "综合观察下来，丘皮卡的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+        "seq": 6
+      }
+    ],
+    "wowo🔄困困": [
+      {
+        "speaker": "wowo",
+        "text": "我敢肯定，困困你好，我是调查员。第一天信息有限，但我注意到一些细节——Youmi自称猎手里面有些人的声明不太自然。你同感吗！",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "基于已公开的信息，我复盘了good name的全部公聊发言，发现几个具体矛盾：第一，他先说自己是调查员，但；第二，当有人质疑他的时候，他没有回应具体疑点而是转向了大6；第三，里他的投票和调查员身份的利益取向完全不符。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "别绕弯子，注意good name的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真身份不明，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "基于已公开的信息，我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "text": "我越来越觉得good name有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理！",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "我盘了一下目前的线索：加上大6自称图书管理员，wowo自称调查员里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 6
+      },
+      {
+        "speaker": "困困",
+        "text": "我的厨师技能虽然没有直接查到铁证，但我的直觉告诉我wowo不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 7
+      },
+      {
+        "speaker": "wowo",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Youmi！理由我再说一遍：wowo自称调查员，丘皮卡自称占卜师，困困自称厨师，大6自称图书管理员和困困投了good name，困困投了Hannoy，wowo投了Youmi，wowo投了Hannoy交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 8
+      },
+      {
+        "speaker": "困困",
+        "text": "综合现有信息，基于已公开的信息，你有没有注意到wowo和good name的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 9
+      },
+      {
+        "speaker": "wowo",
+        "text": "明摆着的事，听我分析完再做决定：如果Youmi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Youmi的风险是可控的，收益却是巨大的。",
+        "seq": 10
+      },
+      {
+        "speaker": "困困",
+        "text": "理性分析的话，wowo的发言和行为对不上——他说自己是调查员，但我观察到他我最怀疑good name；我最怀疑wowo（昨天记的：我最怀疑good name；Youmi自称猎手）。一个真正的调查员不应该有这种表现。我建议大家今天先排查他，如果他翻出是好人，我来背锅。",
+        "seq": 11
+      },
+      {
+        "speaker": "wowo",
+        "text": "今天的投票策略：我们统一投Youmi！我负责去说服其他人，你负责观察那些不愿意投Youmi的人——他们可能就是我们要找的下一批目标！记住：邪恶方的最大弱点就是他们不敢投自己的队友！",
+        "seq": 12
+      }
+    ],
+    "good name🔄困困": [
+      {
+        "speaker": "困困",
+        "text": "good name，想跟你对一下信息。我厨师这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "明摆着的事，我的笔记里记了几件事：我最怀疑Youmi（昨天记的：我最怀疑丘皮卡）！结合你的信息来看，你觉得我是不是多疑了！",
+        "seq": 2
+      },
+      {
+        "speaker": "困困",
+        "text": "客观来说，理性分析的话，我盘了一下目前的线索：good name投了Hannoy，困困投了good name，困困投了Hannoy加上大6自称图书管理员，wowo自称调查员，丘皮卡自称占卜师，困困自称厨师里面的疑点，指向good name的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "明摆着的事，明摆着的事，我们来盘一下目前的局势！大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师里面有几个矛盾点特别值得关注！第一，；第二，Youmi的投票轨迹跟他的声明对不上！我的结论是Youmi至少需要被好好审一审！",
+        "seq": 4
+      },
+      {
+        "speaker": "困困",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "我直接说了，别绕弯子，你刚才提到我们来构建一个完整的推理链：你镇民的角度看good name有问题，我厨师分析一下也得出同样结论！一，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高！",
+        "seq": 6
+      },
+      {
+        "speaker": "good name",
+        "text": "我敢肯定，困困，我现在公开质疑你！如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 7
+      },
+      {
+        "speaker": "困困",
+        "text": "从逻辑上看，我注意到你一直在观察good name。你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认。",
+        "seq": 8
+      },
+      {
+        "speaker": "good name",
+        "text": "我忍你很久了困困！你的发言从头到尾都是漏洞：第一，你的厨师声明前后不一致；第二，你的困困投了good name，困困投了Hannoy，good name投了Hannoy，good name投了Youmi完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "困困",
+        "text": "从逻辑上看，你觉得今天应该出谁？我还没完全决定，但我倾向于wowo——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+        "seq": 10
+      },
+      {
+        "speaker": "good name",
+        "text": "我直接说了，困困，我现在公开质疑你！如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 11
+      },
+      {
+        "speaker": "困困",
+        "text": "好，先这样。记住今天的核心判断：wowo不能被放过。如果有人在保他，那保他的人也同样可疑——帮我盯着点。",
+        "seq": 12
+      }
+    ],
+    "Youmi🔄good name": [
+      {
+        "speaker": "Youmi",
+        "text": "客观来说，嗨good name，我是猎手。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法？",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "我越来越觉得Youmi有问题！理由是：他的声明是猎手，但他的Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy，good name投了Hannoy完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！你分析一下是不是这个理？",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "综合现有信息，你有没有注意到wowo和大6的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "来，我们对对信息！我的贞洁者技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？！",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "从逻辑上看，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得wowo的问题很大。good name投了Hannoy，Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "这还用想？，注意Youmi的回应模式：第一次被质疑猎手声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真猎手，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 6
+      }
+    ],
+    "Youmi🔄大6": [
+      {
+        "speaker": "Youmi",
+        "text": "理性分析的话，你好大6，我是猎手。想跟你聊聊对局势的看法。Youmi自称猎手，丘皮卡自称占卜师，困困自称厨师里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看wowo这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "综合现有信息，我在想Youmi的行为能不能用猎手来解释——他自称是猎手，但如果是真猎手，应该会猎手应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "Youmi",
+        "text": "客观来说，wowo，我直接问你几个问题：你自称身份不明，那你的技能结果具体是什么？为什么？大6投了Hannoy，Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy里面你的投票是怎么考虑的？请具体回答，不要绕开。",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "我越来越觉得Youmi有问题。理由是：他的声明是猎手，但他的Youmi投了good name，Youmi投了丘皮卡，Youmi投了Hannoy，大6投了Hannoy完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "Youmi",
+        "text": "我跟你透露一个事：wowo跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "注意Youmi的回应模式：第一次被质疑猎手声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了。如果是真猎手，应该每次都能给出同样的细节才对。这种信息密度递减的模式值得警惕。",
+        "seq": 6
+      }
+    ],
+    "good name🔄wowo": [
+      {
+        "speaker": "wowo",
+        "text": "good name，我刚整理了一下笔记：我最怀疑Youmi（昨天记的：丘皮卡自称占卜师；困困自称厨师）！你那边有什么发现！",
+        "seq": 1
+      },
+      {
+        "speaker": "good name",
+        "text": "综合观察下来，Youmi的发言有问题！他总是回避关键问题，别人质疑他什么他就绕圈子！好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段！",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "明摆着的事，我越来越觉得Youmi有问题。理由是：他的声明是身份不明，但他的good name投了Hannoy，wowo投了Youmi，wowo投了Hannoy完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票！",
+        "seq": 3
+      },
+      {
+        "speaker": "good name",
+        "text": "我注意到Youmi的发言模式很可疑！他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人！",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "text": "注意Youmi的回应模式：第一次被质疑身份不明声明时他给了详细解释，但第二次被问到具体细节时回答明显缩短了！如果是真身份不明，应该每次都能给出同样的细节才对！这种信息密度递减的模式值得警惕！",
+        "seq": 5
+      },
+      {
+        "speaker": "good name",
+        "text": "别绕弯子，明摆着的事，对比了几个人的发言，Youmi是最违和的！他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同！",
+        "seq": 6
+      },
+      {
+        "speaker": "good name",
+        "text": "这还用想？。，我忍你很久了困困。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的wowo投了Youmi，wowo投了Hannoy，wowo投了Youmi，good name投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！",
+        "seq": 7
+      },
+      {
+        "speaker": "wowo",
+        "text": "我敢肯定，听我分析完再做决定：如果Youmi是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投Youmi的风险是可控的，收益却是巨大的！",
+        "seq": 8
+      },
+      {
+        "speaker": "good name",
+        "text": "我忍你很久了困困。你的发言从头到尾都是漏洞：第一，你的调查员声明前后不一致；第二，你的wowo投了Youmi，wowo投了Hannoy，wowo投了Youmi，good name投了Hannoy完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "wowo",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投Youmi。理由我再说一遍：wowo自称调查员，丘皮卡自称占卜师，困困自称厨师，大6自称图书管理员和good name投了Hannoy，good name投了Youmi，wowo投了Youmi，wowo投了Hannoy交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 10
+      },
+      {
+        "speaker": "good name",
+        "text": "我直接说了，困困，我现在公开质疑你！如果你真是好人，请用你的贞洁者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 11
+      },
+      {
+        "speaker": "wowo",
+        "text": "分头行动：我盯着Youmi的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出Youmi。如果他翻出是好人，我们就从保过他的人里继续盘。",
+        "seq": 12
+      }
+    ],
+    "wowo🔄大6": [
+      {
+        "speaker": "wowo",
+        "text": "你好大6，我是调查员。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标！",
+        "seq": 1
+      },
+      {
+        "speaker": "大6",
+        "text": "客观来说，我们来盘一下目前的局势。大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师，Youmi自称猎手，wowo自称调查员里面有几个矛盾点特别值得关注。第一，；第二，Youmi的投票轨迹跟他的声明对不上。我的结论是Youmi至少需要被好好审一审。",
+        "seq": 2
+      },
+      {
+        "speaker": "wowo",
+        "text": "我敢肯定，你刚才提到客观来说，我们来盘一下目前的局势。大6自称图书管理员，丘皮卡自称占卜师，困困自称厨师，Youmi自称，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Youmi的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "大6",
+        "text": "基于已公开的信息，理性分析的话，我的笔记里记了几件事：我最怀疑Youmi；Youmi自称猎手；wowo自称调查员（昨天记的：丘皮卡自称占卜师；困困自称厨师）。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "wowo",
+        "text": "我在想Youmi的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 5
+      },
+      {
+        "speaker": "大6",
+        "text": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合wowo投了Youmi，wowo投了Hannoy，大6投了Hannoy来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "图书管理员报告：{lib_info}。{anchor_explanation}请大家自报一下身份类别（镇民或外来者），我来统计一下全场的外来者总数是否和预期一致。",
+    "我是占卜师，昨晚查验了{chosen0}和{chosen1}，{result}。{demon_verdict}我建议先从{chosen0}开始盘——如果他是好人翻出来，那{chosen1}就是铁邪恶。{drunk_warning}{recluse_warning}",
+    "我是{bluff}。{fake_info}我倒不是要直接锤死{target}，但我建议大家对比一下{target}和{other}的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。{baron_tip}",
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "现在是公聊时间，我分享一下我的推理：{info_or_opinion}。目前{claim_str}，而投票记录显示{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}这些线索综合来看，我的{opinion}。希望大家也分享一下自己的观点。",
+    "{target}一直在装好人，但他的马脚已经露出来了：{contradict_str}{fake_info}真正的好人被质疑时会拿出自己的信息来对质，{target}只会反问——这是邪恶的标准操作。{baron_tip}",
+    "首夜信息已确认：{target}是{role}。这是实打实的查验结果，不是猜测。{cross_ref}请大家看清局势。{drunk_warning}{recluse_warning}"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "Youmi",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "good name",
+        "day": 1
+      },
+      {
+        "voter": "Youmi",
+        "target": "丘皮卡",
+        "day": 1
+      },
+      {
+        "voter": "丘皮卡",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "wowo",
+        "target": "Youmi",
+        "day": 1
+      },
+      {
+        "voter": "good name",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "Youmi",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "wowo",
+        "target": "Hannoy",
+        "day": 1
+      },
+      {
+        "voter": "大6",
+        "target": "Hannoy",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "good name",
+        "target": "Youmi",
+        "day": 2
+      },
+      {
+        "voter": "wowo",
+        "target": "Youmi",
+        "day": 2
+      },
+      {
+        "voter": "大6",
+        "target": "Youmi",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "困困",
+        "target": "good name",
+        "day": 3
+      },
+      {
+        "voter": "wowo",
+        "target": "good name",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "Hannoy",
+        "target": "good name",
+        "result": "failed"
+      },
+      {
+        "nominator": "wowo",
+        "target": "丘皮卡",
+        "result": "failed"
+      },
+      {
+        "nominator": "丘皮卡",
+        "target": "Youmi",
+        "result": "failed"
+      },
+      {
+        "nominator": "困困",
+        "target": "Hannoy",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "good name",
+        "target": "Youmi",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "困困",
+        "target": "good name",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我注意到一个细节：{my_note}。{fake_info}这跟{target}的表现完全吻合——他就是有问题。{baron_tip}",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "我是图书管理员。{lib_info}。{anchor_explanation}希望大家报一下自己的身份，我来核对总数是否正常。如果外来者数量对不上，说明可能有男爵在场或者有人冒充。",
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。{cross_ref}{drunk_warning}{recluse_warning}"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。{baron_tip}",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "调查员有重要发现：{target}是{role}。这是我首夜查验的铁证。{cross_ref}建议今天直接出{target}。{drunk_warning}{recluse_warning}"
+  ],
+  "ended_at": "2026-06-21T09:13:05.874370"
+}

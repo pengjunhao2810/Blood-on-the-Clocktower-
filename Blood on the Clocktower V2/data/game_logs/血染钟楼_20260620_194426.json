@@ -1,0 +1,2072 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T19:44:26.605459",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "投毒者选择目标",
+          "action": "对when？下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "你刚才提到刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "我的笔记里记了几件事：我最怀疑when？。结合你的信息来看，你觉得我是不是多疑了呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊困困",
+          "action": "我想问问，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，when？的投票轨迹跟他的声明对不上。我的结论是when？至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊任",
+          "action": "我新手不太懂，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "我新手不太懂，star，我刚整理了一下笔记：我最怀疑when？。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "我的天，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "可能是我理解错了，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "我跟你们说啊，这个事情是这样的，我盘了一下目前的线索：加上里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊Star",
+          "action": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊任",
+          "action": "真的假的？！，我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊kiod",
+          "action": "kiod你好，我是图书管理员。第一天信息有限，但我注意到一些细节——任自称图书管理员里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊任",
+          "action": "我在想when？的行为能不能用图书管理员来解释——他自称是图书管理员，但如果是真图书管理员，应该会图书管理员应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊kiod",
+          "action": "我新手不太懂，我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊任",
+          "action": "我越来越觉得when？有问题。理由是：他的声明是图书管理员，但他的完全不符合这个身份的行为模式。一个真正的图书管理员不会这样投票。你分析一下是不是这个理哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "私聊kiod",
+          "action": "你刚才提到我越来越觉得when？有问题。理由是：他的声明是图书管理员，但他的完全不符合这个身份的行为模式。一个，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊任",
+          "action": "真的假的？！，我的笔记里记了几件事：我最怀疑when？。其实吧，结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊mh",
+          "action": "真的假的？！，刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？。对了再补充一点，不过他也有可能是好人，这个可能性不能排除",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊kiod",
+          "action": "我的天，我注意到when？的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊mh",
+          "action": "我的天，我们来盘一下目前的局势。任自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，when？的投票轨迹跟他的声明对不上。我的结论是when？至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊kiod",
+          "action": "我盘了一下when？的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊mh",
+          "action": "我跟你们说啊，你刚才提到我盘了一下when？的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊kiod",
+          "action": "这个事情是这样的，我不太信when？。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了吧吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "大美你好，我是士兵。第一天信息有限，但我注意到一些细节——任自称图书管理员里面有些人的声明不太自然。你同感吗？。对了另外呢，我觉得我们要多观察几轮",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "我不太确定，我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "真的假的？！，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "我想问问，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊困困",
+          "action": "我跟你们说啊，困困你好，我是猎手。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊mh",
+          "action": "我的笔记里记了几件事：我最怀疑when？；mh自称猎手。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊困困",
+          "action": "我觉得吧，我觉得吧，对比了几个人的发言，when？是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊mh",
+          "action": "我们来盘一下目前的局势。mh自称猎手里面有几个矛盾点特别值得关注。第一，；第二，when？的投票轨迹跟他的声明对不上。我的结论是when？至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊困困",
+          "action": "观察when？的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊mh",
+          "action": "可能是我理解错了，我越来越觉得when？有问题。理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊when？",
+          "action": "你好when？，我是猎手。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标啊啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊mh",
+          "action": "明摆着的事，我在想任的行为能不能用猎手来解释——他自称是猎手，但如果是真猎手，应该会猎手应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊when？",
+          "action": "真的假的？！，综合观察下来，when？的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊mh",
+          "action": "别绕弯子，我越来越觉得任有问题！理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊when？",
+          "action": "我虽然没有查验技能，但我的逻辑告诉我when？有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊mh",
+          "action": "这还用想？，观察了一下任对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊困困",
+          "action": "我不太确定，你好困困，我是酒鬼。想跟你聊聊对局势的看法。kiod自称士兵里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看when？这个人呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大美",
+          "action": "我新手不太懂，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数0。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊困困",
+          "action": "大家怎么看，大家怎么看，你有没有注意到when？和任的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大美",
+          "action": "我在想when？的行为能不能用酒鬼来解释——他自称是酒鬼，但如果是真酒鬼，应该会酒鬼应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊困困",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的问题很大。你看了吗？他的投票明显不对劲。你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "私聊大美",
+          "action": "观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "角色分配完毕：我酒鬼，你管家。剩下的剩下共情者留着备用。核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧。对外我们口径一致，对内我们再讨论真实目标。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "这个事情是这样的，我思考了一下局势：说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "大家怎么看，盘一下剩余玩家。kiod自称士兵，大美自称酒鬼告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会。我们可以在他们开口之前先把when？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了when？是某个角色。我配合说我也觉得when？符合那个角色——两个独立信息位交叉验证同一结论，好人必信哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "我想问问，今晚刀when？，白天的公聊目标也是when？。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "真的假的？！，我刚想到一个方向：when？的身份不明声明和放在一起看很有问题。明天聊到这个话题时你可以顺着这个方向说，算是我俩各自的观察互相验证了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Star",
+          "action": "Star，我刚整理了一下笔记：mh自称猎手；我最怀疑任！你那边有什么发现！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊when？",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的问题很大。你看了吗？他的投票明显不对劲。你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Star",
+          "action": "别绕弯子，来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道大美或困困之中有厨师！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊when？",
+          "action": "我的天，我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊Star",
+          "action": "我直接说了，你刚才提到我的天，我们来构建一个完整的推理链：你镇民的角度看when？！有问题，我管家分析一下也得出同样结论！一，这一点我也注意到了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊when？",
+          "action": "我盘了一下目前的线索：加上任自称图书管理员里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['when？', '任', 'kiod', '大美', '困困', 'mh', 'Star']",
+          "action": "when？: 公聊同步：我的首夜查验大美是厨师已确认。这是我的金水，请大家不要浪费处决机会在他身上。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['when？', '任', 'kiod', '大美', '困困', 'mh', 'Star']",
+          "action": "任: 图书管理员报告：本局没有外来者——所有人声称自己是镇民的话是正常的。如果有人跳外来者，他一定在撒谎。。这意味着场上有男爵的话就不存在酒鬼，所有信息位的查验结果都是准确的——如果有人对跳身份，必出一狼；如果有人自称外来者，可以直接标假。请大家自报一下身份类别（镇民或外来者），我来统计一下全场的外来者总数是否和预期一致。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['when？', '任', 'kiod', '大美', '困困', 'mh', 'Star']",
+          "action": "kiod: 士兵在此。我不需要拐弯抹角——when？的可疑点太明显了：身份跳法是否合理，发言是否含有有效信息，是否回避关键问题。我对when？有怀疑。谁要是保when？，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['when？', '任', 'kiod', '大美', '困困', 'mh', 'Star']",
+          "action": "大美: 我是酒鬼。大家注意mh，他的投票轨迹不对——好人不这样投票。我倒不是要直接锤死when？，但我建议大家对比一下when？和大美的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['when？', '任', 'kiod', '大美', '困困', 'mh', 'Star']",
+          "action": "困困: 厨师情报：相邻邪恶对数0。大美(自称酒鬼)，mh(自称猎手)。如果0==0，说明邪恶之间不相邻，可以排除邻居共边的组合。大家盘位置时可以把这个因素考虑进去吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "公聊环节, 存活: ['when？', '任', 'kiod', '大美', '困困', 'mh', 'Star']",
+          "action": "mh: 我来盘一下目前的局面。暂时没有关键信息。大美自称酒鬼，。。本局预期没有外来者，但已经有1个人自称外来者（大美）了——这个数字对不上，说明有人在冒充！本局7人场标准配置0个外来者，目前1人认领。如果数字对不上，可能有人隐藏身份或有男爵。综合这些，我倾向when？有问题——当然我也欢迎不同意见的讨论。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['when？', '任', 'kiod', '大美', '困困', 'mh', 'Star']",
+          "action": "Star: 大家注意when？的发言——他自称?，但这不是明摆着在撒谎吗？我觉得困困和任有勾结——他们的投票高度一致，不是巧合。我建议今天直接出when？，错了算我的。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "提名任",
+          "action": "我提名任。理由如下：第一，他的声明某人有问题；第二，显示他的投票异常；第三，mh自称猎手，大美自称酒鬼里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "被when？提名",
+          "action": "我是图书管理员，我的身份经得起验证。when？的指控有几点站不住脚：首先，他说的问题并不存在；其次，显示我一直在支持好人；最后，when？自己的图书管理员声明本身就值得怀疑。与其在我身上浪费处决机会，不如去盘when？，他才是更需要被查的人。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "任被处决",
+          "action": "处决任",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "投毒者选择目标",
+          "action": "对when？下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "恶魔杀人",
+          "action": "杀害困困",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "mh",
+          "context": "私聊kiod",
+          "action": "kiod，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊mh",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：任自称图书管理员，kiod自称士兵，大美自称酒鬼和kiod投了任交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊kiod",
+          "action": "我的天，这个事情是这样的，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊mh",
+          "action": "真的假的？！，听我分析完再做决定：如果when？是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投when？的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊kiod",
+          "action": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊mh",
+          "action": "分头行动：我盯着when？的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出when？。如果他翻出是好人，我们就从保过他的人里继续盘。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊when？",
+          "action": "kiod，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊mh",
+          "action": "我是洗衣妇！大美和困困两人均不认我得知的镇民厨师，怀疑首夜被投毒者下毒导致信息失真！你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验大美、困困身份！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊when？",
+          "action": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的洗衣妇声明前后不一致；第二，你的when？投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊mh",
+          "action": "出问题了：大美和困困都不承认厨师这个身份！。要么我是酒鬼，要么首夜被投毒者下毒！。你是调查员，你查到的爪牙是谁？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊when？",
+          "action": "我跟你们说啊，kiod，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊mh",
+          "action": "出问题了：大美和困困都不承认厨师这个身份！要么我是酒鬼，要么首夜被投毒者下毒！你是调查员，你查到的爪牙是谁？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Star",
+          "action": "我跟你们说啊，kiod，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的Star投了任为什么会这样投？请正面回答，不要转移话题。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊mh",
+          "action": "真的假的？！，你有没有注意到when？和大美的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Star",
+          "action": "观察了一下kiod对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊mh",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "私聊Star",
+          "action": "我的笔记里记了几件事：我最怀疑kiod；when？自称洗衣妇；when？自称酒鬼（昨天记的：mh自称猎手；大美自称酒鬼）。结合你的信息来看，你觉得我是不是多疑了啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊mh",
+          "action": "真的假的？！，我盘了一下目前的线索：Star投了任加上任自称图书管理员，大美自称酒鬼里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "今晚刀when？，白天的公聊目标也是when？。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "我跟你们说啊，你觉得when？怎么样？我观察了他好几轮，感觉他的酒鬼身份很假。要不今天我们两个都在公聊点一下他，看看其他人的反应？如果多人附和我们，今天就可以冲他哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "刚才我在想，如果有人在公聊问起我们的酒鬼身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "排练一下明天的公聊剧本。我先说：'我是管家，我查到when？有问题。'然后你接：'巧了，我也在怀疑when？，因为Star投了任。'注意你的语气要像临时发现而不是商量好的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "排练一下明天的公聊剧本。我先说：'我是酒鬼，我查到kiod有问题。'然后你接：'巧了，我也在怀疑kiod，因为Star投了任呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "明天你可以在公聊先聊点别的，别上来就直奔when？——太刻意了。等两三个人发言之后你再自然提起'其实我观察when？很久了'，这样看起来更真实。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "大家怎么看，我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我kiod不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "when？，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "大家怎么看，我复盘了一下kiod的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的酒鬼声明前后不一致；第二，你的kiod投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "我跟你透露一个事：kiod跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "我记一下今天的重点：我最怀疑when？；我最怀疑大美（昨天记的：我最怀疑when？；kiod自称士兵）。明天继续跟进，有新情况随时找我呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊when？",
+          "action": "大家怎么看，我想问问，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得kiod的问题很大。when？投了任你看了吗？他的投票明显不对劲。你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大美",
+          "action": "你好大美，我是洗衣妇！首夜得知你是厨师——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享！如果你不认，我需要去排查信息干扰来源！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊when？",
+          "action": "大家怎么看，你有没有注意到kiod和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大美",
+          "action": "明摆着的事，我们来盘一下目前的局势！mh自称猎手，大美自称酒鬼，when？！自称洗衣妇里面有几个矛盾点特别值得关注！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊when？",
+          "action": "可能是我理解错了，我想问问，我复盘了一下kiod的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "私聊大美",
+          "action": "我直接说了，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道大美或困困之中有厨师。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Star",
+          "action": "大美，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊kiod",
+          "action": "我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的问题很大。kiod投了任，Star投了任你看了吗？他的投票明显不对劲。你觉得呢哦吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Star",
+          "action": "我跟你们说啊，这个事情是这样的，你刚才提到我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大美的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊kiod",
+          "action": "我觉得吧，我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Star",
+          "action": "观察了一下大美对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊kiod",
+          "action": "我的管家技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['when？', 'kiod', '大美', 'mh', 'Star']",
+          "action": "when？: 明摆着的事，洗衣妇同步：我的查验结果是大美或困困之中有厨师！两人都不承认，恰恰说明至少有一人在撒谎——真身份的人没有理由隐藏！大家今天重点关注这两个位置！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['when？', 'kiod', '大美', 'mh', 'Star']",
+          "action": "任(已死亡): 我新手不太懂，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑困困，理由是我观察到任自称图书管理员，大美自称酒鬼里面的矛盾点和when？投了任，kiod投了任，困困投了任，Star投了任的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['when？', 'kiod', '大美', 'mh', 'Star']",
+          "action": "kiod: 士兵在此。我不需要拐弯抹角——大美的可疑点太明显了：死者身份与之前发言是否匹配，谁曾力保或死踩死者，死亡结果对谁最有利。我对大美有怀疑。谁要是保大美，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['when？', 'kiod', '大美', 'mh', 'Star']",
+          "action": "大美: 我直接点名kiod。你是?？但你的发言里漏洞太多——kiod，你解释一下为什么when？投了任，kiod投了任，困困投了任，Star投了任？一个真正的?不会有这样的投票记录。你根本就是在编！大家看清楚，kiod的表演到这里就该结束了。今天必须出他吧。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['when？', 'kiod', '大美', 'mh', 'Star']",
+          "action": "困困(已死亡): 大家怎么看，死者的话最客观。我回顾了整个游戏过程，when？的嫌疑最大。他的声明是mh自称猎手，大美自称酒鬼，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "公聊环节, 存活: ['when？', 'kiod', '大美', 'mh', 'Star']",
+          "action": "mh: 我的天，根据我的记录：我最怀疑kiod；when？自称洗衣妇；when？自称酒鬼（昨天记的：mh自称猎手；大美自称酒鬼）。任已死亡，困困已死亡，任已死亡。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['when？', 'kiod', '大美', 'mh', 'Star']",
+          "action": "Star: when？自称?，但投票处决过任，行为对不上！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "提名when？",
+          "action": "我提名when？。理由如下：第一，他的声明某人有问题；第二，when？投了任，kiod投了任，困困投了任，Star投了任显示他的投票异常；第三，mh自称猎手，大美自称酒鬼，when？自称洗衣妇里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "被mh提名",
+          "action": "我是洗衣妇！washerwoman:('大美', '困困', '厨师')处决我这条信息链就断了。mh的目的就是销毁证据！",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "when？被处决",
+          "action": "处决when？",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "投毒者选择目标",
+          "action": "对kiod下毒",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "恶魔杀人",
+          "action": "杀害mh",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "Star",
+          "context": "私聊kiod",
+          "action": "你有没有注意到when？和大美的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Star",
+          "action": "我忍你很久了大美。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了任，Star投了when？，kiod投了任，kiod投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊kiod",
+          "action": "这个事情是这样的，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Star",
+          "action": "我觉得吧，大美，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊kiod",
+          "action": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊Star",
+          "action": "这个事情是这样的，今天就到这。我们的共识是：大美是第一嫌疑人。明天根据处决结果再调整策略。如果大美是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标啊呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "我跟你们说啊，排练一下明天的公聊剧本。我先说：'我是管家，我查到kiod有问题。'然后你接：'巧了，我也在怀疑kiod，因为Star投了任，Star投了when？。'注意你的语气要像临时发现而不是商量好的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服kiod投kiod，我去搞定某人。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服kiod投kiod，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊大美",
+          "action": "决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊Star",
+          "action": "我不太确定，我新手不太懂，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "这个事情是这样的，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得kiod的问题很大。kiod投了任，kiod投了when？你看了吗？他的投票明显不对劲。你觉得呢啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "我记一下今天的重点：我最怀疑大美（昨天记的：我最怀疑when？；我最怀疑大美）。怎么说呢，明天继续跟进，有新情况随时找我。对了还有啊，不过他也有可能是好人，这个可能性不能排除",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "我想问问，我复盘了一下kiod的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "私聊大美",
+          "action": "今天就到这。我们的共识是：大美是第一嫌疑人。明天根据处决结果再调整策略。如果大美是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标吧呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "私聊kiod",
+          "action": "我新手不太懂，你有没有注意到kiod和Star的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "when？",
+          "context": "公聊环节, 存活: ['kiod', '大美', 'Star']",
+          "action": "when？(已死亡): 明摆着的事，我已经是个死人了，我的判断应该更有参考价值！我死前最怀疑Star，理由是我观察到mh自称猎手，大美自称酒鬼，when？自称洗衣妇里面的矛盾点和when？投了任，kiod投了任，困困投了任，Star投了任的异常！活着的兄弟们，帮我报仇！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "任",
+          "context": "公聊环节, 存活: ['kiod', '大美', 'Star']",
+          "action": "任(已死亡): 死者的话最客观。我回顾了整个游戏过程，困困的嫌疑最大。他的声明是任自称图书管理员，大美自称酒鬼，但他的行为完全对不上。活着的各位，别让我的死白费呢。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "公聊环节, 存活: ['kiod', '大美', 'Star']",
+          "action": "kiod: 士兵在此。我不需要拐弯抹角——大美的可疑点太明显了：死者身份与之前发言是否匹配，谁曾力保或死踩死者，死亡结果对谁最有利。我对大美有怀疑。谁要是保大美，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "公聊环节, 存活: ['kiod', '大美', 'Star']",
+          "action": "大美: 都听我说。连续两天了，我的酒鬼信息都指向kiod——一个人可以被冤枉一次，但不会被连续误判两次！。我严重怀疑kiod——他的发言逻辑前后矛盾，明显在编故事。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "困困",
+          "context": "公聊环节, 存活: ['kiod', '大美', 'Star']",
+          "action": "困困(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑大美，理由是我观察到mh自称猎手，大美自称酒鬼里面的矛盾点和when？投了任，kiod投了任，困困投了任，Star投了任的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "mh",
+          "context": "公聊环节, 存活: ['kiod', '大美', 'Star']",
+          "action": "mh(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑kiod，理由是我观察到大美自称酒鬼，when？自称洗衣妇里面的矛盾点和when？投了任，kiod投了任，困困投了任，Star投了任的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['kiod', '大美', 'Star']",
+          "action": "Star: when？自称?，但投票处决过任，行为对不上！。对了再补充一点，不知道大家注意到没有，他的发言有几个地方很奇怪",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "提名大美",
+          "action": "我提名大美。理由如下：第一，他的声明某人有问题；第二，when？投了任，kiod投了任，困困投了任，Star投了任显示他的投票异常；第三，里面有矛盾指向他。请大家投票处决哦。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "大美",
+          "context": "被kiod提名",
+          "action": "我是酒鬼。kiod说我有问题，但他的理由站不住脚：他指控我的依据根本不成立。大家想想，如果我真有问题，kiod为什么不拿出实锤证据？因为他拿不出来——因为他自己才是心中有鬼的那个。我建议今天先查kiod，他才是真正可疑的人。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "kiod",
+          "context": "大美被处决",
+          "action": "处决大美",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "good_win",
+  "survivors": "kiod, Star",
+  "players": [
+    "when？",
+    "任",
+    "kiod",
+    "大美",
+    "困困",
+    "mh",
+    "Star"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "when？": [
+        {
+          "key": "washerwoman",
+          "text": "大美 和 困困 中有一人是 厨师",
+          "day": 0
+        }
+      ],
+      "任": [
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 0
+        }
+      ],
+      "困困": [
+        {
+          "key": "chef",
+          "text": "有 0 对相邻的邪恶玩家",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "困困": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "mh": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "任🔄困困": [
+      {
+        "speaker": "任",
+        "text": "刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "你刚才提到刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "我的笔记里记了几件事：我最怀疑when？。结合你的信息来看，你觉得我是不是多疑了呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "我想问问，我们来盘一下目前的局势。里面有几个矛盾点特别值得关注。第一，；第二，when？的投票轨迹跟他的声明对不上。我的结论是when？至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "我新手不太懂，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "Star🔄任": [
+      {
+        "speaker": "任",
+        "text": "我新手不太懂，star，我刚整理了一下笔记：我最怀疑when？。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "我的天，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "可能是我理解错了，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "我跟你们说啊，这个事情是这样的，我盘了一下目前的线索：加上里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票吧。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "真的假的？！，我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 6
+      }
+    ],
+    "kiod🔄任": [
+      {
+        "speaker": "任",
+        "text": "kiod你好，我是图书管理员。第一天信息有限，但我注意到一些细节——任自称图书管理员里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "kiod",
+        "text": "我在想when？的行为能不能用图书管理员来解释——他自称是图书管理员，但如果是真图书管理员，应该会图书管理员应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "任",
+        "text": "我新手不太懂，我在想when？的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "kiod",
+        "text": "我越来越觉得when？有问题。理由是：他的声明是图书管理员，但他的完全不符合这个身份的行为模式。一个真正的图书管理员不会这样投票。你分析一下是不是这个理哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "任",
+        "text": "你刚才提到我越来越觉得when？有问题。理由是：他的声明是图书管理员，但他的完全不符合这个身份的行为模式。一个，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高。",
+        "seq": 5
+      },
+      {
+        "speaker": "kiod",
+        "text": "真的假的？！，我的笔记里记了几件事：我最怀疑when？。其实吧，结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 6
+      }
+    ],
+    "kiod🔄mh": [
+      {
+        "speaker": "kiod",
+        "text": "真的假的？！，刚才你说的你的发言，我也想聊聊这个话题。我的看法是when？确实值得重点观察，你觉得呢？。对了再补充一点，不过他也有可能是好人，这个可能性不能排除",
+        "seq": 1
+      },
+      {
+        "speaker": "mh",
+        "text": "我的天，我注意到when？的发言模式很可疑。他的每一句话都在'自保'而不是在'找狼'——真正的好人关心的是找出邪恶，而不是反复强调自己是好人。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "我的天，我们来盘一下目前的局势。任自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，when？的投票轨迹跟他的声明对不上。我的结论是when？至少需要被好好审一审。",
+        "seq": 3
+      },
+      {
+        "speaker": "mh",
+        "text": "我盘了一下when？的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身份不明不可能看错自己的技能结果——他在临时编词。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "我跟你们说啊，你刚才提到我盘了一下when？的时间线：他先说自己是身份不明，但在被质疑后又改口说'可能看错了'。一个真正的身，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明when？的可疑程度比想象中更高啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "mh",
+        "text": "这个事情是这样的，我不太信when？。他的身份不明声明有问题——报身份的时候说得太流畅了，像是提前背好的。真正的信息位首夜拿信息应该有个思考的过程，他衔接得太完美了吧吧。",
+        "seq": 6
+      },
+      {
+        "speaker": "mh",
+        "text": "kiod，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "kiod",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投when？。理由我再说一遍：任自称图书管理员，kiod自称士兵，大美自称酒鬼和kiod投了任交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 8
+      },
+      {
+        "speaker": "mh",
+        "text": "我的天，这个事情是这样的，我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的啊。",
+        "seq": 9
+      },
+      {
+        "speaker": "kiod",
+        "text": "真的假的？！，听我分析完再做决定：如果when？是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投when？的风险是可控的，收益却是巨大的。",
+        "seq": 10
+      },
+      {
+        "speaker": "mh",
+        "text": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的kiod投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+        "seq": 11
+      },
+      {
+        "speaker": "kiod",
+        "text": "分头行动：我盯着when？的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出when？。如果他翻出是好人，我们就从保过他的人里继续盘。",
+        "seq": 12
+      }
+    ],
+    "kiod🔄大美": [
+      {
+        "speaker": "kiod",
+        "text": "大美你好，我是士兵。第一天信息有限，但我注意到一些细节——任自称图书管理员里面有些人的声明不太自然。你同感吗？。对了另外呢，我觉得我们要多观察几轮",
+        "seq": 1
+      },
+      {
+        "speaker": "大美",
+        "text": "我不太确定，我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "来，我们对对信息。我的士兵技能告诉我一些事情：暂无特殊信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "大美",
+        "text": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "真的假的？！，观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "大美",
+        "text": "我想问问，我跟你透露一个事：when？跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 6
+      },
+      {
+        "speaker": "大美",
+        "text": "大家怎么看，我的酒鬼技能虽然没有直接查到铁证，但我的直觉告诉我kiod不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 7
+      },
+      {
+        "speaker": "kiod",
+        "text": "when？，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局哦。",
+        "seq": 8
+      },
+      {
+        "speaker": "大美",
+        "text": "大家怎么看，我复盘了一下kiod的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 9
+      },
+      {
+        "speaker": "kiod",
+        "text": "我忍你很久了when？。你的发言从头到尾都是漏洞：第一，你的酒鬼声明前后不一致；第二，你的kiod投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 10
+      },
+      {
+        "speaker": "大美",
+        "text": "我跟你透露一个事：kiod跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 11
+      },
+      {
+        "speaker": "kiod",
+        "text": "我记一下今天的重点：我最怀疑when？；我最怀疑大美（昨天记的：我最怀疑when？；kiod自称士兵）。明天继续跟进，有新情况随时找我呢。",
+        "seq": 12
+      },
+      {
+        "speaker": "kiod",
+        "text": "这个事情是这样的，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破哦。",
+        "seq": 13
+      },
+      {
+        "speaker": "大美",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得kiod的问题很大。kiod投了任，kiod投了when？你看了吗？他的投票明显不对劲。你觉得呢啊。",
+        "seq": 14
+      },
+      {
+        "speaker": "kiod",
+        "text": "我记一下今天的重点：我最怀疑大美（昨天记的：我最怀疑when？；我最怀疑大美）。怎么说呢，明天继续跟进，有新情况随时找我。对了还有啊，不过他也有可能是好人，这个可能性不能排除",
+        "seq": 15
+      },
+      {
+        "speaker": "大美",
+        "text": "我想问问，我复盘了一下kiod的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+        "seq": 16
+      },
+      {
+        "speaker": "kiod",
+        "text": "今天就到这。我们的共识是：大美是第一嫌疑人。明天根据处决结果再调整策略。如果大美是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标吧呢。",
+        "seq": 17
+      },
+      {
+        "speaker": "大美",
+        "text": "我新手不太懂，你有没有注意到kiod和Star的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 18
+      }
+    ],
+    "mh🔄困困": [
+      {
+        "speaker": "mh",
+        "text": "我跟你们说啊，困困你好，我是猎手。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "我的笔记里记了几件事：我最怀疑when？；mh自称猎手。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "mh",
+        "text": "我觉得吧，我觉得吧，对比了几个人的发言，when？是最违和的。他的关注点全在自证清白上，而不是在分析局势上——好人和邪恶最大的区别就是关注点不同啊呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我们来盘一下目前的局势。mh自称猎手里面有几个矛盾点特别值得关注。第一，；第二，when？的投票轨迹跟他的声明对不上。我的结论是when？至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "mh",
+        "text": "观察when？的应对方式：第一次被问到的时候他回答了，第二次就简短了，第三次直接转移话题。这个'逐步疲软'的模式很符合邪恶方的特征——因为编故事的人经不起反复盘问。",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "可能是我理解错了，我越来越觉得when？有问题。理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式。一个真正的猎手不会这样投票。你分析一下是不是这个理？",
+        "seq": 6
+      }
+    ],
+    "mh🔄when？": [
+      {
+        "speaker": "mh",
+        "text": "你好when？，我是猎手。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标啊啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，我在想任的行为能不能用猎手来解释——他自称是猎手，但如果是真猎手，应该会猎手应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "mh",
+        "text": "真的假的？！，综合观察下来，when？的发言有问题。他总是回避关键问题，别人质疑他什么他就绕圈子。好人被质疑会急着解释，他却在反问质疑者——这是邪恶常用的手段。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，我越来越觉得任有问题！理由是：他的声明是猎手，但他的完全不符合这个身份的行为模式！一个真正的猎手不会这样投票！你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "mh",
+        "text": "我虽然没有查验技能，但我的逻辑告诉我when？有问题。理由：里他的投票全是在跟风，没有一次是独立判断的。好人即使不确定也会有自己的判断，只有邪恶才会无脑跟票。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "这还用想？，观察了一下任对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      },
+      {
+        "speaker": "mh",
+        "text": "kiod，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "when？",
+        "text": "我是洗衣妇！大美和困困两人均不认我得知的镇民厨师，怀疑首夜被投毒者下毒导致信息失真！你首夜查到的爪牙是谁？我们合并线索锁定投毒者，今夜请占卜师查验大美、困困身份！",
+        "seq": 8
+      },
+      {
+        "speaker": "mh",
+        "text": "我忍你很久了kiod。你的发言从头到尾都是漏洞：第一，你的洗衣妇声明前后不一致；第二，你的when？投了任完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的哦。",
+        "seq": 9
+      },
+      {
+        "speaker": "when？",
+        "text": "出问题了：大美和困困都不承认厨师这个身份！。要么我是酒鬼，要么首夜被投毒者下毒！。你是调查员，你查到的爪牙是谁？。",
+        "seq": 10
+      },
+      {
+        "speaker": "mh",
+        "text": "我跟你们说啊，kiod，我现在公开质疑你。如果你真是好人，请用你的猎手技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局呢。",
+        "seq": 11
+      },
+      {
+        "speaker": "when？",
+        "text": "出问题了：大美和困困都不承认厨师这个身份！要么我是酒鬼，要么首夜被投毒者下毒！你是调查员，你查到的爪牙是谁？！",
+        "seq": 12
+      }
+    ],
+    "困困🔄大美": [
+      {
+        "speaker": "大美",
+        "text": "我不太确定，你好困困，我是酒鬼。想跟你聊聊对局势的看法。kiod自称士兵里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看when？这个人呢啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "困困",
+        "text": "我新手不太懂，来，我们对对信息。我的厨师技能告诉我一些事情：相邻邪恶对数0。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 2
+      },
+      {
+        "speaker": "大美",
+        "text": "大家怎么看，大家怎么看，你有没有注意到when？和任的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧呢。",
+        "seq": 3
+      },
+      {
+        "speaker": "困困",
+        "text": "我在想when？的行为能不能用酒鬼来解释——他自称是酒鬼，但如果是真酒鬼，应该会酒鬼应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "大美",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的问题很大。你看了吗？他的投票明显不对劲。你觉得呢啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "困困",
+        "text": "观察了一下when？对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "Star🔄大美": [
+      {
+        "speaker": "大美",
+        "text": "角色分配完毕：我酒鬼，你管家。剩下的剩下共情者留着备用。核心原则：我说的话你要配合，你说的我绝不反驳——坏人最忌讳内讧。对外我们口径一致，对内我们再讨论真实目标。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "这个事情是这样的，我思考了一下局势：说明好人的票型开始分散了。这是好事——他们的共识在瓦解。我们要做的就是继续制造噪音：你继续编假信息，我继续带节奏。等到他们内部吵起来，我们就赢了。",
+        "seq": 2
+      },
+      {
+        "speaker": "大美",
+        "text": "大家怎么看，盘一下剩余玩家。kiod自称士兵，大美自称酒鬼告诉我们还有多少人没报身份——这些沉默的人既是隐患也是机会。我们可以在他们开口之前先把when？。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "制造验证链：你公聊跳信息位（比如洗衣妇），说你查到了when？是某个角色。我配合说我也觉得when？符合那个角色——两个独立信息位交叉验证同一结论，好人必信哦。",
+        "seq": 4
+      },
+      {
+        "speaker": "大美",
+        "text": "我想问问，今晚刀when？，白天的公聊目标也是when？。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局哦。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "真的假的？！，我刚想到一个方向：when？的身份不明声明和放在一起看很有问题。明天聊到这个话题时你可以顺着这个方向说，算是我俩各自的观察互相验证了。",
+        "seq": 6
+      },
+      {
+        "speaker": "大美",
+        "text": "今晚刀when？，白天的公聊目标也是when？。我们双管齐下：晚上物理消灭，白天舆论消灭。即使他晚上不死，白天也要让他出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "Star",
+        "text": "我跟你们说啊，你觉得when？怎么样？我观察了他好几轮，感觉他的酒鬼身份很假。要不今天我们两个都在公聊点一下他，看看其他人的反应？如果多人附和我们，今天就可以冲他哦。",
+        "seq": 8
+      },
+      {
+        "speaker": "大美",
+        "text": "刚才我在想，如果有人在公聊问起我们的酒鬼身份，我就先说之前的信息比较模糊，需要再观察一轮。你到时候别说太多，帮腔点头就行——两个人都话多容易被盯上啊。",
+        "seq": 9
+      },
+      {
+        "speaker": "Star",
+        "text": "排练一下明天的公聊剧本。我先说：'我是管家，我查到when？有问题。'然后你接：'巧了，我也在怀疑when？，因为Star投了任。'注意你的语气要像临时发现而不是商量好的。",
+        "seq": 10
+      },
+      {
+        "speaker": "大美",
+        "text": "排练一下明天的公聊剧本。我先说：'我是酒鬼，我查到kiod有问题。'然后你接：'巧了，我也在怀疑kiod，因为Star投了任呢。",
+        "seq": 11
+      },
+      {
+        "speaker": "Star",
+        "text": "明天你可以在公聊先聊点别的，别上来就直奔when？——太刻意了。等两三个人发言之后你再自然提起'其实我观察when？很久了'，这样看起来更真实。",
+        "seq": 12
+      },
+      {
+        "speaker": "Star",
+        "text": "我跟你们说啊，排练一下明天的公聊剧本。我先说：'我是管家，我查到kiod有问题。'然后你接：'巧了，我也在怀疑kiod，因为Star投了任，Star投了when？。'注意你的语气要像临时发现而不是商量好的。",
+        "seq": 13
+      },
+      {
+        "speaker": "大美",
+        "text": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服kiod投kiod，我去搞定某人。",
+        "seq": 14
+      },
+      {
+        "speaker": "Star",
+        "text": "最后一轮了。现在场上还有某人个人，我们需要明确票型。你负责说服kiod投kiod，我去搞定某人。如果一切顺利，我们有三票在手，加上被迷惑的好人票，够处决任何人了。",
+        "seq": 15
+      },
+      {
+        "speaker": "大美",
+        "text": "决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号哦。",
+        "seq": 16
+      },
+      {
+        "speaker": "Star",
+        "text": "决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号。",
+        "seq": 17
+      },
+      {
+        "speaker": "大美",
+        "text": "我不太确定，我新手不太懂，决赛圈策略：我们不能再互相私聊了，容易被盯上。所有交流通过公聊暗示进行。我说'今天天气不错'表示计划顺利，说'有点冷'表示需要调整。记住这些暗号呢。",
+        "seq": 18
+      }
+    ],
+    "Star🔄when？": [
+      {
+        "speaker": "when？",
+        "text": "Star，我刚整理了一下笔记：mh自称猎手；我最怀疑任！你那边有什么发现！",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的问题很大。你看了吗？他的投票明显不对劲。你觉得呢啊。",
+        "seq": 2
+      },
+      {
+        "speaker": "when？",
+        "text": "别绕弯子，来，我们对对信息！我的洗衣妇技能告诉我一些事情：知道大美或困困之中有厨师！你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "我的天，我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 4
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，你刚才提到我的天，我们来构建一个完整的推理链：你镇民的角度看when？！有问题，我管家分析一下也得出同样结论！一，这一点我也注意到了！",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我盘了一下目前的线索：加上任自称图书管理员里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票哦。",
+        "seq": 6
+      }
+    ],
+    "Star🔄mh": [
+      {
+        "speaker": "mh",
+        "text": "我跟你们说啊，kiod，你的身份不明声明有几个问题我想请教：第一，你这个信息的来源是什么？第二，你之前说身份不明的时候和现在的说法有出入，你能解释一下吗？第三，你的Star投了任为什么会这样投？请正面回答，不要转移话题。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "真的假的？！，你有没有注意到when？和大美的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 2
+      },
+      {
+        "speaker": "mh",
+        "text": "观察了一下kiod对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看when？有问题，我管家分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据啊。",
+        "seq": 4
+      },
+      {
+        "speaker": "mh",
+        "text": "我的笔记里记了几件事：我最怀疑kiod；when？自称洗衣妇；when？自称酒鬼（昨天记的：mh自称猎手；大美自称酒鬼）。结合你的信息来看，你觉得我是不是多疑了啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "真的假的？！，我盘了一下目前的线索：Star投了任加上任自称图书管理员，大美自称酒鬼里面的疑点，指向when？的嫌疑最大。我们可以拿这套逻辑去公聊推动投票吧。",
+        "seq": 6
+      }
+    ],
+    "when？🔄大美": [
+      {
+        "speaker": "大美",
+        "text": "大家怎么看，我想问问，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得kiod的问题很大。when？投了任你看了吗？他的投票明显不对劲。你觉得呢啊。",
+        "seq": 1
+      },
+      {
+        "speaker": "when？",
+        "text": "你好大美，我是洗衣妇！首夜得知你是厨师——这个身份你认吗？如果你认，我们就是金水关系，后面信息共享！如果你不认，我需要去排查信息干扰来源！",
+        "seq": 2
+      },
+      {
+        "speaker": "大美",
+        "text": "大家怎么看，你有没有注意到kiod和kiod的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护。",
+        "seq": 3
+      },
+      {
+        "speaker": "when？",
+        "text": "明摆着的事，我们来盘一下目前的局势！mh自称猎手，大美自称酒鬼，when？！自称洗衣妇里面有几个矛盾点特别值得关注！",
+        "seq": 4
+      },
+      {
+        "speaker": "大美",
+        "text": "可能是我理解错了，我想问问，我复盘了一下kiod的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 5
+      },
+      {
+        "speaker": "when？",
+        "text": "我直接说了，来，我们对对信息。我的洗衣妇技能告诉我一些事情：知道大美或困困之中有厨师。你觉得这意味着什么？。",
+        "seq": 6
+      }
+    ],
+    "Star🔄kiod": [
+      {
+        "speaker": "kiod",
+        "text": "大美，我就直问了：你敢不敢发毒誓说你是好人？如果你的回答是'为什么不敢'而不是'我发誓'，那你的犹豫已经说明了一切。真正的好人面对质疑时的第一反应是证明自己，而不是反问质疑者。",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的问题很大。kiod投了任，Star投了任你看了吗？他的投票明显不对劲。你觉得呢哦吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "kiod",
+        "text": "我跟你们说啊，这个事情是这样的，你刚才提到我跟你们说啊，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得when？的，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明大美的可疑程度比想象中更高。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "我觉得吧，我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式。",
+        "seq": 4
+      },
+      {
+        "speaker": "kiod",
+        "text": "观察了一下大美对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我的管家技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 6
+      },
+      {
+        "speaker": "Star",
+        "text": "你有没有注意到when？和大美的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 7
+      },
+      {
+        "speaker": "kiod",
+        "text": "我忍你很久了大美。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的Star投了任，Star投了when？，kiod投了任，kiod投了when？完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "Star",
+        "text": "这个事情是这样的，我的管家技能虽然没有直接查到铁证，但我的直觉告诉我when？不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 9
+      },
+      {
+        "speaker": "kiod",
+        "text": "我觉得吧，大美，我现在公开质疑你。如果你真是好人，请用你的士兵技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 10
+      },
+      {
+        "speaker": "Star",
+        "text": "我复盘了一下when？的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦哦。",
+        "seq": 11
+      },
+      {
+        "speaker": "kiod",
+        "text": "这个事情是这样的，今天就到这。我们的共识是：大美是第一嫌疑人。明天根据处决结果再调整策略。如果大美是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标啊呢。",
+        "seq": 12
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "厨师情报：相邻邪恶对数{chef_val}。{neighbor_claims}。如果{chef_val}==0，说明邪恶之间不相邻，可以排除邻居共边的组合。大家盘位置时可以把这个因素考虑进去。",
+    "图书管理员报告：{lib_info}。{anchor_explanation}请大家自报一下身份类别（镇民或外来者），我来统计一下全场的外来者总数是否和预期一致。",
+    "我是{bluff}。{fake_info}我倒不是要直接锤死{target}，但我建议大家对比一下{target}和{other}的发言——两个人的口径过于一致了。正常的好人不会这么'默契'。{baron_tip}",
+    "公聊同步：我的首夜查验{target}是{ww_role}已确认。{cross_ref}这是我的金水，请大家不要浪费处决机会在他身上。{drunk_warning}",
+    "大家注意{target}的发言——他自称{claim}，但{accusation}这不是明摆着在撒谎吗？{fake_info}我建议今天直接出{target}，错了算我的。{baron_tip}",
+    "我来盘一下目前的局面。{info_or_opinion}。{claim_str}，{vote_str}。{stage_evidence}。{outsider_hint}{expected_outsider_info}综合这些，我倾向{target}有问题——当然我也欢迎不同意见的讨论。",
+    "士兵在此。我不需要拐弯抹角——{target}的可疑点太明显了：{stage_evidence}。{info_or_opinion}。谁要是保{target}，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "when？",
+        "target": "任",
+        "day": 1
+      },
+      {
+        "voter": "kiod",
+        "target": "任",
+        "day": 1
+      },
+      {
+        "voter": "困困",
+        "target": "任",
+        "day": 1
+      },
+      {
+        "voter": "Star",
+        "target": "任",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "kiod",
+        "target": "when？",
+        "day": 2
+      },
+      {
+        "voter": "Star",
+        "target": "when？",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "kiod",
+        "target": "大美",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "when？",
+        "target": "任",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "mh",
+        "target": "when？",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "kiod",
+        "target": "大美",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我直接点名{target}。你是{claim}？但你的发言里漏洞太多——{target}，你解释一下为什么{vote_str}？一个真正的{claim}不会有这样的投票记录。你根本就是在编！大家看清楚，{target}的表演到这里就该结束了。今天必须出他。{baron_tip}",
+    "士兵在此。我不需要拐弯抹角——{target}的可疑点太明显了：{stage_evidence}。{info_or_opinion}。谁要是保{target}，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "洗衣妇同步：我的查验结果是{target1}或{target2}之中有{ww_role}。两人都不承认，恰恰说明至少有一人在撒谎——真身份的人没有理由隐藏。大家今天重点关注这两个位置。"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "都听我说。{fake_info}我的信息不可能错——{target}不是他声称的{claim}。信不信由你们，但等{target}翻出来是邪恶再后悔就晚了。我建议今天就出{target}，明天再验证我的信息。{baron_tip}",
+    "士兵在此。我不需要拐弯抹角——{target}的可疑点太明显了：{stage_evidence}。{info_or_opinion}。谁要是保{target}，我连你一起怀疑。恶魔不敢刀我，所以我怎么说都安全。"
+  ],
+  "ended_at": "2026-06-20T19:44:26.927638"
+}

@@ -1,0 +1,2135 @@
+{
+  "game_type": "血染钟楼",
+  "started_at": "2026-06-20T18:36:44.303002",
+  "rounds": [
+    {
+      "round_num": 1,
+      "phase": "night_1",
+      "actions": []
+    },
+    {
+      "round_num": 1,
+      "phase": "day_1",
+      "actions": [
+        {
+          "agent": "progress",
+          "context": "私聊Takai&xingfei",
+          "action": "从逻辑上看，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊progress",
+          "action": "我新手不太懂，我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我薛猫不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Takai&xingfei",
+          "action": "从逻辑上看，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊progress",
+          "action": "我盘了一下目前的线索：加上里面的疑点，指向薛猫的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Takai&xingfei",
+          "action": "我的笔记里记了几件事：我最怀疑Takai&xingfei。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊progress",
+          "action": "我想问问，我们来构建一个完整的推理链：你镇民的角度看薛猫有问题，我僧侣分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "理性分析的话，琥珀王，我刚整理了一下笔记：我最怀疑Takai&xingfei。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "大家怎么看，我的笔记里记了几件事：我最怀疑Takai&xingfei。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "从逻辑上看，你刚才提到我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "我想问问，来，我们对对信息。我的守鸦人技能告诉我一些事情：我是守鸦人，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊薛猫",
+          "action": "理性分析的话，理性分析的话，薛猫你好，我是送葬者。第一天信息有限，但我注意到一些细节——琥珀王自称守鸦人里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊progress",
+          "action": "明摆着的事，我的笔记里记了几件事：progress自称送葬者；我最怀疑Takai&xingfei！结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊薛猫",
+          "action": "基于已公开的信息，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊progress",
+          "action": "别绕弯子，你刚才提到基于已公开的信息，来，我们对对信息！我的送葬者技能告诉我一些事情：我是送葬者，暂无信息！你觉得这意味，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊薛猫",
+          "action": "客观来说，我们来盘一下目前的局势。琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者里面有几个矛盾点特别值得关注。第一，薛猫和progress都自称送葬者；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊progress",
+          "action": "我们来盘一下目前的局势。progress自称送葬者，薛猫自称送葬者里面有几个矛盾点特别值得关注。第一，薛猫和progress都自称送葬者；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "你好琥珀王，我是僧侣。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看薛猫这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我在想Takai&xingfei的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看薛猫有问题，我僧侣分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我们来盘一下目前的局势。琥珀王自称守鸦人，Takai&xingfei自称僧侣里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "大家怎么看，我盘了一下目前的线索：加上Takai&xingfei自称僧侣里面的疑点，指向薛猫的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我不太确定，你刚才提到大家怎么看，我盘了一下目前的线索：加上Takai&xingfei自称僧侣里面的疑点，指向薛猫的嫌疑最，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "我不太确定，你好Star，我是僧侣。想跟你聊聊对局势的看法。Takai&xingfei自称僧侣里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看薛猫这个人？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "综合现有信息，理性分析的话，我在想Takai&xingfei的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "可能是我理解错了，我盘了一下目前的线索：加上Takai&xingfei自称僧侣里面的疑点，指向薛猫的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "从逻辑上看，我的笔记里记了几件事：Takai&xingfei自称僧侣。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊Star",
+          "action": "我们来构建一个完整的推理链：你镇民的角度看薛猫有问题，我僧侣分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊Takai&xingfei",
+          "action": "基于已公开的信息，我们来盘一下目前的局势。Takai&xingfei自称僧侣里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊琥珀王",
+          "action": "客观来说，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊香辣鸡腿堡",
+          "action": "大家怎么看，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊琥珀王",
+          "action": "客观来说，我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我不太确定，可能是我理解错了，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊琥珀王",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "Star你好，我是调查员。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "客观来说，来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "理性分析的话，我的笔记里记了几件事：我最怀疑Takai&xingfei；香辣鸡腿堡自称调查员。结合你的信息来看，你觉得我是不是多疑了？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是调查员，但他的完全不符合这个身份的行为模式。一个真正的调查员不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Star",
+          "action": "客观来说，我们来盘一下目前的局势。香辣鸡腿堡自称调查员，Star自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊香辣鸡腿堡",
+          "action": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊薛猫",
+          "action": "从逻辑上看，综合现有信息，薛猫，我刚整理了一下笔记：我最怀疑Takai&xingfei；香辣鸡腿堡自称调查员。你那边有什么发现？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊薛猫",
+          "action": "客观来说，来，我们对对信息。我的调查员技能告诉我一些事情：查到Takai&xingfei是progress。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我敢肯定，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊薛猫",
+          "action": "你刚才提到我敢肯定，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Star",
+          "action": "我新手不太懂，star，想跟你对一下信息。我共情者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊则夷则",
+          "action": "从逻辑上看，你刚才提到我新手不太懂，star，想跟你对一下信息。我共情者这边有一些发现，但不完整——我觉得跟你合一下数据会，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Star",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Takai&xingfei的问题很大。你看了吗？他的投票明显不对劲。你觉得呢哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊则夷则",
+          "action": "理性分析的话，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊Star",
+          "action": "我复盘了一下Takai&xingfei的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "私聊则夷则",
+          "action": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊薛猫",
+          "action": "嗨薛猫，我是共情者。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊则夷则",
+          "action": "来，我们对对信息！我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居Takai&xingfei、Star中有坏人！你觉得这意味着什么？！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊薛猫",
+          "action": "可能是我理解错了，我不太确定，我跟你透露一个事：Takai&xingfei跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊则夷则",
+          "action": "这还用想？，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "私聊薛猫",
+          "action": "我想问问，我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我Takai&xingfei不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊则夷则",
+          "action": "你刚才提到我想问问，我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我Takai&xingfei不能留！你观，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', 'Star', '香辣鸡腿堡', '则夷则', '琥珀王', 'progress']",
+          "action": "Takai&xingfei: 我不太确定，我是僧侣，我有个重大发现：僧侣的技能让我知道恶魔的目标是progress附近的人——这说明progress大概率是好人被盯上了，那他的对立面琥珀王就非常可疑。兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', 'Star', '香辣鸡腿堡', '则夷则', '琥珀王', 'progress']",
+          "action": "薛猫: 明摆着的事，共情者报数：邪恶数1！Takai&xingfei(自称僧侣)，Star(自称?)这个1意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', 'Star', '香辣鸡腿堡', '则夷则', '琥珀王', 'progress']",
+          "action": "Star: 客观来说，我是图书管理员。本局没有外来者——所有人声称自己是镇民的话是正常的。如果有人跳外来者，他一定在撒谎。大家对照一下：目前有几个人跳了外来者？如果数量不对，说明要么有人冒充镇民，要么有男爵在场。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', 'Star', '香辣鸡腿堡', '则夷则', '琥珀王', 'progress']",
+          "action": "香辣鸡腿堡: 大家好，我是红唇女郎。我来分析一下目前的局势：我查到Takai&xingfei/progress可能有红唇女郎的线索，但先私聊确认一下。某人。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。某人。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', 'Star', '香辣鸡腿堡', '则夷则', '琥珀王', 'progress']",
+          "action": "则夷则: 我是猎手。我目前还没有完全确定的结论，但香辣鸡腿堡的发言让我非常不舒服——他一直在刻意模仿好人的说话方式，但有些细节露馅了。大家多观察他。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', 'Star', '香辣鸡腿堡', '则夷则', '琥珀王', 'progress']",
+          "action": "琥珀王: 分享一下我的观察：暂时没有关键信息。Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手里面有几个点值得注意。。我会重点观察香辣鸡腿堡。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', 'Star', '香辣鸡腿堡', '则夷则', '琥珀王', 'progress']",
+          "action": "progress: 综合现有信息，根据我的记录：Takai&xingfei自称僧侣；香辣鸡腿堡自称红唇女郎；则夷则自称猎手。。大家怎么看？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "提名则夷则",
+          "action": "我提名则夷则。理由如下：第一，他的声明某人有问题；第二，显示他的投票异常；第三，香辣鸡腿堡自称调查员，Star自称图书管理员，Takai&xingfei自称僧侣，则夷则自称猎手里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "被香辣鸡腿堡提名",
+          "action": "嗯……，我承认我的发言确实不完美，但这正是我是好人的证明——邪恶会排练好每一句话，只有好人才会有瑕疵。香辣鸡腿堡恰恰是因为我发言不'完美'才指控我——这不就是欲加之罪吗？",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "则夷则被处决",
+          "action": "处决则夷则",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "night_2",
+      "actions": [
+        {
+          "agent": "Takai&xingfei",
+          "context": "恶魔杀人",
+          "action": "杀害Star",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "phase": "day_2",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑香辣鸡腿堡。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "我注意到你一直在观察香辣鸡腿堡。你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我不太确定，我想问问，我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "好，先这样。记住今天的核心判断：香辣鸡腿堡不能被放过。如果有人在保他，那保他的人也同样可疑——帮我盯着点哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "我不太确定，大家怎么看，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和琥珀王投了则夷则，progress投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手和progress投了则夷则，琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "客观来说，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊progress",
+          "action": "我想问问，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊琥珀王",
+          "action": "客观来说，今天的投票策略：我们统一投香辣鸡腿堡。我负责去说服其他人，你负责观察那些不愿意投香辣鸡腿堡的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "你好薛猫，我是守鸦人。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "我在想香辣鸡腿堡的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真守鸦人，应该会守鸦人应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "可能是我理解错了，我们来盘一下目前的局势。琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手里面有几个矛盾点特别值得关注。第一，；第二，香辣鸡腿堡的投票轨迹跟他的声明对不上。我的结论是香辣鸡腿堡至少需要被好好审一审吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "明摆着的事，我敢肯定，观察了一下香辣鸡腿堡对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "我新手不太懂，我想问问，我越来越觉得香辣鸡腿堡有问题。理由是：他的声明是身份不明，但他的薛猫投了则夷则，琥珀王投了则夷则完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居Takai&xingfei、Star中有坏人。你觉得这意味着什么？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊progress",
+          "action": "我想问问，你觉得今天应该出谁？我还没完全决定，但我倾向于香辣鸡腿堡——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Takai&xingfei",
+          "action": "客观来说，我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和progress投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊progress",
+          "action": "我想听听你对香辣鸡腿堡的看法。你觉得他可信吗？从我的视角看，他的身份不明声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Takai&xingfei",
+          "action": "理性分析的话，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊progress",
+          "action": "我不太确定，你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑香辣鸡腿堡。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊Takai&xingfei",
+          "action": "今天的投票策略：我们统一投香辣鸡腿堡。我负责去说服其他人，你负责观察那些不愿意投香辣鸡腿堡的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "可能是我理解错了，我跟你透露一个事：香辣鸡腿堡跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "理性分析的话，来，我们对对信息。我的调查员技能告诉我一些事情：查到Takai&xingfei是progress。你觉得这意味着什么？结合香辣鸡腿堡投了则夷则来分析，重点嫌疑人应该已经很明显了。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得香辣鸡腿堡的问题很大。香辣鸡腿堡投了则夷则你看了吗？他的投票明显不对劲。你觉得呢？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "我在想则夷则的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我香辣鸡腿堡不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊Takai&xingfei",
+          "action": "客观来说，我们来盘一下目前的局势。香辣鸡腿堡自称调查员，Star自称图书管理员，Takai&xingfei自称僧侣，则夷则自称猎手里面有几个矛盾点特别值得关注。第一，；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊progress",
+          "action": "这还用想？，我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡！理由我再说一遍：progress自称送葬者，薛猫自称送葬者，则夷则自称共情者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和progress投了则夷则，薛猫投了则夷则交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊薛猫",
+          "action": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊progress",
+          "action": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投香辣鸡腿堡的风险是可控的，收益却是巨大的！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊薛猫",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和薛猫投了则夷则，progress投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊progress",
+          "action": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "私聊薛猫",
+          "action": "今天的投票策略：我们统一投香辣鸡腿堡。我负责去说服其他人，你负责观察那些不愿意投香辣鸡腿堡的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我敢肯定，香辣鸡腿堡，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊薛猫",
+          "action": "听我分析完再做决定：如果则夷则是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投则夷则的风险是可控的，收益却是巨大的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我忍你很久了香辣鸡腿堡！你的发言从头到尾都是漏洞：第一，你的红唇女郎声明前后不一致；第二，你的香辣鸡腿堡投了则夷则，薛猫投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊薛猫",
+          "action": "我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：香辣鸡腿堡自称调查员，Star自称图书管理员，Takai&xingfei自称僧侣，则夷则自称猎手和薛猫投了则夷则，香辣鸡腿堡投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊香辣鸡腿堡",
+          "action": "我敢肯定，我敢肯定，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的红唇女郎声明前后不一致；第二，你的香辣鸡腿堡投了则夷则，薛猫投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "私聊薛猫",
+          "action": "综合现有信息，分头行动：我盯着则夷则的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出则夷则。如果他翻出是好人，我们就从保过他的人里继续盘。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '香辣鸡腿堡', '琥珀王', 'progress']",
+          "action": "Takai&xingfei: 我的笔记已经记了好几页香辣鸡腿堡的可疑行为了。某人。大家说说，这些够不够处决他啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '香辣鸡腿堡', '琥珀王', 'progress']",
+          "action": "薛猫: 别绕弯子，共情者报数：邪恶数1！Takai&xingfei(自称僧侣)，Star(自称图书管理员)这个1意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '香辣鸡腿堡', '琥珀王', 'progress']",
+          "action": "Star(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑香辣鸡腿堡，理由是我观察到Takai&xingfei自称僧侣，香辣鸡腿堡自称调查员，Star自称图书管理员，则夷则自称猎手里面的矛盾点和薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '香辣鸡腿堡', '琥珀王', 'progress']",
+          "action": "香辣鸡腿堡: 综合现有信息，我是调查员！我查出Takai&xingfei/progress是红唇女郎——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '香辣鸡腿堡', '琥珀王', 'progress']",
+          "action": "则夷则(已死亡): 我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Star，理由是我观察到则夷则自称共情者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎里面的矛盾点和薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则的异常。活着的兄弟们，帮我报仇哦。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '香辣鸡腿堡', '琥珀王', 'progress']",
+          "action": "琥珀王: 根据我的记录：我最怀疑香辣鸡腿堡；琥珀王自称守鸦人；香辣鸡腿堡自称调查员（昨天记的：香辣鸡腿堡自称红唇女郎；则夷则自称猎手）。则夷则已死亡，Star已死亡，则夷则已死亡。大家怎么看啊。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '香辣鸡腿堡', '琥珀王', 'progress']",
+          "action": "progress: 大家注意，我其实不是送葬者——我是占卜师，之前一直没跳是因为想多收集信息。现在我不得不跳了：我查验了香辣鸡腿堡，我的技能告诉我他的声明和我的信息对不上。香辣鸡腿堡绝对不能留。我承认我之前隐瞒身份是钓鱼——现在鱼上钩了，香辣鸡腿堡就是我要钓的那条。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "提名progress",
+          "action": "我提名progress。理由如下：第一，你想想，他的声明某人有问题；第二，薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则显示他的投票异常；第三，香辣鸡腿堡自称调查员，Star自称图书管理员，Takai&xingfei自称僧侣，则夷则自称猎手，progress自称占卜师里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "被香辣鸡腿堡提名",
+          "action": "请大家冷静。香辣鸡腿堡的指控有几个漏洞：第一，他说的证据根本不存在；第二，他自己的某人声明本身就疑点重重；第三，薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则里他自己的投票也很奇怪。与其处决我，不如先查查香辣鸡腿堡自己。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "progress被处决",
+          "action": "处决progress",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "night_3",
+      "actions": [
+        {
+          "agent": "Takai&xingfei",
+          "context": "恶魔杀人",
+          "action": "杀害香辣鸡腿堡",
+          "type": "night_action",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "phase": "day_3",
+      "actions": [
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "我忍你很久了Takai&xingfei！你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的琥珀王投了则夷则，琥珀王投了progress，薛猫投了则夷则，薛猫投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的薛猫投了则夷则，薛猫投了progress，琥珀王投了则夷则，琥珀王投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "Takai&xingfei，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊薛猫",
+          "action": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊琥珀王",
+          "action": "今天就到这！我们的共识是：Takai&xingfei是第一嫌疑人！明天根据处决结果再调整策略！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "可能是我理解错了，今天就到这。我们的共识是：Takai&xingfei是第一嫌疑人。明天根据处决结果再调整策略。如果Takai&xingfei是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "我想问问，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得progress的问题很大。琥珀王投了则夷则，琥珀王投了progress，Takai&xingfei投了progress你看了吗？。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我记一下今天的重点：我最怀疑progress（昨天记的：琥珀王自称守鸦人；香辣鸡腿堡自称调查员）。明天继续跟进，有新情况随时找我哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "你有没有注意到progress和薛猫的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "私聊Takai&xingfei",
+          "action": "我不太确定，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊琥珀王",
+          "action": "我想问问，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊薛猫",
+          "action": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Takai&xingfei",
+          "action": "我敢肯定，这还用想？，来，我们对对信息！我的共情者技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合Takai&xingfei投了progress，薛猫投了则夷则，薛猫投了progress来分析，重点嫌疑人应该已经很明显了！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊薛猫",
+          "action": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Takai&xingfei",
+          "action": "我敢肯定，明摆着的事，我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "私聊薛猫",
+          "action": "可能是我理解错了，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽啊。",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "私聊Takai&xingfei",
+          "action": "我直接说了，明摆着的事，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+          "type": "private_chat",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '琥珀王']",
+          "action": "Takai&xingfei: 我想问问，都听我说。我查到progress有问题。我的信息不可能错——progress不是他声称的?。信不信由你们，但等progress翻出来是邪恶再后悔就晚了。我建议今天就出progress，明天再验证我的信息。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '琥珀王']",
+          "action": "薛猫: 别绕弯子，共情者报数：邪恶数1！Takai&xingfei(自称?)，Star(自称?)这个1意味着至少有一个邪恶就在这两个位置！我建议今天就从他们中间出一个！",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Star",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '琥珀王']",
+          "action": "Star(已死亡): 基于已公开的信息，死者的话最客观。我回顾了整个游戏过程，香辣鸡腿堡的嫌疑最大。他的声明是Takai&xingfei自称僧侣，香辣鸡腿堡自称调查员，Star自称图书管理员，则夷则自称猎手，progress自称占卜师，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "香辣鸡腿堡",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '琥珀王']",
+          "action": "香辣鸡腿堡(已死亡): 理性分析的话，死者的话最客观。我回顾了整个游戏过程，薛猫的嫌疑最大。他的声明是Star自称图书管理员，Takai&xingfei自称僧侣，香辣鸡腿堡自称红唇女郎，则夷则自称猎手，progress自称占卜师，但他的行为完全对不上。活着的各位，别让我的死白费。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "则夷则",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '琥珀王']",
+          "action": "则夷则(已死亡): 大家怎么看，我已经是个死人了，我的判断应该更有参考价值。我死前最怀疑Star，理由是我观察到则夷则自称共情者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，progress自称占卜师里面的矛盾点和薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则的异常。活着的兄弟们，帮我报仇。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '琥珀王']",
+          "action": "琥珀王: 我来抛个砖：我已经掌握了部分信息，但我不打算全部公开——因为我想看看谁会'对号入座'。具体来说，关于某个身份的声明，我知道一些事情。如果有人急着来'解释'，那他就暴露了自己。progress，你有什么想说的吗？",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "progress",
+          "context": "公聊环节, 存活: ['Takai&xingfei', '薛猫', '琥珀王']",
+          "action": "progress(已死亡): 我是送葬者，昨天被处决的是小恶魔。处决对了！我建议大家复盘一下投票——那些带头投他的人里必然有邪恶在推波助澜。特别是薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则里面跟票最快的那几个。",
+          "type": "speech",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "提名Takai&xingfei",
+          "action": "我提名Takai&xingfei。理由如下：第一，他的声明某人有问题；第二，薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则显示他的投票异常；第三，琥珀王自称守鸦人，香辣鸡腿堡自称调查员，progress自称占卜师里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "Takai&xingfei",
+          "context": "被琥珀王提名",
+          "action": "大家别被琥珀王带偏了！琥珀王的指控完全站不住脚——他没有拿出任何实锤证据，全靠推测。这个游戏不是靠感觉就能定罪的好吗？请大家理性投票。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "提名琥珀王",
+          "action": "我提名琥珀王。理由如下：第一，他的声明某人有问题；第二，薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则显示他的投票异常；第三，香辣鸡腿堡自称调查员，progress自称占卜师里面有矛盾指向他。请大家投票处决。",
+          "type": "nomination",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "琥珀王",
+          "context": "被薛猫提名",
+          "action": "请大家冷静。薛猫的指控有几个漏洞：第一，他说的证据根本不存在；第二，他自己的某人声明本身就疑点重重；第三，薛猫投了则夷则，Star投了则夷则，香辣鸡腿堡投了则夷则，琥珀王投了则夷则里他自己的投票也很奇怪。与其处决我，不如先查查薛猫自己。",
+          "type": "defense",
+          "reward": 0,
+          "round_num": 0
+        },
+        {
+          "agent": "薛猫",
+          "context": "琥珀王被处决",
+          "action": "处决琥珀王",
+          "type": "execution",
+          "reward": 0,
+          "round_num": 0
+        }
+      ]
+    }
+  ],
+  "result": "evil_win",
+  "survivors": "Takai&xingfei, 薛猫",
+  "players": [
+    "Takai&xingfei",
+    "薛猫",
+    "Star",
+    "香辣鸡腿堡",
+    "则夷则",
+    "琥珀王",
+    "progress"
+  ],
+  "night_info_history": {
+    "day_0": {
+      "薛猫": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 0
+        }
+      ],
+      "Star": [
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 0
+        }
+      ],
+      "香辣鸡腿堡": [
+        {
+          "key": "investigator",
+          "text": "Takai&xingfei 和 progress 中有一人是 红唇女郎",
+          "day": 0
+        }
+      ]
+    },
+    "day_1": {
+      "Star": [
+        {
+          "key": "night_kill",
+          "text": "第2晚被恶魔杀害",
+          "day": 1
+        },
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 1
+        }
+      ],
+      "薛猫": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 1
+        }
+      ],
+      "香辣鸡腿堡": [
+        {
+          "key": "investigator",
+          "text": "Takai&xingfei 和 progress 中有一人是 红唇女郎",
+          "day": 1
+        }
+      ],
+      "progress": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 小恶魔",
+          "day": 1
+        }
+      ]
+    },
+    "day_2": {
+      "香辣鸡腿堡": [
+        {
+          "key": "night_kill",
+          "text": "第3晚被恶魔杀害",
+          "day": 2
+        },
+        {
+          "key": "investigator",
+          "text": "Takai&xingfei 和 progress 中有一人是 红唇女郎",
+          "day": 2
+        }
+      ],
+      "薛猫": [
+        {
+          "key": "empathy",
+          "text": "左右邻居中有 1 个邪恶玩家",
+          "day": 2
+        }
+      ],
+      "Star": [
+        {
+          "key": "librarian",
+          "text": "无外来者",
+          "day": 2
+        }
+      ],
+      "progress": [
+        {
+          "key": "undertaker",
+          "text": "被处决者身份是 小恶魔",
+          "day": 2
+        }
+      ]
+    }
+  },
+  "private_chat_history": {
+    "Takai&xingfei🔄progress": [
+      {
+        "speaker": "progress",
+        "text": "从逻辑上看，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我新手不太懂，我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我薛猫不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的吧。",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "从逻辑上看，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 3
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我盘了一下目前的线索：加上里面的疑点，指向薛猫的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "我的笔记里记了几件事：我最怀疑Takai&xingfei。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 5
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，我们来构建一个完整的推理链：你镇民的角度看薛猫有问题，我僧侣分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 6
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，你觉得今天应该出谁？我还没完全决定，但我倾向于香辣鸡腿堡——他的痕迹太明显了。如果你有不用的想法告诉我，我们商讨一个最优解。",
+        "seq": 7
+      },
+      {
+        "speaker": "progress",
+        "text": "客观来说，我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和progress投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 8
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想听听你对香辣鸡腿堡的看法。你觉得他可信吗？从我的视角看，他的身份不明声明有点问题——但我想知道你的判断。毕竟两个人看事情总比一个人全面吧。",
+        "seq": 9
+      },
+      {
+        "speaker": "progress",
+        "text": "理性分析的话，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+        "seq": 10
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我不太确定，你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑香辣鸡腿堡。",
+        "seq": 11
+      },
+      {
+        "speaker": "progress",
+        "text": "今天的投票策略：我们统一投香辣鸡腿堡。我负责去说服其他人，你负责观察那些不愿意投香辣鸡腿堡的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+        "seq": 12
+      }
+    ],
+    "progress🔄琥珀王": [
+      {
+        "speaker": "progress",
+        "text": "理性分析的话，琥珀王，我刚整理了一下笔记：我最怀疑Takai&xingfei。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "大家怎么看，我的笔记里记了几件事：我最怀疑Takai&xingfei。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "从逻辑上看，你刚才提到我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我想问问，来，我们对对信息。我的守鸦人技能告诉我一些事情：我是守鸦人，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 6
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我不太确定，大家怎么看，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的呢。",
+        "seq": 7
+      },
+      {
+        "speaker": "progress",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和琥珀王投了则夷则，progress投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 8
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手和progress投了则夷则，琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多呢。",
+        "seq": 9
+      },
+      {
+        "speaker": "progress",
+        "text": "客观来说，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+        "seq": 10
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我想问问，听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的啊。",
+        "seq": 11
+      },
+      {
+        "speaker": "progress",
+        "text": "客观来说，今天的投票策略：我们统一投香辣鸡腿堡。我负责去说服其他人，你负责观察那些不愿意投香辣鸡腿堡的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+        "seq": 12
+      }
+    ],
+    "progress🔄薛猫": [
+      {
+        "speaker": "progress",
+        "text": "理性分析的话，理性分析的话，薛猫你好，我是送葬者。第一天信息有限，但我注意到一些细节——琥珀王自称守鸦人里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "text": "明摆着的事，我的笔记里记了几件事：progress自称送葬者；我最怀疑Takai&xingfei！结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 2
+      },
+      {
+        "speaker": "progress",
+        "text": "基于已公开的信息，来，我们对对信息。我的送葬者技能告诉我一些事情：我是送葬者，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "text": "别绕弯子，你刚才提到基于已公开的信息，来，我们对对信息！我的送葬者技能告诉我一些事情：我是送葬者，暂无信息！你觉得这意味，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高！",
+        "seq": 4
+      },
+      {
+        "speaker": "progress",
+        "text": "客观来说，我们来盘一下目前的局势。琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者里面有几个矛盾点特别值得关注。第一，薛猫和progress都自称送葬者；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我们来盘一下目前的局势。progress自称送葬者，薛猫自称送葬者里面有几个矛盾点特别值得关注。第一，薛猫和progress都自称送葬者；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审！",
+        "seq": 6
+      },
+      {
+        "speaker": "薛猫",
+        "text": "这还用想？，我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡！理由我再说一遍：progress自称送葬者，薛猫自称送葬者，则夷则自称共情者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和progress投了则夷则，薛猫投了则夷则交叉验证的结果指向他！即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多！",
+        "seq": 7
+      },
+      {
+        "speaker": "progress",
+        "text": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+        "seq": 8
+      },
+      {
+        "speaker": "薛猫",
+        "text": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推！所以投香辣鸡腿堡的风险是可控的，收益却是巨大的！",
+        "seq": 9
+      },
+      {
+        "speaker": "progress",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，progress自称送葬者，薛猫自称送葬者，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎和薛猫投了则夷则，progress投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 10
+      },
+      {
+        "speaker": "薛猫",
+        "text": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+        "seq": 11
+      },
+      {
+        "speaker": "progress",
+        "text": "今天的投票策略：我们统一投香辣鸡腿堡。我负责去说服其他人，你负责观察那些不愿意投香辣鸡腿堡的人——他们可能就是我们要找的下一批目标。记住：邪恶方的最大弱点就是他们不敢投自己的队友。",
+        "seq": 12
+      }
+    ],
+    "Takai&xingfei🔄琥珀王": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "你好琥珀王，我是僧侣。想跟你聊聊对局势的看法。里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看薛猫这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我在想Takai&xingfei的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看薛猫有问题，我僧侣分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据啊。",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我们来盘一下目前的局势。琥珀王自称守鸦人，Takai&xingfei自称僧侣里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "大家怎么看，我盘了一下目前的线索：加上Takai&xingfei自称僧侣里面的疑点，指向薛猫的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我不太确定，你刚才提到大家怎么看，我盘了一下目前的线索：加上Takai&xingfei自称僧侣里面的疑点，指向薛猫的嫌疑最，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+        "seq": 6
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "听我分析完再做决定：如果香辣鸡腿堡是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投香辣鸡腿堡的风险是可控的，收益却是巨大的。",
+        "seq": 7
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "你信任谁？不信任谁？这个问题我其实在问所有人，但我先问你——因为我觉得你思路比较清晰。我个人目前最怀疑香辣鸡腿堡。",
+        "seq": 8
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多啊。",
+        "seq": 9
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我注意到你一直在观察香辣鸡腿堡。你发现什么了吗？我觉得他的声明有些站不住脚，但我需要另一个人的视角来确认。",
+        "seq": 10
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我不太确定，我想问问，我知道你可能还在犹豫，但我真的建议你今天投香辣鸡腿堡。理由我再说一遍：琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手和琥珀王投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多哦。",
+        "seq": 11
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "好，先这样。记住今天的核心判断：香辣鸡腿堡不能被放过。如果有人在保他，那保他的人也同样可疑——帮我盯着点哦。",
+        "seq": 12
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "可能是我理解错了，今天就到这。我们的共识是：Takai&xingfei是第一嫌疑人。明天根据处决结果再调整策略。如果Takai&xingfei是邪恶翻出来的，好事；如果是好人翻出来的，那投他票最快的那几个人就是下一轮的目标啊。",
+        "seq": 13
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得progress的问题很大。琥珀王投了则夷则，琥珀王投了progress，Takai&xingfei投了progress你看了吗？。",
+        "seq": 14
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我记一下今天的重点：我最怀疑progress（昨天记的：琥珀王自称守鸦人；香辣鸡腿堡自称调查员）。明天继续跟进，有新情况随时找我哦。",
+        "seq": 15
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "你有没有注意到progress和薛猫的互动？他们之间几乎不互相质疑——这在正常的游戏中是非常反常的。我怀疑他们是一伙的，互相打掩护吧。",
+        "seq": 16
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我不太确定，好的，信息对完了。保持联系，有新发现马上沟通。记住：不要单独行动，我们好人的力量在于团结。分开就容易被邪恶逐个击破。",
+        "seq": 17
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我想问问，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 18
+      }
+    ],
+    "Star🔄Takai&xingfei": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我不太确定，你好Star，我是僧侣。想跟你聊聊对局势的看法。Takai&xingfei自称僧侣里面我注意到你报了镇民——说实话我也在关注同样的方向。你怎么看薛猫这个人？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "综合现有信息，理性分析的话，我在想Takai&xingfei的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "可能是我理解错了，我盘了一下目前的线索：加上Takai&xingfei自称僧侣里面的疑点，指向薛猫的嫌疑最大。我们可以拿这套逻辑去公聊推动投票。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "从逻辑上看，我的笔记里记了几件事：Takai&xingfei自称僧侣。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我们来构建一个完整的推理链：你镇民的角度看薛猫有问题，我僧侣分析一下也得出同样结论。一个查验结论加上一个推理结论，在好人眼里就是双重证据。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "基于已公开的信息，我们来盘一下目前的局势。Takai&xingfei自称僧侣里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 6
+      }
+    ],
+    "琥珀王🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "客观来说，刚才你说的你的发言，我也想聊聊这个话题。我的看法是Takai&xingfei确实值得重点观察，你觉得呢？",
+        "seq": 1
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "大家怎么看，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢呢。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "客观来说，我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 3
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我不太确定，可能是我理解错了，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 5
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票啊。",
+        "seq": 6
+      }
+    ],
+    "Star🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "Star你好，我是调查员。第一天信息有限，但我注意到一些细节——里面有些人的声明不太自然。你同感吗？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "客观来说，来，我们对对信息。我的图书管理员技能告诉我一些事情：我是图书管理员，暂无信息。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "理性分析的话，我的笔记里记了几件事：我最怀疑Takai&xingfei；香辣鸡腿堡自称调查员。结合你的信息来看，你觉得我是不是多疑了？",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是调查员，但他的完全不符合这个身份的行为模式。一个真正的调查员不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "客观来说，我们来盘一下目前的局势。香辣鸡腿堡自称调查员，Star自称图书管理员里面有几个矛盾点特别值得关注。第一，；第二，Takai&xingfei的投票轨迹跟他的声明对不上。我的结论是Takai&xingfei至少需要被好好审一审。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 6
+      }
+    ],
+    "薛猫🔄香辣鸡腿堡": [
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "从逻辑上看，综合现有信息，薛猫，我刚整理了一下笔记：我最怀疑Takai&xingfei；香辣鸡腿堡自称调查员。你那边有什么发现？",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+        "seq": 2
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "客观来说，来，我们对对信息。我的调查员技能告诉我一些事情：查到Takai&xingfei是progress。你觉得这意味着什么？结合来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我敢肯定，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题。这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 4
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "你刚才提到我敢肯定，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+        "seq": 5
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+        "seq": 6
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我敢肯定，香辣鸡腿堡，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 7
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "听我分析完再做决定：如果则夷则是好人翻出来，那投他的票数分布能告诉我们很多信息——邪恶方在投票时往往会抱团，我们可以从票型反推。所以投则夷则的风险是可控的，收益却是巨大的。",
+        "seq": 8
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我忍你很久了香辣鸡腿堡！你的发言从头到尾都是漏洞：第一，你的红唇女郎声明前后不一致；第二，你的香辣鸡腿堡投了则夷则，薛猫投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 9
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我知道你可能还在犹豫，但我真的建议你今天投则夷则。理由我再说一遍：香辣鸡腿堡自称调查员，Star自称图书管理员，Takai&xingfei自称僧侣，则夷则自称猎手和薛猫投了则夷则，香辣鸡腿堡投了则夷则交叉验证的结果指向他。即使错了，我们明天也能从他翻出的身份继续推理——这比投一个不明不白的人强得多。",
+        "seq": 10
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我敢肯定，我敢肯定，我忍你很久了香辣鸡腿堡。你的发言从头到尾都是漏洞：第一，你的红唇女郎声明前后不一致；第二，你的香辣鸡腿堡投了则夷则，薛猫投了则夷则完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的？",
+        "seq": 11
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "综合现有信息，分头行动：我盯着则夷则的发言找漏洞，你去跟其他人沟通统一票型。今天的目标很明确——出则夷则。如果他翻出是好人，我们就从保过他的人里继续盘。",
+        "seq": 12
+      }
+    ],
+    "Star🔄则夷则": [
+      {
+        "speaker": "则夷则",
+        "text": "我新手不太懂，star，想跟你对一下信息。我共情者这边有一些发现，但不完整——我觉得跟你合一下数据会有帮助。你现在怀疑谁？",
+        "seq": 1
+      },
+      {
+        "speaker": "Star",
+        "text": "从逻辑上看，你刚才提到我新手不太懂，star，想跟你对一下信息。我共情者这边有一些发现，但不完整——我觉得跟你合一下数据会，这一点我也注意到了。不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高。",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得Takai&xingfei的问题很大。你看了吗？他的投票明显不对劲。你觉得呢哦。",
+        "seq": 3
+      },
+      {
+        "speaker": "Star",
+        "text": "理性分析的话，我越来越觉得Takai&xingfei有问题。理由是：他的声明是身份不明，但他的完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。你分析一下是不是这个理？",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我复盘了一下Takai&xingfei的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "Star",
+        "text": "我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 6
+      }
+    ],
+    "则夷则🔄薛猫": [
+      {
+        "speaker": "则夷则",
+        "text": "嗨薛猫，我是共情者。我觉得我们需要多交流，信息共享才能赢。你先说说你的想法呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "text": "来，我们对对信息！我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居Takai&xingfei、Star中有坏人！你觉得这意味着什么？！",
+        "seq": 2
+      },
+      {
+        "speaker": "则夷则",
+        "text": "可能是我理解错了，我不太确定，我跟你透露一个事：Takai&xingfei跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽。",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "text": "这还用想？，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢？",
+        "seq": 4
+      },
+      {
+        "speaker": "则夷则",
+        "text": "我想问问，我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我Takai&xingfei不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "薛猫",
+        "text": "你刚才提到我想问问，我的共情者技能虽然没有直接查到铁证，但我的直觉告诉我Takai&xingfei不能留！你观，这一点我也注意到了！不过我的角度不太一样——我觉得这恰恰说明Takai&xingfei的可疑程度比想象中更高！",
+        "seq": 6
+      }
+    ],
+    "琥珀王🔄薛猫": [
+      {
+        "speaker": "琥珀王",
+        "text": "你好薛猫，我是守鸦人。现在情报还不多，我想先听听你的判断——目前你怀疑谁？为什么？我觉得互相交换初步印象很重要，能帮我们尽快锁定目标哦。",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我在想香辣鸡腿堡的行为能不能用守鸦人来解释——他自称是守鸦人，但如果是真守鸦人，应该会守鸦人应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗！",
+        "seq": 2
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "可能是我理解错了，我们来盘一下目前的局势。琥珀王自称守鸦人，Takai&xingfei自称僧侣，Star自称图书管理员，香辣鸡腿堡自称红唇女郎，则夷则自称猎手里面有几个矛盾点特别值得关注。第一，；第二，香辣鸡腿堡的投票轨迹跟他的声明对不上。我的结论是香辣鸡腿堡至少需要被好好审一审吧。",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "text": "明摆着的事，我敢肯定，观察了一下香辣鸡腿堡对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 4
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我新手不太懂，我想问问，我越来越觉得香辣鸡腿堡有问题。理由是：他的声明是身份不明，但他的薛猫投了则夷则，琥珀王投了则夷则完全不符合这个身份的行为模式。一个真正的身份不明不会这样投票。",
+        "seq": 5
+      },
+      {
+        "speaker": "薛猫",
+        "text": "来，我们对对信息。我的共情者技能告诉我一些事情：我旁边邪恶数1，邻居Takai&xingfei、Star中有坏人。你觉得这意味着什么？。",
+        "seq": 6
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 7
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我忍你很久了Takai&xingfei！你的发言从头到尾都是漏洞：第一，你的守鸦人声明前后不一致；第二，你的琥珀王投了则夷则，琥珀王投了progress，薛猫投了则夷则，薛猫投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑！你还有什么好说的？",
+        "seq": 8
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "我忍你很久了Takai&xingfei。你的发言从头到尾都是漏洞：第一，你的身份不明声明前后不一致；第二，你的薛猫投了则夷则，薛猫投了progress，琥珀王投了则夷则，琥珀王投了progress完全不符合好人的投票逻辑；第三，你一直在转移话题而不是正面回应质疑。你还有什么好说的吧。",
+        "seq": 9
+      },
+      {
+        "speaker": "薛猫",
+        "text": "Takai&xingfei，我现在公开质疑你！如果你真是好人，请用你的共情者技能证明给我看——说出你的具体信息！如果你说不出来，对不起，今天你必须出局！",
+        "seq": 10
+      },
+      {
+        "speaker": "琥珀王",
+        "text": "Takai&xingfei，我现在公开质疑你。如果你真是好人，请用你的守鸦人技能证明给我看——说出你的具体信息。如果你说不出来，对不起，今天你必须出局。",
+        "seq": 11
+      },
+      {
+        "speaker": "薛猫",
+        "text": "今天就到这！我们的共识是：Takai&xingfei是第一嫌疑人！明天根据处决结果再调整策略！",
+        "seq": 12
+      }
+    ],
+    "Takai&xingfei🔄香辣鸡腿堡": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "可能是我理解错了，我跟你透露一个事：香辣鸡腿堡跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽呢。",
+        "seq": 1
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "理性分析的话，来，我们对对信息。我的调查员技能告诉我一些事情：查到Takai&xingfei是progress。你觉得这意味着什么？结合香辣鸡腿堡投了则夷则来分析，重点嫌疑人应该已经很明显了。",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "说实话，我有个怀疑对象一直没说——我怕说出来打草惊蛇。但我信得过你，我觉得香辣鸡腿堡的问题很大。香辣鸡腿堡投了则夷则你看了吗？他的投票明显不对劲。你觉得呢？",
+        "seq": 3
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "我在想则夷则的行为能不能用僧侣来解释——他自称是僧侣，但如果是真僧侣，应该会僧侣应该做的事，而不是像现在这样一直打太极。你觉得我的判断对吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我香辣鸡腿堡不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "香辣鸡腿堡",
+        "text": "客观来说，我们来盘一下目前的局势。香辣鸡腿堡自称调查员，Star自称图书管理员，Takai&xingfei自称僧侣，则夷则自称猎手里面有几个矛盾点特别值得关注。第一，；第二，则夷则的投票轨迹跟他的声明对不上。我的结论是则夷则至少需要被好好审一审。",
+        "seq": 6
+      }
+    ],
+    "Takai&xingfei🔄薛猫": [
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我的僧侣技能虽然没有直接查到铁证，但我的直觉告诉我progress不能留。你观察一下他的发言方式——他太'完美'了，好人的发言应该是有瑕疵的。",
+        "seq": 1
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我敢肯定，这还用想？，来，我们对对信息！我的共情者技能告诉我一些事情：暂无特殊信息！你觉得这意味着什么？结合Takai&xingfei投了progress，薛猫投了则夷则，薛猫投了progress来分析，重点嫌疑人应该已经很明显了！",
+        "seq": 2
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "我复盘了一下progress的全部发言，发现一个规律：他每次被质疑就转移话题，从不正面回答。好人被冤枉会着急证明自己，他只会'战术性回避'——这就是邪恶的标准行为模式哦。",
+        "seq": 3
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我敢肯定，明摆着的事，我在想Takai&xingfei的行为能不能用身份不明来解释——他自称是身份不明，但如果是真身份不明，应该会身份不明应该做的事，而不是像现在这样一直打太极！你觉得我的判断对吗？",
+        "seq": 4
+      },
+      {
+        "speaker": "Takai&xingfei",
+        "text": "可能是我理解错了，我跟你透露一个事：progress跟我私聊的时候说了一些跟他公聊完全矛盾的话——他在对我和对大家说两套词。这本身就是最大的破绽啊。",
+        "seq": 5
+      },
+      {
+        "speaker": "薛猫",
+        "text": "我直接说了，明摆着的事，观察了一下Takai&xingfei对质疑的反应模式——第一次被问到的时候他解释了很多，第二次就变简短了，第三次直接转移话题！这个'疲于应对'的曲线很符合邪恶方的特征，你觉得呢！",
+        "seq": 6
+      }
+    ]
+  },
+  "_evidence_pool_D1": [
+    "身份跳法是否合理",
+    "发言是否含有有效信息",
+    "是否回避关键问题",
+    "是否前后口径不一"
+  ],
+  "_used_pub_1": [
+    "共情者报数：邪恶数{e}！{neighbor_info}这个{e}意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+    "我是{bluff}。我目前还没有完全确定的结论，但{target}的发言让我非常不舒服——他一直在刻意模仿好人的说话方式，但有些细节露馅了。大家多观察他。{baron_tip}",
+    "我是图书管理员。{lib_info}大家对照一下：目前有几个人跳了外来者？如果数量不对，说明要么有人冒充镇民，要么有男爵在场。",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？",
+    "分享一下我的观察：{info_or_opinion}。{claim_str}里面有几个点值得注意。{stage_evidence}。{opinion}。大家怎么看？",
+    "大家好，我是{role}。我来分析一下目前的局势：{info_or_opinion}。{stage_evidence}。我建议大家都把自己的怀疑说出来，信息越多，我们越容易找到突破口。{opinion}。",
+    "我是{bluff}，我有个重大发现：{fake_info}兄弟们，信息已经喂到嘴边了，就看你们敢不敢咬。{baron_tip}"
+  ],
+  "vote_history": {
+    "day_1": [
+      {
+        "voter": "薛猫",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "Star",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "琥珀王",
+        "target": "则夷则",
+        "day": 1
+      },
+      {
+        "voter": "progress",
+        "target": "则夷则",
+        "day": 1
+      }
+    ],
+    "day_2": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "progress",
+        "day": 2
+      },
+      {
+        "voter": "薛猫",
+        "target": "progress",
+        "day": 2
+      },
+      {
+        "voter": "香辣鸡腿堡",
+        "target": "progress",
+        "day": 2
+      },
+      {
+        "voter": "琥珀王",
+        "target": "progress",
+        "day": 2
+      }
+    ],
+    "day_3": [
+      {
+        "voter": "Takai&xingfei",
+        "target": "琥珀王",
+        "day": 3
+      }
+    ]
+  },
+  "nomination_history": {
+    "day_1": [
+      {
+        "nominator": "香辣鸡腿堡",
+        "target": "则夷则",
+        "result": "executed"
+      }
+    ],
+    "day_2": [
+      {
+        "nominator": "香辣鸡腿堡",
+        "target": "progress",
+        "result": "executed"
+      }
+    ],
+    "day_3": [
+      {
+        "nominator": "琥珀王",
+        "target": "Takai&xingfei",
+        "result": "failed"
+      },
+      {
+        "nominator": "薛猫",
+        "target": "琥珀王",
+        "result": "executed"
+      }
+    ]
+  },
+  "_evidence_pool_D2": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票"
+  ],
+  "_used_pub_2": [
+    "我是调查员！我查出{target}是{role}——这就是爪牙！证据确凿，今天必须处决他！如果他是好人翻出来，我主动背锅。",
+    "共情者报数：邪恶数{e}！{neighbor_info}这个{e}意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。",
+    "我的笔记已经记了好几页{target}的可疑行为了。{my_note}。大家说说，这些够不够处决他？{baron_tip}",
+    "根据我的记录：{my_note}。{stage_evidence}。大家怎么看？"
+  ],
+  "_evidence_pool_D3": [
+    "死者身份与之前发言是否匹配",
+    "谁曾力保或死踩死者",
+    "死亡结果对谁最有利",
+    "投票行为与发言立场是否一致",
+    "是否与可疑人员抱团投票",
+    "存活者中谁始终未被质疑",
+    "投票历史中谁的立场反复变化"
+  ],
+  "_used_pub_3": [
+    "都听我说。我查到{target}有问题。我的信息不可能错——{target}不是他声称的{claim}。信不信由你们，但等{target}翻出来是邪恶再后悔就晚了。我建议今天就出{target}，明天再验证我的信息。{baron_tip}",
+    "共情者报数：邪恶数{e}！{neighbor_info}这个{e}意味着至少有一个邪恶就在这两个位置。我建议今天就从他们中间出一个。"
+  ],
+  "ended_at": "2026-06-20T18:36:44.525111"
+}
