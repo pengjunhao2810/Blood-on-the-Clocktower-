@@ -1,0 +1,12 @@
+# 运行时产物
+data/
+*.db
+*.log
+*.exe
+*.exe.bak
+*.exe~
+__pycache__/
+*.pyc
+
+# 临时调试文件
+*.tmp

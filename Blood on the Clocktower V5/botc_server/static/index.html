@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>暗流涌动 — 血染钟楼</title>
+    <link rel="stylesheet" href="/static/vendor/fonts/inter.css">
+    <link rel="stylesheet" href="/static/vendor/element-plus.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <style>[v-cloak] { display: none; }</style>
+</head>
+<body>
+
+<!-- ==================== 背景氛围系统（四层） ==================== -->
+<div class="bg-layer bg-base-grad"></div>
+<div class="bg-layer bg-noise"></div>
+<div class="bg-layer bg-grid"></div>
+<div class="bg-layer">
+    <div class="bg-blob bg-blob-primary"></div>
+    <div class="bg-blob bg-blob-secondary"></div>
+    <div class="bg-blob bg-blob-tertiary"></div>
+    <div class="bg-blob bg-blob-bottom"></div>
+</div>
+
+<div id="app" v-cloak>
+
+    <!-- ==================== 登录 / 注册 ==================== -->
+    <div v-if="view==='login'" class="center-screen">
+        <div class="card spotlight" style="width:400px;max-width:92vw;padding:40px 36px;">
+            <div style="text-align:center;margin-bottom:28px;">
+                <div style="width:48px;height:48px;margin:0 auto 16px;border-radius:14px;display:flex;align-items:center;justify-content:center;
+                            background:linear-gradient(135deg,rgba(94,106,210,0.35),rgba(94,106,210,0.08));border:1px solid rgba(94,106,210,0.4);
+                            box-shadow:0 0 24px rgba(94,106,210,0.25);">
+                    <span style="font-size:22px;">🌘</span>
+                </div>
+                <div class="label-mono" style="margin-bottom:8px;">BLOOD ON THE CLOCKTOWER</div>
+                <div class="title-display grad-text">暗流涌动</div>
+                <div class="body-text" style="margin-top:6px;">线上血染钟楼 · 多人社交推理桌游</div>
+            </div>
+            <div style="margin-bottom:10px;">
+                <input class="input" v-model="loginForm.username" placeholder="用户名" maxlength="20" @keyup.enter="doLogin" autocomplete="username">
+            </div>
+            <div style="margin-bottom:20px;">
+                <input class="input" type="password" v-model="loginForm.password" placeholder="密码（至少 6 位）" maxlength="50" @keyup.enter="doLogin" autocomplete="current-password">
+            </div>
+            <button class="btn btn-primary btn-block" style="padding:11px 14px;margin-bottom:10px;" @click="doLogin" :disabled="busy">
+                {{ isRegister ? '创建账号' : '登 录' }}
+            </button>
+            <button class="btn btn-ghost btn-block" @click="isRegister=!isRegister">
+                {{ isRegister ? '已有账号？去登录' : '没有账号？注册一个' }}
+            </button>
+        </div>
+    </div>
+
+    <!-- ==================== 大厅 ==================== -->
+    <div v-else-if="view==='lobby'" class="full">
+        <div class="bar">
+            <div style="display:flex;align-items:center;gap:10px;">
+                <span style="font-size:16px;">🌘</span>
+                <span class="title-md grad-text">暗流涌动</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:14px;">
+                <span class="body-sm">{{ user.username }}</span>
+                <button class="btn btn-ghost btn-sm" @click="openStatsPanel">📊 战绩与回放</button>
+                <button class="btn btn-ghost btn-sm" @click="openFriendPanel">👥 好友</button>
+                <button class="btn btn-ghost btn-sm" @click="doLogout">登出</button>
+            </div>
+        </div>
+        <div class="center-screen" style="height:calc(100% - 54px);">
+            <div class="card spotlight" style="width:440px;max-width:92vw;padding:32px;">
+                <div class="label-mono" style="margin-bottom:10px;">GAME LOBBY</div>
+                <div class="title-lg grad-text" style="margin-bottom:22px;">开始你的夜晚</div>
+                <button class="btn btn-primary btn-block" style="padding:12px 14px;margin-bottom:14px;" @click="createRoom" :disabled="busy">
+                    <span style="font-size:15px;">＋</span> 创建房间
+                </button>
+                <div class="hairline"></div>
+                <div style="display:flex;gap:10px;">
+                    <input class="input" v-model="joinCode" placeholder="输入 6 位房间码" maxlength="6"
+                           style="text-transform:uppercase;flex:1;font-family:var(--font-mono);letter-spacing:0.2em;" @keyup.enter="joinRoom">
+                    <button class="btn" style="flex-shrink:0;" @click="joinRoom" :disabled="busy">加入房间</button>
+                </div>
+                <div class="hint" style="margin-top:18px;">
+                    创建房间 → 添加 AI 玩家 → 开始对局<br>
+                    昼夜轮换 · 聊天推理 · 提名处决
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ==================== 房间 ==================== -->
+    <div v-else-if="view==='room'" class="full">
+        <div class="bar">
+            <div style="display:flex;align-items:center;gap:14px;">
+                <span style="font-size:16px;">🌘</span>
+                <span class="title-md">房间</span>
+                <span class="tag" style="font-family:var(--font-mono);letter-spacing:0.15em;">{{ roomCode }}</span>
+                <button class="btn btn-ghost btn-sm" @click="copyRoomLink" title="复制房间链接分享给好友">🔗 复制邀请链接</button>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;">
+                <span class="tag tag-dim">{{ room ? room.player_count : 0 }} / {{ room ? room.max_players : 0 }} 人</span>
+                <span class="tag">{{ room ? aiCount(room) : 0 }} 个 AI</span>
+                <button class="btn btn-danger btn-sm" @click="leaveRoom">离开</button>
+            </div>
+        </div>
+        <div class="main">
+            <!-- 左：玩家 -->
+            <div class="card side-col" style="width:300px;flex-shrink:0;display:flex;flex-direction:column;padding:20px;min-height:0;">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+                    <span class="title-md">玩家</span>
+                    <span class="label-mono" style="font-size:10px;">{{ room ? room.player_count : 0 }} PLAYERS</span>
+                </div>
+                <div class="scroll-area">
+                    <div v-for="p in roomPlayers" :key="p.id" class="player">
+                        <span class="player-num">#{{ p.seat_number + 1 }}</span>
+                        <span class="player-name">{{ p.username }}</span>
+                        <span v-if="p.user_id === room.host_id" class="tag tag-yellow">房主</span>
+                        <span v-else-if="p.is_ai" class="tag">AI</span>
+                        <span v-if="!p.is_ai && p.is_ready" class="tag tag-green">就绪</span>
+                        <button v-if="isHost && p.user_id !== room.host_id && !p.is_ai"
+                                class="btn btn-danger btn-sm" style="margin-left:auto;"
+                                @click="kickPlayer(p.user_id)" title="移出房间">踢出</button>
+                        <button v-if="p.user_id === room.host_id && p.is_ai" class="btn btn-danger btn-sm"
+                                @click="removeAI(p.seat_number)">移除</button>
+                    </div>
+                </div>
+                <div style="margin-top:auto;padding-top:14px;display:flex;flex-wrap:wrap;gap:8px;">
+                    <template v-if="isHost">
+                        <button class="btn btn-sm" @click="openLlmDialog" :disabled="busy">＋ 大模型 AI</button>
+                        <button class="btn btn-sm" @click="fillBots" :disabled="busy" title="一键用假人凑满人数，快速开局">＋ 假人凑人数</button>
+                        <button class="btn btn-sm" @click="openInviteDialog">✉ 邀请好友</button>
+                        <div style="display:flex;align-items:center;gap:8px;width:100%;">
+                            <el-input-number v-model="seatCount" :min="5" :max="12" size="small" style="flex:1;"></el-input-number>
+                            <button class="btn btn-sm" @click="setSeats">设定人数</button>
+                        </div>
+                        <button class="btn btn-primary btn-block" style="margin-top:2px;padding:11px;" @click="startGame" :disabled="busy">
+                            ▶ 开始游戏
+                        </button>
+                    </template>
+                    <template v-else>
+                        <button class="btn btn-block" @click="toggleReady" :disabled="busy">
+                            {{ myReady ? '✓ 已就绪 · 点击取消' : '准 备' }}
+                        </button>
+                    </template>
+                </div>
+            </div>
+            <!-- 右：聊天 -->
+            <div class="card spotlight" style="flex:1;display:flex;flex-direction:column;padding:20px;min-height:0;">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+                    <span class="title-md">房间聊天</span>
+                    <span class="label-mono" style="font-size:10px;">LOUNGE</span>
+                </div>
+                <div id="room-msgs" class="scroll-area">
+                    <div v-for="m in roomMessages" :key="m.id" class="msg"
+                         :class="{ system: m.system }">
+                        <template v-if="m.system">{{ m.content }}</template>
+                        <template v-else>
+                            <span class="num">[{{ m.username }}]</span> {{ m.content }}
+                        </template>
+                    </div>
+                    <div v-if="!roomMessages.length" class="hint" style="text-align:center;padding:40px 0;">
+                        等待玩家加入，聊点什么吧…
+                    </div>
+                </div>
+                <div style="display:flex;gap:10px;margin-top:14px;">
+                    <input class="input" v-model="chatText" placeholder="输入消息，回车发送…" maxlength="500"
+                           style="flex:1;" @keyup.enter="sendRoomMsg">
+                    <button class="btn btn-primary" style="flex-shrink:0;" @click="sendRoomMsg">发送</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ==================== 游戏 ==================== -->
+    <div v-else-if="view==='game'" class="full">
+        <div class="bar">
+            <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
+                <span style="font-size:16px;">🌘</span>
+                <span class="title-md">暗流涌动</span>
+                <span class="body-sm">D{{ game ? game.day + 1 : 1 }}</span>
+                <span class="tag" :class="phaseTagClass">{{ phaseLabel }}</span>
+                <span v-if="privatePhase" class="tag tag-yellow">
+                    🤫 私聊阶段 · 点击左侧玩家条目发起私聊
+                    <button v-if="isHost" class="btn btn-sm" style="margin-left:6px;padding:1px 8px;" @click="skipPrivate">跳过</button>
+                </span>
+                <span v-if="nightInfo" class="tag tag-dim" style="font-family:var(--font-mono);">
+                    {{ nightInfo.role_name }} · {{ nightInfo.step }}/{{ nightInfo.total }}
+                </span>
+                <span v-if="game && game.pending_choice" class="tag tag-yellow">
+                    ⏳ 等待 #{{ game.pending_choice.number }} 选择目标
+                    <template v-if="game.pending_choice.number === myNumber">（就是你！请在聊天卡片中选择目标）</template>
+                </span>
+                <span v-if="voteInfo && voteInfo.debate && !voteInfo.waiting" class="tag tag-yellow">
+                    ⚖️ #{{ voteInfo.from }} 提名 #{{ voteInfo.target }} · 辩论中 {{ debateCountdown }} 秒
+                </span>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+                <span class="body-sm">{{ user.username }} · <b style="color:#a5aef0;font-family:var(--font-mono);">#{{ myNumber || '--' }}</b></span>
+                <button class="btn btn-ghost btn-sm" @click="infoDialog=true">📜 我的信息</button>
+                <template v-if="isHost && view==='game'">
+                    <button v-if="game && game.phase !== 'night' && game.phase !== 'nomination'" class="btn btn-primary btn-sm" @click="nextPhase">推进阶段</button>
+                    <button v-if="game && game.phase === 'night'" class="btn btn-sm" disabled style="opacity:0.5;">🌙 夜晚自动推进中</button>
+                    <button v-if="game && game.phase === 'nomination'" class="btn btn-primary btn-sm" @click="endNomination">结束提名</button>
+                    <button class="btn btn-danger btn-sm" @click="endGame">结束对局</button>
+                </template>
+            </div>
+        </div>
+        <div class="main">
+            <!-- 左：玩家 -->
+            <div class="card side-col" style="width:270px;flex-shrink:0;display:flex;flex-direction:column;padding:20px;min-height:0;">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+                    <span class="title-md">玩家</span>
+                    <span class="label-mono" style="font-size:10px;">{{ aliveCount }} ALIVE</span>
+                </div>
+                <div class="scroll-area">
+                    <div v-for="p in sortedPlayers" :key="p.number" class="player"
+                         :class="{ dead: !p.alive, 'player-clickable': p.alive && p.number !== myNumber && (game && (game.phase === 'private_chat' || game.phase === 'nomination')) }"
+                         :title="p.alive && p.number !== myNumber && game && game.phase === 'private_chat' ? '点击发起私聊邀请' : (p.alive && p.number !== myNumber && game && game.phase === 'nomination' ? '点击提名该玩家' : '')"
+                         @click="clickPlayer(p)">
+                        <span class="player-num">#{{ p.number }}</span>
+                        <span class="player-name">{{ p.number === myNumber ? '你' : (p.is_ai ? (p.ai_model || 'AI 玩家') : p.username) }}</span>
+                        <span class="player-status" :class="p.alive ? 'alive' : 'dead'">{{ p.alive ? '存活' : '死亡' }}</span>
+                    </div>
+                </div>
+                <div class="hint" style="margin-top:auto;padding-top:14px;">
+                    夜晚 → 黎明 → 私聊 → 公聊 → 提名<br>房主控制昼夜阶段推进
+                </div>
+            </div>
+            <!-- 右：聊天面板（私聊模式时整体切换为私聊对话） -->
+            <div class="card spotlight" style="flex:1;display:flex;flex-direction:column;padding:20px;min-height:0;">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+                    <span class="title-md" :style="activePrivateTarget ? 'color:#a5aef0;' : ''">
+                        {{ activePrivateTarget ? '🔒 私聊 #' + activePrivateTarget : (game && game.phase === 'night' ? '🌙 黑夜' : (game && game.active_vote ? '⚖️ 辩论' : '公聊')) }}
+                    </span>
+                    <span style="display:flex;align-items:center;gap:8px;">
+                        <span v-if="game && game.phase === 'night' && !activePrivateTarget" class="tag">说书人夜间行动</span>
+                        <span v-if="game && game.active_vote && !game.active_vote.vote_deadline && !activePrivateTarget" class="tag tag-red">
+                            #{{ game.active_vote.from }} 提名 #{{ game.active_vote.target }} · 仅双方可发言
+                        </span>
+                        <button v-if="activePrivateTarget" class="btn btn-sm" @click="exitPrivateChat">← 返回公聊</button>
+                        <span class="label-mono" style="font-size:10px;">{{ activePrivateTarget ? 'PRIVATE' : 'TOWN SQUARE' }}</span>
+                    </span>
+                </div>
+                <!-- 私聊邀请横幅（未进入私聊时显示） -->
+                <div v-if="privateIncoming && !activePrivateTarget && privatePhase" class="friend-item"
+                     style="margin-bottom:10px;border-color:rgba(94,106,210,0.5);">
+                    <span class="name">📨 #{{ privateIncoming.from_number }} 邀请你私聊</span>
+                    <div class="actions">
+                        <button class="btn btn-primary btn-sm" @click="acceptPrivate">接受</button>
+                        <button class="btn btn-sm" @click="declinePrivate">拒绝</button>
+                    </div>
+                </div>
+                <div id="game-msgs" class="scroll-area">
+                    <!-- 私聊模式：只显示与该玩家的私聊对话，公聊消息隔离 -->
+                    <template v-if="activePrivateTarget">
+                        <div v-for="(pm, idx) in activePrivateChats" :key="'pm'+idx" class="msg">
+                            <span class="num" :style="pm.mine ? 'color:#7ecb9c;' : 'color:#a5aef0;'">
+                                #{{ pm.from_number }}{{ pm.mine ? '（我）' : ' ' + nameOf(pm.from_number) }}:
+                            </span>
+                            {{ pm.content }}
+                        </div>
+                        <div v-if="!activePrivateChats.length" class="hint" style="text-align:center;padding:40px 0;">
+                            私聊已建立，开始对话吧（消息不会进入公聊）
+                        </div>
+                    </template>
+                    <template v-else>
+                    <div v-for="m in visibleMsgs" :key="m.id" class="msg" :class="{ system: m.system }">
+                        <span v-if="m.system" class="num" style="color:#e6c07b;">📢</span>
+                        <span v-else class="num" :class="{ self: m.number === myNumber }">#{{ m.number }}{{ m.username ? ' ' + m.username : '' }}</span>
+                        {{ m.content }}
+                        <!-- 夜间行动定向卡片（仅自己可见）：三种状态视觉区分 -->
+                        <div v-if="m.nightTip" class="night-tip-box"
+                             :class="{ 'tip-done': m.nightTip.done, 'tip-expired': m.nightTip.expired }">
+                            <div class="card-title">
+                                【系统卡片｜{{ m.nightTip.role_name }}行动】
+                                <span v-if="m.nightTip.done" class="tag tag-green" style="float:right;">已提交 ✓</span>
+                                <span v-else-if="m.nightTip.expired" class="tag tag-dim" style="float:right;">已超时</span>
+                                <span v-else class="tag tag-yellow" style="float:right;">待操作</span>
+                            </div>
+                            <div class="body-text" style="margin-bottom:6px;">
+                                请选择 {{ m.nightTip.max_targets }} 名目标
+                                <span v-if="m.nightTip.done" style="color:#7ecb9c;">（已提交 ✓）</span>
+                                <span v-else-if="m.nightTip.expired" style="color:#ee9aa4;">（已超时，系统自动执行）</span>
+                                <span v-else class="tag tag-yellow" style="margin-left:8px;">⏱ {{ m.nightTip.left }} 秒</span>
+                            </div>
+                            <div v-if="!m.nightTip.done && !m.nightTip.expired" style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;">
+                                <button v-for="n in m.nightTip.targets" :key="'t'+m.id+'-'+n"
+                                        class="btn btn-sm"
+                                        :class="{ 'btn-primary': m.nightTip.selected.includes(n) }"
+                                        @click="toggleTipTarget(m, n)">#{{ n }}</button>
+                            </div>
+                            <div v-if="!m.nightTip.done && !m.nightTip.expired">
+                                <button class="btn btn-primary btn-sm" style="margin-right:8px;"
+                                        :disabled="m.nightTip.selected.length !== m.nightTip.max_targets"
+                                        @click="submitTipChoice(m)">
+                                    确认选择（{{ m.nightTip.selected.length }}/{{ m.nightTip.max_targets }}）
+                                </button>
+                                <span class="hint">也可在输入框输入编号提交，如：2 5</span>
+                            </div>
+                        </div>
+                        <!-- 提名系统卡片（说书人发送：辩论阶段提示） -->
+                        <div v-if="m.nominateCard" class="night-tip-box">
+                            <div class="card-title">【系统卡片｜提名】#{{ m.nominateCard.from }} 提名了 #{{ m.nominateCard.target }}</div>
+                            <div class="body-text" style="margin-bottom:6px;">
+                                <span class="tag tag-red" style="margin-right:8px;">辩论中 · ⏱ {{ m.nominateCard.left }} 秒</span>
+                                <span v-if="m.nominateCard.isParty" style="color:#7ecb9c;">你可以发言辩论</span>
+                                <span v-else style="color:#ee9aa4;">仅提名双方可发言，你处于只读状态</span>
+                            </div>
+                        </div>
+                        <!-- 处决判定系统卡片（提名周期结束） -->
+                        <div v-if="m.nominateResultCard" class="night-tip-box">
+                            <div class="card-title" :style="m.nominateResultCard.executed ? 'color:#ee9aa4;' : ''">
+                                【系统卡片｜{{ m.nominateResultCard.executed ? '处决' : '提名结束' }}】
+                            </div>
+                            <div class="body-text">{{ m.nominateResultCard.message }}</div>
+                        </div>
+                        <!-- 投票系统卡片（说书人发送，方框样式，仅非辩论双方可操作） -->
+                        <div v-if="m.voteCard" class="night-tip-box">
+                            <div class="card-title">【系统卡片｜投票】#{{ m.voteCard.from }} 提名 #{{ m.voteCard.target }}</div>
+                            <div class="body-text" style="margin-bottom:6px;">
+                                <span v-if="m.voteCard.done" style="color:#7ecb9c;">投票已结束（结果见下方卡片）</span>
+                                <span v-else-if="m.voteCard.isParty" style="color:#ee9aa4;">你是辩论双方之一，不能投票</span>
+                                <span v-else>
+                                    <span class="tag tag-yellow" style="margin-right:8px;">⏱ {{ m.voteCard.left }} 秒</span>
+                                    可反复切换投票/取消
+                                </span>
+                            </div>
+                            <div v-if="!m.voteCard.done && !m.voteCard.isParty" style="display:flex;gap:8px;">
+                                <button class="btn btn-sm" :class="{ 'btn-primary': m.voteCard.mine }" @click="castVote('yes')">
+                                    {{ m.voteCard.mine ? '✓ 已投票（可取消）' : '投 票' }}
+                                </button>
+                                <button class="btn btn-sm" @click="castVote('abstain')">取消投票</button>
+                            </div>
+                        </div>
+                        <!-- 投票结果系统卡片（说书人发送：结构化展示票数明细 + 提名窗口倒计时） -->
+                        <div v-if="m.voteResultCard" class="night-tip-box">
+                            <div class="card-title">【系统卡片｜投票结果】#{{ m.voteResultCard.target }}</div>
+                            <div style="display:flex;gap:10px;margin-bottom:8px;flex-wrap:wrap;">
+                                <span class="tag tag-green">✓ 赞成 {{ m.voteResultCard.yes }} 票</span>
+                                <span class="tag">弃权 {{ m.voteResultCard.abstain }} 人</span>
+                                <span class="tag tag-yellow">已投票 {{ m.voteResultCard.voted }} 人</span>
+                                <span class="tag tag-dim">未投票 {{ m.voteResultCard.unvoted }} 人</span>
+                            </div>
+                            <div class="body-sm" style="margin-bottom:4px;">已投赞成：</div>
+                            <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+                                <span v-for="n in m.voteResultCard.yes_nums" :key="'vy'+m.id+'-'+n" class="tag tag-green">#{{ n }}</span>
+                                <span v-if="!m.voteResultCard.yes_nums.length" class="hint">无</span>
+                            </div>
+                            <div class="body-sm" style="margin-bottom:4px;">未投票：</div>
+                            <div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">
+                                <span v-for="n in m.voteResultCard.unvoted_nums" :key="'vu'+m.id+'-'+n" class="tag tag-dim">#{{ n }}</span>
+                                <span v-if="!m.voteResultCard.unvoted_nums.length" class="hint">无</span>
+                            </div>
+                            <div v-if="m.voteResultCard.cooldownLeft > 0" class="body-text">
+                                <span class="tag tag-yellow">⏱ 提名窗口倒计时 {{ m.voteResultCard.cooldownLeft }} 秒</span>
+                                <span class="hint" style="margin-left:8px;">窗口期内可继续提名，到期后汇总全部提名处决</span>
+                            </div>
+                        </div>
+                        <!-- 提名/投票操作：点击左侧玩家条目提名；投票在聊天卡片操作 -->
+                    </div>
+                    <div v-if="!visibleMsgs.length" class="hint" style="text-align:center;padding:40px 0;">
+                        {{ game && game.phase === 'night' ? '黑夜静谧，等待说书人的行动指令…' : '夜色渐浓，等待第一句发言…' }}
+                    </div>
+                    </template>
+                </div>
+                <div style="display:flex;gap:10px;margin-top:14px;">
+                    <input class="input" v-model="gameChatText" maxlength="500"
+                           :disabled="!canSpeakNow"
+                           :placeholder="activePrivateTarget ? '私聊 #' + activePrivateTarget + '，回车发送（仅对方可见）' : (game && game.phase === 'night' ? '黑夜中，不可发言…' : (canSpeakNow ? '输入发言，回车发送…' : '辩论中，仅提名者和被提名者可以发言'))"
+                           style="flex:1;" @keyup.enter="sendGameMsg">
+                    <button class="btn btn-primary" style="flex-shrink:0;"
+                            :disabled="!canSpeakNow"
+                            @click="sendGameMsg">发送</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 我的信息弹窗 -->
+    <el-dialog v-model="infoDialog" title="📜 说书人信息" width="480px">
+        <div class="body-text" style="color:var(--fg);">
+            <div class="tag" style="margin-bottom:14px;">我的角色：{{ myInfo.my_role }}（{{ teamName }}）</div>
+            <div v-for="(i, idx) in myInfo.infos" :key="'i'+idx" style="margin-bottom:6px;">{{ i }}</div>
+            <div v-for="(s, idx) in stories" :key="'s'+idx" style="margin-bottom:6px;">{{ s }}</div>
+            <div v-if="!myInfo.infos.length && !stories.length" class="hint">暂无说书人信息</div>
+        </div>
+    </el-dialog>
+
+    <!-- 好友面板弹窗 -->
+    <el-dialog v-model="friendDialog" title="👥 好友" width="540px">
+        <div style="margin-bottom:14px;display:flex;gap:8px;">
+            <input class="input" v-model="friendSearch" placeholder="输入用户名搜索好友" maxlength="20" style="flex:1;" @keyup.enter="doFriendSearch">
+            <button class="btn btn-sm" @click="doFriendSearch">搜索</button>
+        </div>
+        <div v-if="searchResult" class="friend-item">
+            <span class="dot" :class="searchResult.user.is_online ? 'dot-online' : 'dot-offline'"></span>
+            <span class="name">{{ searchResult.user.username }}</span>
+            <span v-if="searchResult.friendship_status==='none'" class="status-text">未添加</span>
+            <span v-else-if="searchResult.friendship_status==='accepted'" class="status-text">已是好友</span>
+            <span v-else-if="searchResult.friendship_status==='pending_out'" class="status-text">申请已发出</span>
+            <span v-else-if="searchResult.friendship_status==='pending_in'" class="status-text">对方已申请你</span>
+            <div class="actions">
+                <button v-if="searchResult.friendship_status==='none'" class="btn btn-primary btn-sm" @click="sendFriendRequest(searchResult.user.id)">添加好友</button>
+                <button v-if="searchResult.friendship_status==='pending_in'" class="btn btn-sm" @click="acceptFriend(searchResult.user.id)">同意</button>
+            </div>
+        </div>
+        <div class="hairline"></div>
+        <div style="max-height:300px;overflow-y:auto;">
+            <div v-if="friendList.incoming.length" style="margin-bottom:12px;">
+                <div class="label-mono" style="margin-bottom:6px;">收到申请</div>
+                <div v-for="f in friendList.incoming" :key="'in'+f.user_id" class="friend-item">
+                    <span class="name">{{ f.username }}</span>
+                    <div class="actions">
+                        <button class="btn btn-primary btn-sm" @click="acceptFriend(f.user_id)">同意</button>
+                        <button class="btn btn-sm" @click="rejectFriend(f.user_id)">拒绝</button>
+                    </div>
+                </div>
+            </div>
+            <div v-if="friendList.outgoing.length" style="margin-bottom:12px;">
+                <div class="label-mono" style="margin-bottom:6px;">发出的申请</div>
+                <div v-for="f in friendList.outgoing" :key="'out'+f.user_id" class="friend-item">
+                    <span class="name">{{ f.username }}</span>
+                    <span class="status-text">等待对方处理</span>
+                </div>
+            </div>
+            <div>
+                <div class="label-mono" style="margin-bottom:6px;">我的好友（{{ friendList.friends.length }}）</div>
+                <div v-for="f in friendList.friends" :key="'fr'+f.user_id" class="friend-item">
+                    <span class="dot" :class="f.is_online ? 'dot-online' : 'dot-offline'"></span>
+                    <span class="name">{{ f.username }}</span>
+                    <span class="status-text">{{ f.is_online ? '在线' : '离线' }}</span>
+                    <div class="actions">
+                        <button class="btn btn-danger btn-sm" @click="removeFriend(f.user_id)">删除</button>
+                    </div>
+                </div>
+                <div v-if="!friendList.friends.length && !friendList.incoming.length && !friendList.outgoing.length" class="hint" style="text-align:center;padding:20px 0;">
+                    还没有好友，搜索用户名添加吧
+                </div>
+            </div>
+        </div>
+    </el-dialog>
+
+    <!-- 邀请好友选择弹窗 -->
+    <el-dialog v-model="inviteDialog" title="✉ 邀请好友入房" width="440px">
+        <div v-if="friendList.friends.length" style="max-height:320px;overflow-y:auto;">
+            <div v-for="f in friendList.friends" :key="'iv'+f.user_id" class="friend-item">
+                <span class="dot" :class="f.is_online ? 'dot-online' : 'dot-offline'"></span>
+                <span class="name">{{ f.username }}</span>
+                <span class="status-text">{{ f.is_online ? '在线' : '离线' }}</span>
+                <div class="actions">
+                    <button class="btn btn-primary btn-sm" :disabled="!f.is_online" @click="sendInvite(f.user_id)">发送邀请</button>
+                </div>
+            </div>
+        </div>
+        <div v-else class="hint" style="text-align:center;padding:20px 0;">还没有好友，先在大厅添加好友</div>
+    </el-dialog>
+
+    <!-- 收到邀请弹窗 -->
+    <el-dialog v-model="inviteIncomingVisible" title="📨 好友邀请" width="400px" :close-on-click-modal="false">
+        <div style="text-align:center;padding:10px 0;">
+            <div class="title-md" style="margin-bottom:8px;">{{ inviteIncoming ? inviteIncoming.from.username : '' }} 邀请你加入房间</div>
+            <div class="tag" style="font-family:var(--font-mono);letter-spacing:0.2em;">{{ inviteIncoming ? inviteIncoming.room_code : '' }}</div>
+            <div style="display:flex;gap:10px;margin-top:22px;justify-content:center;">
+                <button class="btn btn-primary" style="padding:9px 30px;" @click="acceptInvite">接受</button>
+                <button class="btn" @click="rejectInvite">拒绝</button>
+            </div>
+        </div>
+    </el-dialog>
+
+    <!-- 夜晚行动选择/私聊/提名：全部改为聊天消息流内卡片（见公聊消息渲染区） -->
+
+    <!-- 游戏结束弹窗 -->
+    <el-dialog v-model="overDialog" title="🏁 对局结束" width="380px" :close-on-click-modal="false" :show-close="false" align-center>
+        <div style="text-align:center;padding:16px 0;">
+            <div class="title-lg" :style="'background:linear-gradient(to bottom,' + (winner==='good' ? '#7ecb9c,#3FA46A' : '#ee9aa4,#D05B6A') + ');-webkit-background-clip:text;background-clip:text;color:transparent;'">
+                {{ winner === 'good' ? '善良阵营 获胜' : '邪恶阵营 获胜' }}
+            </div>
+            <div class="body-text" style="margin-top:8px;">
+                {{ winner === 'good' ? '恶魔已被消灭，小镇重归安宁' : '恶魔渗透成功，暗月笼罩小镇' }}
+            </div>
+            <button class="btn btn-primary" style="margin-top:22px;padding:10px 28px;" @click="backToRoom">返回房间</button>
+        </div>
+    </el-dialog>
+
+    <!-- 添加大模型 AI 弹窗（手动输入 API 配置） -->
+    <el-dialog v-model="llmDialog" title="🤖 添加大模型 AI" width="480px">
+        <div class="label-mono" style="margin-bottom:6px;">选择大模型服务</div>
+        <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;">
+            <button v-for="pr in llmPresets" :key="pr.key" class="btn btn-sm"
+                    :class="{ 'btn-primary': llmForm.provider === pr.key }"
+                    @click="pickLlmPreset(pr.key)">{{ pr.label }}</button>
+        </div>
+        <div class="hint" style="margin-bottom:12px;">
+            {{ llmForm.provider === 'ollama' ? 'Ollama 本地模型：本机安装 Ollama 并运行 ollama run qwen2.5:7b 后即可免费离线使用（无需 Key）' : '填写对应服务商的 API Key 即可使用' }}
+        </div>
+        <div style="margin-bottom:10px;">
+            <input class="input" v-model="llmForm.api_key" :placeholder="llmForm.provider === 'ollama' ? 'Ollama 本地无需 Key（可留空）' : 'API Key（必填）'" style="width:100%;">
+        </div>
+        <div style="display:flex;gap:8px;margin-bottom:14px;">
+            <input class="input" v-model="llmForm.base_url" placeholder="服务地址（可选，默认按服务商）" style="flex:1;">
+            <input class="input" v-model="llmForm.model" placeholder="模型名（可选）" style="flex:1;">
+        </div>
+        <button class="btn btn-primary btn-block" @click="confirmAddLlmAI">＋ 添加 AI 玩家</button>
+        <div style="margin-top:16px;border-top:1px dashed #3a3f4b;padding-top:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                <span class="label-mono">📈 Token 用量统计</span>
+                <button class="btn btn-sm" @click="fetchUsage">刷新</button>
+            </div>
+            <div v-if="usage" style="font-size:12px;line-height:1.9;">
+                <div style="display:flex;gap:12px;margin-bottom:6px;">
+                    <span>累计：<b style="color:#e8b23c;">{{ fmtTokens(usage.total.total_tokens) }}</b></span>
+                    <span>调用次数：<b style="color:#7ecb9c;">{{ usage.total.calls }}</b></span>
+                    <span v-if="roomUsage">本房间：<b style="color:#e8b23c;">{{ fmtTokens(roomUsage.total_tokens) }}</b></span>
+                </div>
+                <div v-if="usage.models && Object.keys(usage.models).length" class="label-mono" style="margin-bottom:4px;">按模型分布</div>
+                <div v-for="(m, name) in usage.models" :key="name" style="display:flex;justify-content:space-between;color:#9aa3b5;">
+                    <span style="max-width:60%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">{{ name }}</span>
+                    <span>{{ fmtTokens(m.total_tokens) }} / {{ m.calls }} 次</span>
+                </div>
+                <div v-if="!usage.total.calls" class="hint">暂无调用记录</div>
+            </div>
+            <div v-else class="hint">加载中…</div>
+        </div>
+    </el-dialog>
+
+    <!-- 提名/投票结果弹窗已全部移除：统计与处决信息由公聊系统消息展示 -->
+
+    <!-- 战绩与回放弹窗（放在视图链之外，避免中断 v-if/v-else-if） -->
+    <el-dialog v-model="statsDialog" title="📊 战绩与回放" width="620px">
+        <div style="display:flex;gap:14px;margin-bottom:16px;">
+            <div class="card" style="flex:1;padding:14px;text-align:center;">
+                <div class="label-mono">总场次</div>
+                <div class="title-lg" style="margin-top:4px;">{{ stats.total }}</div>
+            </div>
+            <div class="card" style="flex:1;padding:14px;text-align:center;">
+                <div class="label-mono">胜利场次</div>
+                <div class="title-lg" style="margin-top:4px;color:#7ecb9c;">{{ stats.wins }}</div>
+            </div>
+            <div class="card" style="flex:1;padding:14px;text-align:center;">
+                <div class="label-mono">胜率</div>
+                <div class="title-lg" style="margin-top:4px;color:#a5aef0;">{{ (stats.win_rate * 100).toFixed(1) }}%</div>
+            </div>
+        </div>
+        <div class="label-mono" style="margin-bottom:8px;">历史对局（点击查看回放）</div>
+        <div class="scroll-area" style="max-height:320px;">
+            <div v-for="g in myGames" :key="g.id" class="friend-item" style="cursor:pointer;" @click="openReplay(g.id)">
+                <span class="dot" :class="g.winner === 'good' ? 'dot-online' : 'dot-offline'"></span>
+                <span class="name">房间 {{ g.room_code }} · D{{ g.day }} · {{ g.winner === 'good' ? '善良胜' : '邪恶胜' }}</span>
+                <span class="body-sm" style="color:var(--fg-muted);">{{ (g.ended_at || '').slice(0, 16).replace('T', ' ') }}</span>
+            </div>
+            <div v-if="!myGames.length" class="hint" style="text-align:center;padding:20px 0;">暂无对局记录，快开始一局吧</div>
+        </div>
+    </el-dialog>
+
+    <!-- 回放弹窗 -->
+    <el-dialog v-model="replayDialog" title="🎬 对局回放" width="720px">
+        <div v-if="replay">
+            <div class="tag" style="margin-bottom:10px;">
+                房间 {{ replay.room_code }} · 共 {{ replay.day }} 天 ·
+                {{ replay.winner === 'good' ? '善良阵营获胜' : '邪恶阵营获胜' }}
+            </div>
+            <div class="label-mono" style="margin-bottom:6px;">玩家与角色</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px;">
+                <span v-for="(p, pid) in replay.players" :key="pid" class="tag"
+                      :class="p.team === 'evil' || p.team === 'minion' || p.team === 'demon' ? 'tag-red' : 'tag-green'">
+                    #{{ p.number }} {{ p.is_ai ? (p.ai_model || 'AI') : p.username }} · {{ p.role_name }}
+                </span>
+            </div>
+            <div class="label-mono" style="margin-bottom:6px;">公聊记录</div>
+            <div class="scroll-area" style="max-height:300px;background:rgba(0,0,0,0.25);border-radius:8px;padding:10px;">
+                <div v-for="m in replay.messages" :key="m.id" class="msg" :class="{ system: m.system }" style="margin-bottom:6px;">
+                    <span v-if="m.system" class="num" style="color:#e6c07b;">📢</span>
+                    <span v-else class="num">#{{ m.number }}</span>
+                    {{ m.content }}
+                </div>
+                <div v-if="!replay.messages || !replay.messages.length" class="hint" style="text-align:center;">无公聊记录</div>
+            </div>
+        </div>
+    </el-dialog>
+
+</div>
+
+<script src="/static/vendor/vue.global.prod.js"></script>
+<script src="/static/vendor/element-plus.full.min.js"></script>
+<script src="/static/js/app.js"></script>
+</body>
+</html>
